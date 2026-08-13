@@ -1,0 +1,52 @@
+[
+  {
+    "topic_id": 0,
+    "keywords": [
+      "youtube",
+      "video",
+      "ads",
+      "update",
+      "like",
+      "time"
+    ],
+    "review_count": 269,
+    "avg_rating": 2.93,
+    "avg_sentiment": 0.129,
+    "sample_reviews": [
+      "the app stops playing when in pocket even with YouTube premium, the app auto starta playing when unlocking the phone. the app always start playing when opened, even if oaused. etc. I am paying for YouTube auto play and auto play in the background and it does not work. should I stop paying for features I am not getting?",
+      "Obviously YouTube has something for everyone, and its my primary source of digital entertainment from watching TV with my wife or listening to music or videos at work. Its clear that the app is very broken now. When playing in the background it will randomly stop and require you pull out your phone and open the app to fix the problem, it opens to a short with no audio and crashes every time I open the app, and recently hasn't allowed for bluetooth controls. Its a great platform but a broken App.",
+      "much more ads in YouTube ,I feel i see a advertisement for my entertainment ,day to day advertisement are increasing so please reduce advertisement or its timing"
+    ],
+    "label": "YouTube App Issues",
+    "category": "complaint",
+    "root_cause": "Poor app performance and increased ads",
+    "priority": "high",
+    "priority_reason": "Low rating and multiple complaints",
+    "pm_action": "Investigate and fix app playback issues"
+  },
+  {
+    "topic_id": 1,
+    "keywords": [
+      "youtube",
+      "channel",
+      "problem",
+      "caption",
+      "main",
+      "ads"
+    ],
+    "review_count": 48,
+    "avg_rating": 3.65,
+    "avg_sentiment": 0.083,
+    "sample_reviews": [
+      "Har time ads aate rehte hai content kam ads jyda aata hai..bekar hai bilkul",
+      "YouTube nahin chal raha hai theek karo",
+      "youtube ektu update dile valo hoy "
+    ],
+    "label": "YouTube ads issue",
+    "category": "complaint",
+    "root_cause": "Intrusive ads are disrupting content",
+    "priority": "high",
+    "priority_reason": "Low rating and multiple complaints",
+    "pm_action": "Reduce ad frequency and improve content visibility"
+  }
+]

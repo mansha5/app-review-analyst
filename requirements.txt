@@ -1,0 +1,15 @@
+pandas
+pyarrow
+google-play-scraper
+python-dotenv
+sentence-transformers
+faiss-cpu
+bertopic
+vaderSentiment
+groq
+langchain
+langchain-groq
+streamlit
+plotly
+wordcloud
+scikit-learn

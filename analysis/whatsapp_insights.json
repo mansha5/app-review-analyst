@@ -1,0 +1,277 @@
+[
+  {
+    "topic_id": 0,
+    "keywords": [
+      "apps",
+      "new",
+      "like",
+      "dont",
+      "hard",
+      "features"
+    ],
+    "review_count": 61,
+    "avg_rating": 4.48,
+    "avg_sentiment": 0.441,
+    "sample_reviews": [
+      "What's is is the only app I cannot live without So please don't block me meta",
+      "It's magic. Apart from the fact that it spies on its users!",
+      "whatapp was a clever invention. always coming up with new ideas "
+    ],
+    "label": "Whatsapp Review",
+    "category": "praise",
+    "root_cause": "User loves the app's new features",
+    "priority": "medium",
+    "priority_reason": "Average rating is 4.48 and review count is 61",
+    "pm_action": "Monitor user feedback for potential issues"
+  },
+  {
+    "topic_id": 1,
+    "keywords": [
+      "family",
+      "friends",
+      "communication",
+      "easy",
+      "chat",
+      "communicate"
+    ],
+    "review_count": 57,
+    "avg_rating": 4.54,
+    "avg_sentiment": 0.555,
+    "sample_reviews": [
+      "dis app is a great app it helps me to communicate with my family and friends, now I am done with my school i am not far from my friend and family",
+      "Seamless messaging experience, perfect for both personal chats and professional conversations.",
+      "it's very good app and simple to use \u2764\ufe0f"
+    ],
+    "label": "Easy Family Communication",
+    "category": "praise",
+    "root_cause": "Seamless messaging experience",
+    "priority": "medium",
+    "priority_reason": "Average rating is 4.54",
+    "pm_action": "Monitor user feedback"
+  },
+  {
+    "topic_id": 2,
+    "keywords": [
+      "perfect",
+      "fast",
+      "better",
+      "work",
+      "fantastic",
+      "interesting"
+    ],
+    "review_count": 55,
+    "avg_rating": 4.36,
+    "avg_sentiment": 0.474,
+    "sample_reviews": [
+      "very satisfie",
+      "so very very good ",
+      "nice working"
+    ],
+    "label": "WhatsApp Review",
+    "category": "praise",
+    "root_cause": "Users find the app to be very good.",
+    "priority": "medium",
+    "priority_reason": "Average rating is above 2.5 and review count is below 30.",
+    "pm_action": "Investigate and improve the app's performance to increase ratings."
+  },
+  {
+    "topic_id": 3,
+    "keywords": [
+      "account",
+      "review",
+      "whatsapp",
+      "support",
+      "team",
+      "access"
+    ],
+    "review_count": 50,
+    "avg_rating": 2.28,
+    "avg_sentiment": -0.114,
+    "sample_reviews": [
+      "my number ban",
+      "account in Review Whatsapp problem my number is banned from Whatsapp kindly reactivate it",
+      "It bans me even with a new number after using it for one day."
+    ],
+    "label": "Account Ban Issue",
+    "category": "complaint",
+    "root_cause": "User account banned without reason",
+    "priority": "high",
+    "priority_reason": "Low rating and multiple complaints",
+    "pm_action": "Reactivate account and investigate ban reason"
+  },
+  {
+    "topic_id": 4,
+    "keywords": [
+      "whatsapp",
+      "whatsapp whatsapp",
+      "feature",
+      "ai",
+      "video",
+      "friends"
+    ],
+    "review_count": 47,
+    "avg_rating": 4.17,
+    "avg_sentiment": 0.457,
+    "sample_reviews": [
+      "Hey sir my personal Whatsapp been places sir my personal Whatsapp unbeen nixt time not working messengers.thank you so much Whatsapp team",
+      "whatsapp still the first and best app of connecting families and friends, when comes about communication",
+      "\"Thank you WhatsApp for this amazing app and recent updates! It works smoothly and I love using it.\" "
+    ],
+    "label": "Whatsapp issues",
+    "category": "complaint",
+    "root_cause": "App not working properly",
+    "priority": "medium",
+    "priority_reason": "Average rating is 4.17 and review count is 47",
+    "pm_action": "Investigate and resolve the issue"
+  },
+  {
+    "topic_id": 5,
+    "keywords": [
+      "download",
+      "whatsapp",
+      "screen",
+      "ada",
+      "par",
+      "bhi"
+    ],
+    "review_count": 38,
+    "avg_rating": 3.53,
+    "avg_sentiment": 0.106,
+    "sample_reviews": [
+      "ni mzur sanaaa",
+      "\u0627\u062a\u0645\u0646\u064a \u062a\u0634\u064a\u0644\u0648\u0627 \u0627\u0644\u0627\u0633\u062a\u064a\u0643\u0631\u0627\u062a ",
+      "mal se baat kijiye"
+    ],
+    "label": "WhatsApp Download Issue",
+    "category": "complaint",
+    "root_cause": "Users are unable to download WhatsApp properly.",
+    "priority": "medium",
+    "priority_reason": "Average rating is 3.53 and review count is 38.",
+    "pm_action": "Investigate the download issue and provide a fix."
+  },
+  {
+    "topic_id": 6,
+    "keywords": [
+      "whatsapp",
+      "help",
+      "open",
+      "screen",
+      "update",
+      "issues"
+    ],
+    "review_count": 26,
+    "avg_rating": 2.35,
+    "avg_sentiment": -0.039,
+    "sample_reviews": [
+      "each new update comes with different bug problems The updates are not tested properly before releasing this latest update, I'm unable to forward messages to other WhatsApp Contacts Mark and his Team are not doing a great job",
+      "can't use my whatsapp",
+      "There is issues on Android 9 docomo tablet, when I open Whatsapp the screen is blinking"
+    ],
+    "label": "Poor Update Experience",
+    "category": "complaint",
+    "root_cause": "Updates not tested properly before release",
+    "priority": "high",
+    "priority_reason": "Low rating and many reviews",
+    "pm_action": "Re-test updates before release"
+  },
+  {
+    "topic_id": 7,
+    "keywords": [
+      "number",
+      "verification",
+      "login",
+      "phone number",
+      "trying",
+      "phone"
+    ],
+    "review_count": 22,
+    "avg_rating": 3.09,
+    "avg_sentiment": -0.035,
+    "sample_reviews": [
+      "not able to link what's up on computer very bad",
+      "Can't log in but still trying",
+      "I've been trying to verify my phone number but didn't receive verification code.its been three to four days.please send me verification code as soon as possible.thanks"
+    ],
+    "label": "WhatsApp login issues",
+    "category": "complaint",
+    "root_cause": "Failed phone number verification",
+    "priority": "high",
+    "priority_reason": "Low rating and multiple complaints",
+    "pm_action": "Investigate and resolve phone verification issue"
+  },
+  {
+    "topic_id": 8,
+    "keywords": [
+      "blinking",
+      "update",
+      "closed",
+      "glitch",
+      "working",
+      "new update"
+    ],
+    "review_count": 17,
+    "avg_rating": 2.18,
+    "avg_sentiment": -0.007,
+    "sample_reviews": [
+      "updated but crash, blinking app, uninstalled and then install again nothing changes, still blinking, I use realme minipad. please fix it",
+      "It's a nice app is but mine has stopped working ,it's still not working",
+      "what's app is not work"
+    ],
+    "label": "Crashing and Blinking Issue",
+    "category": "complaint",
+    "root_cause": "App update caused compatibility issues with Realme Minipad.",
+    "priority": "high",
+    "priority_reason": "Low rating and high review count indicate widespread problem.",
+    "pm_action": "Investigate and release a patch update to resolve compatibility issues."
+  },
+  {
+    "topic_id": 9,
+    "keywords": [
+      "service",
+      "services",
+      "experience",
+      "miss",
+      "yes",
+      "bed"
+    ],
+    "review_count": 12,
+    "avg_rating": 4.25,
+    "avg_sentiment": 0.268,
+    "sample_reviews": [
+      "nice services",
+      "so butiful service",
+      "how miss me am back"
+    ],
+    "label": "Poor Service Experience",
+    "category": "complaint",
+    "root_cause": "Services are not up to the mark.",
+    "priority": "medium",
+    "priority_reason": "Average rating is 4.25 and review count is 12.",
+    "pm_action": "Investigate and improve services."
+  },
+  {
+    "topic_id": 10,
+    "keywords": [
+      "helpful",
+      "stars",
+      "make work",
+      "important people",
+      "fully",
+      "enjoy"
+    ],
+    "review_count": 10,
+    "avg_rating": 4.2,
+    "avg_sentiment": 0.51,
+    "sample_reviews": [
+      "Very helpful",
+      "it make work easier to me",
+      "I thing its most helpful"
+    ],
+    "label": "WhatsApp Review",
+    "category": "praise",
+    "root_cause": "Users find WhatsApp helpful for work and communication",
+    "priority": "medium",
+    "priority_reason": "Average rating is 4.2 and review count is 10",
+    "pm_action": "Investigate and improve features for important people"
+  }
+]

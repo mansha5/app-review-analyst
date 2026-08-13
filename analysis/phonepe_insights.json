@@ -1,0 +1,202 @@
+[
+  {
+    "topic_id": 0,
+    "keywords": [
+      "phone",
+      "phonepe",
+      "phone pay",
+      "ke",
+      "pay",
+      "phonepay"
+    ],
+    "review_count": 107,
+    "avg_rating": 4.01,
+    "avg_sentiment": 0.309,
+    "sample_reviews": [
+      "very nice app",
+      "very good app",
+      "I am Kausar Alam,Pupil teacher.it apps our life is very important any time"
+    ],
+    "label": "very nice app",
+    "category": "praise",
+    "root_cause": "user likes the app",
+    "priority": "medium",
+    "priority_reason": "average rating and moderate review count",
+    "pm_action": "no action required"
+  },
+  {
+    "topic_id": 1,
+    "keywords": [
+      "payment",
+      "payments",
+      "money",
+      "pay",
+      "fast",
+      "phone"
+    ],
+    "review_count": 58,
+    "avg_rating": 4.5,
+    "avg_sentiment": 0.462,
+    "sample_reviews": [
+      "this helpfull for payments",
+      "I used my fast payment application is Phonepe UPI Payment is very useful application so you try it ",
+      "Best UPI Payments App"
+    ],
+    "label": "Phonepe Payment App",
+    "category": "praise",
+    "root_cause": "User found Phonepe useful for payments",
+    "priority": "medium",
+    "priority_reason": "Average rating is 4.5 and review count is 58",
+    "pm_action": "Monitor user feedback for potential issues"
+  },
+  {
+    "topic_id": 2,
+    "keywords": [
+      "easy",
+      "simple",
+      "overall",
+      "user",
+      "convenient",
+      "fast"
+    ],
+    "review_count": 54,
+    "avg_rating": 4.74,
+    "avg_sentiment": 0.423,
+    "sample_reviews": [
+      "Happy Nice year ",
+      "very good n fast",
+      "not difficult not easier"
+    ],
+    "label": "Overall User Experience",
+    "category": "praise",
+    "root_cause": "Easy and simple to use",
+    "priority": "medium",
+    "priority_reason": "Average rating is 4.74 out of 5",
+    "pm_action": "Investigate and improve loading speed"
+  },
+  {
+    "topic_id": 3,
+    "keywords": [
+      "worst",
+      "issue",
+      "support",
+      "phonepe",
+      "balance",
+      "bad"
+    ],
+    "review_count": 26,
+    "avg_rating": 1.73,
+    "avg_sentiment": -0.293,
+    "sample_reviews": [
+      "very very bad experience. my question is if the receiver's bank experiencing downtime, why phonepe is not crediting the amount back. I have been following up this every hour on phonepe app. the reply is same.this is fraud. a complaint with RBI against phonepe is registered. for small amount of Rs.2000 RBI will order compensation of Rs 25000 for mental agony and business loss. phonepe should investigate the pending payments on priority basis. During the last three years I have lost Rs. 2lakhs",
+      "Why is the app startup time suddenly long now? it was working fine then suddenly the white phone pe screen on startup stays for 5 seconds and the app is slow and laggy. What's wrong with this dev team, every few updates they mess up.",
+      "Good but there is one glitch my friend is sharing screenshot msg bt its not downloading please resolve"
+    ],
+    "label": "PhonePe Balance Issue",
+    "category": "complaint",
+    "root_cause": "Poor customer support and delayed refunds",
+    "priority": "high",
+    "priority_reason": "Low rating and multiple complaints",
+    "pm_action": "Investigate and resolve pending payments within 24 hours"
+  },
+  {
+    "topic_id": 4,
+    "keywords": [
+      "kumar",
+      "kam",
+      "hi",
+      "tha",
+      "hello",
+      "jata"
+    ],
+    "review_count": 20,
+    "avg_rating": 4.3,
+    "avg_sentiment": 0.061,
+    "sample_reviews": [
+      "bhut badiya",
+      "hello sir \u092e\u0947\u0930\u0947 \u0905\u0915\u093e\u0909\u0902\u091f\u0938\u0947 \u090f\u0915 \u091f\u094d\u0930\u093e\u0902\u0938\u092a\u094b\u0930\u094d\u091f \u0928\u0939\u0940\u0902 \u0939\u094b \u0930\u0939\u093e \u0939\u0948 20000 \u0938\u0947 \u091c\u094d\u092f\u093e\u0926\u093e \u0928\u0939\u0940\u0902 \u0939\u094b\u0924\u093e\u0939\u0948 \u092e\u093f\u0936\u093e \u0938\u0930\u094d\u0935\u0947 \u0921\u093e\u0909\u0928 \u092c\u0924\u093e\u0924\u093e \u0939\u0948 \u092e\u0947\u0930\u0947 \u0905\u0915\u093e\u0909\u0902\u091f \u0915\u093e \u0938\u0930\u094d\u0935\u0947 \u0938\u0939\u0940\u0915\u0940\u091c\u093f\u090f \u092e\u0947\u0930\u093e \u092c\u0921\u093c\u093e \u0916\u093e\u0924\u093e \u0939\u0948 \u0907\u0938 \u092c\u093e\u0924 \u092a\u0930 \u0915\u0941\u091b please help me ",
+      "bahut badiya hai"
+    ],
+    "label": "Account Transport Issue",
+    "category": "complaint",
+    "root_cause": "Transport not happening from account",
+    "priority": "high",
+    "priority_reason": "Rating is 4.3 and review count is 20",
+    "pm_action": "Investigate and resolve transport issue"
+  },
+  {
+    "topic_id": 5,
+    "keywords": [
+      "service",
+      "services",
+      "service bad",
+      "excellent service",
+      "option",
+      "excellent"
+    ],
+    "review_count": 16,
+    "avg_rating": 4.56,
+    "avg_sentiment": 0.405,
+    "sample_reviews": [
+      "exlent service",
+      "good service",
+      "good service"
+    ],
+    "label": "Phonepe Service Review",
+    "category": "praise",
+    "root_cause": "Users experienced excellent service",
+    "priority": "medium",
+    "priority_reason": "Average rating is 4.56 and review count is 16",
+    "pm_action": "Investigate and improve service quality"
+  },
+  {
+    "topic_id": 6,
+    "keywords": [
+      "upi",
+      "useful",
+      "india",
+      "secure",
+      "people",
+      "ke"
+    ],
+    "review_count": 13,
+    "avg_rating": 3.85,
+    "avg_sentiment": 0.425,
+    "sample_reviews": [
+      "not support this aap",
+      "This aap is very useful and very good app",
+      "best appointment upi"
+    ],
+    "label": "PhonePe UPI App Review",
+    "category": "praise",
+    "root_cause": "Users find the app useful and good.",
+    "priority": "medium",
+    "priority_reason": "Average rating is 3.85 and review count is 13.",
+    "pm_action": "Investigate and address the negative review."
+  },
+  {
+    "topic_id": 7,
+    "keywords": [
+      "experience",
+      "bad experience",
+      "bad",
+      "",
+      "",
+      ""
+    ],
+    "review_count": 13,
+    "avg_rating": 4.69,
+    "avg_sentiment": 0.408,
+    "sample_reviews": [
+      " satisfying",
+      "Nice experience",
+      "experience is genuinely really good "
+    ],
+    "label": "Good experience",
+    "category": "praise",
+    "root_cause": "Satisfying and genuinely good experience",
+    "priority": "medium",
+    "priority_reason": "Average rating is 4.69 and review count is 13",
+    "pm_action": "Investigate and improve customer experience"
+  }
+]

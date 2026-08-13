@@ -1,0 +1,52 @@
+[
+  {
+    "topic_id": 0,
+    "keywords": [
+      "language",
+      "duolingo",
+      "english",
+      "game",
+      "useful",
+      "helpful"
+    ],
+    "review_count": 342,
+    "avg_rating": 4.43,
+    "avg_sentiment": 0.5,
+    "sample_reviews": [
+      "chess and music is best",
+      "very impressed",
+      "add telugu language to learn"
+    ],
+    "label": "Duolingo Review",
+    "category": "praise",
+    "root_cause": "Users are very impressed with Duolingo's language learning game.",
+    "priority": "medium",
+    "priority_reason": "Average rating is 4.43 and review count is 342.",
+    "pm_action": "Consider adding more languages to the platform."
+  },
+  {
+    "topic_id": 1,
+    "keywords": [
+      "achcha",
+      "thanks duolingo",
+      "thanks",
+      "english",
+      "duolingo",
+      "freeze"
+    ],
+    "review_count": 28,
+    "avg_rating": 4.61,
+    "avg_sentiment": 0.155,
+    "sample_reviews": [
+      "ha maja aarha ha i mai bahut khush hu bahut achha lag rha hai ye best chij hai sikhane ke liye",
+      "mere india ka debit card hai kya use payment kar sakta hu",
+      "\u09ae\u09be\u09b6\u09be\u0986\u09b2\u09cd\u09b2\u09be\u09b9 \u0996\u09c1\u09ac \u09ad\u09be\u09b2\u09cb"
+    ],
+    "label": "Duolingo Feedback",
+    "category": "praise",
+    "root_cause": "User is satisfied with the app.",
+    "priority": "medium",
+    "priority_reason": "Average rating is 4.61 and review count is 28.",
+    "pm_action": "Review and analyze user feedback to identify areas for improvement."
+  }
+]

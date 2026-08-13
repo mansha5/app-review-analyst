@@ -1,0 +1,135 @@
+[
+  {
+    "topic_id": 0,
+    "keywords": [
+      "movie",
+      "movies",
+      "drama",
+      "anime",
+      "story",
+      "korean"
+    ],
+    "review_count": 73,
+    "avg_rating": 4.3,
+    "avg_sentiment": 0.322,
+    "sample_reviews": [
+      "excellently selected films to watch with family across different age groups",
+      "really fantastic not like the normal horrors as this feels real",
+      "love watching all the Korean moves have fantastic stories ."
+    ]
+  },
+  {
+    "topic_id": 1,
+    "keywords": [
+      "netflix",
+      "love netflix",
+      "love",
+      "watch",
+      "movies",
+      "shows"
+    ],
+    "review_count": 47,
+    "avg_rating": 4.26,
+    "avg_sentiment": 0.381,
+    "sample_reviews": [
+      "i love netflix.it is a great app",
+      "great app of course I mean come on it's Netflix. The only thing I'm having a problem with is the controller connecting and staying connected. There's also a problem with the color on the oxenfree game.",
+      "it's literally netflix who doesn't like netflix"
+    ]
+  },
+  {
+    "topic_id": 2,
+    "keywords": [
+      "platform",
+      "streaming",
+      "movies",
+      "movies series",
+      "watch movies",
+      "variety"
+    ],
+    "review_count": 39,
+    "avg_rating": 4.64,
+    "avg_sentiment": 0.492,
+    "sample_reviews": [
+      "Great for everyone in the household. With dedicated kids' profiles, a massive variety of genres, and seamless multi-device syncing, it's worth every penny.",
+      "very happy this app",
+      "very g so good and I'm impress with this app and the quality of the video and movie"
+    ]
+  },
+  {
+    "topic_id": 3,
+    "keywords": [
+      "subscription",
+      "pay",
+      "expensive",
+      "price",
+      "worth",
+      "adds"
+    ],
+    "review_count": 31,
+    "avg_rating": 2.16,
+    "avg_sentiment": -0.173,
+    "sample_reviews": [
+      "5 euros for a subscription with ADS? Are yall fr? And the standard is 15 euros. Imma sail bruh.",
+      "there alot of scope of improvement !! company have to remove boundaries and show contain from all over the world",
+      "totally waste app I run it 1 or 2 months ago , then I subscribed it for 149rs. then i run it for about 5 to 10 days . now after subscription over it charges again automatically. without any permission \u274c\u274c scam scam scam"
+    ]
+  },
+  {
+    "topic_id": 4,
+    "keywords": [
+      "love",
+      "new",
+      "experience",
+      "story",
+      "excellent",
+      "love enjoying"
+    ],
+    "review_count": 30,
+    "avg_rating": 4.9,
+    "avg_sentiment": 0.557,
+    "sample_reviews": [
+      "She's a winner, not a victim, someone we all aspire to be!",
+      "keeps getting better",
+      "great love it"
+    ]
+  },
+  {
+    "topic_id": 5,
+    "keywords": [
+      "season",
+      "series",
+      "shows",
+      "awesome",
+      "lot",
+      "better"
+    ],
+    "review_count": 27,
+    "avg_rating": 4.67,
+    "avg_sentiment": 0.508,
+    "sample_reviews": [
+      "Ransom Canyon is probably the best series since Friends\u2728\ufe0f",
+      "Great show. Very suspenseful.",
+      "Great Reality Shows especially Love is Blind and A Million Dollars Secret"
+    ]
+  },
+  {
+    "topic_id": 6,
+    "keywords": [
+      "account",
+      "create",
+      "worst",
+      "profile",
+      "update",
+      "working"
+    ],
+    "review_count": 13,
+    "avg_rating": 1.62,
+    "avg_sentiment": -0.137,
+    "sample_reviews": [
+      "terrible value, also cannot uninstall on Samsung",
+      "Just a pity we cannot update our old devices even though work 100%",
+      "to much trouble login on"
+    ]
+  }
+]

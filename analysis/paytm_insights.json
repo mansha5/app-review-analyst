@@ -1,0 +1,102 @@
+[
+  {
+    "topic_id": 0,
+    "keywords": [
+      "paytm",
+      "payment",
+      "upi",
+      "cashback",
+      "device",
+      "payments"
+    ],
+    "review_count": 164,
+    "avg_rating": 3.41,
+    "avg_sentiment": 0.202,
+    "sample_reviews": [
+      "thanks for money transfer",
+      "nice app for UPI",
+      "best app ever for doing online payment"
+    ],
+    "label": "Paytm Payment Issues",
+    "category": "complaint",
+    "root_cause": "Payment failed due to server error",
+    "priority": "medium",
+    "priority_reason": "Average rating is 3.41 and review count is 164",
+    "pm_action": "Investigate server logs for payment failures"
+  },
+  {
+    "topic_id": 1,
+    "keywords": [
+      "service",
+      "experience",
+      "excellent",
+      "user",
+      "easy",
+      "super"
+    ],
+    "review_count": 141,
+    "avg_rating": 4.85,
+    "avg_sentiment": 0.508,
+    "sample_reviews": [
+      "good and fast",
+      "it's awesome",
+      "Great... Great"
+    ],
+    "label": "Paytm User Experience",
+    "category": "praise",
+    "root_cause": "Easy and super service",
+    "priority": "medium",
+    "priority_reason": "Average rating is 4.85 and review count is 141",
+    "pm_action": "Monitor and improve user experience"
+  },
+  {
+    "topic_id": 2,
+    "keywords": [
+      "coins",
+      "paytm",
+      "cashback",
+      "problem",
+      "limit",
+      "login"
+    ],
+    "review_count": 38,
+    "avg_rating": 3.47,
+    "avg_sentiment": 0.043,
+    "sample_reviews": [
+      "bo vadiy a ap",
+      "open nahi ho rha hai my device me",
+      "bahut acha hai"
+    ],
+    "label": "Paytm login issue",
+    "category": "bug",
+    "root_cause": "App not opening on device",
+    "priority": "medium",
+    "priority_reason": "Average rating is 3.47 and review count is 38",
+    "pm_action": "Investigate and fix the app opening issue"
+  },
+  {
+    "topic_id": 3,
+    "keywords": [
+      "stop",
+      "faster",
+      "seconds",
+      "download",
+      "responding",
+      "edit"
+    ],
+    "review_count": 14,
+    "avg_rating": 4.71,
+    "avg_sentiment": -0.049,
+    "sample_reviews": [
+      "I love the app! The app is soo much faster download. But now download faster and more stable. Thank you so much to everyone algorithms. You'd stop an entry and it'd be several seconds before it'd actually stop and those extra seconds are added too the entry? This is syncing happens pretty much every time you open the app, start, stop, or edit an entry, so it was a real pain. Not to mention being unable to use the app when it's syncing because it literally stops responding until it's done.!",
+      "I love the app! The app is soo much faster download. Thank you so much to everyone algorithms. Not to mention being unable to use the app when it's syncing because it literally stops responding until it's done. This is syncing happens pretty much every time you open the app, start, stop, or edit an entry, so it was a real pain. But now download faster and more stable. You'd stop an entry and it'd be several seconds before it'd actually stop and those extra seconds are added too the entry.",
+      "I love the app! The app is soo much faster download. This is syncing happens pretty much every time you open the app, start, stop, or edit an entry, so it was a real pain. Not to mention \u23f0being unable to use the app when it's syncing because it literally stops responding until it's done. But now download faster and more stable. You'd stop an entry and it'd be several seconds before it'd actually stop and those extra seconds are added too the entry. Thank you so much to everyone algorithms."
+    ],
+    "label": "Syncing issues resolved",
+    "category": "praise",
+    "root_cause": "Slow syncing caused app unresponsiveness",
+    "priority": "medium",
+    "priority_reason": "Average rating is 4.71 and review count is 14",
+    "pm_action": "Investigate and optimize syncing process"
+  }
+]

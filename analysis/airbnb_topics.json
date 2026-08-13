@@ -1,0 +1,173 @@
+[
+  {
+    "topic_id": 0,
+    "keywords": [
+      "easy",
+      "convenient",
+      "user",
+      "love",
+      "friendly",
+      "easy easy"
+    ],
+    "review_count": 117,
+    "avg_rating": 4.41,
+    "avg_sentiment": 0.384,
+    "sample_reviews": [
+      "Amazing, Reliable, Efficient",
+      "User-Friendly app. Easy navigation and set up. Highly recommended to any new users.",
+      "easy to use"
+    ]
+  },
+  {
+    "topic_id": 1,
+    "keywords": [
+      "airbnb",
+      "host",
+      "support",
+      "booking",
+      "place",
+      "hosts"
+    ],
+    "review_count": 73,
+    "avg_rating": 2.71,
+    "avg_sentiment": 0.12,
+    "sample_reviews": [
+      "I am disappointed with how Airbnb handled my missing payout. Airbnb confirmed that the payout had been released, but the funds never reached my bank account. Despite multiple contacts with customer support, I was repeatedly directed back and forth between Airbnb and my bank, with no clear resolution. The process was stressful, time-consuming, and lacked transparency. As a host, I expect reliable payout tracking process and stronger support when payout issues arise.",
+      "There's no reason to use Airbnb anymore. When it first came out prices were cheaper than hotels. Nowadays, Airbnbs cost as much as if not more than hotels do, plus for far worse service. I've been in situations where I'm in a foreign country, got to my Airbnb at night, and discovered the host double booked the place. Airbnb support is surprisingly unhelpful. No reimbursements for anything, they'll just cancel your booking. If you need to find another hotel, that's on you. Stick with hotels",
+      "I have good reviews on Airbnb from the hosts I've been. Recently, I booked a place in Batangas, this happened in the the middle of typhoon, we were far from home. The airbnb host told me that they don't have electricity after I already paid for my reservation. I cancelled the reservation because they cannot promise that the electricity will be restored and they don't have anything to do if it is not restored. Airbnb said it will take 3-5 business days to receive the refund, we don't have money."
+    ]
+  },
+  {
+    "topic_id": 2,
+    "keywords": [
+      "easy",
+      "way",
+      "book",
+      "places",
+      "stay",
+      "properties"
+    ],
+    "review_count": 63,
+    "avg_rating": 4.0,
+    "avg_sentiment": 0.428,
+    "sample_reviews": [
+      "Perfect application for summer vacation",
+      "Best to book stay during vacation",
+      "The best and my go to whenever I need a place to stay!!!"
+    ]
+  },
+  {
+    "topic_id": 3,
+    "keywords": [
+      "verification",
+      "payment",
+      "id",
+      "time",
+      "accept",
+      "accepted"
+    ],
+    "review_count": 20,
+    "avg_rating": 1.45,
+    "avg_sentiment": 0.016,
+    "sample_reviews": [
+      "Reasonable search functionality. But the first time I go to use it the private holiday informed me there'll be a near 30% surcharge that the app allegedly doesn't allow him to add as a single night adjustment. So is it the app not allowing the owner to operate the way the want? Or was the owner a dodger just trying to wring out more cash? Either way, an unsatisfactory result for me.",
+      "they accepted my payment first before saying i need to dl the app before my booking will be confirmed. I was using a desktop and had to dl the mobile app. should've informed that before booking much more paying, account must be verified first",
+      "Very bad customer service! Just gonna delete the app because of him."
+    ]
+  },
+  {
+    "topic_id": 4,
+    "keywords": [
+      "number",
+      "ban",
+      "free",
+      "customer care",
+      "non",
+      "refundable"
+    ],
+    "review_count": 18,
+    "avg_rating": 3.39,
+    "avg_sentiment": 0.044,
+    "sample_reviews": [
+      "me cancelaron una reserva a horas del checkin y no me ofrecieron ning\u00fan tipo de compensaci\u00f3n m\u00e1s que un mensaje de \"disculpa y que no volver\u00e1 a suceder\". Tuve que buscar un hospedaje de emergencia por mi cuenta.",
+      "\u975e\u5e38\u5dee\u52b2\uff0c\u5b8c\u5168\u4e0d\u80fd\u534f\u8c03\u623f\u4e1c\u548c\u623f\u5ba2\u7684\u77db\u76fe\u3002 \u589e\u52a0\u8bc4\u4ef7\uff1a\u6211\u5f88\u60ca\u8bb6\u6211\u6700\u8fd1\u518d\u6b21\u62dc\u8bbf\u90a3\u4e2a\u56fd\u5bb6\u7684\u65f6\u5019\uff0c\u518d\u4e00\u6b21\u51fa\u73b0\u4e86\u76f8\u540c\u7684\u95ee\u9898\u3002\u6211\u5df2\u7ecf\u4e0d\u77e5\u9053\u662f\u90a3\u4e2a\u56fd\u5bb6\u7684\u4eba\u7684\u95ee\u9898\u8fd8\u662f\u7231\u5f7c\u8fce\u7684\u95ee\u9898\u4e86\u3002\u6211\u5728\u6fb3\u5927\u5229\u4e9a\u4f4f\u4e86\u5f88\u591a\u95f4\uff0c\u4ece\u6765\u6ca1\u6709\u9047\u5230\u8fc7\u8fd9\u6837\u7684\u60c5\u51b5\u3002",
+      "ek number ka ghatiya app hai pese le lie fr br br verification auto cancel kr di or then non refundable 1800 rs mere free ke nhi the ek number ka 2 kodi ka app hai ye"
+    ]
+  },
+  {
+    "topic_id": 5,
+    "keywords": [
+      "fast",
+      "fast easy",
+      "easy fast",
+      "easy",
+      "quick",
+      "actually"
+    ],
+    "review_count": 15,
+    "avg_rating": 4.67,
+    "avg_sentiment": 0.427,
+    "sample_reviews": [
+      "quick and fast",
+      "fast and easy",
+      "fast transaction"
+    ]
+  },
+  {
+    "topic_id": 6,
+    "keywords": [
+      "service",
+      "excellent",
+      "services",
+      "updating",
+      "wonderful",
+      "world"
+    ],
+    "review_count": 15,
+    "avg_rating": 5.0,
+    "avg_sentiment": 0.557,
+    "sample_reviews": [
+      "love using this service",
+      "very proffessional excellent service",
+      "Good, clean user experience and service."
+    ]
+  },
+  {
+    "topic_id": 7,
+    "keywords": [
+      "booking",
+      "easy",
+      "booking easy",
+      "easy booking",
+      "easy navigate",
+      "navigate"
+    ],
+    "review_count": 15,
+    "avg_rating": 3.67,
+    "avg_sentiment": 0.198,
+    "sample_reviews": [
+      "1st experience booking was easy! Just booked my second!",
+      "very easy navigation, choosing and reserving/booking. thanks for all that",
+      "every thing was fine but dates availability is very hectic"
+    ]
+  },
+  {
+    "topic_id": 8,
+    "keywords": [
+      "experience",
+      "experience easy",
+      "choice",
+      "overall",
+      "highly recommend",
+      "quick easy"
+    ],
+    "review_count": 13,
+    "avg_rating": 4.92,
+    "avg_sentiment": 0.514,
+    "sample_reviews": [
+      "Nothing but great experiences.",
+      "best best best",
+      "great experience overall"
+    ]
+  }
+]

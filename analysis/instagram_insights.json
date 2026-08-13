@@ -1,0 +1,354 @@
+[
+  {
+    "topic_id": 0,
+    "keywords": [
+      "amazing",
+      "like",
+      "beautiful",
+      "love",
+      "application",
+      "experience"
+    ],
+    "review_count": 196,
+    "avg_rating": 4.37,
+    "avg_sentiment": 0.421,
+    "sample_reviews": [
+      "i like this is looking good ",
+      "I like this app because I like it very much ",
+      "what a app bruhh"
+    ],
+    "label": "Positive App Experience",
+    "category": "praise",
+    "root_cause": "User enjoys the app's appearance and functionality.",
+    "priority": "medium",
+    "priority_reason": "Average rating is above 2.5 and review count is below 30.",
+    "pm_action": "Monitor user feedback and consider implementing new features to maintain user engagement."
+  },
+  {
+    "topic_id": 1,
+    "keywords": [
+      "id",
+      "hi",
+      "bhi",
+      "suspend",
+      "id suspend",
+      "star"
+    ],
+    "review_count": 85,
+    "avg_rating": 3.76,
+    "avg_sentiment": -0.008,
+    "sample_reviews": [
+      "bahut ghatiya bahut bekar",
+      "meri ID suspend kar Di hai ",
+      "\u0627\u0641\u0636\u0644 \u062a\u0637\u0628\u064a\u0642 \u0628\u0644\u0627 \u0645\u0646\u0627\u0632\u0639 "
+    ],
+    "label": "id suspend",
+    "category": "complaint",
+    "root_cause": "User's ID is suspended",
+    "priority": "high",
+    "priority_reason": "Low rating and high review count",
+    "pm_action": "Re-enable user's ID"
+  },
+  {
+    "topic_id": 2,
+    "keywords": [
+      "account",
+      "suspended",
+      "reason",
+      "disabled",
+      "id",
+      "suspend"
+    ],
+    "review_count": 60,
+    "avg_rating": 1.92,
+    "avg_sentiment": -0.231,
+    "sample_reviews": [
+      "why do they have to be blocking accounts",
+      "I'm trying to get back my acc any help?",
+      "it is good but many time it ban my I'd"
+    ],
+    "label": "Account Suspension Issues",
+    "category": "complaint",
+    "root_cause": "Users are getting their accounts suspended without clear reasons.",
+    "priority": "high",
+    "priority_reason": "Average rating is 1.92/5 and there are 60 reviews.",
+    "pm_action": "Investigate and provide clear reasons for account suspension."
+  },
+  {
+    "topic_id": 3,
+    "keywords": [
+      "instagram",
+      "love instagram",
+      "love",
+      "easy",
+      "reels",
+      "photos"
+    ],
+    "review_count": 49,
+    "avg_rating": 4.51,
+    "avg_sentiment": 0.561,
+    "sample_reviews": [
+      "INSTAGRAM IS GOOD",
+      "opportunity to have fans",
+      "Pawer full Instagram"
+    ],
+    "label": "Love Instagram Easy",
+    "category": "praise",
+    "root_cause": "User enjoys using Instagram",
+    "priority": "medium",
+    "priority_reason": "Average rating is 4.51 and review count is 49",
+    "pm_action": "Monitor user engagement metrics"
+  },
+  {
+    "topic_id": 4,
+    "keywords": [
+      "accounts",
+      "proper",
+      "instagram",
+      "account",
+      "support",
+      "users"
+    ],
+    "review_count": 34,
+    "avg_rating": 2.09,
+    "avg_sentiment": -0.002,
+    "sample_reviews": [
+      "Instagram Team, my account has been deactivated.",
+      "Dear instagram team l am having a problem when l went open my instagram account they show we disbled your account please fix my problem thank you sir please please",
+      "Hello Instagram Support, I\u2019m unable to share Reels because my account has been restricted due to a Community Standards issue. I believe this restriction may be a mistake. I have reviewed my account activity and I\u2019m not intentionally violating Instagram\u2019s policies. Please review my account and remove the restriction if it was applied incorrectly. I would like to continue using Reels normally. Thank you."
+    ],
+    "Account Deactivated": {
+      "category": "complaint",
+      "root_cause": "Account deactivation issue",
+      "priority": "high",
+      "priority_reason": "Low rating and many reviews",
+      "pm_action": "Reactivate account and investigate cause"
+    },
+    "Account Disabled": {
+      "category": "complaint",
+      "root_cause": "Account disable issue",
+      "priority": "high",
+      "priority_reason": "Low rating and many reviews",
+      "pm_action": "Enable account and review user activity"
+    },
+    "Restricted Account": {
+      "category": "complaint",
+      "root_cause": "Account restriction issue",
+      "priority": "high",
+      "priority_reason": "Low rating and many reviews",
+      "pm_action": "Review account activity and remove restriction"
+    }
+  },
+  {
+    "topic_id": 4,
+    "keywords": [
+      "accounts",
+      "proper",
+      "instagram",
+      "account",
+      "support",
+      "users"
+    ],
+    "review_count": 34,
+    "avg_rating": 2.09,
+    "avg_sentiment": -0.002,
+    "sample_reviews": [
+      "Instagram Team, my account has been deactivated.",
+      "Dear instagram team l am having a problem when l went open my instagram account they show we disbled your account please fix my problem thank you sir please please",
+      "Hello Instagram Support, I\u2019m unable to share Reels because my account has been restricted due to a Community Standards issue. I believe this restriction may be a mistake. I have reviewed my account activity and I\u2019m not intentionally violating Instagram\u2019s policies. Please review my account and remove the restriction if it was applied incorrectly. I would like to continue using Reels normally. Thank you."
+    ]
+  },
+  {
+    "topic_id": 5,
+    "keywords": [
+      "block",
+      "remove",
+      "update",
+      "working",
+      "today",
+      "glitches"
+    ],
+    "review_count": 24,
+    "avg_rating": 2.38,
+    "avg_sentiment": -0.089,
+    "sample_reviews": [
+      "itz nice but when on my tablet the quick snap itz gone",
+      "not updated",
+      "please remove block system"
+    ],
+    "label": "Instagram Glitches Today",
+    "category": "complaint",
+    "root_cause": "Glitches are affecting user experience",
+    "priority": "high",
+    "priority_reason": "Low rating and multiple reviews indicate significant issues",
+    "pm_action": "Investigate and resolve the quick snap issue on tablets"
+  },
+  {
+    "topic_id": 6,
+    "keywords": [
+      "reels",
+      "reel",
+      "music",
+      "voice",
+      "reinstalled",
+      "buggy"
+    ],
+    "review_count": 21,
+    "avg_rating": 2.76,
+    "avg_sentiment": -0.166,
+    "sample_reviews": [
+      "I can't get the reels? Y? I reinstalled the app and also updated thn also not geeting any reels, so i can't creat my own. This is so irritating",
+      "comment option not showing in all reels and all post i hate this bug",
+      "I am experiencing a very annoying audio bug on Android. When I mute a Reel using Instagram's mute button, the Reel is correctly silent. However, when I open a DM and play a voice message, the Reel audio becomes unmuted again when I return to Instagram. I want Reel/post videos to remain muted while still being able to hear Instagram DM voice messages. This is very disturbing and frustrating because I have to mute the Reel again repeatedly."
+    ],
+    "Reels not loading": "bug",
+    "root_cause": "App not functioning as expected after reinstall.",
+    "priority": "high",
+    "priority_reason": "Rating is low and review count is high.",
+    "pm_action": "Investigate and fix the issue with reels loading."
+  },
+  {
+    "topic_id": 6,
+    "keywords": [
+      "reels",
+      "reel",
+      "music",
+      "voice",
+      "reinstalled",
+      "buggy"
+    ],
+    "review_count": 21,
+    "avg_rating": 2.76,
+    "avg_sentiment": -0.166,
+    "sample_reviews": [
+      "I can't get the reels? Y? I reinstalled the app and also updated thn also not geeting any reels, so i can't creat my own. This is so irritating",
+      "comment option not showing in all reels and all post i hate this bug",
+      "I am experiencing a very annoying audio bug on Android. When I mute a Reel using Instagram's mute button, the Reel is correctly silent. However, when I open a DM and play a voice message, the Reel audio becomes unmuted again when I return to Instagram. I want Reel/post videos to remain muted while still being able to hear Instagram DM voice messages. This is very disturbing and frustrating because I have to mute the Reel again repeatedly."
+    ]
+  },
+  {
+    "topic_id": 7,
+    "keywords": [
+      "add",
+      "people follow",
+      "people",
+      "follow",
+      "destroy",
+      "block"
+    ],
+    "review_count": 18,
+    "avg_rating": 2.28,
+    "avg_sentiment": -0.128,
+    "sample_reviews": [
+      "Very Bad App, people follow just to get a follow-back and then unfollow. Add an unfollow notification feature so I can catch the traitors, block them, and destroy their engagement rate.",
+      "pls can y'all put some people who unfollowed you notification so i can catch some traitors,",
+      "my followers are automatically less and unfollowed"
+    ],
+    "label": "Unfollow notification feature",
+    "category": "feature_request",
+    "root_cause": "Users want to catch people who unfollow them",
+    "priority": "high",
+    "priority_reason": "Rating is 2.28 and review count is 18",
+    "pm_action": "Implement unfollow notification feature within the next 6 weeks"
+  },
+  {
+    "topic_id": 8,
+    "keywords": [
+      "suspended",
+      "suspending",
+      "instagram",
+      "account",
+      "suspended account",
+      "literally"
+    ],
+    "review_count": 17,
+    "avg_rating": 1.47,
+    "avg_sentiment": -0.308,
+    "sample_reviews": [
+      "they shouldn't be suspending Instagram",
+      "its so shameful that i got my 7 year account suspended just because \"my account was associated with somr blah blah blah\" please instagram, go back to hunan support. Ditch that meta thing and please unsuspend my account",
+      "what the hell Instagram? you've been suspending my account for no valid reason. What do you mean i used a fake identity? Because I'm pretty sure i post my face, i have my real name on and yes, why do you keep suspending me for that? you've done this for like 5 times already and it's really pissing me off. First you asked for a photo, and it appealed to my account, now i used my id for the 5th suspension, you guys disabled my account. ya'll think everyone is a bot at this point."
+    ],
+    "label": "Suspended Account Issues",
+    "category": "complaint",
+    "root_cause": "Inconsistent and unfair account suspension policies",
+    "priority": "high",
+    "priority_reason": "Low rating and multiple reviews indicate widespread issue",
+    "pm_action": "Review and revise account suspension policies to reduce false positives"
+  },
+  {
+    "topic_id": 9,
+    "keywords": [
+      "ads",
+      "ad",
+      "annoying",
+      "watching",
+      "sucks",
+      "ppl"
+    ],
+    "review_count": 12,
+    "avg_rating": 1.0,
+    "avg_sentiment": -0.208,
+    "sample_reviews": [
+      "Every day this app gets infested with ads, watching videos is a pain, there's 1 ad in every 3 videos, and i cant swipe up or down to skip the ads, and worst is, it would automatically open the ads IG. damnnnn",
+      "Gradually Instagram has become a useless app, there are too many ads and less reels.",
+      "There's an advertisement after every other post. It's really annoying."
+    ],
+    "label": "Annoying ads on Instagram",
+    "category": "complaint",
+    "root_cause": "Too many ads are displayed",
+    "priority": "high",
+    "priority_reason": "Rating is 1.0 and review count is 12",
+    "pm_action": "Reduce ad frequency by 50%"
+  },
+  {
+    "topic_id": 10,
+    "keywords": [
+      "views",
+      "viral",
+      "video",
+      "thanks",
+      "need",
+      "plz help"
+    ],
+    "review_count": 11,
+    "avg_rating": 3.91,
+    "avg_sentiment": 0.245,
+    "sample_reviews": [
+      "please give more views, and likes thanks IG....",
+      "loser app not viral not follower i need to my video viral i need follow please",
+      "You guys are freezing my views"
+    ],
+    "label": "Viral Video Views Issue",
+    "category": "complaint",
+    "root_cause": "Users are not getting enough views on their videos",
+    "priority": "high",
+    "priority_reason": "Low rating and multiple complaints",
+    "pm_action": "Investigate and resolve the issue with view counts"
+  },
+  {
+    "topic_id": 11,
+    "keywords": [
+      "login",
+      "password",
+      "log",
+      "lately",
+      "completely",
+      "locked"
+    ],
+    "review_count": 11,
+    "avg_rating": 1.55,
+    "avg_sentiment": -0.419,
+    "sample_reviews": [
+      "when i login my id i written correct password but instagram says incorrect password",
+      "I have been experiencing major technical issues with Instagram lately. My account was suspended today, and while I attempted to appeal the decision, I never received the verification code in my email. Thinking it might refresh the session, I logged out, but now I\u2019m completely locked out. Even the 'forgotten password' route fails, showing 'unable to log in, please try again later.' This is incredibly frustrating. Please look into these login bugs and fix this as soon as possible.",
+      "I dont know the issue with instagram lately soo many hackers and i nevsr set up duo mobile or authenticator app i dont know how it came up like this but i just want my account back every time i have to verify my account it send me to verify via google authenticator or duo mobile and if i click account recovery i have to do video selfie and mamy times i have done a video sellfie it tells me to change my pass after i changed my pass it resend me back to the authe tication phase! man what the hell"
+    ],
+    "label": "Login Issues Persist",
+    "category": "bug",
+    "root_cause": "Technical issues with account verification and password recovery.",
+    "priority": "high",
+    "priority_reason": "Rating is 1.55 and review count is 11",
+    "pm_action": "Investigate and resolve account verification and password recovery bugs ASAP"
+  }
+]

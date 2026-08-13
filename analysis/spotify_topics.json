@@ -1,0 +1,192 @@
+[
+  {
+    "topic_id": 0,
+    "keywords": [
+      "love",
+      "apps",
+      "version",
+      "free",
+      "premium love",
+      "navigate"
+    ],
+    "review_count": 50,
+    "avg_rating": 4.22,
+    "avg_sentiment": 0.448,
+    "sample_reviews": [
+      "very good app.",
+      "they might as well make us pay to download the app",
+      "managed to find all I've been looking for, great app."
+    ]
+  },
+  {
+    "topic_id": 1,
+    "keywords": [
+      "music",
+      "songs",
+      "artists",
+      "quality",
+      "listening",
+      "better"
+    ],
+    "review_count": 49,
+    "avg_rating": 4.73,
+    "avg_sentiment": 0.51,
+    "sample_reviews": [
+      "invited to so much great music from artists ",
+      "best have all song except some songs but it's ok ",
+      "I love being able to listen to music free"
+    ]
+  },
+  {
+    "topic_id": 2,
+    "keywords": [
+      "ads",
+      "spotify",
+      "premium",
+      "songs",
+      "listen",
+      "music"
+    ],
+    "review_count": 47,
+    "avg_rating": 2.17,
+    "avg_sentiment": 0.209,
+    "sample_reviews": [
+      "Happy family sub for years, but now your catalog is lacking content on YT music my friends stream for free (pour me up again, Morgan wallen/juice wrld), (love like a loaded gun Ella langley, shaboozey), (lean on me, Miley Cyrus / jelly roll, (Ride or Die, Aviian). *EDIT* I don't want to understand why you DON'T have them. As a paying customer, I'm asking you to do better. *EDIT* Woke up to all my downloaded playlists no longer downloaded. Found out the hard way on my commute with no cell service",
+      "There are more ads than actual songs mc",
+      "I used to love Spotify and still would if every damn update wouldn't make the app worse and I'm not paying that much for premium and so I have to listen to 2 songs playing quiet as possible and then a million ads as loud as possible for absolutely zero reason and I loved it when it was 30 minutes then a few ads and that was reasonable but now they're making a lot of money and yet still playing to many damn ads for no reason, can barely pick any songs, can skip a few, and cant pay for the premium"
+    ]
+  },
+  {
+    "topic_id": 3,
+    "keywords": [
+      "music",
+      "listen",
+      "like",
+      "worst",
+      "song",
+      "streaming"
+    ],
+    "review_count": 41,
+    "avg_rating": 4.15,
+    "avg_sentiment": 0.537,
+    "sample_reviews": [
+      "Best Music Playing App !",
+      "this is very best application for listen song",
+      "actually it's really good app . but not able to listen music recently like ever I had"
+    ]
+  },
+  {
+    "topic_id": 4,
+    "keywords": [
+      "spotify",
+      "playlists",
+      "playlist",
+      "love spotify",
+      "love",
+      "amazing"
+    ],
+    "review_count": 37,
+    "avg_rating": 4.43,
+    "avg_sentiment": 0.567,
+    "sample_reviews": [
+      "I love Spotify",
+      "I'm not alone anymore Spotify is the best companion.",
+      "Playlists that are generated cannot be saved and most of the time it is a pain to save playlists! Like on the Home page - long press should offer a way to save/add to playlist without having to fully open the list.. or the Now playing radio (queue becomes a radio after) is unusually always vanishing and impossible to save unless you do it manually one by one???"
+    ]
+  },
+  {
+    "topic_id": 5,
+    "keywords": [
+      "bad",
+      "experience",
+      "simply",
+      "service",
+      "perfect",
+      "excellent"
+    ],
+    "review_count": 35,
+    "avg_rating": 4.37,
+    "avg_sentiment": 0.335,
+    "sample_reviews": [
+      "I love this",
+      "bery excellent",
+      "it's so good"
+    ]
+  },
+  {
+    "topic_id": 6,
+    "keywords": [
+      "cache",
+      "ive",
+      "open",
+      "load",
+      "play",
+      "phone"
+    ],
+    "review_count": 28,
+    "avg_rating": 1.96,
+    "avg_sentiment": -0.076,
+    "sample_reviews": [
+      "This app has become unusable in recent times. 45-60 second load times for the most basic actions. Want to open a menu to queue a song? Hope you enjoy watching a green spinning circle for a minute. I've been a premium enjoyer for 7+ years but it's time to switch to YT Music(which is cheaper and works flawlessly) And no, clearing the cache, restarting the phone or reinstalling the app does nothing. vibe-coded junk.",
+      "this app automatically uninstalled from my phone. this happens twice a week. why ?",
+      "apps pissing me off - was really good, no longer always crashing have to uninstall constantly to get it to work again - tried your suggestion, it appeared to work but no back to app not opening again any other suggestions"
+    ]
+  },
+  {
+    "topic_id": 7,
+    "keywords": [
+      "premium",
+      "love",
+      "cheap",
+      "normal",
+      "things",
+      "experience"
+    ],
+    "review_count": 18,
+    "avg_rating": 3.61,
+    "avg_sentiment": 0.361,
+    "sample_reviews": [
+      "used to be good idk know what happened genuinely with that dumbass premium for everything",
+      "good experience if premium user, else adds kill your experience",
+      "Jim said love full HD save batterys"
+    ]
+  },
+  {
+    "topic_id": 8,
+    "keywords": [
+      "remove",
+      "bring",
+      "pause",
+      "okay",
+      "number",
+      "super"
+    ],
+    "review_count": 14,
+    "avg_rating": 3.0,
+    "avg_sentiment": 0.178,
+    "sample_reviews": [
+      "gatau kenapa pas nonton podcast ke pause dan ke play sendiri",
+      "bilkul badhiya hai per lekin yah net jarur lega per lekin ek number hai per gane sare milenge",
+      "All is okay but why did you remove tujhko dariya dili ki kasam by jagjit singh ? Please bring it back please "
+    ]
+  },
+  {
+    "topic_id": 9,
+    "keywords": [
+      "ads",
+      "like ads",
+      "expensive",
+      "ads long",
+      "absolutely love",
+      "ads love"
+    ],
+    "review_count": 14,
+    "avg_rating": 3.43,
+    "avg_sentiment": 0.025,
+    "sample_reviews": [
+      "exprience is good but ads too much",
+      "just for me!!",
+      "do not install ad.s"
+    ]
+  }
+]

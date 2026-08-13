@@ -1,0 +1,177 @@
+[
+  {
+    "topic_id": 0,
+    "keywords": [
+      "delivery",
+      "food",
+      "order",
+      "worst",
+      "customer",
+      "time"
+    ],
+    "review_count": 143,
+    "avg_rating": 2.5,
+    "avg_sentiment": -0.117,
+    "sample_reviews": [
+      "Worst application within one minute i want to cancel my order.But support chat keep telling we can't cancel your order.I also call the restaurant owner and believe he just your order has been packed only within a minute,can you believe it .I will not ever order from this trash application.",
+      "wait for dilivery and describe",
+      "I ordered peri-peri wings, but there was absolutely no peri-peri seasoning on them. I\u2019m really disappointed. If I wanted plain wings, I would have ordered plain ones in the first place. Please make sure the order matches what is actually advertised."
+    ],
+    "label": "Poor Order Cancellation Support",
+    "category": "complaint",
+    "root_cause": "Inadequate order cancellation process",
+    "priority": "high",
+    "priority_reason": "Rating is 2.5 and review count is 143",
+    "pm_action": "Implement order cancellation feature within 1 minute"
+  },
+  {
+    "topic_id": 1,
+    "keywords": [
+      "fast",
+      "service",
+      "sarvice",
+      "work",
+      "service service",
+      "experience"
+    ],
+    "review_count": 52,
+    "avg_rating": 4.25,
+    "avg_sentiment": 0.394,
+    "sample_reviews": [
+      "good fast service",
+      "very nice work",
+      "very very good"
+    ],
+    "label": "Good Service Experience",
+    "category": "praise",
+    "root_cause": "Fast service and nice work",
+    "priority": "medium",
+    "priority_reason": "Average rating and moderate review count",
+    "pm_action": "Investigate and improve service quality"
+  },
+  {
+    "topic_id": 2,
+    "keywords": [
+      "zomato",
+      "order",
+      "customer",
+      "issue",
+      "received",
+      "experience"
+    ],
+    "review_count": 44,
+    "avg_rating": 2.45,
+    "avg_sentiment": -0.181,
+    "sample_reviews": [
+      "Unpleasant Experience. I had placed an order on 25-07-2026. Zomato says the credit card payment failed and I had to place one more order with Pay-On-Delivery. But that amount has been debited from my credit card. Zomato said they will refund the amount within 5-7 business days. I have not yet received the refund amount.",
+      "better but Zomato cheats with our student brothers N sisters in Jantar mantar Delhi ",
+      "zomato is best always"
+    ],
+    "label": "Failed payment refund issue",
+    "category": "complaint",
+    "root_cause": "Payment processing error and delayed refund",
+    "priority": "high",
+    "priority_reason": "Low rating and multiple complaints",
+    "pm_action": "Investigate payment processing system and expedite refunds"
+  },
+  {
+    "topic_id": 3,
+    "keywords": [
+      "high",
+      "charges",
+      "price",
+      "discount",
+      "offers",
+      "offer"
+    ],
+    "review_count": 41,
+    "avg_rating": 2.56,
+    "avg_sentiment": -0.068,
+    "sample_reviews": [
+      "dilivery charge is more expensive",
+      "no offers price very high",
+      "why are adding default tips amount and feeding.. and delivery partner charges are more "
+    ],
+    "label": "Expensive delivery charges",
+    "category": "complaint",
+    "root_cause": "High delivery charges without offers",
+    "priority": "high",
+    "priority_reason": "Low rating and many reviews",
+    "pm_action": "Review pricing strategy and offer discounts"
+  },
+  {
+    "topic_id": 4,
+    "keywords": [
+      "service service",
+      "service",
+      "service excellent",
+      "excellent",
+      "safe",
+      "job"
+    ],
+    "review_count": 32,
+    "avg_rating": 4.69,
+    "avg_sentiment": 0.465,
+    "sample_reviews": [
+      "good service",
+      "good service",
+      "Good service"
+    ],
+    "label": "Excellent Service",
+    "category": "praise",
+    "root_cause": "Good service provided to customers",
+    "priority": "medium",
+    "priority_reason": "Average rating is 4.69 out of 5",
+    "pm_action": "Investigate and improve service consistency"
+  },
+  {
+    "topic_id": 5,
+    "keywords": [
+      "charge",
+      "bad",
+      "delivery",
+      "na",
+      "resolve",
+      "hi"
+    ],
+    "review_count": 31,
+    "avg_rating": 3.03,
+    "avg_sentiment": -0.027,
+    "sample_reviews": [
+      "\u092f\u093e\u0902\u091a\u094d\u092f\u093e\u0915\u0921\u0942\u0928 \u0915\u094b\u0923\u0940\u0939\u0940 \u0911\u0930\u094d\u0921\u0930 \u0915\u0930\u0942 \u0928\u0915\u093e \u0915\u093e\u0930\u0923 \u0939\u0947 \u0932\u094b\u0915 \u0927\u094b\u0915\u093e \u0926\u0947\u0924\u093e\u0924 \u0932\u0941\u091f\u0924\u093e\u0924 \u092a\u0948\u0938\u0947 \u0918\u0947\u0924\u093e\u0924 \u0935\u093e\u0930\u0902\u0935\u093e\u0930 \u0928\u0915\u094b \u0924\u094d\u092f\u093e \u0917\u094b\u0937\u094d\u091f\u0940\u0902\u0938\u093e\u0920\u0940 \u0906\u092a\u0932\u094d\u092f\u093e\u0932\u093e \u092b\u094b\u0928 \u0915\u0930\u0924\u093e\u0924 \u0906\u092a\u0932\u094d\u092f\u093e \u0911\u0930\u094d\u0921\u0930 \u091f\u093e\u092f\u092e\u093e\u0935\u0930 \u0926\u0947\u0924 \u0928\u093e\u0939\u0940\u0924 \u0906\u0923\u093f \u0926\u0941\u0938\u0930\u0940 \u0917\u094b\u0937\u094d\u091f \u092e\u094d\u0939\u0923\u091c\u0947 \u092e\u0939\u0924\u094d\u0924\u094d\u0935\u093e\u091a\u0902 \u0915\u0940 \u092a\u0948\u0938\u0947 \u0918\u0947\u090a\u0928 \u092f\u093e\u0902\u091a\u0947 \u0921\u093f\u0932\u093f\u0935\u094d\u0939\u0930\u0940 \u092a\u093e\u0930\u094d\u091f\u0928\u0930\u094d\u0938 \u0906\u0923\u093f \u0939\u0949\u091f\u0947\u0932\u094d\u0938 \u0935\u093e\u0932\u0947 \u0939\u0947 \u0938\u0917\u0933\u0947 \u092e\u093f\u0932\u0940 \u092d\u0917\u0924 \u0915\u0930\u0942\u0928 \u0906\u092a\u0932\u094d\u092f\u093e \u0911\u0930\u094d\u0921\u0930 \u0918\u0947\u090a\u0928 \u092a\u0948\u0938\u0947 \u0918\u0947\u090a\u0928 \u0921\u093f\u0932\u093f\u0935\u094d\u0939\u0930\u0940 \u0926\u0947\u0924 \u0928\u093e\u0939\u0940\u0924 \u0906\u0923\u093f \u0924\u094d\u092f\u093e\u0928\u0902\u0924\u0930 \u0938\u0941\u0926\u094d\u0927\u093e \u0906\u092a\u0932\u094d\u092f\u093e\u0932\u093e \u091c\u094b \u0924\u094d\u0930\u093e\u0938 \u0939\u094b\u0924\u094b \u0924\u094d\u092f\u093e\u0902\u091a\u093e \u0915\u094b\u0923\u0924\u093e\u0939\u0940 \u0915\u0938\u094d\u091f\u092e\u0930 \u0938\u092a\u094b\u0930\u094d\u091f \u0906\u092a\u0932\u094d\u092f\u093e\u0915\u0921\u0947 \u0928\u093e\u0939\u0940 \u0906\u092a\u0923 \u0915\u0945\u0928\u094d\u0938\u0932 \u0915\u0947\u0932\u0947\u0932\u094d\u092f\u093e \u0911\u0930\u094d\u0921\u0930\u094d\u0938 \u0939\u094d\u092f\u093e \u0938\u0917\u0933\u094d\u092f\u093e \u092a\u0930\u0924 \u0924\u094d\u092f\u093e \u0939\u0949\u091f\u0947\u0932\u094d\u0938 \u092e\u093e\u0932\u0915\u093e\u0902\u0915\u0921\u0947 \u091c\u093e\u0924\u093e\u0924.",
+      "chor hai , solution dete nahi h order sada hva bhejate h ,sirf pareshan karate h customer ko",
+      "\u092c\u0939\u0941\u0924 \u092c\u0922\u093c\u093f\u092f\u093e"
+    ],
+    "label": "Bad Delivery Experience",
+    "category": "complaint",
+    "root_cause": "Poor customer support and delivery issues",
+    "priority": "high",
+    "priority_reason": "Low rating and high review count",
+    "pm_action": "Investigate and resolve delivery partner issues"
+  },
+  {
+    "topic_id": 6,
+    "keywords": [
+      "super",
+      "waste",
+      "helpful",
+      "words",
+      "trusted",
+      "gives"
+    ],
+    "review_count": 28,
+    "avg_rating": 3.89,
+    "avg_sentiment": 0.302,
+    "sample_reviews": [
+      "Excellent app",
+      "veri nice app",
+      "this is best app "
+    ],
+    "label": "Zomato App Review",
+    "category": "praise",
+    "root_cause": "Users find the app helpful and gives trusted reviews.",
+    "priority": "medium",
+    "priority_reason": "Average rating is 3.89 and review count is 28.",
+    "pm_action": "Investigate and improve the app's rating and user engagement."
+  }
+]
