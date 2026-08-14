@@ -128,10 +128,21 @@ python scripts/build_analytics.py
 
 ## Screenshots
 
+### Dashboard Overview
 ![Dashboard](assets/dashboard.png)
+*App health portfolio, KPI metrics, and weekly rating trend*
+
+### AI Product Analyst
 ![AI Analyst](assets/ai_analyst.png)
+*Natural language querying with evidence-backed, cited answers*
+
+### Competitor Comparison
 ![Competitor Comparison](assets/competitor.png)
+*Side-by-side sentiment and issue analysis between competing apps*
+
+### High Priority Issues
 ![High Priority Issues](assets/issues.png)
+*Priority-scored issues with root causes and recommended PM actions*
 
 ## Key Design Decisions
 
