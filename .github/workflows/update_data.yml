@@ -1,0 +1,42 @@
+name: Weekly Data Update
+
+on:
+  schedule:
+    - cron: '0 2 * * 1'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: |
+          python scripts/scrape_reviews.py
+          python scripts/clean_reviews.py
+          python scripts/sentiment.py
+          python scripts/embed_reviews.py
+          python scripts/topic_model.py
+          python scripts/llm_extract.py
+          python scripts/build_analytics.py
+
+      - name: Commit updated data
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ analysis/ vectors/
+          git diff --staged --quiet || git commit -m "weekly data update $(date +'%Y-%m-%d')"
+          git push
