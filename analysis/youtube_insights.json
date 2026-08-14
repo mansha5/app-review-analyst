@@ -2,51 +2,151 @@
   {
     "topic_id": 0,
     "keywords": [
-      "youtube",
-      "video",
-      "ads",
-      "update",
+      "experience",
+      "bad",
+      "life",
       "like",
-      "time"
+      "easy",
+      "fast"
     ],
-    "review_count": 269,
-    "avg_rating": 2.93,
-    "avg_sentiment": 0.129,
+    "review_count": 57,
+    "avg_rating": 4.05,
+    "avg_sentiment": 0.187,
     "sample_reviews": [
-      "the app stops playing when in pocket even with YouTube premium, the app auto starta playing when unlocking the phone. the app always start playing when opened, even if oaused. etc. I am paying for YouTube auto play and auto play in the background and it does not work. should I stop paying for features I am not getting?",
-      "Obviously YouTube has something for everyone, and its my primary source of digital entertainment from watching TV with my wife or listening to music or videos at work. Its clear that the app is very broken now. When playing in the background it will randomly stop and require you pull out your phone and open the app to fix the problem, it opens to a short with no audio and crashes every time I open the app, and recently hasn't allowed for bluetooth controls. Its a great platform but a broken App.",
-      "much more ads in YouTube ,I feel i see a advertisement for my entertainment ,day to day advertisement are increasing so please reduce advertisement or its timing"
+      "good experience",
+      "verygoodapp",
+      "Nice app no fraud app trusted app"
     ],
-    "label": "YouTube App Issues",
+    "label": "Bad YouTube Experience",
     "category": "complaint",
-    "root_cause": "Poor app performance and increased ads",
-    "priority": "high",
-    "priority_reason": "Low rating and multiple complaints",
-    "pm_action": "Investigate and fix app playback issues"
+    "root_cause": "Users are experiencing a bad life experience due to the app.",
+    "priority": "medium",
+    "priority_reason": "Average rating is 4.05 and review count is 57, which is not extremely low or high.",
+    "pm_action": "Investigate and resolve the root cause of the bad experience."
   },
   {
     "topic_id": 1,
     "keywords": [
-      "youtube",
-      "channel",
-      "problem",
-      "caption",
-      "main",
-      "ads"
+      "update",
+      "videos",
+      "video",
+      "screen",
+      "button",
+      "worse"
     ],
-    "review_count": 48,
-    "avg_rating": 3.65,
-    "avg_sentiment": 0.083,
+    "review_count": 50,
+    "avg_rating": 1.52,
+    "avg_sentiment": -0.331,
     "sample_reviews": [
-      "Har time ads aate rehte hai content kam ads jyda aata hai..bekar hai bilkul",
-      "YouTube nahin chal raha hai theek karo",
-      "youtube ektu update dile valo hoy "
+      "I face this problem always within 3 months all my downloaded videos delete automatically and even tho my phone has internet all the time even the background data usage is on still they vanish and I am a student so I need oneshot videos to watch so I download them in advance even my friends have their videos for 1 whole year safely but only mine are deleted idk why pls fix this issue i hope u make a setting in which the downloaded videos can stay in the app as long as the user wants!!!!!!!!!",
+      "Getting multiple updates daily am updating application please roll out some better patch which stops this updates",
+      "Youtube changes playlist UI for the worst with each new update. NO i DONT want to click multiple times just to add ONE video to multiple playlists. what, am i living in backwardsville? pls fix this frankly stupid feature its so annoying <(\ua426\u314d _\u314d)>"
     ],
-    "label": "YouTube ads issue",
-    "category": "complaint",
-    "root_cause": "Intrusive ads are disrupting content",
+    "label": "Video Deletion Issue",
+    "category": "bug",
+    "root_cause": "Inconsistent app behavior on device",
     "priority": "high",
-    "priority_reason": "Low rating and multiple complaints",
-    "pm_action": "Reduce ad frequency and improve content visibility"
+    "priority_reason": "Rating is low and review count is high",
+    "pm_action": "Investigate and resolve video deletion issue"
+  },
+  {
+    "topic_id": 2,
+    "keywords": [
+      "ads",
+      "video",
+      "ad",
+      "youtube",
+      "minutes",
+      "dont"
+    ],
+    "review_count": 46,
+    "avg_rating": 1.59,
+    "avg_sentiment": -0.175,
+    "sample_reviews": [
+      "Too much ads make it very horrible",
+      "Way too many ads ",
+      "ads, ads and more ads. cannot watch even a short video without quitting the app due to ads"
+    ],
+    "label": "Too many ads on YouTube",
+    "category": "complaint",
+    "root_cause": "Excessive ads disrupt user experience",
+    "priority": "high",
+    "priority_reason": "Low rating and high review count",
+    "pm_action": "Reduce ad frequency by 30%"
+  },
+  {
+    "topic_id": 3,
+    "keywords": [
+      "add",
+      "mehnat",
+      "hi",
+      "swipe",
+      "youtube",
+      "tv"
+    ],
+    "review_count": 29,
+    "avg_rating": 3.1,
+    "avg_sentiment": 0.019,
+    "sample_reviews": [
+      "beautiful kahaniyan",
+      "Krishna Pasha Mondal",
+      "updated version too much buffering , youtube pahle jaisa nhi rha"
+    ],
+    "label": "updated version too much buffering",
+    "category": "complaint",
+    "root_cause": "YouTube pahle jaisa nhi rha",
+    "priority": "high",
+    "priority_reason": "rating is less than 2.5 and review count is more than 30",
+    "pm_action": "Investigate and resolve the buffering issue in the updated version"
+  },
+  {
+    "topic_id": 4,
+    "keywords": [
+      "youtube",
+      "fix",
+      "open youtube",
+      "open",
+      "working",
+      "im"
+    ],
+    "review_count": 27,
+    "avg_rating": 2.19,
+    "avg_sentiment": -0.051,
+    "sample_reviews": [
+      "can't see videos",
+      "whenever i watch any video some error show up again and again i have to turn on my flight mode or just reopen youtube. this needs to be fixed!",
+      "My ( video/whatch) history videos keeps stacking up whenever I'm on the search bar on my history, please fix this issue"
+    ],
+    "label": "YouTube not working properly",
+    "category": "complaint",
+    "root_cause": "Error shows up while watching videos",
+    "priority": "high",
+    "priority_reason": "Low rating and high review count",
+    "pm_action": "Investigate and fix the error issue"
+  },
+  {
+    "topic_id": 5,
+    "keywords": [
+      "love",
+      "easy",
+      "youtube",
+      "day",
+      "life",
+      "content"
+    ],
+    "review_count": 19,
+    "avg_rating": 4.26,
+    "avg_sentiment": 0.568,
+    "sample_reviews": [
+      "you tube is a wide variety of videos available. It is easy to search for content and find something interesting to watch",
+      "very nice life easy time paas easy i love u youtube",
+      "I love the videos!"
+    ],
+    "label": "Easy YouTube Experience",
+    "category": "praise",
+    "root_cause": "Variety of videos available",
+    "priority": "medium",
+    "priority_reason": "Average rating is 4.26 and review count is 19",
+    "pm_action": "Investigate low review count"
   }
 ]

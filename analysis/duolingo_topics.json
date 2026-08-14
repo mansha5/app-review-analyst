@@ -2,39 +2,134 @@
   {
     "topic_id": 0,
     "keywords": [
+      "learning",
+      "languages",
       "language",
-      "duolingo",
-      "english",
-      "game",
-      "useful",
-      "helpful"
+      "japanese",
+      "learn",
+      "new"
     ],
-    "review_count": 342,
-    "avg_rating": 4.43,
-    "avg_sentiment": 0.5,
+    "review_count": 87,
+    "avg_rating": 4.53,
+    "avg_sentiment": 0.497,
     "sample_reviews": [
-      "chess and music is best",
-      "very impressed",
-      "add telugu language to learn"
+      "this language is helping me so much learning Chinese",
+      "I really like it, but if you added Pashtoo language , it will be your pleasure.",
+      "good app learning for English ..."
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "achcha",
-      "thanks duolingo",
-      "thanks",
-      "english",
       "duolingo",
-      "freeze"
+      "like",
+      "language",
+      "time",
+      "learn",
+      "learning"
     ],
-    "review_count": 28,
-    "avg_rating": 4.61,
-    "avg_sentiment": 0.155,
+    "review_count": 50,
+    "avg_rating": 4.24,
+    "avg_sentiment": 0.566,
     "sample_reviews": [
-      "ha maja aarha ha i mai bahut khush hu bahut achha lag rha hai ye best chij hai sikhane ke liye",
-      "mere india ka debit card hai kya use payment kar sakta hu",
-      "\u09ae\u09be\u09b6\u09be\u0986\u09b2\u09cd\u09b2\u09be\u09b9 \u0996\u09c1\u09ac \u09ad\u09be\u09b2\u09cb"
+      "Duolingo is good. it helps a lot to learn different languages. I love it. but maybe if the duo had a way to contact any ai intelligens , so others can ask questions about their doubts and get a solution then it would be good.",
+      "I really enjoy using Duolingo. It\u2019s a great app. One small issue I\u2019ve noticed: in the word exercises, when learning German from English, some words can be both nouns and verbs. For example, \u201creport\u201d can be either a noun (\u201ca report\u201d) or a verb (\u201cto report\u201d), but the exercise doesn\u2019t always make it clear which meaning is intended. It would be helpful to distinguish them somehow, for example by writing \u201cto report\u201d for the verb, or by indicating the part of speech.",
+      "I really like dualingo, it help me in be better every day, I love when they get me three day free of super dualingo that is so awesome and I feel so glad when that happens"
+    ]
+  },
+  {
+    "topic_id": 2,
+    "keywords": [
+      "english",
+      "way learn",
+      "learn",
+      "way",
+      "language",
+      "learn language"
+    ],
+    "review_count": 44,
+    "avg_rating": 4.34,
+    "avg_sentiment": 0.273,
+    "sample_reviews": [
+      " - 2 1 : :13.8.26 8",
+      "makez me wake up everyday.",
+      "adds bahut aata hai"
+    ]
+  },
+  {
+    "topic_id": 3,
+    "keywords": [
+      "useful",
+      "helpful",
+      "try",
+      "alot",
+      "far",
+      "love"
+    ],
+    "review_count": 40,
+    "avg_rating": 4.38,
+    "avg_sentiment": 0.454,
+    "sample_reviews": [
+      "this app is helpful.",
+      "SO HELPFUL ITS BEEN NO PROBLEMS AND IS GREAT",
+      "Very good app"
+    ]
+  },
+  {
+    "topic_id": 4,
+    "keywords": [
+      "love",
+      "far",
+      "loving",
+      "excellent",
+      "gave stars",
+      "im loving"
+    ],
+    "review_count": 37,
+    "avg_rating": 4.76,
+    "avg_sentiment": 0.543,
+    "sample_reviews": [
+      "its very great",
+      "i love it because i need to do it.",
+      "IT SOO AMAZINGGG"
+    ]
+  },
+  {
+    "topic_id": 5,
+    "keywords": [
+      "fun",
+      "learn",
+      "alot",
+      "easy",
+      "interesting",
+      "learning"
+    ],
+    "review_count": 33,
+    "avg_rating": 4.64,
+    "avg_sentiment": 0.515,
+    "sample_reviews": [
+      "it is fun but teaches you alot",
+      "it so fun and for kids to be better at talking to different people in the word",
+      "so butiful learning ape"
+    ]
+  },
+  {
+    "topic_id": 6,
+    "keywords": [
+      "learning",
+      "lesson",
+      "free",
+      "energy",
+      "complete",
+      "learning learning"
+    ],
+    "review_count": 31,
+    "avg_rating": 4.03,
+    "avg_sentiment": 0.55,
+    "sample_reviews": [
+      "Fun and calm reminder of what has to be done in your lesson",
+      "wow nice learning app n I c e a p p \u2763\ufe0f",
+      "awesome app. I'm enjoying my learning"
     ]
   }
 ]

@@ -4,151 +4,37 @@
     "keywords": [
       "cred",
       "credit",
-      "experience",
-      "coins",
-      "support",
-      "card"
+      "card",
+      "payment",
+      "credit card",
+      "rewards"
     ],
-    "review_count": 66,
-    "avg_rating": 1.64,
-    "avg_sentiment": 0.06,
+    "review_count": 322,
+    "avg_rating": 2.16,
+    "avg_sentiment": 0.074,
     "sample_reviews": [
-      "got loan from poonawala fincorp through cred but getting fraud calls in the name of poonawala regarding the insurance policy they are telling me after claiming the loan after it got sucess.",
-      "Not satisfied With Cred Platform .Worst Experience second time. Issues with payment.Take so much time to resolve issues",
-      "cheque App is much better then cred ...worst service no cash back offer useless service I pramot cheque application and other rather then cred"
+      "it's difficult to use",
+      "No cash back ,,, I have been using this from many years to pay all my credit card bills but now a days not getting any cash back,, definitely we should switch to other app I guess",
+      "very help full"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "cashback",
-      "rewards",
-      "useless",
-      "reward",
-      "vouchers",
-      "single"
-    ],
-    "review_count": 54,
-    "avg_rating": 1.72,
-    "avg_sentiment": 0.088,
-    "sample_reviews": [
-      "bo doubt that app is great for bill payments but now they are providing rewards instead of cashback. sometimes the rewards are of very low value which are also available in other simple ways or apps. even higher end transactions also earn little to no cashback earlier it was very rewarding but now nothing. please improve rewards and cashback system. thanks for understanding.",
-      "what the hell.. spin and win is a fake.. i won boat speaker price 899 only.. but same product flipkart sell 799... what i won? ",
-      "I am not getting any Cash back after paying my credit card bills and other merchants payment. only cred giving Coins which is only used for shopping from unwanted brands with a very small discount. I would like to say that coins and other offers are only irritated and mind blasting games."
-    ]
-  },
-  {
-    "topic_id": 2,
-    "keywords": [
-      "card",
-      "upi",
-      "credit",
-      "credit card",
-      "option",
-      "payment"
-    ],
-    "review_count": 44,
-    "avg_rating": 2.89,
-    "avg_sentiment": 0.328,
-    "sample_reviews": [
-      "do use upi in it money may stuck in processing will not get your money back or to receiver only bot messege from coustomercare",
-      "It's asking for a 10 digit number and that's what I gave it. I can't get started",
-      "this app is not provide option for transaction and remarks note for Rupay credit card upi and other bank upi transaction. Further no option for download statement in excel and pdf with transaction remarks for track transaction. Paytm provide all features and also statement in excel and pdf with Remarks and note so anyone can easily catch the transaction details based on own remarks and notes. if give these features definitely your app gain Value. this is essential please note. still not updated"
-    ]
-  },
-  {
-    "topic_id": 3,
-    "keywords": [
-      "update",
-      "useful",
-      "ui",
-      "experience",
-      "application",
-      "user"
-    ],
-    "review_count": 42,
-    "avg_rating": 3.24,
-    "avg_sentiment": 0.24,
-    "sample_reviews": [
-      "remarkable App, Fluid & Beautiful UI",
-      "Nice and Useful App",
-      "Very nice useful app"
-    ]
-  },
-  {
-    "topic_id": 4,
-    "keywords": [
-      "phone",
-      "unable",
-      "issue",
-      "lag",
-      "does",
-      "day"
-    ],
-    "review_count": 23,
-    "avg_rating": 1.57,
-    "avg_sentiment": 0.001,
-    "sample_reviews": [
-      "Since the last update i'm unable to do any actions. On the application there is no response to touch. I uninstalled it and upon installation again the same problem...after entering the number, I'm unable to do any action. Can't login now.",
-      "Unable to complete walled kyc from last 2 weeks,every time it shows technical error from there sides.... it's useless in terms of cashback now it's usless too for providing proper solution in problem coming from own side too.... why not you close the app and focus to improve Facebook revenue, at least Meta get proper return for there investment?",
-      "app is not responding from past few months, the daily offers at 1 pm either doesn't unlock or unable to buy after unlocking, I tried updating app and re installation of app but no luck, un installing the app now"
-    ]
-  },
-  {
-    "topic_id": 5,
-    "keywords": [
-      "payment",
-      "transfer",
-      "worst",
-      "days",
-      "credit card",
-      "credit"
-    ],
-    "review_count": 22,
-    "avg_rating": 1.0,
-    "avg_sentiment": -0.462,
-    "sample_reviews": [
-      "feel frustrated that the worst service first they deducted payment from the credit card and then cancel the payment and proceed to refund and refund after 7 days don't use this worst app",
-      "worst app whenever I pay my credit card bill my money is blocked",
-      "they are cheating by saying instant payment by credit card but always payment gets stuck and it will take 2 3 days"
-    ]
-  },
-  {
-    "topic_id": 6,
-    "keywords": [
-      "service",
-      "experience",
-      "excellent",
-      "super",
-      "performance",
-      "save"
-    ],
-    "review_count": 20,
-    "avg_rating": 4.8,
-    "avg_sentiment": 0.564,
-    "sample_reviews": [
-      "excellent service",
-      "good experience offer to good",
-      "great service"
-    ]
-  },
-  {
-    "topic_id": 7,
-    "keywords": [
       "fake",
-      "flipkart",
       "hi",
-      "help",
       "cred",
-      "voucher"
+      "flipkart",
+      "payment",
+      "help"
     ],
-    "review_count": 14,
-    "avg_rating": 2.07,
-    "avg_sentiment": 0.031,
+    "review_count": 21,
+    "avg_rating": 2.24,
+    "avg_sentiment": 0.121,
     "sample_reviews": [
-      "koi bhi cash back, ya koi bhi offer nahi milta",
-      "very bad koi use mt krna",
-      "\u091c\u0948\u0915\u092a\u0949\u091f \u092e\u093f\u0932\u0924\u093e \u0925\u093e \u092a\u0948\u0938\u0947 \u092e\u093f\u0932\u0924\u0947 \u0925\u0947 \u0905\u092c \u092a\u094d\u0930\u094b\u0921\u0915\u094d\u091f \u092c\u093e\u092f \u0915\u0930\u0928\u093e \u092a\u0921\u093c\u0924\u093e \u0939\u0948 \u0905\u0917\u0930 \u0915\u093f\u0938\u0940 \u0915\u094b \u092a\u094d\u0930\u094b\u0921\u0915\u094d\u091f \u0928\u0939\u0940\u0902 \u0932\u0947\u0928\u093e \u0939\u092e\u0947 \u0915\u0948\u0936\u092c\u0948\u0915 \u0932\u0947\u0928\u093e \u092a\u0939\u0932\u0947 \u0925\u093e \u0935\u0948\u0938\u093e \u0915\u0930\u094b \u0924\u093e\u0915\u093f \u0939\u092e \u0915\u093f\u0938\u0940 \u092a\u0948\u0938\u0947 \u092d\u0947\u091c\u0947 \u0924\u094b \u0915\u0948\u0936\u092c\u0948\u0915 \u092a\u0948\u0938\u0947 \u092e\u0947\u0902 \u092e\u093f\u0932\u0947 \u092e\u0941\u091d\u0947 \u0905\u091a\u094d\u091b\u093e \u0928\u0939\u0940\u0902 \u0932\u0917\u093e"
+      "Faltu App Hai Maine flipkart se shopping ka payment Is app se Kiya tha , Flipkart ka Refund Amount mere Primary Account Me Nahi Gaya Balki Jo Allready in active Account hai Usme Bheja Hai Cred app Ki Team Ne , FAKE APP FAKE APP FAKE APP FAKE APP FAKE APP FAKE APP FAKE APP FAKE APP FAKE APP FAKE APP FAKE APP FAKE APP very Bad service fake app fake app fake app fake app please Do Not Used This app 10 August se Inka team Kaam kar raha hai Mera Payment Refund ke liye abhi tak nahi huwa .",
+      "sabne to tujhe 1 star review diye hain dalle fir tere pas 4.8 ki rating kaise aa gayi. ruk Teri video banata hu",
+      "adi adchanila kamala yet"
     ]
   }
 ]

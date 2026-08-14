@@ -2,229 +2,153 @@
   {
     "topic_id": 0,
     "keywords": [
-      "amazing",
-      "like",
-      "beautiful",
-      "love",
-      "application",
-      "experience"
+      "instagram",
+      "account",
+      "suspended",
+      "reason",
+      "id",
+      "instagram account"
     ],
-    "review_count": 196,
-    "avg_rating": 4.37,
-    "avg_sentiment": 0.421,
+    "review_count": 157,
+    "avg_rating": 2.59,
+    "avg_sentiment": 0.051,
     "sample_reviews": [
-      "i like this is looking good ",
-      "I like this app because I like it very much ",
-      "what a app bruhh"
+      "ummthis is best thing and I'm also happy too use this Instagram",
+      "hi sir this is my account always deactivate why any problem my account issue pls sir don't deactivate always my real account it's my account sir always deactivate 1 days everyday................................. ... . . .. ...................................................................................... ........ . ...... .... .............. .................................................................................. ........ ........ ........... ................................",
+      "worst, whenever i tried to log in it just keeps loading and never proceed to my acc. i thought it was my phone who causes this but when i tried to other phone it has the same problem. i cant log in."
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "id",
-      "hi",
-      "bhi",
-      "suspend",
-      "id suspend",
-      "star"
+      "love",
+      "account",
+      "better",
+      "bad",
+      "dont",
+      "application"
     ],
-    "review_count": 85,
-    "avg_rating": 3.76,
-    "avg_sentiment": -0.008,
+    "review_count": 156,
+    "avg_rating": 3.89,
+    "avg_sentiment": 0.283,
     "sample_reviews": [
-      "bahut ghatiya bahut bekar",
-      "meri ID suspend kar Di hai ",
-      "\u0627\u0641\u0636\u0644 \u062a\u0637\u0628\u064a\u0642 \u0628\u0644\u0627 \u0645\u0646\u0627\u0632\u0639 "
+      "Excellent application",
+      "the best appp you \u2764\ufe0f \u2665\ufe0f ",
+      "\u201cEasy to use and great for discovering photos, videos, and creative content. The interface is also simple"
     ]
   },
   {
     "topic_id": 2,
     "keywords": [
-      "account",
-      "suspended",
-      "reason",
-      "disabled",
       "id",
-      "suspend"
+      "koi",
+      "ke",
+      "suspend",
+      "instagram",
+      "download"
     ],
-    "review_count": 60,
-    "avg_rating": 1.92,
-    "avg_sentiment": -0.231,
+    "review_count": 103,
+    "avg_rating": 3.48,
+    "avg_sentiment": 0.046,
     "sample_reviews": [
-      "why do they have to be blocking accounts",
-      "I'm trying to get back my acc any help?",
-      "it is good but many time it ban my I'd"
+      "Phone gallery mei video save hona chahiye",
+      "I don't know why but instgram mera phone me download nhi ho rha h please help me",
+      "ndrikunakirwa ndati"
     ]
   },
   {
     "topic_id": 3,
     "keywords": [
-      "instagram",
-      "love instagram",
+      "excellent",
+      "wow",
+      "enjoy",
       "love",
-      "easy",
-      "reels",
-      "photos"
+      "thats",
+      "help"
     ],
-    "review_count": 49,
-    "avg_rating": 4.51,
-    "avg_sentiment": 0.561,
+    "review_count": 54,
+    "avg_rating": 4.7,
+    "avg_sentiment": 0.495,
     "sample_reviews": [
-      "INSTAGRAM IS GOOD",
-      "opportunity to have fans",
-      "Pawer full Instagram"
+      "you know why ",
+      "superb place to work",
+      "Good and reliable"
     ]
   },
   {
     "topic_id": 4,
     "keywords": [
-      "accounts",
-      "proper",
-      "instagram",
-      "account",
-      "support",
-      "users"
+      "reels",
+      "screen",
+      "reel",
+      "feed",
+      "ad",
+      "ads"
     ],
-    "review_count": 34,
-    "avg_rating": 2.09,
-    "avg_sentiment": -0.002,
+    "review_count": 24,
+    "avg_rating": 2.62,
+    "avg_sentiment": 0.027,
     "sample_reviews": [
-      "Instagram Team, my account has been deactivated.",
-      "Dear instagram team l am having a problem when l went open my instagram account they show we disbled your account please fix my problem thank you sir please please",
-      "Hello Instagram Support, I\u2019m unable to share Reels because my account has been restricted due to a Community Standards issue. I believe this restriction may be a mistake. I have reviewed my account activity and I\u2019m not intentionally violating Instagram\u2019s policies. Please review my account and remove the restriction if it was applied incorrectly. I would like to continue using Reels normally. Thank you."
+      "way too many ads and AI slop, can't ant enjoy scrolling this app without seeing something useless. the main feed looks like an explore page, use the main feed for following account posts only. still constantly buggy esp for the in-app camera. make the bio longer, the limited actions (follows, unfollows, deletion) are super annoying.",
+      "Reels not loading or just stop playing randomly.",
+      "is best reel app"
     ]
   },
   {
     "topic_id": 5,
     "keywords": [
-      "block",
-      "remove",
-      "update",
-      "working",
-      "today",
-      "glitches"
+      "social",
+      "media",
+      "social media",
+      "platform",
+      "media platform",
+      "mention"
     ],
-    "review_count": 24,
-    "avg_rating": 2.38,
-    "avg_sentiment": -0.089,
+    "review_count": 20,
+    "avg_rating": 4.2,
+    "avg_sentiment": 0.558,
     "sample_reviews": [
-      "itz nice but when on my tablet the quick snap itz gone",
-      "not updated",
-      "please remove block system"
+      "best social media to viral",
+      "best social media platform",
+      "best best of social media app"
     ]
   },
   {
     "topic_id": 6,
     "keywords": [
-      "reels",
-      "reel",
-      "music",
-      "voice",
-      "reinstalled",
-      "buggy"
+      "addictive",
+      "distraction",
+      "important",
+      "cause",
+      "children",
+      "educational"
     ],
-    "review_count": 21,
-    "avg_rating": 2.76,
-    "avg_sentiment": -0.166,
+    "review_count": 17,
+    "avg_rating": 3.59,
+    "avg_sentiment": 0.181,
     "sample_reviews": [
-      "I can't get the reels? Y? I reinstalled the app and also updated thn also not geeting any reels, so i can't creat my own. This is so irritating",
-      "comment option not showing in all reels and all post i hate this bug",
-      "I am experiencing a very annoying audio bug on Android. When I mute a Reel using Instagram's mute button, the Reel is correctly silent. However, when I open a DM and play a voice message, the Reel audio becomes unmuted again when I return to Instagram. I want Reel/post videos to remain muted while still being able to hear Instagram DM voice messages. This is very disturbing and frustrating because I have to mute the Reel again repeatedly."
+      "addictive super addictive",
+      "i like for rells and stories",
+      "good but developers maked so addictive"
     ]
   },
   {
     "topic_id": 7,
     "keywords": [
-      "add",
-      "people follow",
-      "people",
-      "follow",
-      "destroy",
-      "block"
-    ],
-    "review_count": 18,
-    "avg_rating": 2.28,
-    "avg_sentiment": -0.128,
-    "sample_reviews": [
-      "Very Bad App, people follow just to get a follow-back and then unfollow. Add an unfollow notification feature so I can catch the traitors, block them, and destroy their engagement rate.",
-      "pls can y'all put some people who unfollowed you notification so i can catch some traitors,",
-      "my followers are automatically less and unfollowed"
-    ]
-  },
-  {
-    "topic_id": 8,
-    "keywords": [
-      "suspended",
-      "suspending",
-      "instagram",
-      "account",
-      "suspended account",
-      "literally"
-    ],
-    "review_count": 17,
-    "avg_rating": 1.47,
-    "avg_sentiment": -0.308,
-    "sample_reviews": [
-      "they shouldn't be suspending Instagram",
-      "its so shameful that i got my 7 year account suspended just because \"my account was associated with somr blah blah blah\" please instagram, go back to hunan support. Ditch that meta thing and please unsuspend my account",
-      "what the hell Instagram? you've been suspending my account for no valid reason. What do you mean i used a fake identity? Because I'm pretty sure i post my face, i have my real name on and yes, why do you keep suspending me for that? you've done this for like 5 times already and it's really pissing me off. First you asked for a photo, and it appealed to my account, now i used my id for the 5th suspension, you guys disabled my account. ya'll think everyone is a bot at this point."
-    ]
-  },
-  {
-    "topic_id": 9,
-    "keywords": [
-      "ads",
-      "ad",
+      "update",
+      "changes",
+      "hate",
+      "things",
       "annoying",
-      "watching",
-      "sucks",
-      "ppl"
+      "technical"
     ],
-    "review_count": 12,
-    "avg_rating": 1.0,
-    "avg_sentiment": -0.208,
+    "review_count": 15,
+    "avg_rating": 1.4,
+    "avg_sentiment": -0.335,
     "sample_reviews": [
-      "Every day this app gets infested with ads, watching videos is a pain, there's 1 ad in every 3 videos, and i cant swipe up or down to skip the ads, and worst is, it would automatically open the ads IG. damnnnn",
-      "Gradually Instagram has become a useless app, there are too many ads and less reels.",
-      "There's an advertisement after every other post. It's really annoying."
-    ]
-  },
-  {
-    "topic_id": 10,
-    "keywords": [
-      "views",
-      "viral",
-      "video",
-      "thanks",
-      "need",
-      "plz help"
-    ],
-    "review_count": 11,
-    "avg_rating": 3.91,
-    "avg_sentiment": 0.245,
-    "sample_reviews": [
-      "please give more views, and likes thanks IG....",
-      "loser app not viral not follower i need to my video viral i need follow please",
-      "You guys are freezing my views"
-    ]
-  },
-  {
-    "topic_id": 11,
-    "keywords": [
-      "login",
-      "password",
-      "log",
-      "lately",
-      "completely",
-      "locked"
-    ],
-    "review_count": 11,
-    "avg_rating": 1.55,
-    "avg_sentiment": -0.419,
-    "sample_reviews": [
-      "when i login my id i written correct password but instagram says incorrect password",
-      "I have been experiencing major technical issues with Instagram lately. My account was suspended today, and while I attempted to appeal the decision, I never received the verification code in my email. Thinking it might refresh the session, I logged out, but now I\u2019m completely locked out. Even the 'forgotten password' route fails, showing 'unable to log in, please try again later.' This is incredibly frustrating. Please look into these login bugs and fix this as soon as possible.",
-      "I dont know the issue with instagram lately soo many hackers and i nevsr set up duo mobile or authenticator app i dont know how it came up like this but i just want my account back every time i have to verify my account it send me to verify via google authenticator or duo mobile and if i click account recovery i have to do video selfie and mamy times i have done a video sellfie it tells me to change my pass after i changed my pass it resend me back to the authe tication phase! man what the hell"
+      "i have been experiencing major technical issuesss",
+      "they did a update where if you search certain things it just pulls up account instead of posts and it's annoying",
+      "i hate the search update"
     ]
   }
 ]

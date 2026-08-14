@@ -2,176 +2,226 @@
   {
     "topic_id": 0,
     "keywords": [
-      "movie",
+      "netflix",
+      "easy",
       "movies",
-      "drama",
-      "anime",
-      "story",
-      "korean"
+      "watch",
+      "streaming",
+      "shows"
     ],
-    "review_count": 73,
-    "avg_rating": 4.3,
-    "avg_sentiment": 0.322,
+    "review_count": 52,
+    "avg_rating": 4.0,
+    "avg_sentiment": 0.452,
     "sample_reviews": [
-      "excellently selected films to watch with family across different age groups",
-      "really fantastic not like the normal horrors as this feels real",
-      "love watching all the Korean moves have fantastic stories ."
+      "\u201cThe app Netflix is easy to navigate and has a wide selection of movies and shows. I like how convenient it is for watching content.\u201d",
+      "Netflix has always been more than just a streaming platform for me. \u2764\ufe0f I genuinely love movies and web series, and watching them has become such a special part of my life. From amazing stories to unforgettable characters, Netflix always gives me something worth watching. There are so many platforms out there, but Netflix will always be my favorite. Thank you for bringing so many beautiful stories to our screens. \u2764\ufe0f\u2728",
+      "Netflix and chill"
     ],
-    "label": "Korean movies with great stories",
+    "label": "Easy to navigate",
     "category": "praise",
-    "root_cause": "excellently selected films to watch with family",
+    "root_cause": "User-friendly interface",
     "priority": "medium",
-    "priority_reason": "average rating and review count",
-    "pm_action": "investigate user preferences for Korean dramas"
+    "priority_reason": "Average rating is 4.0",
+    "pm_action": "No action required"
   },
   {
     "topic_id": 1,
     "keywords": [
-      "netflix",
-      "love netflix",
-      "love",
-      "watch",
+      "movie",
       "movies",
-      "shows"
+      "new",
+      "new movies",
+      "english",
+      "series"
     ],
-    "review_count": 47,
-    "avg_rating": 4.26,
-    "avg_sentiment": 0.381,
+    "review_count": 45,
+    "avg_rating": 3.98,
+    "avg_sentiment": 0.323,
     "sample_reviews": [
-      "i love netflix.it is a great app",
-      "great app of course I mean come on it's Netflix. The only thing I'm having a problem with is the controller connecting and staying connected. There's also a problem with the color on the oxenfree game.",
-      "it's literally netflix who doesn't like netflix"
+      "Very well directed. This movie shows how someone can honestly snap when they feel hurt, embarrassed, disappointed and betrayed.",
+      "difficult to get some movies",
+      "I love the new movies that come up."
     ],
-    "label": "Love Netflix App",
-    "category": "praise",
-    "root_cause": "User enjoys Netflix app experience",
-    "priority": "medium",
-    "priority_reason": "Average rating is 4.26 and review count is 47",
-    "pm_action": "Investigate controller connection issues"
+    "label": "New movies difficult to get",
+    "category": "complaint",
+    "root_cause": "Difficulties in accessing new movies",
+    "priority": "high",
+    "priority_reason": "Average rating is 3.98 and review count is 45",
+    "pm_action": "Improve accessibility of new movies"
   },
   {
     "topic_id": 2,
     "keywords": [
-      "platform",
-      "streaming",
-      "movies",
-      "movies series",
-      "watch movies",
-      "variety"
+      "entertaining",
+      "reliable",
+      "experience",
+      "excellent",
+      "content",
+      "quality"
     ],
-    "review_count": 39,
-    "avg_rating": 4.64,
-    "avg_sentiment": 0.492,
+    "review_count": 36,
+    "avg_rating": 4.81,
+    "avg_sentiment": 0.458,
     "sample_reviews": [
-      "Great for everyone in the household. With dedicated kids' profiles, a massive variety of genres, and seamless multi-device syncing, it's worth every penny.",
-      "very happy this app",
-      "very g so good and I'm impress with this app and the quality of the video and movie"
+      "very fun and lovely.",
+      "Just the Best!!",
+      "it's good to have.."
     ],
-    "label": "Netflix Streaming Platform",
+    "label": "Excellent Netflix Experience",
     "category": "praise",
-    "root_cause": "Variety of movies and series",
+    "root_cause": "Entertaining and reliable content quality",
     "priority": "medium",
-    "priority_reason": "Average rating is 4.64",
-    "pm_action": "Monitor user feedback"
+    "priority_reason": "Average rating is 4.81 and review count is 36",
+    "pm_action": "Monitor and maintain content quality"
   },
   {
     "topic_id": 3,
     "keywords": [
-      "subscription",
-      "pay",
-      "expensive",
-      "price",
-      "worth",
-      "adds"
+      "watch",
+      "series",
+      "seasons",
+      "series movies",
+      "awesome",
+      "season"
     ],
     "review_count": 31,
-    "avg_rating": 2.16,
-    "avg_sentiment": -0.173,
+    "avg_rating": 4.39,
+    "avg_sentiment": 0.489,
     "sample_reviews": [
-      "5 euros for a subscription with ADS? Are yall fr? And the standard is 15 euros. Imma sail bruh.",
-      "there alot of scope of improvement !! company have to remove boundaries and show contain from all over the world",
-      "totally waste app I run it 1 or 2 months ago , then I subscribed it for 149rs. then i run it for about 5 to 10 days . now after subscription over it charges again automatically. without any permission \u274c\u274c scam scam scam"
+      "yes it's good for me I get to watch stuff",
+      "add big bang theory and georgie and mandy's first marriage",
+      "it's just sooo amazing it almost has all the series and movies i look for!!!"
     ],
-    "label": "Expensive subscription with ads",
-    "category": "complaint",
-    "root_cause": "Unfair pricing model",
-    "priority": "high",
-    "priority_reason": "Low rating and high review count",
-    "pm_action": "Review pricing strategy and consider ad-free options"
+    "label": "Awesome Series and Movies",
+    "category": "praise",
+    "root_cause": "Lack of specific series and movies",
+    "priority": "medium",
+    "priority_reason": "Average rating is 4.39 and review count is 31",
+    "pm_action": "Add requested series and movies to the platform"
   },
   {
     "topic_id": 4,
     "keywords": [
-      "love",
-      "new",
-      "experience",
-      "story",
-      "excellent",
-      "love enjoying"
+      "streaming",
+      "better",
+      "movie",
+      "movies",
+      "like",
+      "shows"
     ],
-    "review_count": 30,
-    "avg_rating": 4.9,
-    "avg_sentiment": 0.557,
+    "review_count": 29,
+    "avg_rating": 4.34,
+    "avg_sentiment": 0.611,
     "sample_reviews": [
-      "She's a winner, not a victim, someone we all aspire to be!",
-      "keeps getting better",
-      "great love it"
+      "A great streaming platform with many movies, series, and shows to enjoy.",
+      "good app for movies",
+      "great app with better and better streaming options. Need more fighting anime and classic action movies! bring back the 80s and 90s block busters woth grit and steel!"
     ],
-    "label": "Love Story",
-    "category": "praise",
-    "root_cause": "Excellent love experience",
-    "priority": "medium",
-    "priority_reason": "Average rating is 4.9 and review count is 30",
-    "pm_action": "Investigate why rating is not 5"
+    "label": "Streaming Platform Improvement Needed",
+    "category": "complaint",
+    "root_cause": "Need more fighting anime and classic action movies",
+    "priority": "high",
+    "priority_reason": "Rating is 4.34 and review count is 29",
+    "pm_action": "Add more anime and classic action movies to the platform"
   },
   {
     "topic_id": 5,
     "keywords": [
-      "season",
-      "series",
-      "shows",
-      "awesome",
+      "love",
+      "ai",
       "lot",
-      "better"
+      "apps",
+      "works",
+      "like"
     ],
-    "review_count": 27,
-    "avg_rating": 4.67,
-    "avg_sentiment": 0.508,
+    "review_count": 23,
+    "avg_rating": 4.04,
+    "avg_sentiment": 0.495,
     "sample_reviews": [
-      "Ransom Canyon is probably the best series since Friends\u2728\ufe0f",
-      "Great show. Very suspenseful.",
-      "Great Reality Shows especially Love is Blind and A Million Dollars Secret"
+      "world the best app",
+      "I love this app",
+      "This is by far the \"Old Reliable\" of apps!! "
     ],
-    "label": "Awesome Series",
+    "label": "Love AI App Works",
     "category": "praise",
-    "root_cause": "Users enjoy suspenseful and reality shows",
+    "root_cause": "Users enjoy the app's features.",
     "priority": "medium",
-    "priority_reason": "Average rating is 4.67 and review count is 27",
-    "pm_action": "Monitor user feedback for potential feature requests"
+    "priority_reason": "Average rating is 4.04 and review count is 23.",
+    "pm_action": "Monitor user feedback for potential issues."
   },
   {
     "topic_id": 6,
     "keywords": [
-      "account",
-      "create",
-      "worst",
-      "profile",
       "update",
-      "working"
+      "open",
+      "did",
+      "issue",
+      "updated",
+      "new"
     ],
-    "review_count": 13,
-    "avg_rating": 1.62,
-    "avg_sentiment": -0.137,
+    "review_count": 16,
+    "avg_rating": 2.31,
+    "avg_sentiment": 0.005,
     "sample_reviews": [
-      "terrible value, also cannot uninstall on Samsung",
-      "Just a pity we cannot update our old devices even though work 100%",
-      "to much trouble login on"
+      "Did not get help",
+      "please bring back blackpink display profile please",
+      "the new update stinks"
     ],
-    "label": "Account Creation Issues",
+    "label": "New Update Issues",
     "category": "complaint",
-    "root_cause": "Inconsistent user experience across devices",
+    "root_cause": "Users are unhappy with the new update.",
+    "priority": "high",
+    "priority_reason": "Average rating is low and review count is high.",
+    "pm_action": "Investigate and fix the issues causing user dissatisfaction."
+  },
+  {
+    "topic_id": 7,
+    "keywords": [
+      "hindi",
+      "indian",
+      "available",
+      "movie",
+      "annoying",
+      "man"
+    ],
+    "review_count": 14,
+    "avg_rating": 2.5,
+    "avg_sentiment": -0.041,
+    "sample_reviews": [
+      "kuchh series nhi dikh ri h",
+      "\u0940 \u0930\u093f\u092f\u0932\u0940 \u0932\u0935\u094d\u0921 it",
+      "No Serbian localization, still..."
+    ],
+    "label": "No Hindi movie available",
+    "category": "complaint",
+    "root_cause": "No Hindi movies are available for streaming",
+    "priority": "high",
+    "priority_reason": "Low rating and high review count",
+    "pm_action": "Check content availability and update catalog"
+  },
+  {
+    "topic_id": 8,
+    "keywords": [
+      "working",
+      "playing",
+      "videos",
+      "keeps",
+      "play",
+      "subscription"
+    ],
+    "review_count": 11,
+    "avg_rating": 1.09,
+    "avg_sentiment": -0.176,
+    "sample_reviews": [
+      "it is not playing my movies if again and agin shows that Netflix is not responding",
+      "Autoplay previews turned off. still autoplays previews until phone is dead. PLEASE SORT OUT OR CANCELLING SUBSCRIPTION!!!",
+      "can't sign in on my Android phone but I already paid for it. it's working on our TV and two other phones except for mine"
+    ],
+    "label": "Netflix not responding",
+    "category": "complaint",
+    "root_cause": "Technical issues with app functionality",
     "priority": "high",
     "priority_reason": "Low rating and multiple complaints",
-    "pm_action": "Investigate Samsung uninstall issue and improve login process"
+    "pm_action": "Investigate and resolve technical issues"
   }
 ]
