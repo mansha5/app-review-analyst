@@ -25,7 +25,7 @@ BOOST = {
 }
 
 def scrape_app(name, package_id, count=500):
-    print(f"Scraping {name} ({count} reviews)...")
+    print(f"Scraping {name}...")
     result, _ = reviews(
         package_id,
         lang="en",
@@ -33,10 +33,22 @@ def scrape_app(name, package_id, count=500):
         sort=Sort.NEWEST,
         count=count,
     )
-    df = pd.DataFrame(result)
-    df["app_name"] = name
-    df.to_csv(f"data/raw/{name}.csv", index=False)
-    print(f"  saved {len(df)} reviews → data/raw/{name}.csv")
+    new_df = pd.DataFrame(result)
+    new_df["app_name"] = name
+
+    existing_path = f"data/raw/{name}.csv"
+    if os.path.exists(existing_path):
+        existing_df = pd.read_csv(existing_path)
+        combined = pd.concat([existing_df, new_df], ignore_index=True)
+        combined = combined.drop_duplicates(subset=["reviewId"])
+        # keep only most recent 2000 reviews
+        combined = combined.sort_values("at", ascending=False).head(2000)
+        combined.to_csv(existing_path, index=False)
+        print(f"  {name}: {len(new_df)} new scraped → {len(combined)} total kept")
+    else:
+        new_df.to_csv(existing_path, index=False)
+        print(f"  {name}: {len(new_df)} reviews saved")
+
     time.sleep(2)
 
 if __name__ == "__main__":
