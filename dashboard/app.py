@@ -201,11 +201,9 @@ Structure:
 def build_weekly_trend(df):
     df = df.copy()
     df["review_date"] = pd.to_datetime(df["review_date"])
-    df["week"] = df["review_date"].dt.to_period("W").apply(
-        lambda r: r.start_time
-    )
-    weekly = (
-        df.groupby("week")
+    df["day"] = df["review_date"].dt.date
+    daily = (
+        df.groupby("day")
         .agg(
             review_count=("rating", "count"),
             avg_rating=("rating", "mean"),
@@ -213,9 +211,9 @@ def build_weekly_trend(df):
         )
         .round(3)
         .reset_index()
-        .sort_values("week")
+        .sort_values("day")
     )
-    return weekly
+    return daily
 
 # ── Load data ─────────────────────────────────────────
 analytics = load_analytics()
@@ -360,9 +358,9 @@ with tab1:
     with col1:
         st.subheader("Rating Trend by Week")
         df_reviews = load_reviews(selected_app)
-        weekly     = build_weekly_trend(df_reviews)
+        daily     = build_weekly_trend(df_reviews)
 
-        if len(weekly) >= 2:
+        if len(daily) >= 2:
             fig_trend = go.Figure()
             fig_trend.add_trace(go.Scatter(
                 x=weekly["week"],
