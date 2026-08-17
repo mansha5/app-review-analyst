@@ -2,76 +2,176 @@
   {
     "topic_id": 0,
     "keywords": [
+      "whatsapp",
+      "account",
+      "review",
       "communication",
-      "like",
-      "easy",
       "love",
-      "time",
-      "calls"
+      "banned"
     ],
-    "review_count": 293,
-    "avg_rating": 4.02,
-    "avg_sentiment": 0.351,
+    "review_count": 230,
+    "avg_rating": 3.8,
+    "avg_sentiment": 0.333,
     "sample_reviews": [
-      "It a good app for chat i love it so much",
-      "good apps I really like it",
-      "Good and nice app with better and modified AI (Meta) It is really good for beginners who are new to it. They can experience various security features designed by developer. You can also generate image with the help of Meta AI. THANK YOU WHATSAPP."
+      "please un block my whatsapp please",
+      "wonder full messaging app",
+      "nice application for whatsapp"
     ],
-    "label": "Easy Communication App",
-    "category": "praise",
-    "root_cause": "Effective communication with loved ones",
-    "priority": "medium",
-    "priority_reason": "Average rating and moderate review count",
-    "pm_action": "Monitor and improve user experience"
+    "label": "Account Issue",
+    "category": "complaint",
+    "root_cause": "User account blocked",
+    "priority": "high",
+    "priority_reason": "Low rating and multiple complaints",
+    "pm_action": "Re-enable user account"
   },
   {
     "topic_id": 1,
     "keywords": [
-      "whatsapp",
-      "account",
-      "number",
-      "review",
-      "official",
-      "problem"
+      "easy",
+      "fast",
+      "amazing",
+      "bad",
+      "daily",
+      "fast easy"
     ],
-    "review_count": 188,
-    "avg_rating": 2.7,
-    "avg_sentiment": 0.004,
+    "review_count": 78,
+    "avg_rating": 4.49,
+    "avg_sentiment": 0.4,
     "sample_reviews": [
-      "I can't install whatsapp",
-      "But my problem with this vasion is cant verify my number and keeping telling me downlod from official website is there better place to download and use WhatsApp better than here?",
-      "cant verify my number. cant receive does. it sucks"
+      "hoo it's super",
+      "very harmful",
+      "good easy \u2764\ufe0f\u200d"
     ],
-    "label": "Whatsapp Install Issue",
-    "category": "complaint",
-    "root_cause": "Installation issue due to unofficial download",
-    "priority": "high",
-    "priority_reason": "Low rating and multiple complaints",
-    "pm_action": "Investigate and resolve installation issue on official website"
+    "label": "WhatsApp Review Analysis",
+    "category": "praise",
+    "root_cause": "Users find WhatsApp easy and fast to use.",
+    "priority": "medium",
+    "priority_reason": "Average rating is 4.49 and review count is 78.",
+    "pm_action": "Investigate the one bad review to improve user experience."
   },
   {
     "topic_id": 2,
     "keywords": [
-      "mera",
-      "whatsapp",
-      "video",
-      "help",
-      "status",
-      "internet"
+      "update",
+      "install",
+      "download",
+      "log",
+      "version",
+      "time"
     ],
-    "review_count": 40,
-    "avg_rating": 3.45,
-    "avg_sentiment": 0.043,
+    "review_count": 48,
+    "avg_rating": 2.46,
+    "avg_sentiment": -0.059,
     "sample_reviews": [
-      "\u0425\u04e9\u0440\u043c\u04d9\u0442\u043b\u0435 WhatsApp \u044f\u0440\u0499\u0430\u043c \u043a\u043e\u043c\u0430\u043d\u0434\u0430\u04bb\u044b, \u042f\u04a3\u044b\u0440\u0430\u04a1 \u043c\u0438\u043d \u0445\u04d9\u0431\u04d9\u0440 \u0430\u043b\u0434\u044b\u043c, \u0442\u0438\u043f \u201c\u0411\u044b\u043b \u0438\u04ab\u04d9\u043f \u044f\u0499\u043c\u0430\u04bb\u044b \u04a1\u0443\u043b\u043b\u0430\u043d\u0430 \u0430\u043b\u043c\u0430\u0439\u2019t WhatsApp \u041c\u0438\u043d \u044b\u0448\u0430\u043d\u0430\u043c, \u0431\u044b\u043b \u0445\u0430\u0442\u0430 \u0439\u04d9\u043a\u0438 \u0430\u04a3\u043b\u0430\u0448\u044b\u043b\u043c\u0430\u0443\u0441\u0430\u043d\u043b\u044b\u04a1 \u0431\u0443\u043b\u044b\u0443\u044b \u043c\u04e9\u043c\u043a\u0438\u043d \u041c\u0438\u043d \u04bb\u04d9\u0440 \u0432\u0430\u04a1\u044b\u0442 \u0442\u044b\u0440\u044b\u0448\u0430\u043c, WhatsApp\u2019s \u0445\u0435\u0499\u043c\u04d9\u0442\u043b\u04d9\u043d\u0434\u0435\u0440\u0435\u04af\u0499\u0435\u04a3 \u0448\u0430\u0440\u0442\u0442\u0430\u0440\u044b\u043d \u04af\u0442\u04d9\u0440\u0433\u04d9 \u04bb\u04d9\u043c \u04a1\u0443\u0448\u044b\u043c\u0442\u0430\u043d\u044b \u0448\u04d9\u0445\u0441\u0438 \u0430\u0440\u0430\u043b\u0430\u0448\u044b\u0443 \u04e9\u0441\u04e9\u043d \u0433\u0435\u043d\u04d9 \u04a1\u0443\u043b\u043b\u0430\u043d\u044b\u0443. \u0417\u0438\u043d\u04bb\u0430\u0440, \u043c\u0438\u043d\u0435\u04a3 \u0438\u04ab\u04d9\u043f \u044f\u0499\u043c\u0430\u04bb\u044b\u043d \u04a1\u0430\u0440\u0430\u043f \u0441\u044b\u0493\u044b\u0493\u044b\u0499 \u04bb\u04d9\u043c \u043c\u04e9\u043c\u043a\u0438\u043d \u0431\u0443\u043b\u04bb\u0430, \u0440\u04e9\u0445\u0441\u04d9\u0442\u0442\u0435 \u0442\u0435\u0440\u0433\u0435\u0499\u0435\u0433\u0435\u0499. \u042f\u0440\u0499\u0430\u043c\u044b\u0493\u044b\u0499, \u044f\u0440\u0499\u0430\u043c\u044b\u0493\u044b\u0499 \u04e9\u0441\u04e9\u043d \u0431\u0438\u043a \u0440\u04d9\u0445\u043c\u04d9\u0442\u043b\u0435 \u0431\u0443\u043b\u044b\u0440 \u0438\u043d\u0435\u043c. \u0412\u0430\u04a1\u044b\u0442\u044b\u0493\u044b\u0499 \u04bb\u04d9\u043c \u0430\u04a3\u043b\u0430\u0443\u044b\u0493\u044b\u0499 \u04e9\u0441\u04e9\u043d \u0440\u04d9\u0445\u043c\u04d9\u0442 \u041d\u043e\u043c\u0435\u0440 \u0448\u0438\u043d\u044b \u0421\u0442\u0440\u0430\u043d\u0430 +91\u0422\u0438\u043f \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430vivo v70fe",
-      "bahut achha",
-      "awaaz km aati hai"
+      "good new updates now a days",
+      "I couldn't log in",
+      "Not able to install on samsung z fold 8. have update all applications but still whatsup is not getting install"
     ],
-    "label": "Account issue",
+    "label": "Whatsapp Update Issues",
     "category": "complaint",
-    "root_cause": "Account not accessible due to unknown reasons",
+    "root_cause": "Installation and login issues with latest update.",
     "priority": "high",
-    "priority_reason": "Rating is 3.45 and review count is 40",
-    "pm_action": "Re-enable account access"
+    "priority_reason": "Low rating and multiple complaints.",
+    "pm_action": "Investigate and fix installation and login bugs."
+  },
+  {
+    "topic_id": 3,
+    "keywords": [
+      "bar",
+      "24",
+      "bar bar",
+      "whats",
+      "hi",
+      "time"
+    ],
+    "review_count": 38,
+    "avg_rating": 3.66,
+    "avg_sentiment": -0.035,
+    "sample_reviews": [
+      "ya app gb bahut leta hai",
+      "plz new features dy mujhy keyboard waly b or Baki",
+      "\u098f\u099f\u09be \u0986\u09ae\u09be\u09b0 \u0997\u09c1\u09b0\u09c1\u09a4\u09cd\u09ac\u09aa\u09c2\u09b0\u09cd\u09a3 whatsapp \u0997\u09c1\u09b0\u09c1\u09a4\u09cd\u09ac\u09aa\u09c2\u09b0\u09cd\u09a3 whatsapp"
+    ],
+    "label": "Whatsapp App Issues",
+    "category": "complaint",
+    "root_cause": "App takes a long time to load",
+    "priority": "high",
+    "priority_reason": "Low rating and many reviews",
+    "pm_action": "Investigate and fix loading speed issues"
+  },
+  {
+    "topic_id": 4,
+    "keywords": [
+      "communication",
+      "fast",
+      "im",
+      "family",
+      "way",
+      "fast communication"
+    ],
+    "review_count": 21,
+    "avg_rating": 4.62,
+    "avg_sentiment": 0.452,
+    "sample_reviews": [
+      "Reluable fast communicating eith friends and family",
+      "very importance chat",
+      "Im short of words"
+    ],
+    "label": "Fast Communication App",
+    "category": "praise",
+    "root_cause": "Effective way to stay in touch with family",
+    "priority": "medium",
+    "priority_reason": "Average rating is 4.62 and review count is 21",
+    "pm_action": "Investigate and improve user experience"
+  },
+  {
+    "topic_id": 5,
+    "keywords": [
+      "service",
+      "support",
+      "thanks",
+      "forward",
+      "fantastic",
+      "thank support"
+    ],
+    "review_count": 17,
+    "avg_rating": 4.18,
+    "avg_sentiment": 0.456,
+    "sample_reviews": [
+      "fantastic service",
+      "There should be an option in Mood Today that says something can last forever.",
+      "best service"
+    ],
+    "label": "App: whatsapp",
+    "category": "praise",
+    "root_cause": "Fantastic service and support",
+    "priority": "medium",
+    "priority_reason": "Average rating is 4.18 and review count is 17",
+    "pm_action": "Investigate and improve Mood Today feature"
+  },
+  {
+    "topic_id": 6,
+    "keywords": [
+      "account",
+      "bad bad",
+      "blocking",
+      "bad",
+      "banning",
+      "banned"
+    ],
+    "review_count": 16,
+    "avg_rating": 2.44,
+    "avg_sentiment": -0.275,
+    "sample_reviews": [
+      "why my account and device informations are in public what means it stop this kind of things witch makes me worry. whatever you are showing are not they harmful for me or not please tell me .",
+      "why my acc suddently got banned",
+      "It bans for no reason"
+    ],
+    "label": "Account Info Exposure",
+    "category": "complaint",
+    "root_cause": "Account information publicly visible",
+    "priority": "high",
+    "priority_reason": "Low rating and multiple complaints",
+    "pm_action": "Review account info visibility settings"
   }
 ]

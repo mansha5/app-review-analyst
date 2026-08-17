@@ -2,51 +2,101 @@
   {
     "topic_id": 0,
     "keywords": [
-      "time",
-      "service",
-      "care",
-      "quality",
-      "product",
-      "guys"
+      "swiggy",
+      "delivery",
+      "order",
+      "food",
+      "customer",
+      "worst"
     ],
-    "review_count": 443,
-    "avg_rating": 2.05,
-    "avg_sentiment": -0.161,
+    "review_count": 360,
+    "avg_rating": 2.26,
+    "avg_sentiment": -0.101,
     "sample_reviews": [
-      "amazinggg offers and deals",
-      "I hate the 100\u2105 cancellation fees policy",
-      "very bad service they are not giving resolution when food is bad not able to eat smelling very bad"
+      "cheating money when we cancel orders.",
+      "prices are generally much higher than restuarant prices",
+      "I love Swiggy good offers good product fast delivery"
     ],
-    "label": "Poor Service and Quality",
+    "label": "Swiggy delivery issues",
     "category": "complaint",
-    "root_cause": "100\u2105 cancellation fees policy and bad service",
+    "root_cause": "Cheating money when cancelling orders",
     "priority": "high",
-    "priority_reason": "Average rating is 2.05 and review count is 443",
-    "pm_action": "Review and revise cancellation fees policy"
+    "priority_reason": "Low rating and multiple complaints",
+    "pm_action": "Investigate and resolve payment cancellation issue"
   },
   {
     "topic_id": 1,
     "keywords": [
-      "service",
-      "awesome",
-      "job",
-      "amazing",
-      "10",
-      "loving"
+      "order",
+      "packet",
+      "time",
+      "delivery",
+      "rs",
+      "boy"
     ],
-    "review_count": 50,
-    "avg_rating": 4.74,
-    "avg_sentiment": 0.475,
+    "review_count": 41,
+    "avg_rating": 2.29,
+    "avg_sentiment": -0.0,
+    "sample_reviews": [
+      "20 mint ka order ek ghnte baad aayega customer care ko call krne ka koi option he nhi milega..... bakwas h I uninstalled the app because I couldn\u2019t connect for 30 minutes when my order was being delivered. Instead of focusing on fixing the connectivity issue, I hope you at least managed to satisfy my hunger.",
+      "orders dosa but got delivery of burgur and Cenclied in 1 minute but chochla ho gya 1 mnt me khana bn jata in ka zometo is perfect insted of swiggy.",
+      "ek time yh app bhot aacha hua karta tha but ab yh ap itna gnda ho chuka order krne wla preshan hota h ghnto wait kro inse swl jwb krte rho order nh aata kbhi inka ptner order leke bhg jta h kbhi order exchange hojta h bht hi bekr service ho chuki inki don't order this ap"
+    ],
+    "label": "Poor Delivery Experience",
+    "category": "complaint",
+    "root_cause": "Inadequate customer support and connectivity issues",
+    "priority": "high",
+    "priority_reason": "Low rating and multiple complaints",
+    "pm_action": "Investigate and resolve connectivity issues and improve customer support"
+  },
+  {
+    "topic_id": 2,
+    "keywords": [
+      "service service",
+      "service",
+      "services",
+      "excellent",
+      "superb",
+      "hygiene"
+    ],
+    "review_count": 40,
+    "avg_rating": 4.78,
+    "avg_sentiment": 0.5,
     "sample_reviews": [
       "best service",
-      "good sarcvice",
-      "good service"
+      "nice service",
+      "nice service"
     ],
-    "label": "Swiggy Service Review",
+    "label": "Excellent Service",
     "category": "praise",
-    "root_cause": "Users are satisfied with the service.",
+    "root_cause": "Good hygiene maintained",
     "priority": "medium",
-    "priority_reason": "Average rating is above 2.5 and review count is below 30.",
-    "pm_action": "Investigate the 1 negative review."
+    "priority_reason": "Average rating and moderate review count",
+    "pm_action": "Verify service quality with restaurant"
+  },
+  {
+    "topic_id": 3,
+    "keywords": [
+      "ok",
+      "excellent",
+      "super",
+      "better",
+      "awesome",
+      "thats"
+    ],
+    "review_count": 25,
+    "avg_rating": 4.64,
+    "avg_sentiment": 0.521,
+    "sample_reviews": [
+      "nice and fast",
+      "that's so great ",
+      "this no good"
+    ],
+    "label": "Swiggy Review Analysis",
+    "category": "praise",
+    "root_cause": "Overall rating is 4.64/5 with 25 reviews",
+    "priority": "medium",
+    "priority_reason": "Rating is above average but not excellent",
+    "pm_action": "Investigate and improve delivery speed"
   }
 ]

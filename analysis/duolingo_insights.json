@@ -2,176 +2,201 @@
   {
     "topic_id": 0,
     "keywords": [
-      "learning",
-      "languages",
       "language",
-      "japanese",
+      "learning",
       "learn",
-      "new"
+      "languages",
+      "english",
+      "energy"
     ],
-    "review_count": 87,
-    "avg_rating": 4.53,
-    "avg_sentiment": 0.497,
+    "review_count": 183,
+    "avg_rating": 4.01,
+    "avg_sentiment": 0.409,
     "sample_reviews": [
-      "this language is helping me so much learning Chinese",
-      "I really like it, but if you added Pashtoo language , it will be your pleasure.",
-      "good app learning for English ..."
+      "This app really helps improve your English Even if you have a beginner,you must try",
+      "I like the app but I want to keep improving my pronunciation",
+      "best for language learning thnks duo suiiii"
     ],
-    "label": "language learning",
-    "category": "other",
-    "root_cause": "user is learning Japanese",
+    "label": "English Learning",
+    "category": "praise",
+    "root_cause": "This app really helps improve your English",
     "priority": "medium",
-    "priority_reason": "average rating is 4.53 and review count is 87",
-    "pm_action": "no action required"
+    "priority_reason": "Average rating is 4.01 and review count is 183",
+    "pm_action": "Improve pronunciation feature"
   },
   {
     "topic_id": 1,
     "keywords": [
-      "duolingo",
-      "like",
-      "language",
-      "time",
+      "easy",
+      "chess",
+      "learning",
       "learn",
-      "learning"
+      "experience",
+      "easy learn"
     ],
-    "review_count": 50,
-    "avg_rating": 4.24,
-    "avg_sentiment": 0.566,
+    "review_count": 48,
+    "avg_rating": 4.52,
+    "avg_sentiment": 0.516,
     "sample_reviews": [
-      "Duolingo is good. it helps a lot to learn different languages. I love it. but maybe if the duo had a way to contact any ai intelligens , so others can ask questions about their doubts and get a solution then it would be good.",
-      "I really enjoy using Duolingo. It\u2019s a great app. One small issue I\u2019ve noticed: in the word exercises, when learning German from English, some words can be both nouns and verbs. For example, \u201creport\u201d can be either a noun (\u201ca report\u201d) or a verb (\u201cto report\u201d), but the exercise doesn\u2019t always make it clear which meaning is intended. It would be helpful to distinguish them somehow, for example by writing \u201cto report\u201d for the verb, or by indicating the part of speech.",
-      "I really like dualingo, it help me in be better every day, I love when they get me three day free of super dualingo that is so awesome and I feel so glad when that happens"
+      "sooo good for learn chess",
+      "great learning",
+      "Gamification keeps you coming."
     ],
-    "label": "Duolingo Feedback",
-    "category": "feature_request",
-    "root_cause": "Users want to ask AI for help with doubts.",
+    "label": "Easy Duolingo Experience",
+    "category": "praise",
+    "root_cause": "Gamification and learning features are effective.",
     "priority": "medium",
-    "priority_reason": "Average rating is 4.24 and review count is 50.",
-    "pm_action": "Implement AI chat feature for users to ask questions."
+    "priority_reason": "Average rating is above 2.5 and review count is below 30.",
+    "pm_action": "Monitor user feedback and adjust gamification features as needed."
   },
   {
     "topic_id": 2,
     "keywords": [
-      "english",
-      "way learn",
+      "duolingo",
+      "man",
+      "wrong",
+      "update",
       "learn",
-      "way",
-      "language",
-      "learn language"
+      "learning"
     ],
     "review_count": 44,
-    "avg_rating": 4.34,
-    "avg_sentiment": 0.273,
+    "avg_rating": 4.16,
+    "avg_sentiment": 0.502,
     "sample_reviews": [
-      " - 2 1 : :13.8.26 8",
-      "makez me wake up everyday.",
-      "adds bahut aata hai"
+      "best learning app in the world keep doing duolingo ,",
+      "so far duolingo is a easy-to-use learning app, I am now familiar with the beginning phrases and excited to learn more.",
+      "I love Duolingo app very much "
     ],
-    "label": "English learning app",
+    "label": "Duolingo User Feedback",
     "category": "praise",
-    "root_cause": "Effective way to learn English",
+    "root_cause": "Users are satisfied with the app's ease of use and learning experience.",
     "priority": "medium",
-    "priority_reason": "Average rating is 4.34 and review count is 44",
-    "pm_action": "Review and maintain the app's quality"
+    "priority_reason": "Average rating is above 2.5 and review count is below 30.",
+    "pm_action": "Monitor user feedback and consider adding new features to enhance the learning experience."
   },
   {
     "topic_id": 3,
     "keywords": [
-      "useful",
-      "helpful",
-      "try",
-      "alot",
-      "far",
-      "love"
+      "interesting",
+      "love",
+      "download",
+      "friends",
+      "amazing",
+      "application"
     ],
-    "review_count": 40,
-    "avg_rating": 4.38,
-    "avg_sentiment": 0.454,
+    "review_count": 34,
+    "avg_rating": 4.56,
+    "avg_sentiment": 0.523,
     "sample_reviews": [
-      "this app is helpful.",
-      "SO HELPFUL ITS BEEN NO PROBLEMS AND IS GREAT",
-      "Very good app"
+      "what is special app download",
+      "pretty decent app tbh love it!!",
+      "it is a very good app"
     ],
     "label": "Duolingo Review",
     "category": "praise",
-    "root_cause": "Users find the app helpful and great.",
+    "root_cause": "Users love the application.",
     "priority": "medium",
-    "priority_reason": "Average rating is 4.38 and review count is 40.",
-    "pm_action": "Monitor user feedback and maintain the app's quality."
+    "priority_reason": "Average rating is 4.56 and review count is 34.",
+    "pm_action": "Monitor and analyze user feedback."
   },
   {
     "topic_id": 4,
     "keywords": [
-      "love",
-      "far",
-      "loving",
-      "excellent",
-      "gave stars",
-      "im loving"
+      "ke",
+      "ke liye",
+      "liye",
+      "ok",
+      "level",
+      "duolingo"
     ],
-    "review_count": 37,
-    "avg_rating": 4.76,
-    "avg_sentiment": 0.543,
+    "review_count": 25,
+    "avg_rating": 4.4,
+    "avg_sentiment": 0.032,
     "sample_reviews": [
-      "its very great",
-      "i love it because i need to do it.",
-      "IT SOO AMAZINGGG"
+      "nice Bdiya h sikhne ke liye best app",
+      "bahut hi aasani se aap English Sikh sakte hain",
+      "konchem level penchithe bagunttundhi"
     ],
-    "label": "Excellent App",
+    "label": "Duolingo Review",
     "category": "praise",
-    "root_cause": "Users love the app for its effectiveness.",
-    "priority": "low",
-    "priority_reason": "Average rating is high and review count is moderate.",
-    "pm_action": "No action required, continue monitoring."
+    "root_cause": "User found Duolingo helpful for learning English",
+    "priority": "medium",
+    "priority_reason": "Average rating is 4.4 and review count is 25",
+    "pm_action": "Monitor and maintain the current rating and review count"
   },
   {
     "topic_id": 5,
     "keywords": [
-      "fun",
-      "learn",
-      "alot",
-      "easy",
-      "interesting",
-      "learning"
+      "amazing",
+      "love",
+      "tbh",
+      "yes",
+      "wow",
+      "kinda"
     ],
-    "review_count": 33,
-    "avg_rating": 4.64,
-    "avg_sentiment": 0.515,
+    "review_count": 23,
+    "avg_rating": 4.78,
+    "avg_sentiment": 0.554,
     "sample_reviews": [
-      "it is fun but teaches you alot",
-      "it so fun and for kids to be better at talking to different people in the word",
-      "so butiful learning ape"
+      "it is very good and playful",
+      "this is very good",
+      "its very well done"
     ],
-    "label": "Fun Learning App",
+    "label": "Duolingo Review",
     "category": "praise",
-    "root_cause": "Engaging and educational content.",
+    "root_cause": "Users love the playful and well-done app.",
     "priority": "medium",
-    "priority_reason": "Average rating is above 2.5 and review count is below 30.",
-    "pm_action": "Review and maintain the app's content quality."
+    "priority_reason": "Average rating is 4.78 and review count is 23.",
+    "pm_action": "Monitor and maintain the high rating."
   },
   {
     "topic_id": 6,
     "keywords": [
-      "learning",
-      "lesson",
-      "free",
-      "energy",
-      "complete",
-      "learning learning"
+      "experience",
+      "time",
+      "",
+      "",
+      "",
+      ""
     ],
-    "review_count": 31,
-    "avg_rating": 4.03,
-    "avg_sentiment": 0.55,
+    "review_count": 12,
+    "avg_rating": 5.0,
+    "avg_sentiment": 0.517,
     "sample_reviews": [
-      "Fun and calm reminder of what has to be done in your lesson",
-      "wow nice learning app n I c e a p p \u2763\ufe0f",
-      "awesome app. I'm enjoying my learning"
+      "is the best app",
+      "perfection ",
+      "the best app of all time"
     ],
-    "label": "Duolingo Review",
+    "label": "Duolingo User Experience",
     "category": "praise",
-    "root_cause": "Users enjoy learning with Duolingo",
+    "root_cause": "Users highly praise the app's effectiveness and user experience.",
     "priority": "medium",
-    "priority_reason": "Average rating is 4.03 and review count is 31",
-    "pm_action": "Monitor user feedback and ratings"
+    "priority_reason": "Average rating is 5.0 and review count is 12, which is relatively low.",
+    "pm_action": "Investigate why review count is low and consider implementing a review prompt feature."
+  },
+  {
+    "topic_id": 7,
+    "keywords": [
+      "helpful",
+      "useful",
+      "come",
+      "alot",
+      "later",
+      "helping"
+    ],
+    "review_count": 11,
+    "avg_rating": 4.45,
+    "avg_sentiment": 0.493,
+    "sample_reviews": [
+      "Good very usefull",
+      "it's very helpful to us",
+      "so useful in many ways"
+    ],
+    "label": "Duolingo Feedback",
+    "category": "praise",
+    "root_cause": "Users find Duolingo very helpful and useful.",
+    "priority": "medium",
+    "priority_reason": "Average rating is 4.45 and review count is 11.",
+    "pm_action": "Review and analyze user feedback to identify areas for improvement."
   }
 ]

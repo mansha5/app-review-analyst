@@ -2,39 +2,77 @@
   {
     "topic_id": 0,
     "keywords": [
+      "zomato",
       "food",
+      "delivery",
+      "order",
       "customer",
-      "support",
-      "time",
-      "bad",
-      "customer support"
+      "service"
     ],
-    "review_count": 312,
-    "avg_rating": 2.59,
-    "avg_sentiment": -0.029,
+    "review_count": 216,
+    "avg_rating": 2.87,
+    "avg_sentiment": 0.026,
     "sample_reviews": [
-      "first time order",
-      "itna time lagta h ek cake ko delevery dene me ??",
-      "very gandaaaa so lazyyy very very poorrr.timing"
+      "poor customer support",
+      "wow nice app",
+      "did not take action when I complained about food item is missing in my order."
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
       "service",
+      "experience",
+      "helpful",
+      "services",
       "excellent",
-      "thank",
-      "ok",
-      "work",
       "quality"
     ],
-    "review_count": 78,
-    "avg_rating": 4.76,
-    "avg_sentiment": 0.528,
+    "review_count": 88,
+    "avg_rating": 4.67,
+    "avg_sentiment": 0.46,
     "sample_reviews": [
-      "very very good",
+      "bad experience ",
       "good service",
-      "basically the service was good and phthe taste of food ki amazing"
+      "service is good "
+    ]
+  },
+  {
+    "topic_id": 2,
+    "keywords": [
+      "ka",
+      "order",
+      "scam",
+      "star",
+      "quality",
+      "zomato"
+    ],
+    "review_count": 33,
+    "avg_rating": 3.15,
+    "avg_sentiment": 0.001,
+    "sample_reviews": [
+      "cast payment ka option nahi hai",
+      "shi hai \u263a\ufe0f\u263a\ufe0f\u263a\ufe0f\u263a\ufe0f\u263a\ufe0f\u263a\ufe0f",
+      "good sarvesh"
+    ]
+  },
+  {
+    "topic_id": 3,
+    "keywords": [
+      "charges",
+      "high",
+      "swiggy",
+      "price",
+      "charge",
+      "better"
+    ],
+    "review_count": 31,
+    "avg_rating": 2.26,
+    "avg_sentiment": -0.044,
+    "sample_reviews": [
+      "too much charges",
+      "bteer than Swiggy ",
+      "waste, antinational"
     ]
   }
 ]

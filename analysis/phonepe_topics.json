@@ -2,115 +2,115 @@
   {
     "topic_id": 0,
     "keywords": [
-      "money",
-      "phonepe",
-      "phone",
-      "pay",
-      "issue",
-      "problem"
+      "application",
+      "useful",
+      "work",
+      "excellent",
+      "upi",
+      "super"
     ],
-    "review_count": 138,
-    "avg_rating": 3.43,
-    "avg_sentiment": 0.169,
+    "review_count": 75,
+    "avg_rating": 4.2,
+    "avg_sentiment": 0.409,
     "sample_reviews": [
-      "best then paytm",
-      "Best Best Best",
-      "Easy to use. Faster transaction. Happy with this app."
+      "the can't reward app ",
+      "better application than other apps",
+      "very good excellent app"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "excellent",
-      "like",
-      "upi",
-      "update",
-      "features",
-      "useful"
+      "fast",
+      "service",
+      "easy",
+      "super",
+      "working",
+      "user friendly"
     ],
-    "review_count": 66,
-    "avg_rating": 4.33,
-    "avg_sentiment": 0.396,
+    "review_count": 74,
+    "avg_rating": 4.72,
+    "avg_sentiment": 0.384,
     "sample_reviews": [
-      "It's important app",
-      "I am using this app since last month. It works nicely. So far I did not get any problem.",
-      "too good app"
+      "easy to use",
+      "user friendly",
+      "good scanning speed"
     ]
   },
   {
     "topic_id": 2,
     "keywords": [
-      "service",
-      "working",
-      "excellent",
-      "excellent service",
-      "super",
-      "thank"
+      "payment",
+      "pay",
+      "transfer",
+      "money",
+      "payments",
+      "transactions"
     ],
-    "review_count": 54,
-    "avg_rating": 4.78,
-    "avg_sentiment": 0.444,
+    "review_count": 57,
+    "avg_rating": 4.42,
+    "avg_sentiment": 0.354,
     "sample_reviews": [
-      "really good.....",
-      "good day sarvis",
-      "good and smooth"
+      "good for online transaction",
+      "good medium of exchange",
+      "verry usefull app done all payments."
     ]
   },
   {
     "topic_id": 3,
     "keywords": [
-      "easy",
-      "useful",
-      "useful easy",
-      "simple",
-      "friendly",
-      "come"
+      "phone",
+      "phone pay",
+      "fee",
+      "sab",
+      "recharge",
+      "cashback"
     ],
-    "review_count": 36,
-    "avg_rating": 4.86,
-    "avg_sentiment": 0.469,
+    "review_count": 37,
+    "avg_rating": 3.81,
+    "avg_sentiment": -0.003,
     "sample_reviews": [
-      "it's good very simple",
-      "this useful to us",
-      "very useful"
+      "bahut acha Hai",
+      "bahut achha",
+      "phone per bahut achcha app hai bahut din se chala rahe the bich mein kisi Karan bus band kar diya tha"
     ]
   },
   {
     "topic_id": 4,
     "keywords": [
-      "loan",
-      "phone",
-      "hi",
-      "pe",
       "phonepe",
-      "phone pe"
+      "pe",
+      "phone pe",
+      "phone",
+      "support",
+      "payment"
     ],
     "review_count": 28,
-    "avg_rating": 3.29,
-    "avg_sentiment": -0.073,
+    "avg_rating": 2.21,
+    "avg_sentiment": 0.02,
     "sample_reviews": [
-      "\u092a\u0947\u092e\u0947\u0902\u091f \u0905\u091f\u0915 \u091c\u093e\u0924\u093e \u0939\u0948",
-      "sad moh maya hai",
-      "upi pin problem hora hai"
+      "like phonepe",
+      "Some Issues are there in phonpe at the account",
+      "Message is coming that gift card for amount 75 rupees is going to expire within 30 days. I tried a lot to get that money by installing PhonePe but couldn't find the redeem option."
     ]
   },
   {
     "topic_id": 5,
     "keywords": [
       "experience",
-      "bad experience",
-      "bad",
-      "got",
-      "overall",
-      "amazing"
+      "smooth",
+      "veri",
+      "ap",
+      "safe",
+      "love"
     ],
-    "review_count": 19,
-    "avg_rating": 4.32,
-    "avg_sentiment": 0.394,
+    "review_count": 21,
+    "avg_rating": 4.71,
+    "avg_sentiment": 0.43,
     "sample_reviews": [
-      "good experience",
-      "good experience...",
-      "good experience"
+      "Good experience",
+      "love you aap ",
+      "This ap wow ...."
     ]
   }
 ]

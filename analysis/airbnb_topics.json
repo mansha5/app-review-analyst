@@ -2,210 +2,153 @@
   {
     "topic_id": 0,
     "keywords": [
-      "user",
-      "worst",
-      "bad",
-      "friendly",
-      "easy",
-      "apps"
+      "airbnb",
+      "host",
+      "booking",
+      "stay",
+      "support",
+      "place"
     ],
-    "review_count": 55,
-    "avg_rating": 3.76,
-    "avg_sentiment": 0.252,
+    "review_count": 150,
+    "avg_rating": 3.23,
+    "avg_sentiment": 0.202,
     "sample_reviews": [
-      "first time using the app but it looks simple and easy to use.",
-      "Brilliant App",
-      "Awesome interactive fun app."
+      "look more serious that booking meanwhile booking left you to pay at property, this app give you more trust when you pay because the photo looks real ,, a lot of appartament and hotel don't are the same like photo ,, with Airbn look more seriously like app ,, very soon I will booked,, in booking I'm level 3 I use app since years , Airbnb join hotel nice I'm waiting this",
+      "always great places to stay",
+      "The App is very sensitive. Booking can be stressful because the application is shoddy. I hope they improve it. The customer service is great! Although they can only do so much. Sometimes you may have to wait days for a glitch to resolve in the application. Try to book in advance. Airbnb is disappointing for last minute bookings.. If a host has less than a 4.7 rating expect a nightmare. That mindset never fails. Some host are creepy. Don't take offers that involve paying host directly ."
     ]
   },
   {
     "topic_id": 1,
+    "keywords": [
+      "user",
+      "navigate",
+      "user friendly",
+      "easy",
+      "new",
+      "friendly"
+    ],
+    "review_count": 58,
+    "avg_rating": 3.78,
+    "avg_sentiment": 0.207,
+    "sample_reviews": [
+      "the UX/UI is incredible",
+      "very easy to use and navigate",
+      "nose app good"
+    ]
+  },
+  {
+    "topic_id": 2,
     "keywords": [
       "easy",
       "easy easy",
       "convenient",
       "easy convenient",
       "helpful",
-      "friendly"
+      "1st"
     ],
-    "review_count": 51,
-    "avg_rating": 4.73,
-    "avg_sentiment": 0.449,
+    "review_count": 48,
+    "avg_rating": 4.79,
+    "avg_sentiment": 0.483,
     "sample_reviews": [
-      "Easy to use! I like price comparison.",
-      "Fast and easy to use",
-      "efficient and easy to use"
-    ]
-  },
-  {
-    "topic_id": 2,
-    "keywords": [
-      "airbnb",
-      "love",
-      "experiences",
-      "hotels",
-      "platform",
-      "ive"
-    ],
-    "review_count": 41,
-    "avg_rating": 4.22,
-    "avg_sentiment": 0.457,
-    "sample_reviews": [
-      "this is my first time using airbnb, ill tell more if we booked a great bnb.",
-      "Seamless reservation process. We love Airbnb!!",
-      "love using Airbnb. So convenient and easy to navigate"
+      "very efficient and reliable ",
+      "great and very convenient",
+      "i will try it"
     ]
   },
   {
     "topic_id": 3,
     "keywords": [
-      "experience",
-      "far",
-      "service",
       "excellent",
-      "exceptional",
-      "amazing"
+      "far",
+      "experience",
+      "service",
+      "love",
+      "failed"
     ],
-    "review_count": 39,
-    "avg_rating": 4.87,
-    "avg_sentiment": 0.495,
+    "review_count": 31,
+    "avg_rating": 4.84,
+    "avg_sentiment": 0.535,
     "sample_reviews": [
-      "seamless experience",
-      "excellent experience",
-      "Exactly what we needed super grateful"
+      "very very good",
+      "Excellent and user-friendly",
+      "good service"
     ]
   },
   {
     "topic_id": 4,
     "keywords": [
-      "airbnb",
-      "host",
-      "support",
-      "booking",
-      "review",
-      "hosts"
+      "local",
+      "easy",
+      "properties",
+      "family",
+      "total",
+      "details"
     ],
-    "review_count": 29,
-    "avg_rating": 1.0,
-    "avg_sentiment": -0.294,
+    "review_count": 25,
+    "avg_rating": 4.04,
+    "avg_sentiment": 0.476,
     "sample_reviews": [
-      "Airbnb is just looting the hosts of their time and money. They do not pay insurance claims for damages done by guests. 2.5 months, around 10-12 tickets, around 20 people, multiple escalations, they just close cases without resolution or consent and when we open the next ticket they say they can't even see the other ticket. and, they even delete records of communication on their app. Wow!",
-      "They wont let you reply to a review past 14 days. I received an unfair review and im not allowed to reply. I received 5 star reviews as a tenant for everything up until my last rental. I wont use them again. if my review stays up permanently I should be allowed to reply permanently.",
-      "For unknown reason, Airbnb decided to hold my money at bonus account instead of sending it directly to the costumer. this is BAD UX for me."
+      "The app is incredibly smooth and easy to use. Finding and booking places is seamless, and the map filter works perfectly. I love how easy it is to communicate with hosts directly through the chat.",
+      "great app for Travelers",
+      "Our favorite App to book cottages for trips!"
     ]
   },
   {
     "topic_id": 5,
     "keywords": [
-      "places",
-      "book",
-      "easy",
-      "trips",
-      "stay",
-      "price range"
+      "verification",
+      "unable",
+      "id",
+      "phone",
+      "security",
+      "payment"
     ],
-    "review_count": 28,
-    "avg_rating": 4.61,
-    "avg_sentiment": 0.497,
+    "review_count": 24,
+    "avg_rating": 1.54,
+    "avg_sentiment": -0.083,
     "sample_reviews": [
-      "I love the complex vacation experiences",
-      "Easy to navigate with some great accommodation available",
-      "Lots of easy to explore options. I have used the site for several trips over the years."
+      "my account has been compromised, email and password have been changed. I am now unable to login and cannot seem to reach customer service without logging in. If you can help me out then please do so ASAP!!!",
+      "keeps crashing during verification step",
+      "no gift card needed"
     ]
   },
   {
     "topic_id": 6,
     "keywords": [
-      "local",
-      "works",
-      "reserve",
-      "way",
-      "world",
-      "place"
+      "account",
+      "number",
+      "remove",
+      "air",
+      "create",
+      "international"
     ],
-    "review_count": 28,
-    "avg_rating": 3.93,
-    "avg_sentiment": 0.442,
+    "review_count": 18,
+    "avg_rating": 3.33,
+    "avg_sentiment": 0.033,
     "sample_reviews": [
-      "the app says total, then bump it up when you attempt to reserve it. the total should be the total.",
-      "Great platform for finding accommodations, any way that you'd like to travel. The app itself works great, although I couldn't see where to filter for price range when searching for places to stay.",
-      "helpful app for your plan vacation"
+      "so far okay siya. mabilis din action ng team ng airbnb mabilis magrespond. sana madami pang magpaAirbnb. natry ko na international goods din. mahal lang talaga minsan pero okay na.",
+      "bahut hi badhiya app hai",
+      "He tenido muy buenas experiencias \u263a\ufe0f"
     ]
   },
   {
     "topic_id": 7,
-    "keywords": [
-      "verification",
-      "id",
-      "phone",
-      "photo",
-      "absolutely",
-      "sure"
-    ],
-    "review_count": 18,
-    "avg_rating": 1.39,
-    "avg_sentiment": -0.091,
-    "sample_reviews": [
-      "very hard to get phone number verification",
-      "unnecessary personal data collection",
-      "too much id needed"
-    ]
-  },
-  {
-    "topic_id": 8,
     "keywords": [
       "fast",
       "fast easy",
       "easy fast",
       "easy",
       "quick",
-      "wish"
+      "process"
     ],
-    "review_count": 17,
-    "avg_rating": 4.29,
-    "avg_sentiment": 0.352,
+    "review_count": 15,
+    "avg_rating": 4.47,
+    "avg_sentiment": 0.324,
     "sample_reviews": [
-      "very unclear",
-      "too fast. where is the location? before I pay.",
-      "quick and fast"
-    ]
-  },
-  {
-    "topic_id": 9,
-    "keywords": [
-      "number",
-      "customer care",
-      "non refundable",
-      "non",
-      "refundable",
-      "care"
-    ],
-    "review_count": 16,
-    "avg_rating": 3.25,
-    "avg_sentiment": 0.059,
-    "sample_reviews": [
-      "He tenido muy buenas experiencias \u263a\ufe0f",
-      "me cancelaron una reserva a horas del checkin y no me ofrecieron ning\u00fan tipo de compensaci\u00f3n m\u00e1s que un mensaje de \"disculpa y que no volver\u00e1 a suceder\". Tuve que buscar un hospedaje de emergencia por mi cuenta.",
-      "\u975e\u5e38\u5dee\u52b2\uff0c\u5b8c\u5168\u4e0d\u80fd\u534f\u8c03\u623f\u4e1c\u548c\u623f\u5ba2\u7684\u77db\u76fe\u3002 \u589e\u52a0\u8bc4\u4ef7\uff1a\u6211\u5f88\u60ca\u8bb6\u6211\u6700\u8fd1\u518d\u6b21\u62dc\u8bbf\u90a3\u4e2a\u56fd\u5bb6\u7684\u65f6\u5019\uff0c\u518d\u4e00\u6b21\u51fa\u73b0\u4e86\u76f8\u540c\u7684\u95ee\u9898\u3002\u6211\u5df2\u7ecf\u4e0d\u77e5\u9053\u662f\u90a3\u4e2a\u56fd\u5bb6\u7684\u4eba\u7684\u95ee\u9898\u8fd8\u662f\u7231\u5f7c\u8fce\u7684\u95ee\u9898\u4e86\u3002\u6211\u5728\u6fb3\u5927\u5229\u4e9a\u4f4f\u4e86\u5f88\u591a\u95f4\uff0c\u4ece\u6765\u6ca1\u6709\u9047\u5230\u8fc7\u8fd9\u6837\u7684\u60c5\u51b5\u3002"
-    ]
-  },
-  {
-    "topic_id": 10,
-    "keywords": [
-      "dates",
-      "reservation",
-      "terrible",
-      "canceled",
-      "days",
-      "new"
-    ],
-    "review_count": 12,
-    "avg_rating": 1.83,
-    "avg_sentiment": -0.224,
-    "sample_reviews": [
-      "Disappointing experience. I requested a 2-4 hour extension due to a train delay. I understood that the 9 AM check-out policy may not allow it. However, the response felt unprofessional and unnecessarily dismissive. A simple and polite refusal would have been enough.",
-      "Unfortunately, the available dates on your website have not been updated. I made a reservation for a property, and the payment was taken from my account. However, the host only replied two days later and told me that they do not accept guests on those dates. If the hosts do not respond and the availability on your website is not updated, why are you still allowing us to make reservations and charging our accounts?",
-      "i hate it, 3 ppl denied me 2 of the ppl said they weren't even renting the place anymore, we had to pay for a motell for 2 days i switched to booking and it was instant"
+      "fast and easy",
+      "Straightforward process through to payment etc.",
+      "easy and fast"
     ]
   }
 ]

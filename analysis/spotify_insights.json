@@ -2,219 +2,244 @@
   {
     "topic_id": 0,
     "keywords": [
-      "music",
-      "listening",
-      "better",
-      "quality",
-      "artists",
-      "excellent"
+      "enjoy",
+      "service",
+      "amazing",
+      "experience",
+      "brilliant",
+      "words"
     ],
-    "review_count": 73,
-    "avg_rating": 4.55,
-    "avg_sentiment": 0.409,
+    "review_count": 56,
+    "avg_rating": 4.77,
+    "avg_sentiment": 0.482,
     "sample_reviews": [
-      "it's just too good..",
-      "exceptional",
-      "makes listening to my favorite music very easy"
+      "it's amazing",
+      "Great selections!",
+      "Luvs it all the way!!!"
     ],
-    "label": "Excellent Music Listening Experience",
+    "label": "Amazing Spotify Experience",
     "category": "praise",
-    "root_cause": "Makes listening to music very easy",
+    "root_cause": "Great music selections and user interface",
     "priority": "medium",
-    "priority_reason": "Average rating is 4.55 and review count is 73",
-    "pm_action": "Investigate ways to improve music discovery"
+    "priority_reason": "Average rating is 4.77 and review count is 56",
+    "pm_action": "Investigate and improve music discovery feature"
   },
   {
     "topic_id": 1,
     "keywords": [
-      "premium",
-      "pay",
-      "free",
-      "ads",
-      "song",
-      "dont"
+      "spotify",
+      "music",
+      "love",
+      "streaming",
+      "like",
+      "audio"
     ],
-    "review_count": 49,
-    "avg_rating": 2.33,
-    "avg_sentiment": 0.098,
+    "review_count": 51,
+    "avg_rating": 3.86,
+    "avg_sentiment": 0.391,
     "sample_reviews": [
-      "I wanted to give zero star but I couldn't very very bad experience if you don't have money for the premium then just don't download it consistently asking for premium constant add and zero free features I think it will fall down because of these reasons and you can't even choose a playlist or hear again the song you previously heard",
-      "Ads on podcasts I'm already paying for as a premium customer are ridiculous. I use them to help me sleep. It is about 4 AM and I am awake for the third time tonight because of an obnoxious ad. The app also routinely crashes and needs its cache cleared to work again. This does not happen with other music streaming apps. If function and stability are important to you, Spotify is not the app you want.",
-      "premium is the way to go WW2"
+      "I have Spotify Premium and YouTube Premium, but Spotify sounds too soft and low in volume for me while listening in my car. The bass is less punchy, vocals feel a bit muffled, and the overall music clarity is lower than YouTube Music. I tried all the EQ and sound settings, but nothing satisfied me. Eventually, I deleted Spotify and went back to YouTube Music\u2014it sounds louder, punchier, and clearer.",
+      "Spotify Feedback Request: Create an Official Bengali Music Section Dear Spotify Team, I would like to suggest the creation of a dedicated Bengali Music section on Spotify, similar to the existing language and regional categories such as Hindi, Tamil, Telugu, Punjabi, and others. Bengali is one of the most widely spoken languages in the world, with millions of listeners across India . The Bengali music industry has a rich heritage that includes Rabindra Sangeet, Nazrul Geeti, and Tollywood.",
+      "Absolutely love Spotify!! Top favorite app!!"
     ],
-    "label": "Spotify Premium Issues",
+    "label": "Spotify Volume Too Soft",
     "category": "complaint",
-    "root_cause": "Poor user experience due to ads and crashes",
+    "root_cause": "Poor audio quality and settings",
     "priority": "high",
-    "priority_reason": "Low rating and multiple complaints",
-    "pm_action": "Investigate and resolve ad and crash issues"
+    "priority_reason": "Low rating and many reviews",
+    "pm_action": "Improve audio settings and quality"
   },
   {
     "topic_id": 2,
     "keywords": [
       "music",
-      "listen",
       "music music",
-      "streaming",
-      "absolutely",
-      "love"
+      "love",
+      "playlist",
+      "amazing",
+      "awesome"
     ],
-    "review_count": 44,
-    "avg_rating": 4.48,
-    "avg_sentiment": 0.515,
+    "review_count": 46,
+    "avg_rating": 4.43,
+    "avg_sentiment": 0.516,
     "sample_reviews": [
-      "very nice music listening app",
-      "Awsome sound quality. The app always works and always has the right type of music I listen to. The only problem is that when you want to see what new songs the artist your following released you have to go tonthe music tab and click following it is not awsome. otherwise awsome app.",
-      "best music app even when the network is poor it still plays perfectly without skipping"
+      "it is a great app for its musics",
+      "very nice app to listen music ",
+      "good all music have this app"
     ],
     "label": "Spotify Music App",
     "category": "praise",
-    "root_cause": "Excellent sound quality and seamless playback",
-    "priority": "low",
-    "priority_reason": "High rating and positive review",
-    "pm_action": "No action required"
+    "root_cause": "users enjoy listening to music on the app",
+    "priority": "medium",
+    "priority_reason": "average rating is 4.43 and review count is 46",
+    "pm_action": "investigate user feedback for potential improvements"
   },
   {
     "topic_id": 3,
     "keywords": [
+      "apps",
+      "day",
       "love",
-      "excellent",
-      "worst",
-      "works",
-      "10",
-      "bad"
+      "liked",
+      "free",
+      "awesome"
     ],
-    "review_count": 41,
-    "avg_rating": 4.41,
-    "avg_sentiment": 0.478,
+    "review_count": 44,
+    "avg_rating": 4.36,
+    "avg_sentiment": 0.454,
     "sample_reviews": [
-      "worst app too slow.",
-      "love the exploring and the algorithm just works",
-      "is the best app ever frr"
+      "Great experience using this app. Liked the offline feature in particular.",
+      "absolutely love this app. recommended one hundred percent",
+      "it's free version is pretty good"
     ],
-    "label": "Slow app performance",
-    "category": "complaint",
-    "root_cause": "App is too slow",
-    "priority": "high",
-    "priority_reason": "Rating is less than 2.5 and review count is more than 30",
-    "pm_action": "Optimize app performance"
+    "label": "Spotify App Review",
+    "category": "praise",
+    "root_cause": "Great experience with offline feature",
+    "priority": "medium",
+    "priority_reason": "Average rating is 4.36 and review count is 44",
+    "pm_action": "Investigate offline feature for future improvements"
   },
   {
     "topic_id": 4,
     "keywords": [
-      "spotify",
-      "music",
-      "love spotify",
-      "love",
-      "playlists",
+      "premium",
+      "ads",
+      "free",
+      "pay",
+      "ad",
       "songs"
     ],
-    "review_count": 37,
-    "avg_rating": 4.62,
-    "avg_sentiment": 0.65,
+    "review_count": 27,
+    "avg_rating": 2.0,
+    "avg_sentiment": 0.281,
     "sample_reviews": [
-      "today have subscribed to spotify..but the quality of music is far far below the you tube music which also i have subscribed...the variety is lacking too , they just play pop songs repetitive",
-      "Hello guys a very good morning too u all I here by introduce to Spotify App one I a million. It is my favorite music app and I love every aspect of it so guys I will love you to make this app your favorite.",
-      "nice songs all songs i want is here in spotify"
+      "to much add and force to join premium and other things are alright",
+      "welcome to Spotify premium ads",
+      "Too Many Ads There were already reasons to pay for premium for better options. The app has now been set up to be passive-aggressive with the ad volume n an attempt to force free users to pay. If I were decide to pay for music streaming as opposed to using a different company, which I am close to doing, I would go somewhere else despite how much I had liked Spotify out of principle."
     ],
-    "label": "Poor Music Quality",
-    "category": "complaint",
-    "root_cause": "Lacking variety and repetitive pop songs",
+    "Spotify Ads": "complaint",
+    "root_cause": "Too many ads force users to pay",
     "priority": "high",
     "priority_reason": "Low rating and many reviews",
-    "pm_action": "Improve music variety and reduce repetition"
+    "pm_action": "Reduce ad volume or offer better free options"
+  },
+  {
+    "topic_id": 4,
+    "keywords": [
+      "premium",
+      "ads",
+      "free",
+      "pay",
+      "ad",
+      "songs"
+    ],
+    "review_count": 27,
+    "avg_rating": 2.0,
+    "avg_sentiment": 0.281,
+    "sample_reviews": [
+      "to much add and force to join premium and other things are alright",
+      "welcome to Spotify premium ads",
+      "Too Many Ads There were already reasons to pay for premium for better options. The app has now been set up to be passive-aggressive with the ad volume n an attempt to force free users to pay. If I were decide to pay for music streaming as opposed to using a different company, which I am close to doing, I would go somewhere else despite how much I had liked Spotify out of principle."
+    ]
   },
   {
     "topic_id": 5,
     "keywords": [
+      "ive",
+      "playlist",
+      "play",
+      "songs",
+      "shuffle",
+      "download"
+    ],
+    "review_count": 24,
+    "avg_rating": 1.88,
+    "avg_sentiment": -0.078,
+    "sample_reviews": [
+      "dumdums i can't share to facefuk without the music pausing",
+      "have been driving for 4 hours and my Playlist with over 700 songs keeps repeating the same songs in the same order",
+      "It has not played for 2 days"
+    ],
+    "label": "Spotify Playlist Issues",
+    "category": "complaint",
+    "root_cause": "App crashes or freezes during sharing or playlist playback",
+    "priority": "high",
+    "priority_reason": "Low rating and multiple reviews indicate significant issues",
+    "pm_action": "Investigate and fix sharing and playlist playback bugs"
+  },
+  {
+    "topic_id": 6,
+    "keywords": [
       "ads",
       "ad",
-      "row",
-      "played",
-      "garbage",
-      "annoying"
+      "ads ads",
+      "bad",
+      "lots",
+      "like ads"
     ],
-    "review_count": 21,
-    "avg_rating": 3.14,
-    "avg_sentiment": 0.055,
+    "review_count": 24,
+    "avg_rating": 3.29,
+    "avg_sentiment": 0.05,
     "sample_reviews": [
-      "ads are crazily frequent, played 1-2songs with 2-3ads, then 1-2songs and 2-3ads again. not sure why, my friend without subscription played more than 1hour to came into 1 ad only.",
-      "it's good but there's alot of ads I get you need to put ads but can you not give me the same ad 3 times in a row it's more annoying",
-      "app is good but, lot's of ads"
+      "a little bit of ads but overall great music quality and so many to choose from",
+      "To many publicity",
+      "too much ads"
     ],
-    "label": "Frequent Ads Annoyance",
+    "label": "Too many ads",
     "category": "complaint",
-    "root_cause": "Ads are too frequent and repetitive.",
+    "root_cause": "Users are annoyed by excessive ads",
     "priority": "high",
-    "priority_reason": "Rating is low and review count is high.",
-    "pm_action": "Implement ad rotation to reduce repetition."
-  },
-  {
-    "topic_id": 6,
-    "keywords": [
-      "spotify",
-      "phone",
-      "fix",
-      "ive",
-      "update",
-      "pls"
-    ],
-    "review_count": 20,
-    "avg_rating": 2.25,
-    "avg_sentiment": 0.179,
-    "sample_reviews": [
-      "I've been using Spotify for more than a year. app shows suggest worst songs repeated so I uninstall app.",
-      "I've had Spotify for years without too many issues but man this year has really been sucky.. Months ago it was just crashing out of nowhere and that seemed to be finally fixed but now for weeks it's been super slow loading up anything and now on top of that it's been crashing again restarting my phones screen and apps. I've done many clean reinstalls which cause it to be normal for a very short time before reverting back to how it's been acting.",
-      "worst ever update of Spotify. I select a song play, it says update to Premium and random song starts. gonna uninstall and switch to some better app."
-    ],
-    "Spotify App Issues": "complaint",
-    "root_cause": "Poor app performance and repeated crashes",
-    "priority": "high",
-    "priority_reason": "Low rating and multiple complaints",
-    "pm_action": "Investigate and fix app performance issues"
-  },
-  {
-    "topic_id": 6,
-    "keywords": [
-      "spotify",
-      "phone",
-      "fix",
-      "ive",
-      "update",
-      "pls"
-    ],
-    "review_count": 20,
-    "avg_rating": 2.25,
-    "avg_sentiment": 0.179,
-    "sample_reviews": [
-      "I've been using Spotify for more than a year. app shows suggest worst songs repeated so I uninstall app.",
-      "I've had Spotify for years without too many issues but man this year has really been sucky.. Months ago it was just crashing out of nowhere and that seemed to be finally fixed but now for weeks it's been super slow loading up anything and now on top of that it's been crashing again restarting my phones screen and apps. I've done many clean reinstalls which cause it to be normal for a very short time before reverting back to how it's been acting.",
-      "worst ever update of Spotify. I select a song play, it says update to Premium and random song starts. gonna uninstall and switch to some better app."
-    ]
+    "priority_reason": "Low rating and high review count",
+    "pm_action": "Reduce ad frequency to improve user experience"
   },
   {
     "topic_id": 7,
     "keywords": [
-      "update",
-      "working",
-      "screen",
-      "ive",
-      "new update",
-      "ive cleared"
+      "music",
+      "selection",
+      "songs",
+      "collection songs",
+      "accurate",
+      "certain"
     ],
-    "review_count": 18,
-    "avg_rating": 2.56,
-    "avg_sentiment": -0.147,
+    "review_count": 15,
+    "avg_rating": 4.93,
+    "avg_sentiment": 0.527,
     "sample_reviews": [
-      "it doesn't load fully sometimes but it's a very good app and I really like it",
-      "This days i always have to uninstall my app before i can reopen it, i just came to install again and i don't have this problem with any other app. This happens on the both Samsung i have",
-      "this app not opening"
+      "It has very cool songs",
+      "gets you whateva musical songs or the names of the bastard's you looking for",
+      "love all music"
     ],
-    "label": "App Crashes on Reopen",
-    "category": "bug",
-    "root_cause": "App not loading fully or crashing on reopen",
+    "label": "Accurate Music Selection",
+    "category": "praise",
+    "root_cause": "Users are satisfied with the music selection",
+    "priority": "medium",
+    "priority_reason": "Average rating is above 2.5 and review count is below 30",
+    "pm_action": "Monitor user feedback for potential issues"
+  },
+  {
+    "topic_id": 8,
+    "keywords": [
+      "update",
+      "add",
+      "screen",
+      "widget",
+      "pc",
+      "issues"
+    ],
+    "review_count": 12,
+    "avg_rating": 1.92,
+    "avg_sentiment": -0.183,
+    "sample_reviews": [
+      "New widgets are useless as you cant play/pause or skip.",
+      "It was 5 Until the application started to stop for no reasons please I need help my account meant a lot to me",
+      "The app keeps stopping when I open other apps. Annoying asf. Fix please! EDIT: It's still doing it. Pretty lame. please fix this."
+    ],
+    "label": "Spotify app issues on PC",
+    "category": "complaint",
+    "root_cause": "App crashes when opening other apps",
     "priority": "high",
-    "priority_reason": "Average rating is 2.56 and review count is 18",
-    "pm_action": "Investigate and fix the app crashing issue"
+    "priority_reason": "Low rating and multiple complaints",
+    "pm_action": "Investigate and fix app stability issues"
   }
 ]

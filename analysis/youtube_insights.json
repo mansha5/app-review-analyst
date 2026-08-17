@@ -2,151 +2,51 @@
   {
     "topic_id": 0,
     "keywords": [
-      "experience",
-      "bad",
-      "life",
-      "like",
-      "easy",
-      "fast"
+      "youtube",
+      "video",
+      "time",
+      "work",
+      "tube",
+      "content"
     ],
-    "review_count": 57,
-    "avg_rating": 4.05,
-    "avg_sentiment": 0.187,
+    "review_count": 323,
+    "avg_rating": 2.51,
+    "avg_sentiment": 0.086,
     "sample_reviews": [
-      "good experience",
-      "verygoodapp",
-      "Nice app no fraud app trusted app"
+      "now youtube also heard my conversation?? well done... and you know what... i never turn on any permission to use my hardware... great guys.",
+      "Thank you 1000 subscribe",
+      "nice video but no anime many recap s"
     ],
-    "label": "Bad YouTube Experience",
+    "label": "Privacy Concerns",
     "category": "complaint",
-    "root_cause": "Users are experiencing a bad life experience due to the app.",
-    "priority": "medium",
-    "priority_reason": "Average rating is 4.05 and review count is 57, which is not extremely low or high.",
-    "pm_action": "Investigate and resolve the root cause of the bad experience."
+    "root_cause": "YouTube accessed user conversation without permission",
+    "priority": "high",
+    "priority_reason": "Low rating and multiple reviews indicate a significant issue",
+    "pm_action": "Investigate and fix the privacy issue to prevent unauthorized access"
   },
   {
     "topic_id": 1,
     "keywords": [
-      "update",
-      "videos",
-      "video",
-      "screen",
-      "button",
-      "worse"
+      "views",
+      "company",
+      "game",
+      "mera",
+      "permission",
+      "plz"
     ],
-    "review_count": 50,
-    "avg_rating": 1.52,
-    "avg_sentiment": -0.331,
+    "review_count": 24,
+    "avg_rating": 4.54,
+    "avg_sentiment": 0.05,
     "sample_reviews": [
-      "I face this problem always within 3 months all my downloaded videos delete automatically and even tho my phone has internet all the time even the background data usage is on still they vanish and I am a student so I need oneshot videos to watch so I download them in advance even my friends have their videos for 1 whole year safely but only mine are deleted idk why pls fix this issue i hope u make a setting in which the downloaded videos can stay in the app as long as the user wants!!!!!!!!!",
-      "Getting multiple updates daily am updating application please roll out some better patch which stops this updates",
-      "Youtube changes playlist UI for the worst with each new update. NO i DONT want to click multiple times just to add ONE video to multiple playlists. what, am i living in backwardsville? pls fix this frankly stupid feature its so annoying <(\ua426\u314d _\u314d)>"
+      "nice but ajkl thda ruk ruk kr chlta hai YouTube",
+      "\u099b\u09cb\u099f \u0995\u09b0\u09a4\u09c7 \u09b9\u09ac\u09c7",
+      "on nhi hota"
     ],
-    "label": "Video Deletion Issue",
-    "category": "bug",
-    "root_cause": "Inconsistent app behavior on device",
-    "priority": "high",
-    "priority_reason": "Rating is low and review count is high",
-    "pm_action": "Investigate and resolve video deletion issue"
-  },
-  {
-    "topic_id": 2,
-    "keywords": [
-      "ads",
-      "video",
-      "ad",
-      "youtube",
-      "minutes",
-      "dont"
-    ],
-    "review_count": 46,
-    "avg_rating": 1.59,
-    "avg_sentiment": -0.175,
-    "sample_reviews": [
-      "Too much ads make it very horrible",
-      "Way too many ads ",
-      "ads, ads and more ads. cannot watch even a short video without quitting the app due to ads"
-    ],
-    "label": "Too many ads on YouTube",
+    "label": "YouTube views issue",
     "category": "complaint",
-    "root_cause": "Excessive ads disrupt user experience",
-    "priority": "high",
-    "priority_reason": "Low rating and high review count",
-    "pm_action": "Reduce ad frequency by 30%"
-  },
-  {
-    "topic_id": 3,
-    "keywords": [
-      "add",
-      "mehnat",
-      "hi",
-      "swipe",
-      "youtube",
-      "tv"
-    ],
-    "review_count": 29,
-    "avg_rating": 3.1,
-    "avg_sentiment": 0.019,
-    "sample_reviews": [
-      "beautiful kahaniyan",
-      "Krishna Pasha Mondal",
-      "updated version too much buffering , youtube pahle jaisa nhi rha"
-    ],
-    "label": "updated version too much buffering",
-    "category": "complaint",
-    "root_cause": "YouTube pahle jaisa nhi rha",
-    "priority": "high",
-    "priority_reason": "rating is less than 2.5 and review count is more than 30",
-    "pm_action": "Investigate and resolve the buffering issue in the updated version"
-  },
-  {
-    "topic_id": 4,
-    "keywords": [
-      "youtube",
-      "fix",
-      "open youtube",
-      "open",
-      "working",
-      "im"
-    ],
-    "review_count": 27,
-    "avg_rating": 2.19,
-    "avg_sentiment": -0.051,
-    "sample_reviews": [
-      "can't see videos",
-      "whenever i watch any video some error show up again and again i have to turn on my flight mode or just reopen youtube. this needs to be fixed!",
-      "My ( video/whatch) history videos keeps stacking up whenever I'm on the search bar on my history, please fix this issue"
-    ],
-    "label": "YouTube not working properly",
-    "category": "complaint",
-    "root_cause": "Error shows up while watching videos",
-    "priority": "high",
-    "priority_reason": "Low rating and high review count",
-    "pm_action": "Investigate and fix the error issue"
-  },
-  {
-    "topic_id": 5,
-    "keywords": [
-      "love",
-      "easy",
-      "youtube",
-      "day",
-      "life",
-      "content"
-    ],
-    "review_count": 19,
-    "avg_rating": 4.26,
-    "avg_sentiment": 0.568,
-    "sample_reviews": [
-      "you tube is a wide variety of videos available. It is easy to search for content and find something interesting to watch",
-      "very nice life easy time paas easy i love u youtube",
-      "I love the videos!"
-    ],
-    "label": "Easy YouTube Experience",
-    "category": "praise",
-    "root_cause": "Variety of videos available",
+    "root_cause": "App is not working properly",
     "priority": "medium",
-    "priority_reason": "Average rating is 4.26 and review count is 19",
-    "pm_action": "Investigate low review count"
+    "priority_reason": "Average rating is 4.54 and review count is 24",
+    "pm_action": "Investigate and fix the issue"
   }
 ]

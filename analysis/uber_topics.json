@@ -5,36 +5,131 @@
       "uber",
       "ride",
       "driver",
+      "time",
       "drivers",
-      "dont",
-      "time"
+      "customer"
     ],
-    "review_count": 175,
-    "avg_rating": 2.21,
-    "avg_sentiment": -0.096,
+    "review_count": 176,
+    "avg_rating": 2.23,
+    "avg_sentiment": -0.079,
     "sample_reviews": [
-      "worst app drivers don't even pick the calls and take too much time to confirm a ride worst worst worst app",
-      "deeply flawed reservation system of ubers. if no one accept they will not let you know and at the time of scheduled departure it will say looking for driver. at that time i was screwed. has happened many times. avoid it if you can",
-      "terrible experience, drivers cancel rides and sometimes don't even move when they are shown coming to pickup, -1 stars rating"
+      "drivers are rude behaviour and everytime they demand for extra money I never faced this type of issue in ola there is no proper response or compensation for this type of issues in uber",
+      "Rubbish app6",
+      "Ride Accept karne ke Chances 10% only"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "service",
       "driver",
-      "experience",
+      "friendly",
+      "helpful",
+      "drivers",
+      "safe",
+      "driving"
+    ],
+    "review_count": 51,
+    "avg_rating": 4.82,
+    "avg_sentiment": 0.514,
+    "sample_reviews": [
+      "good driver good drive",
+      "good drive manners ",
+      "very professional"
+    ]
+  },
+  {
+    "topic_id": 2,
+    "keywords": [
+      "easy",
+      "travel",
       "fast",
       "safe",
-      "ride"
+      "excellent",
+      "price"
     ],
-    "review_count": 154,
-    "avg_rating": 4.68,
-    "avg_sentiment": 0.453,
+    "review_count": 23,
+    "avg_rating": 4.61,
+    "avg_sentiment": 0.427,
     "sample_reviews": [
-      "less money to book",
-      "Great service. I love that I can add my children ,put their phone details in and order and track rides for them safely. 5 stars!",
-      "best and comfortable service"
+      "thank you for taking me home safely and quickly.",
+      "easy to navigate",
+      "Excellent and easy to use "
+    ]
+  },
+  {
+    "topic_id": 3,
+    "keywords": [
+      "service",
+      "service service",
+      "helpfull",
+      "arrived time",
+      "pls",
+      "timely"
+    ],
+    "review_count": 21,
+    "avg_rating": 4.95,
+    "avg_sentiment": 0.405,
+    "sample_reviews": [
+      "good service",
+      "timely services",
+      "best service"
+    ]
+  },
+  {
+    "topic_id": 4,
+    "keywords": [
+      "experience",
+      "fantastic",
+      "person",
+      "ive",
+      "",
+      ""
+    ],
+    "review_count": 15,
+    "avg_rating": 4.93,
+    "avg_sentiment": 0.495,
+    "sample_reviews": [
+      "It was a good experience",
+      "I've always had a good experience",
+      "best experience"
+    ]
+  },
+  {
+    "topic_id": 5,
+    "keywords": [
+      "ya",
+      "30",
+      "10",
+      "10 min",
+      "pin",
+      "uber"
+    ],
+    "review_count": 11,
+    "avg_rating": 2.36,
+    "avg_sentiment": -0.032,
+    "sample_reviews": [
+      "todo bien excepto que los conductores cancelan viajes pagados con tarjeta, tal vez sancionarlos con una multa seria lo mas justo",
+      "Se nos qued\u00f3 un celular en un viaje y recibimos el soporte de Uber, no fue tan r\u00e1pido pero si efectivo y con la ayuda de otra cuenta uber pudimos poner el requerimiento de objeto perdido y lo pudimos recuperar.",
+      "30 minutos de espera, com v\u00e1rios condutores em volta e ningu\u00e9m aceitou o meu pedido de transporte! Inaceit\u00e1vel!! Deveria existir uma regra onde se passados 5 minutos nenhum consultor aceitasse, seria escolhido o condutor mais perto e este n\u00e3o podia rejeitar! O cliente tem de ser sempre a prioridade!!"
+    ]
+  },
+  {
+    "topic_id": 6,
+    "keywords": [
+      "service service",
+      "service",
+      "excellent",
+      "work",
+      "",
+      ""
+    ],
+    "review_count": 11,
+    "avg_rating": 5.0,
+    "avg_sentiment": 0.612,
+    "sample_reviews": [
+      "Excellent Service",
+      "great service",
+      "great service"
     ]
   }
 ]

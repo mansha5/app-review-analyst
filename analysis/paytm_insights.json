@@ -2,201 +2,76 @@
   {
     "topic_id": 0,
     "keywords": [
-      "easy",
-      "user",
       "fast",
-      "upi",
-      "excellent",
-      "friendly"
+      "stop",
+      "service",
+      "experience",
+      "seconds",
+      "faster"
     ],
-    "review_count": 122,
-    "avg_rating": 4.7,
-    "avg_sentiment": 0.467,
+    "review_count": 160,
+    "avg_rating": 4.66,
+    "avg_sentiment": 0.407,
     "sample_reviews": [
-      "very good and they very reliable towards customers.",
-      "fast & accurate",
-      "good and great"
+      "Not trustworthy",
+      "it's amazing \u2620\ufe0f",
+      "user friendly "
     ],
-    "label": "Excellent Paytm Experience",
-    "category": "praise",
-    "root_cause": "Fast and accurate transactions",
-    "priority": "medium",
-    "priority_reason": "Average rating is 4.7",
-    "pm_action": "Improve customer support for low ratings"
+    "label": "Paytm Experience",
+    "category": "complaint",
+    "root_cause": "Not trustworthy",
+    "priority": "high",
+    "priority_reason": "Low rating and many reviews",
+    "pm_action": "Investigate user complaints and improve trust"
   },
   {
     "topic_id": 1,
     "keywords": [
       "payment",
       "paytm",
-      "payments",
-      "transaction",
-      "fast",
-      "fast payment"
+      "worst",
+      "working",
+      "upi",
+      "time"
     ],
-    "review_count": 71,
-    "avg_rating": 4.51,
-    "avg_sentiment": 0.419,
+    "review_count": 151,
+    "avg_rating": 3.51,
+    "avg_sentiment": 0.16,
     "sample_reviews": [
-      "super and simple payments",
-      "good payment app",
-      "super, but solve issues with govt regulations"
+      "best transaction app",
+      "This is bad app because this app register mobile number but it's coming issue",
+      "sabse best payment App it's really great \u2764"
     ],
     "label": "Paytm Payment Issues",
     "category": "complaint",
-    "root_cause": "Issues with govt regulations",
-    "priority": "medium",
-    "priority_reason": "Average rating is 4.51 and review count is 71",
-    "pm_action": "Investigate and resolve govt regulation issues"
+    "root_cause": "Registration issue with mobile number",
+    "priority": "high",
+    "priority_reason": "Low rating and multiple reviews",
+    "pm_action": "Investigate and resolve registration issue"
   },
   {
     "topic_id": 2,
     "keywords": [
-      "nahi",
       "bhi",
-      "sir",
-      "customer care",
-      "care",
-      "diya"
+      "karo",
+      "ka",
+      "nahi",
+      "diya",
+      "cashback"
     ],
-    "review_count": 36,
-    "avg_rating": 3.61,
-    "avg_sentiment": 0.108,
+    "review_count": 55,
+    "avg_rating": 3.24,
+    "avg_sentiment": 0.101,
     "sample_reviews": [
-      "bahut hi achha hai",
-      "mne apollo pharmacy ka voucher liya par voucher code to de diya lekin pin nahi diya or customer care bhi kuch nahi kar Rahi wrost app and customer care aapne jo link Diya usse bhi kuch nahi ho raha",
-      "cashback 50\u20b9 bol k kuch bhi voucher pakda dete hai upto 50\u20b9 bhi n bolte"
+      "bekar app hai platform fee kat Raha hai mai ise abhi uninstall kar raha hu",
+      "payment app kharab hai sab se paise kat jaata hai ya par koi bhi download nhi karo",
+      "bahut acha aplication hai"
     ],
-    "label": "Poor Customer Care",
+    "label": "Payment app kharab hai",
     "category": "complaint",
-    "root_cause": "Inadequate customer support and voucher issues",
+    "root_cause": "Platform fee is deducted",
     "priority": "high",
-    "priority_reason": "Low rating and high review count",
-    "pm_action": "Improve customer support and voucher redemption process"
-  },
-  {
-    "topic_id": 3,
-    "keywords": [
-      "paytm",
-      "login",
-      "working",
-      "customer",
-      "insurance",
-      "link"
-    ],
-    "review_count": 22,
-    "avg_rating": 1.86,
-    "avg_sentiment": 0.029,
-    "sample_reviews": [
-      "please sir paytm login attempt problem solve me",
-      "not work in low network",
-      "customer care call service not available for any query or discussion not available any person"
-    ],
-    "label": "Paytm login issues",
-    "category": "complaint",
-    "root_cause": "Poor network connectivity",
-    "priority": "high",
-    "priority_reason": "Low rating and multiple complaints",
-    "pm_action": "Investigate and resolve login attempt problems"
-  },
-  {
-    "topic_id": 4,
-    "keywords": [
-      "service",
-      "excellent service",
-      "excellent",
-      "bad",
-      "morning",
-      "service super"
-    ],
-    "review_count": 19,
-    "avg_rating": 4.63,
-    "avg_sentiment": 0.441,
-    "sample_reviews": [
-      "good service",
-      "Good work Best sarvish",
-      "good service"
-    ],
-    "label": "Excellent Paytm Service",
-    "category": "praise",
-    "root_cause": "Users are satisfied with the service.",
-    "priority": "medium",
-    "priority_reason": "Average rating is 4.63 and review count is 19.",
-    "pm_action": "Monitor and maintain the current service level."
-  },
-  {
-    "topic_id": 5,
-    "keywords": [
-      "device",
-      "correct",
-      "environment correct",
-      "device environment",
-      "environment",
-      "issue"
-    ],
-    "review_count": 17,
-    "avg_rating": 1.76,
-    "avg_sentiment": -0.077,
-    "sample_reviews": [
-      "plz help not open",
-      "I'm facing an issue opening the app. and it's been happening for a few months.",
-      "unable to use the app from past 3 months always showing device environment not correct 0000 tried all the ways and fixed but still not working"
-    ],
-    "label": "Paytm App Not Opening",
-    "category": "complaint",
-    "root_cause": "Device environment not correct",
-    "priority": "high",
-    "priority_reason": "Low rating and multiple reviews",
-    "pm_action": "Investigate device environment compatibility issues"
-  },
-  {
-    "topic_id": 6,
-    "keywords": [
-      "experience",
-      "super",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "review_count": 12,
-    "avg_rating": 5.0,
-    "avg_sentiment": 0.487,
-    "sample_reviews": [
-      "great experience",
-      "good experience",
-      "Good experience"
-    ],
-    "label": "Paytm User Experience",
-    "category": "praise",
-    "root_cause": "Users had great experiences with Paytm.",
-    "priority": "medium",
-    "priority_reason": "Average rating is 5.0 and review count is 12.",
-    "pm_action": "Investigate and improve user experience further."
-  },
-  {
-    "topic_id": 7,
-    "keywords": [
-      "cashback",
-      "100",
-      "reward",
-      "cash",
-      "dete",
-      "offers"
-    ],
-    "review_count": 12,
-    "avg_rating": 3.83,
-    "avg_sentiment": 0.162,
-    "sample_reviews": [
-      "cashback nhi dete",
-      "didn't receive reference reward",
-      "amazing work but discount is not good"
-    ],
-    "label": "Poor Cashback Experience",
-    "category": "complaint",
-    "root_cause": "Cashback not provided as expected",
-    "priority": "high",
-    "priority_reason": "Low rating and multiple complaints",
-    "pm_action": "Investigate and resolve cashback issues"
+    "priority_reason": "Low rating and many reviews",
+    "pm_action": "Investigate and resolve platform fee issue"
   }
 ]
