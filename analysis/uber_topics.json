@@ -2,134 +2,115 @@
   {
     "topic_id": 0,
     "keywords": [
-      "uber",
-      "ride",
-      "driver",
-      "time",
-      "drivers",
-      "customer"
+      "service",
+      "fast",
+      "experience",
+      "helpful",
+      "excellent",
+      "better"
     ],
-    "review_count": 176,
-    "avg_rating": 2.23,
-    "avg_sentiment": -0.079,
+    "review_count": 73,
+    "avg_rating": 4.7,
+    "avg_sentiment": 0.456,
     "sample_reviews": [
-      "drivers are rude behaviour and everytime they demand for extra money I never faced this type of issue in ola there is no proper response or compensation for this type of issues in uber",
-      "Rubbish app6",
-      "Ride Accept karne ke Chances 10% only"
+      "please give me offer",
+      "very good experience ",
+      "Great workers helping others"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
+      "uber",
       "driver",
-      "friendly",
-      "helpful",
+      "money",
       "drivers",
-      "safe",
-      "driving"
+      "pickup",
+      "fare"
     ],
-    "review_count": 51,
-    "avg_rating": 4.82,
-    "avg_sentiment": 0.514,
+    "review_count": 63,
+    "avg_rating": 2.17,
+    "avg_sentiment": -0.064,
     "sample_reviews": [
-      "good driver good drive",
-      "good drive manners ",
-      "very professional"
+      "love love love uber, so convenient!!!!",
+      "Very Disappointing Experience The driver accepts the booking and then demands extra money. When we refuse, the driver does not cancel the ride and still expects payment. This has happened to me 4\u20135 times, and the same thing has also happened with my sister. This is extremely frustrating and completely defeats the purpose of having a booking app. Uber should take responsibility for such drivers and provide a proper solution instead of making customers suffer. Very disappointing and illogical s",
+      "as compare to rapido uber service is good and low price"
     ]
   },
   {
     "topic_id": 2,
     "keywords": [
-      "easy",
-      "travel",
-      "fast",
+      "driver",
+      "friendly",
+      "drivers",
       "safe",
-      "excellent",
-      "price"
+      "car",
+      "excellent"
     ],
-    "review_count": 23,
-    "avg_rating": 4.61,
-    "avg_sentiment": 0.427,
+    "review_count": 62,
+    "avg_rating": 4.69,
+    "avg_sentiment": 0.634,
     "sample_reviews": [
-      "thank you for taking me home safely and quickly.",
-      "easy to navigate",
-      "Excellent and easy to use "
+      "very pushy on tips for driver. Just won't leave you alone",
+      "helpful driver",
+      "very sweet person and pilot"
     ]
   },
   {
     "topic_id": 3,
     "keywords": [
-      "service",
-      "service service",
-      "helpfull",
-      "arrived time",
-      "pls",
-      "timely"
+      "bad",
+      "user friendly",
+      "user",
+      "far",
+      "lot",
+      "low"
     ],
-    "review_count": 21,
-    "avg_rating": 4.95,
-    "avg_sentiment": 0.405,
+    "review_count": 25,
+    "avg_rating": 3.28,
+    "avg_sentiment": 0.125,
     "sample_reviews": [
-      "good service",
-      "timely services",
-      "best service"
+      "good far better than other apps",
+      "app is user friendly. sometimes drivers are late. experienced it on 18 aug,when we were bound for mumbai airport at 10 am. caused lot of anguish.and we had to seek other options....",
+      "is really good and protected, I love this app"
     ]
   },
   {
     "topic_id": 4,
     "keywords": [
-      "experience",
-      "fantastic",
-      "person",
-      "ive",
-      "",
-      ""
+      "minutes",
+      "trips",
+      "accept",
+      "wait",
+      "drivers",
+      "hour"
     ],
     "review_count": 15,
-    "avg_rating": 4.93,
-    "avg_sentiment": 0.495,
+    "avg_rating": 1.2,
+    "avg_sentiment": -0.284,
     "sample_reviews": [
-      "It was a good experience",
-      "I've always had a good experience",
-      "best experience"
+      "refused to connect me to a driver until I paid extra for over 7 6 mins.",
+      "Not booked At the time",
+      "Drivers just dont accept trips anymore... becoming slower and slower to get a trip and drivers are further away. Don't show me that \"There are drivers nearby drivers\" just so I have to wait 10 minutes for someone to accept and then another 10+ minutes for them to get to my locations - this is not the 3-5 minutes advertised! And no, this isn't for short trips, its R180 + Drivers should be penalized for denying trips for no reason and longer waiting times should mean cheaper trips!"
     ]
   },
   {
     "topic_id": 5,
     "keywords": [
-      "ya",
-      "30",
-      "10",
-      "10 min",
-      "pin",
+      "location",
+      "book",
+      "tha",
+      "ride",
+      "time",
       "uber"
     ],
-    "review_count": 11,
-    "avg_rating": 2.36,
-    "avg_sentiment": -0.032,
+    "review_count": 12,
+    "avg_rating": 2.0,
+    "avg_sentiment": -0.055,
     "sample_reviews": [
-      "todo bien excepto que los conductores cancelan viajes pagados con tarjeta, tal vez sancionarlos con una multa seria lo mas justo",
-      "Se nos qued\u00f3 un celular en un viaje y recibimos el soporte de Uber, no fue tan r\u00e1pido pero si efectivo y con la ayuda de otra cuenta uber pudimos poner el requerimiento de objeto perdido y lo pudimos recuperar.",
-      "30 minutos de espera, com v\u00e1rios condutores em volta e ningu\u00e9m aceitou o meu pedido de transporte! Inaceit\u00e1vel!! Deveria existir uma regra onde se passados 5 minutos nenhum consultor aceitasse, seria escolhido o condutor mais perto e este n\u00e3o podia rejeitar! O cliente tem de ser sempre a prioridade!!"
-    ]
-  },
-  {
-    "topic_id": 6,
-    "keywords": [
-      "service service",
-      "service",
-      "excellent",
-      "work",
-      "",
-      ""
-    ],
-    "review_count": 11,
-    "avg_rating": 5.0,
-    "avg_sentiment": 0.612,
-    "sample_reviews": [
-      "Excellent Service",
-      "great service",
-      "great service"
+      "bat karne ki tamij nahi he",
+      "bestiller vogn og chauff\u00f8ren raller rundt 5 minutter fra hvor vi er hvorefter han pludselig meddeler at det vil tage 30 minutter. Hvis man s\u00e5 bare kunne anmelde an chauff\u00f8r der laver den slags stunt. nu f\u00e5r han jo kun for de ture han selv vil have. der tabte i mig uber",
+      "Bakwas plz dont download"
     ]
   }
 ]

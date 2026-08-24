@@ -2,51 +2,96 @@
   {
     "topic_id": 0,
     "keywords": [
+      "love",
       "youtube",
-      "video",
-      "time",
-      "work",
-      "tube",
-      "content"
+      "like",
+      "videos",
+      "watch",
+      "easy"
     ],
-    "review_count": 323,
-    "avg_rating": 2.51,
-    "avg_sentiment": 0.086,
+    "review_count": 114,
+    "avg_rating": 4.36,
+    "avg_sentiment": 0.412,
     "sample_reviews": [
-      "now youtube also heard my conversation?? well done... and you know what... i never turn on any permission to use my hardware... great guys.",
-      "Thank you 1000 subscribe",
-      "nice video but no anime many recap s"
-    ],
-    "label": "Privacy Concerns",
-    "category": "complaint",
-    "root_cause": "YouTube accessed user conversation without permission",
-    "priority": "high",
-    "priority_reason": "Low rating and multiple reviews indicate a significant issue",
-    "pm_action": "Investigate and fix the privacy issue to prevent unauthorized access"
+      "nice very good",
+      "It is very nice and good",
+      "Very nice comfortable"
+    ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "views",
-      "company",
-      "game",
-      "mera",
-      "permission",
-      "plz"
+      "ads",
+      "ad",
+      "youtube",
+      "video",
+      "ai",
+      "premium"
     ],
-    "review_count": 24,
-    "avg_rating": 4.54,
-    "avg_sentiment": 0.05,
+    "review_count": 91,
+    "avg_rating": 1.69,
+    "avg_sentiment": -0.104,
     "sample_reviews": [
-      "nice but ajkl thda ruk ruk kr chlta hai YouTube",
-      "\u099b\u09cb\u099f \u0995\u09b0\u09a4\u09c7 \u09b9\u09ac\u09c7",
-      "on nhi hota"
+      "I ain't paying so much just to watch ads constantly , specially right after 5-10mins of any video . work on for those who can't have premium.",
+      "best app for world but some many ads but ok",
+      "remove ads and never change old layout "
+    ]
+  },
+  {
+    "topic_id": 2,
+    "keywords": [
+      "video",
+      "youtube",
+      "videos",
+      "update",
+      "screen",
+      "im"
     ],
-    "label": "YouTube views issue",
-    "category": "complaint",
-    "root_cause": "App is not working properly",
-    "priority": "medium",
-    "priority_reason": "Average rating is 4.54 and review count is 24",
-    "pm_action": "Investigate and fix the issue"
+    "review_count": 60,
+    "avg_rating": 2.2,
+    "avg_sentiment": -0.093,
+    "sample_reviews": [
+      "cannot download video",
+      "press-and-hold for 2x playback has ~2 second lag before the speed engages, and another ~2 seconds after releasing before it returns to 1x. Device: Galaxy Z Fold 8, Latest YouTube app. Not the touchscreen \u2014 other apps long-press normally. Not network or account \u2014 same gesture on the web player in a browser on this same phone is instant.",
+      "Didn't open you tube."
+    ]
+  },
+  {
+    "topic_id": 3,
+    "keywords": [
+      "update",
+      "working",
+      "tab",
+      "search",
+      "available",
+      "entire"
+    ],
+    "review_count": 39,
+    "avg_rating": 1.67,
+    "avg_sentiment": -0.154,
+    "sample_reviews": [
+      "The entire app has been rendered useless, as my subscriptions tab in the bottom, has been completely removed. It's not even there next to the home tab, and since I don't have my search history turned on, I basically have nothing to watch, unless I explicitly search for something. Absolutely horrible change. GIVE ME MY SUBSCRIPTIONS TAB BACK!",
+      "so annoying it's won't even load why why",
+      "stoped working after a couple of years on my galaxy tab a"
+    ]
+  },
+  {
+    "topic_id": 4,
+    "keywords": [
+      "video",
+      "youtube",
+      "mera",
+      "advertisement",
+      "main",
+      "youtube channel"
+    ],
+    "review_count": 21,
+    "avg_rating": 3.9,
+    "avg_sentiment": 0.022,
+    "sample_reviews": [
+      "santosh kumar nice",
+      "menyediakan banyak kategori video yg menarik dan dapat menarik minat saya menonton sewaktu masa lapang",
+      "\u201cBanyak sangat kandungan yang bermanfaat dan menghiburkan. Saya boleh belajar perkara baharu, dengar muzik dan menonton video pada bila-bila masa.\u201d"
+    ]
   }
 ]

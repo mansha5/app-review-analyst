@@ -2,77 +2,39 @@
   {
     "topic_id": 0,
     "keywords": [
-      "zomato",
       "food",
-      "delivery",
-      "order",
       "customer",
-      "service"
+      "experience",
+      "service",
+      "bad",
+      "better"
     ],
-    "review_count": 216,
-    "avg_rating": 2.87,
-    "avg_sentiment": 0.026,
+    "review_count": 356,
+    "avg_rating": 2.42,
+    "avg_sentiment": -0.094,
     "sample_reviews": [
-      "poor customer support",
-      "wow nice app",
-      "did not take action when I complained about food item is missing in my order."
+      "well using multiple apps they attract by their low prices but adding into cart multiple fee applies except zomato are good one lowest at best I have made",
+      "Coppon voucher not redeem",
+      "Worst service and causing health issues by unhygienic food service and worst response I experienced and money wasted Soo people don't prefer zomato in future and further and it is happening repeatedly"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
       "service",
-      "experience",
-      "helpful",
-      "services",
       "excellent",
-      "quality"
+      "platform",
+      "sarvice",
+      "services",
+      "response"
     ],
-    "review_count": 88,
-    "avg_rating": 4.67,
-    "avg_sentiment": 0.46,
+    "review_count": 76,
+    "avg_rating": 4.68,
+    "avg_sentiment": 0.493,
     "sample_reviews": [
-      "bad experience ",
+      "easy and nice to have a good day",
       "good service",
-      "service is good "
-    ]
-  },
-  {
-    "topic_id": 2,
-    "keywords": [
-      "ka",
-      "order",
-      "scam",
-      "star",
-      "quality",
-      "zomato"
-    ],
-    "review_count": 33,
-    "avg_rating": 3.15,
-    "avg_sentiment": 0.001,
-    "sample_reviews": [
-      "cast payment ka option nahi hai",
-      "shi hai \u263a\ufe0f\u263a\ufe0f\u263a\ufe0f\u263a\ufe0f\u263a\ufe0f\u263a\ufe0f",
-      "good sarvesh"
-    ]
-  },
-  {
-    "topic_id": 3,
-    "keywords": [
-      "charges",
-      "high",
-      "swiggy",
-      "price",
-      "charge",
-      "better"
-    ],
-    "review_count": 31,
-    "avg_rating": 2.26,
-    "avg_sentiment": -0.044,
-    "sample_reviews": [
-      "too much charges",
-      "bteer than Swiggy ",
-      "waste, antinational"
+      "best service"
     ]
   }
 ]

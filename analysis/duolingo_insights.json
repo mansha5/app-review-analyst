@@ -6,197 +6,187 @@
       "learning",
       "learn",
       "languages",
-      "english",
-      "energy"
+      "learn language",
+      "im"
     ],
-    "review_count": 183,
-    "avg_rating": 4.01,
-    "avg_sentiment": 0.409,
+    "review_count": 47,
+    "avg_rating": 4.6,
+    "avg_sentiment": 0.692,
     "sample_reviews": [
-      "This app really helps improve your English Even if you have a beginner,you must try",
-      "I like the app but I want to keep improving my pronunciation",
-      "best for language learning thnks duo suiiii"
-    ],
-    "label": "English Learning",
-    "category": "praise",
-    "root_cause": "This app really helps improve your English",
-    "priority": "medium",
-    "priority_reason": "Average rating is 4.01 and review count is 183",
-    "pm_action": "Improve pronunciation feature"
+      "this language app is nice",
+      "I like how it helps you more likely read and understand what language you want to learn if you do just slightly mispronounce a sentence that the app wants you to say you apparently get it incorrect but other than that it's pretty good",
+      "I LOVE this app! If you want to learn a certain language, so far, this has been the easiest option I could find! It has a lot of languages, even ones I didn't even know existed, like High Valarian for example. Anyway, great app, 5/5!"
+    ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "easy",
-      "chess",
-      "learning",
+      "duolingo",
+      "love",
+      "like",
       "learn",
-      "experience",
-      "easy learn"
+      "lessons",
+      "language"
     ],
-    "review_count": 48,
-    "avg_rating": 4.52,
-    "avg_sentiment": 0.516,
+    "review_count": 45,
+    "avg_rating": 4.11,
+    "avg_sentiment": 0.487,
     "sample_reviews": [
-      "sooo good for learn chess",
-      "great learning",
-      "Gamification keeps you coming."
-    ],
-    "label": "Easy Duolingo Experience",
-    "category": "praise",
-    "root_cause": "Gamification and learning features are effective.",
-    "priority": "medium",
-    "priority_reason": "Average rating is above 2.5 and review count is below 30.",
-    "pm_action": "Monitor user feedback and adjust gamification features as needed."
+      "I quit using Duolingo for one reason; if I go offline, it saves NO progress. I can't DL more than a partial lesson for offline either. Even 3 lessons would be great! But I can do several lessons & it says I haven't. It gives the same lesson over & over. It never saves streaks either. If offline worked seamlessly, I'd consider paying a bit a month for other perks. It can't find my friends I also convinced to play. No fun.",
+      "Some things are truly awesome learning with Duolingo, but others are very upsetting. Update 22 August 2026. Many changes have happened and some are not good. As a non-verbal individual I am continually being requested to speak! I can assure you that this is a huge problem for me as I am unable to complete daily goals. I have emailed them regarding this issue to no avail.",
+      "i love duolingo beacause i could learn chess openings"
+    ]
   },
   {
     "topic_id": 2,
     "keywords": [
-      "duolingo",
-      "man",
-      "wrong",
-      "update",
-      "learn",
-      "learning"
+      "useful",
+      "love",
+      "making",
+      "wow",
+      "apps",
+      "helpful"
     ],
-    "review_count": 44,
-    "avg_rating": 4.16,
-    "avg_sentiment": 0.502,
+    "review_count": 35,
+    "avg_rating": 4.77,
+    "avg_sentiment": 0.531,
     "sample_reviews": [
-      "best learning app in the world keep doing duolingo ,",
-      "so far duolingo is a easy-to-use learning app, I am now familiar with the beginning phrases and excited to learn more.",
-      "I love Duolingo app very much "
-    ],
-    "label": "Duolingo User Feedback",
-    "category": "praise",
-    "root_cause": "Users are satisfied with the app's ease of use and learning experience.",
-    "priority": "medium",
-    "priority_reason": "Average rating is above 2.5 and review count is below 30.",
-    "pm_action": "Monitor user feedback and consider adding new features to enhance the learning experience."
+      "I hate is app",
+      "thank you for making this app I don't how was making this app but my great wishes always with you Radhe Radhe ",
+      "Hah this app too useful"
+    ]
   },
   {
     "topic_id": 3,
     "keywords": [
-      "interesting",
-      "love",
-      "download",
-      "friends",
       "amazing",
-      "application"
+      "love",
+      "game",
+      "beautiful",
+      "love amazing",
+      "service"
     ],
     "review_count": 34,
-    "avg_rating": 4.56,
-    "avg_sentiment": 0.523,
+    "avg_rating": 4.65,
+    "avg_sentiment": 0.499,
     "sample_reviews": [
-      "what is special app download",
-      "pretty decent app tbh love it!!",
-      "it is a very good app"
-    ],
-    "label": "Duolingo Review",
-    "category": "praise",
-    "root_cause": "Users love the application.",
-    "priority": "medium",
-    "priority_reason": "Average rating is 4.56 and review count is 34.",
-    "pm_action": "Monitor and analyze user feedback."
+      "A beautiful game",
+      "this is good",
+      "It is so fun and amazing"
+    ]
   },
   {
     "topic_id": 4,
     "keywords": [
-      "ke",
-      "ke liye",
-      "liye",
-      "ok",
-      "level",
-      "duolingo"
+      "learning",
+      "beginners",
+      "learning beginners",
+      "application",
+      "ive learning",
+      "garbage"
     ],
     "review_count": 25,
     "avg_rating": 4.4,
-    "avg_sentiment": 0.032,
+    "avg_sentiment": 0.472,
     "sample_reviews": [
-      "nice Bdiya h sikhne ke liye best app",
-      "bahut hi aasani se aap English Sikh sakte hain",
-      "konchem level penchithe bagunttundhi"
-    ],
-    "label": "Duolingo Review",
-    "category": "praise",
-    "root_cause": "User found Duolingo helpful for learning English",
-    "priority": "medium",
-    "priority_reason": "Average rating is 4.4 and review count is 25",
-    "pm_action": "Monitor and maintain the current rating and review count"
+      "best learning app for maths exam",
+      "very fun learning experience from this app",
+      "best learning app"
+    ]
   },
   {
     "topic_id": 5,
     "keywords": [
-      "amazing",
-      "love",
-      "tbh",
-      "yes",
-      "wow",
-      "kinda"
+      "ads",
+      "free",
+      "like",
+      "application",
+      "dont",
+      "subscription"
     ],
     "review_count": 23,
-    "avg_rating": 4.78,
-    "avg_sentiment": 0.554,
+    "avg_rating": 3.0,
+    "avg_sentiment": 0.327,
     "sample_reviews": [
-      "it is very good and playful",
-      "this is very good",
-      "its very well done"
-    ],
-    "label": "Duolingo Review",
-    "category": "praise",
-    "root_cause": "Users love the playful and well-done app.",
-    "priority": "medium",
-    "priority_reason": "Average rating is 4.78 and review count is 23.",
-    "pm_action": "Monitor and maintain the high rating."
+      "it's fun, I like to crack simple questions and puzzles edit: After I finished my last Perfect Streak, there was an offer asking for more gems by watching an ad, when the ad was finished it took me to Google play and when I go back on the app, the reward was gone, please fix this.",
+      "work full app",
+      "too many ads but it was so fun"
+    ]
   },
   {
     "topic_id": 6,
     "keywords": [
-      "experience",
-      "time",
-      "",
-      "",
-      "",
-      ""
+      "fun",
+      "teaching",
+      "learn",
+      "fun teaches",
+      "old",
+      "remember"
     ],
-    "review_count": 12,
-    "avg_rating": 5.0,
-    "avg_sentiment": 0.517,
+    "review_count": 23,
+    "avg_rating": 4.83,
+    "avg_sentiment": 0.434,
     "sample_reviews": [
-      "is the best app",
-      "perfection ",
-      "the best app of all time"
-    ],
-    "label": "Duolingo User Experience",
-    "category": "praise",
-    "root_cause": "Users highly praise the app's effectiveness and user experience.",
-    "priority": "medium",
-    "priority_reason": "Average rating is 5.0 and review count is 12, which is relatively low.",
-    "pm_action": "Investigate why review count is low and consider implementing a review prompt feature."
+      "amazing I learned a lot",
+      "learning is so fun and a good chance to learn. l love this green bird so much",
+      "Good to start learning something."
+    ]
   },
   {
     "topic_id": 7,
     "keywords": [
-      "helpful",
-      "useful",
-      "come",
-      "alot",
-      "later",
-      "helping"
+      "way",
+      "way learn",
+      "languages",
+      "learn new",
+      "new",
+      "language"
     ],
-    "review_count": 11,
-    "avg_rating": 4.45,
-    "avg_sentiment": 0.493,
+    "review_count": 21,
+    "avg_rating": 4.86,
+    "avg_sentiment": 0.617,
     "sample_reviews": [
-      "Good very usefull",
-      "it's very helpful to us",
-      "so useful in many ways"
+      "practical, fun and really useful. Always good to expand vocabulary in any language",
+      "Great way to learn and improve communication skills in different languages",
+      "it's too good for learning various types of languages"
+    ]
+  },
+  {
+    "topic_id": 8,
+    "keywords": [
+      "vibration",
+      "hindi",
+      "free",
+      "question",
+      "type",
+      "star"
     ],
-    "label": "Duolingo Feedback",
-    "category": "praise",
-    "root_cause": "Users find Duolingo very helpful and useful.",
-    "priority": "medium",
-    "priority_reason": "Average rating is 4.45 and review count is 11.",
-    "pm_action": "Review and analyze user feedback to identify areas for improvement."
+    "review_count": 18,
+    "avg_rating": 4.67,
+    "avg_sentiment": 0.203,
+    "sample_reviews": [
+      "bahut mahaaraha",
+      "too fun also improves my hindi",
+      "ang ganda specially yung chess kasi hindi naman masyado mahirap"
+    ]
+  },
+  {
+    "topic_id": 9,
+    "keywords": [
+      "spanish",
+      "learning spanish",
+      "want",
+      "say",
+      "lets say",
+      "lets"
+    ],
+    "review_count": 13,
+    "avg_rating": 4.31,
+    "avg_sentiment": 0.451,
+    "sample_reviews": [
+      "its very educational for me because i need to learn spainish",
+      "I have enjoyed learning some Spanish with this app. It keeps me wanting to practice. I just wish the loud dings would stay off when I turn off sound effects. That only works occasionally if I take the time to clear the cache. Apparently, it has been a common complaint for years, but they can't seem to figure it out.",
+      "Wow, never did i think I'll ever learn a language but its been a few classes and look: \"Oi, Um ch\u00e1 ou caf\u00e9 com leite e um p\u00e3o ou pastel, por favor\". I can't believe i know this much portuguese off the top of my head. i feel so smart. cant wait to baffle my friends\u2728\ufe0f"
+    ]
   }
 ]

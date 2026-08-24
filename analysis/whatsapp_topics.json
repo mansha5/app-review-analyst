@@ -3,133 +3,38 @@
     "topic_id": 0,
     "keywords": [
       "whatsapp",
-      "account",
-      "review",
-      "communication",
-      "love",
-      "banned"
+      "banned",
+      "video",
+      "open",
+      "update",
+      "new"
     ],
-    "review_count": 230,
-    "avg_rating": 3.8,
-    "avg_sentiment": 0.333,
+    "review_count": 533,
+    "avg_rating": 3.65,
+    "avg_sentiment": 0.275,
     "sample_reviews": [
-      "please un block my whatsapp please",
-      "wonder full messaging app",
-      "nice application for whatsapp"
+      "it is a very good app",
+      "Allowing me to open a whatApp on my MI Oneplus5010. Mobile also",
+      "such i good"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "easy",
-      "fast",
-      "amazing",
-      "bad",
-      "daily",
-      "fast easy"
-    ],
-    "review_count": 78,
-    "avg_rating": 4.49,
-    "avg_sentiment": 0.4,
-    "sample_reviews": [
-      "hoo it's super",
-      "very harmful",
-      "good easy \u2764\ufe0f\u200d"
-    ]
-  },
-  {
-    "topic_id": 2,
-    "keywords": [
+      "ke",
+      "story",
       "update",
-      "install",
-      "download",
-      "log",
-      "version",
-      "time"
+      "activity",
+      "watsapp",
+      "band"
     ],
-    "review_count": 48,
-    "avg_rating": 2.46,
-    "avg_sentiment": -0.059,
+    "review_count": 35,
+    "avg_rating": 2.97,
+    "avg_sentiment": -0.024,
     "sample_reviews": [
-      "good new updates now a days",
-      "I couldn't log in",
-      "Not able to install on samsung z fold 8. have update all applications but still whatsup is not getting install"
-    ]
-  },
-  {
-    "topic_id": 3,
-    "keywords": [
-      "bar",
-      "24",
-      "bar bar",
-      "whats",
-      "hi",
-      "time"
-    ],
-    "review_count": 38,
-    "avg_rating": 3.66,
-    "avg_sentiment": -0.035,
-    "sample_reviews": [
-      "ya app gb bahut leta hai",
-      "plz new features dy mujhy keyboard waly b or Baki",
-      "\u098f\u099f\u09be \u0986\u09ae\u09be\u09b0 \u0997\u09c1\u09b0\u09c1\u09a4\u09cd\u09ac\u09aa\u09c2\u09b0\u09cd\u09a3 whatsapp \u0997\u09c1\u09b0\u09c1\u09a4\u09cd\u09ac\u09aa\u09c2\u09b0\u09cd\u09a3 whatsapp"
-    ]
-  },
-  {
-    "topic_id": 4,
-    "keywords": [
-      "communication",
-      "fast",
-      "im",
-      "family",
-      "way",
-      "fast communication"
-    ],
-    "review_count": 21,
-    "avg_rating": 4.62,
-    "avg_sentiment": 0.452,
-    "sample_reviews": [
-      "Reluable fast communicating eith friends and family",
-      "very importance chat",
-      "Im short of words"
-    ]
-  },
-  {
-    "topic_id": 5,
-    "keywords": [
-      "service",
-      "support",
-      "thanks",
-      "forward",
-      "fantastic",
-      "thank support"
-    ],
-    "review_count": 17,
-    "avg_rating": 4.18,
-    "avg_sentiment": 0.456,
-    "sample_reviews": [
-      "fantastic service",
-      "There should be an option in Mood Today that says something can last forever.",
-      "best service"
-    ]
-  },
-  {
-    "topic_id": 6,
-    "keywords": [
-      "account",
-      "bad bad",
-      "blocking",
-      "bad",
-      "banning",
-      "banned"
-    ],
-    "review_count": 16,
-    "avg_rating": 2.44,
-    "avg_sentiment": -0.275,
-    "sample_reviews": [
-      "why my account and device informations are in public what means it stop this kind of things witch makes me worry. whatever you are showing are not they harmful for me or not please tell me .",
-      "why my acc suddently got banned",
-      "It bans for no reason"
+      "whatsaap sabshe aachha",
+      "tolong ad fitur filter dari kamera, saya ingin men update tetep tak bisa juga mohon bantuan nya",
+      "menyusahkan la update baru ni,dulu nk edit or apa ii just tekan dekat atas je ni tah mana ii keluar button nk edit nye"
     ]
   }
 ]

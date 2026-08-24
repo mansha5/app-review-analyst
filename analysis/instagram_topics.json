@@ -2,172 +2,39 @@
   {
     "topic_id": 0,
     "keywords": [
+      "account",
+      "instagram",
+      "like",
       "love",
-      "download",
-      "worst",
-      "world",
-      "amazing",
-      "important"
+      "suspended",
+      "dont"
     ],
-    "review_count": 134,
-    "avg_rating": 4.23,
-    "avg_sentiment": 0.363,
+    "review_count": 502,
+    "avg_rating": 3.61,
+    "avg_sentiment": 0.25,
     "sample_reviews": [
-      "Excellent application",
-      "very good app",
-      "Here is personal information leak and and this app is misuse for fraud"
+      "fast and lovely",
+      "Stay deleting people accs for no reason this is a terrible app",
+      "calling me no why?"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "account",
       "instagram",
-      "suspended",
-      "reason",
+      "bhi",
       "id",
-      "accounts"
+      "suspend",
+      "koi",
+      "ko"
     ],
-    "review_count": 116,
-    "avg_rating": 2.58,
-    "avg_sentiment": -0.012,
+    "review_count": 101,
+    "avg_rating": 3.57,
+    "avg_sentiment": 0.038,
     "sample_reviews": [
-      " id suspend bar bar ",
-      "best app instagram ",
-      "my 15 account is disabled and suspend now I am not using the Instagram I am leave the Instagram"
-    ]
-  },
-  {
-    "topic_id": 2,
-    "keywords": [
-      "la",
-      "ye",
-      "hi",
-      "viral",
-      "bar",
-      "mera"
-    ],
-    "review_count": 83,
-    "avg_rating": 3.17,
-    "avg_sentiment": 0.049,
-    "sample_reviews": [
-      "ye aap bahut hi kharab h iski jaldi lat lag jati h krapya padai pe dhyan de",
-      "both accha ap hai",
-      "mera video viral kar do please"
-    ]
-  },
-  {
-    "topic_id": 3,
-    "keywords": [
-      "superb",
-      "super",
-      "10",
-      "bad",
-      "smooth",
-      "wow"
-    ],
-    "review_count": 76,
-    "avg_rating": 4.53,
-    "avg_sentiment": 0.386,
-    "sample_reviews": [
-      "good contant",
-      "very comfortable to use",
-      "nice sangat "
-    ]
-  },
-  {
-    "topic_id": 4,
-    "keywords": [
-      "instagram",
-      "instagram instagram",
-      "love instagram",
-      "instagram love",
-      "love",
-      "like instagram"
-    ],
-    "review_count": 27,
-    "avg_rating": 4.48,
-    "avg_sentiment": 0.486,
-    "sample_reviews": [
-      "thanks instagram",
-      "great place to promote my artwork!!!!",
-      "Instagram good "
-    ]
-  },
-  {
-    "topic_id": 5,
-    "keywords": [
-      "reel",
-      "screen",
-      "select",
-      "guys",
-      "reels",
-      "hell"
-    ],
-    "review_count": 15,
-    "avg_rating": 2.8,
-    "avg_sentiment": 0.183,
-    "sample_reviews": [
-      "please reel viral",
-      "very bad when watching reels suddenly nude videos came up on feed then I was at Home with family",
-      "everything on my feet stutters and stops and never finishes the video. but oh Lord do the commercials come through loud and clear."
-    ]
-  },
-  {
-    "topic_id": 6,
-    "keywords": [
-      "disabled",
-      "account disabled",
-      "account",
-      "ni",
-      "reason account",
-      "reason"
-    ],
-    "review_count": 14,
-    "avg_rating": 1.57,
-    "avg_sentiment": -0.218,
-    "sample_reviews": [
-      "0 security when my account gets hacked twice",
-      "account disabled without any reason",
-      "account disable"
-    ]
-  },
-  {
-    "topic_id": 7,
-    "keywords": [
-      "experience",
-      "people",
-      "new",
-      "increase",
-      "satisfied",
-      "reach"
-    ],
-    "review_count": 13,
-    "avg_rating": 5.0,
-    "avg_sentiment": 0.567,
-    "sample_reviews": [
-      "One of the best experiences",
-      "that was best experience",
-      "Great experience for my business"
-    ]
-  },
-  {
-    "topic_id": 8,
-    "keywords": [
-      "songs",
-      "mention",
-      "able",
-      "working",
-      "story",
-      "issue"
-    ],
-    "review_count": 10,
-    "avg_rating": 1.6,
-    "avg_sentiment": -0.08,
-    "sample_reviews": [
-      "lot of errors in mention of the story",
-      "Your app is not working on my mobile.If you would like help fixing the issue, please tell me:",
-      "Both of our activity status is on but for one of us it's not shown and of the other one it's shown. Please fix this it's annoying"
+      "Bahute badhiya tha",
+      "sali ek bhi ladki reply nhi deti don't install the app ",
+      "lakin instagram par sabhi lago ka views nahi ata please instagram mera bhi 1 video viral kar do"
     ]
   }
 ]

@@ -2,76 +2,115 @@
   {
     "topic_id": 0,
     "keywords": [
-      "fast",
-      "stop",
+      "easy",
       "service",
-      "experience",
-      "seconds",
-      "faster"
+      "secure",
+      "safe",
+      "awesome",
+      "fast"
     ],
-    "review_count": 160,
-    "avg_rating": 4.66,
-    "avg_sentiment": 0.407,
+    "review_count": 117,
+    "avg_rating": 4.69,
+    "avg_sentiment": 0.466,
     "sample_reviews": [
-      "Not trustworthy",
-      "it's amazing \u2620\ufe0f",
-      "user friendly "
-    ],
-    "label": "Paytm Experience",
-    "category": "complaint",
-    "root_cause": "Not trustworthy",
-    "priority": "high",
-    "priority_reason": "Low rating and many reviews",
-    "pm_action": "Investigate user complaints and improve trust"
+      "Nice app. Recharge quickly. Awesome one is-when you post ur No. then immediate shows d Number locality.",
+      "very useful ",
+      "i love app secure app no problem fast upi aap"
+    ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "payment",
       "paytm",
-      "worst",
-      "working",
+      "payment",
+      "payments",
       "upi",
-      "time"
+      "fast",
+      "money"
     ],
-    "review_count": 151,
-    "avg_rating": 3.51,
-    "avg_sentiment": 0.16,
+    "review_count": 110,
+    "avg_rating": 3.66,
+    "avg_sentiment": 0.247,
     "sample_reviews": [
-      "best transaction app",
-      "This is bad app because this app register mobile number but it's coming issue",
-      "sabse best payment App it's really great \u2764"
-    ],
-    "label": "Paytm Payment Issues",
-    "category": "complaint",
-    "root_cause": "Registration issue with mobile number",
-    "priority": "high",
-    "priority_reason": "Low rating and multiple reviews",
-    "pm_action": "Investigate and resolve registration issue"
+      "paytm best app",
+      "it's great paytm.. ",
+      "thankyou Paytm"
+    ]
   },
   {
     "topic_id": 2,
     "keywords": [
-      "bhi",
-      "karo",
+      "raha",
       "ka",
       "nahi",
-      "diya",
-      "cashback"
+      "hi",
+      "rs",
+      "apps"
     ],
-    "review_count": 55,
-    "avg_rating": 3.24,
-    "avg_sentiment": 0.101,
+    "review_count": 43,
+    "avg_rating": 3.26,
+    "avg_sentiment": 0.072,
     "sample_reviews": [
-      "bekar app hai platform fee kat Raha hai mai ise abhi uninstall kar raha hu",
-      "payment app kharab hai sab se paise kat jaata hai ya par koi bhi download nhi karo",
-      "bahut acha aplication hai"
+      "dharmendra \u2764\u2764\u2764\u2764\u2764",
+      "radhe radhe",
+      "sound box bilkul na le....inke sound box ki service bilkul ghatiya h. ..ai se samsya ka samadhan kerte h...aaj 22.08.2026 ko lagbhag 10 din ho gye inki or se koi solution nhi ho rha ....ab to bus consumer court Jana hi bacha h.... bilkul ghatiya service..."
+    ]
+  },
+  {
+    "topic_id": 3,
+    "keywords": [
+      "environment",
+      "device",
+      "device environment",
+      "environment correct",
+      "correct",
+      "working"
     ],
-    "label": "Payment app kharab hai",
-    "category": "complaint",
-    "root_cause": "Platform fee is deducted",
-    "priority": "high",
-    "priority_reason": "Low rating and many reviews",
-    "pm_action": "Investigate and resolve platform fee issue"
+    "review_count": 23,
+    "avg_rating": 1.43,
+    "avg_sentiment": -0.121,
+    "sample_reviews": [
+      "I am getting error environment is not correct. tell me reason for that??. model no- techno LE 7. please fix it as soon as possible",
+      "it keeps saying not for device environment & payment fails everytime",
+      "My aap showing 0000 enviornment not recognised error"
+    ]
+  },
+  {
+    "topic_id": 4,
+    "keywords": [
+      "cashback",
+      "cash",
+      "gold",
+      "fake",
+      "offers",
+      "need"
+    ],
+    "review_count": 17,
+    "avg_rating": 3.06,
+    "avg_sentiment": -0.017,
+    "sample_reviews": [
+      "good Cash back",
+      "Even though I'm using a coupon I'm not getting cashback afterwards...",
+      "fake and decieving cashback offers"
+    ]
+  },
+  {
+    "topic_id": 5,
+    "keywords": [
+      "stop",
+      "seconds",
+      "faster",
+      "download",
+      "added",
+      "soo"
+    ],
+    "review_count": 11,
+    "avg_rating": 4.45,
+    "avg_sentiment": 0.147,
+    "sample_reviews": [
+      "I love the app! This is syncing happens pretty much every time you open the app, start, stop, or edit an entry, so it was a real pain. The app is soo much faster download. Not to mention being unable to use the app when it's syncing because it literally stops responding until it's done. But now download faster and more stable. Thank you so much to everyone algorithms. You'd stop an entry and it'd be several seconds before it'd actually stop and those extra seconds are added too the entry?",
+      "I love the app! The app is soo much faster download. You'd stop an entry and it'd be several \u23f0seconds before it'd actually stop and those extra seconds are added too the entry.This is syncing happens pretty much every time you open the app, start, stop, or edit an entry, so it was a real pain. But now download faster and more stable. Thank you so much to everyone algorithms. Not to mention being unable to use the app when it's syncing because it literally stops responding until it's done.",
+      "I love\u23f0 the app! This is syncing happens pretty much every time you open the app, start, stop, or edit an entry, so it was a real pain. The app is soo much faster download. Not to mention being unable to use the app when it's syncing because it literally stops responding until it's done. Thank you so much to everyone algorithms. But now download faster and more stable. You'd stop an entry and it'd be several seconds before it'd actually stop and those extra seconds are added too the entry."
+    ]
   }
 ]

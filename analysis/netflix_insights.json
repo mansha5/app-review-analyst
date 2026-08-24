@@ -2,229 +2,134 @@
   {
     "topic_id": 0,
     "keywords": [
-      "netflix",
-      "shows",
-      "watch",
-      "like",
-      "love",
-      "tv"
+      "phone",
+      "dont",
+      "know",
+      "payment",
+      "need",
+      "screen"
     ],
-    "review_count": 68,
-    "avg_rating": 3.99,
-    "avg_sentiment": 0.424,
+    "review_count": 86,
+    "avg_rating": 2.77,
+    "avg_sentiment": 0.138,
     "sample_reviews": [
-      "interested movie see Netflix",
-      "Varieties of shows available on Netflix..get more Turkish TV shows",
-      "I love Netflix, I NEED NETFLIX \u2763\ufe0f"
-    ],
-    "label": "Love Netflix",
-    "category": "praise",
-    "root_cause": "User enjoys Netflix content",
-    "priority": "high",
-    "priority_reason": "Low rating and many reviews indicate significant issue",
-    "pm_action": "Investigate and improve content offerings"
+      "love the app but it dosent have all the animes I want to watch, and the for the pfp dose not have the ones I want so thats a bummer but other wise its a good app",
+      "the moment they took out the casting button I cancelled my account.",
+      "I am getting logged out to often. Inconveniente."
+    ]
   },
   {
     "topic_id": 1,
     "keywords": [
       "movie",
+      "film",
+      "awesome",
+      "interesting",
       "movies",
+      "watch"
+    ],
+    "review_count": 55,
+    "avg_rating": 4.69,
+    "avg_sentiment": 0.482,
+    "sample_reviews": [
+      "bring back dead end paranormal Park",
+      "Awesome Movie",
+      "This was actually a wonderful little film !"
+    ]
+  },
+  {
+    "topic_id": 2,
+    "keywords": [
+      "netflix",
+      "movies",
+      "like",
+      "love",
       "watch",
-      "real",
-      "watch movie",
-      "love"
+      "shows"
     ],
-    "review_count": 60,
-    "avg_rating": 4.82,
-    "avg_sentiment": 0.467,
+    "review_count": 50,
+    "avg_rating": 4.2,
+    "avg_sentiment": 0.363,
     "sample_reviews": [
-      "Boring... repeat movies nothing new to watch",
-      "good movies",
-      "Great Series, one of the best"
-    ],
-    "label": "Disappointing movie selection",
-    "category": "complaint",
-    "root_cause": "Repeat movies with nothing new to watch",
-    "priority": "high",
-    "priority_reason": "Low rating and many reviews",
-    "pm_action": "Increase movie offerings and refresh content"
-  },
-  {
-    "topic_id": 2,
-    "keywords": [
-      "streaming",
-      "service",
-      "ads",
-      "subscribe",
-      "video",
-      "streaming service"
-    ],
-    "review_count": 54,
-    "avg_rating": 3.07,
-    "avg_sentiment": 0.121,
-    "sample_reviews": [
-      "Your pricing is outrageous, your business practices are criminal, and you cancel the best shows after a season or two. When society eventually abandons streaming and returns to cable, it will be your own fault.",
-      "Great Streaming Product",
-      "my favorite streaming platform! Great originals and the best of the classic shows I grew up with. Not to mention.... the awesome games."
-    ],
-    "Your pricing is outrageous...": {
-      "label": "Poor Business Practices",
-      "category": "complaint",
-      "root_cause": "Unfair pricing and show cancellation",
-      "priority": "high",
-      "priority_reason": "Low rating and many reviews",
-      "pm_action": "Review pricing strategy and show cancellation policy"
-    },
-    "Great Streaming Product": {
-      "label": "Good Streaming Service",
-      "category": "praise",
-      "root_cause": "Good streaming experience and content",
-      "priority": "low",
-      "priority_reason": "Positive review",
-      "pm_action": "Maintain current streaming service quality"
-    },
-    "my favorite streaming platform!": {
-      "label": "Favorite Streaming Platform",
-      "category": "praise",
-      "root_cause": "Good streaming experience and content",
-      "priority": "low",
-      "priority_reason": "Positive review",
-      "pm_action": "Maintain current streaming service quality"
-    },
-    "Great originals and the best of the classic shows I grew up with": {
-      "label": "Good Content Variety",
-      "category": "praise",
-      "root_cause": "Good content variety and quality",
-      "priority": "low",
-      "priority_reason": "Positive review",
-      "pm_action": "Maintain current content variety and quality"
-    },
-    "Not to mention.... the awesome games": {
-      "label": "Good Game Selection",
-      "category": "praise",
-      "root_cause": "Good game selection and quality",
-      "priority": "low",
-      "priority_reason": "Positive review",
-      "pm_action": "Maintain current game selection and quality"
-    }
-  },
-  {
-    "topic_id": 2,
-    "keywords": [
-      "streaming",
-      "service",
-      "ads",
-      "subscribe",
-      "video",
-      "streaming service"
-    ],
-    "review_count": 54,
-    "avg_rating": 3.07,
-    "avg_sentiment": 0.121,
-    "sample_reviews": [
-      "Your pricing is outrageous, your business practices are criminal, and you cancel the best shows after a season or two. When society eventually abandons streaming and returns to cable, it will be your own fault.",
-      "Great Streaming Product",
-      "my favorite streaming platform! Great originals and the best of the classic shows I grew up with. Not to mention.... the awesome games."
+      "Love Netflix! So many great shows and movies to watch. \u2764\ufe0f",
+      "Netflix gotta have it ",
+      "For My OCD And (Maybe Autism, I Don't Know SZA) Netflix Has Really Helped Me Control My Wrath, I Would Be Locked In A Federal Prison Right Now With Predators Lives On My Conscience Right Now If It Weren't For Netflix. For That I Am Extremely Explicitly Grateful. Yours Truly. -HotshotDaMonsta."
     ]
   },
   {
     "topic_id": 3,
     "keywords": [
-      "excellent",
       "love",
-      "interesting",
-      "entertaining",
-      "awesome",
+      "love love",
+      "beautiful",
+      "perfect",
+      "experience",
       "like"
     ],
-    "review_count": 37,
-    "avg_rating": 4.73,
-    "avg_sentiment": 0.447,
+    "review_count": 46,
+    "avg_rating": 4.24,
+    "avg_sentiment": 0.441,
     "sample_reviews": [
-      "NO PROBLEMS,GREAT",
-      "Love this!! ",
-      "Very intellectual."
-    ],
-    "label": "Netflix Excellent Service",
-    "category": "praise",
-    "root_cause": "Excellent service with interesting content",
-    "priority": "medium",
-    "priority_reason": "Average rating is 4.73 and review count is 37",
-    "pm_action": "Investigate and improve content offerings"
+      "if I can I will give more than 5 \u2b50\ufe0f",
+      "it refreshes my mind",
+      "wowowow so awesome (im 21 btw)"
+    ]
   },
   {
     "topic_id": 4,
     "keywords": [
-      "thanks",
-      "download",
-      "easy",
-      "application",
-      "keeps",
-      "love"
+      "english",
+      "add",
+      "money",
+      "movie",
+      "watching",
+      "le"
     ],
-    "review_count": 32,
-    "avg_rating": 3.88,
-    "avg_sentiment": 0.389,
+    "review_count": 21,
+    "avg_rating": 3.67,
+    "avg_sentiment": 0.044,
     "sample_reviews": [
-      "Nearly always works well, and has for as long as they have been in business.",
-      "this app keeps downloading something or never finishes. fix it please. I believe it is suspious. I have not signed in but keeps spinning",
-      "l love this app"
-    ],
-    "label": "Netflix App Issues",
-    "category": "complaint",
-    "root_cause": "App keeps downloading or not finishing downloads.",
-    "priority": "high",
-    "priority_reason": "Low rating and multiple reviews indicate significant issues.",
-    "pm_action": "Investigate and fix the download functionality issue."
+      "bhut he bekar hai....hindi audio ki movie and show bhut kam or sb english me 95% jada aate ...to etna money lete kyu ho sbi se jitna money le rhe ho uss me hindi wale ke liye hindi all Hollywood and south and bollywood to show/dala kro bekar aap hai",
+      "I love watching movies here cause you can translate it into any language.",
+      "Please add in KDrama from Yr 2010"
+    ]
   },
   {
     "topic_id": 5,
     "keywords": [
-      "chinese",
-      "english",
-      "delete",
-      "months",
-      "platform",
-      "movies"
+      "streaming",
+      "service",
+      "subscription",
+      "streaming service",
+      "expensive",
+      "worth"
     ],
-    "review_count": 26,
-    "avg_rating": 4.12,
-    "avg_sentiment": 0.319,
+    "review_count": 20,
+    "avg_rating": 3.75,
+    "avg_sentiment": 0.273,
     "sample_reviews": [
-      "India ka sabse bada platform yahi hai aur mera best baki sab mujhe pasand nahin bakwas se Baki platform recharge lekar bhi add dikhate Hain per Netflix customer support I like thank you Netflix I am happy ",
-      "\u062c\u0628 \u0627\u06cc\u06a9 \u062f\u0641\u0639\u06c1 \u0627\u06cc\u067e \u0627\u0646\u0633\u0679\u0627\u0644 \u06a9\u0631 \u0644\u06cc \u062a\u0648 \u067e\u06be\u0631 \u0627\u0646\u0679\u0631\u0646\u06cc\u0679 \u0645\u0648\u062c\u0648\u062f \u06c1\u0648\u0646\u06d2 \u06a9\u06d2 \u0628\u0627\u0648\u062c\u0648\u062f \u0627\u0633 \u0627\u06cc\u067e \u06a9\u06d2 \u0644\u06cc\u06d2 \u0627\u0644\u06af \u0633\u06d2 \u067e\u06cc\u0645\u0646\u0679 \u06a9\u06cc\u0648\u06ba \u06a9\u0631\u06cc\u06ba\u061f\u061f\u061f \u067e\u06be\u0631 \u0627\u0633 \u0627\u06cc\u067e \u06a9\u0648 \u067e\u0631\u06cc\u0645\u06cc\u0645 \u06a9\u06d2 \u0628\u063a\u06cc\u0631 \u0686\u0644\u0646\u0627 \u0686\u0627\u06c1\u06cc\u06d2\u06d4",
-      "\u0925\u094b\u0921\u093c\u093e \u0914\u0930 \u092c\u0947\u0939\u0924\u0930 \u0939\u094b\u0928\u093e \u091a\u093e\u0939\u093f\u090f \u0925\u093e"
-    ],
-    "label": "Poor Customer Support",
-    "category": "complaint",
-    "root_cause": "App requires separate payment despite internet availability",
-    "priority": "high",
-    "priority_reason": "Rating is 4.12 and review count is 26",
-    "pm_action": "Improve customer support and payment process"
+      "Honestly, I hadn't purchased before because I was just sure the price was outrageous. To my surprise, when my curiosity finally convinced me to checkout the prices for myself to see what I am up against.. I saw that prices ranging from \"completely affordable\" to \"it's a good deal\" and I don't think I gave myself another minute before I purchased. Im a documentary fan that's not been able to find a streaming service that tops the Netflix Documentaries on any level.",
+      "I hate that you have to pay ",
+      "Nflix has definitely Improved over the years. I'm an old school patron, I remember when Nflix came out, they would mail you discs to watch. then you had to mail them back. then they'd mail you more. Then they started streaming an Bingo, they hit the Jackpot. "
+    ]
   },
   {
     "topic_id": 6,
     "keywords": [
-      "series",
-      "movies",
-      "movie",
-      "movies series",
-      "films",
-      "love"
+      "season",
+      "shows",
+      "love",
+      "long",
+      "enjoy",
+      "series"
     ],
     "review_count": 18,
-    "avg_rating": 4.33,
-    "avg_sentiment": 0.621,
+    "avg_rating": 4.94,
+    "avg_sentiment": 0.738,
     "sample_reviews": [
-      "its usually a very good app but recently on my phone it oesnt let me play an show/movie",
-      "Average app but good content.",
-      "perfect application but needs more films to be updated to All tastes"
-    ],
-    "label": "Netflix App Issues",
-    "category": "bug",
-    "root_cause": "App crashes or fails to play content",
-    "priority": "medium",
-    "priority_reason": "Average rating and review count are moderate",
-    "pm_action": "Investigate and fix playback issues on mobile devices"
+      "Awsome place to find the Shows you Love.",
+      "The show is grt. Idk if anyone else rlly likes it, but it's a grt show. I enjoy it. Grt actresses in it. I'm sure they work hard. Have a good one.",
+      "Great shows and entertainment "
+    ]
   }
 ]

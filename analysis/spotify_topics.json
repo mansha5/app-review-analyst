@@ -2,172 +2,172 @@
   {
     "topic_id": 0,
     "keywords": [
-      "enjoy",
-      "service",
+      "love",
+      "excellent",
       "amazing",
       "experience",
-      "brilliant",
-      "words"
+      "price",
+      "pretty"
     ],
-    "review_count": 56,
-    "avg_rating": 4.77,
-    "avg_sentiment": 0.482,
+    "review_count": 51,
+    "avg_rating": 4.67,
+    "avg_sentiment": 0.454,
     "sample_reviews": [
-      "it's amazing",
-      "Great selections!",
-      "Luvs it all the way!!!"
+      "I love this",
+      "it's really nice and handy",
+      "it's greate"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "spotify",
       "music",
       "love",
-      "streaming",
-      "like",
-      "audio"
+      "love music",
+      "songs",
+      "play music",
+      "play"
     ],
-    "review_count": 51,
-    "avg_rating": 3.86,
-    "avg_sentiment": 0.391,
+    "review_count": 50,
+    "avg_rating": 4.66,
+    "avg_sentiment": 0.647,
     "sample_reviews": [
-      "I have Spotify Premium and YouTube Premium, but Spotify sounds too soft and low in volume for me while listening in my car. The bass is less punchy, vocals feel a bit muffled, and the overall music clarity is lower than YouTube Music. I tried all the EQ and sound settings, but nothing satisfied me. Eventually, I deleted Spotify and went back to YouTube Music\u2014it sounds louder, punchier, and clearer.",
-      "Spotify Feedback Request: Create an Official Bengali Music Section Dear Spotify Team, I would like to suggest the creation of a dedicated Bengali Music section on Spotify, similar to the existing language and regional categories such as Hindi, Tamil, Telugu, Punjabi, and others. Bengali is one of the most widely spoken languages in the world, with millions of listeners across India . The Bengali music industry has a rich heritage that includes Rabindra Sangeet, Nazrul Geeti, and Tollywood.",
-      "Absolutely love Spotify!! Top favorite app!!"
+      "it was very useful for listening free music",
+      "it's very comfortable play you music any time great app 5 \u2728",
+      "Greta appp because videos and i 3vn download videos to wact h offlin4 FOR FREE"
     ]
   },
   {
     "topic_id": 2,
     "keywords": [
-      "music",
-      "music music",
       "love",
-      "playlist",
-      "amazing",
-      "awesome"
+      "work",
+      "time",
+      "favorite",
+      "pretty",
+      "easy"
     ],
-    "review_count": 46,
-    "avg_rating": 4.43,
-    "avg_sentiment": 0.516,
+    "review_count": 49,
+    "avg_rating": 4.61,
+    "avg_sentiment": 0.477,
     "sample_reviews": [
-      "it is a great app for its musics",
-      "very nice app to listen music ",
-      "good all music have this app"
+      "it's a app that is probably my favorite tbh",
+      "it is good for me.",
+      "great app; can find almost anything on it."
     ]
   },
   {
     "topic_id": 3,
     "keywords": [
-      "apps",
-      "day",
+      "spotify",
+      "music",
+      "songs",
       "love",
-      "liked",
-      "free",
-      "awesome"
+      "love spotify",
+      "dont"
     ],
-    "review_count": 44,
-    "avg_rating": 4.36,
-    "avg_sentiment": 0.454,
+    "review_count": 47,
+    "avg_rating": 3.77,
+    "avg_sentiment": 0.384,
     "sample_reviews": [
-      "Great experience using this app. Liked the offline feature in particular.",
-      "absolutely love this app. recommended one hundred percent",
-      "it's free version is pretty good"
+      "Don't know what I would do without music and appreciate spotify for giving that to me",
+      "Finally moved to apple music and yt music. I hate Spotify free version as they give me a daily limit in the number of songs I can choose . I don't have the freedom to choose the songs I want to play. This is absurd and it absolutely irritated me. I finally decided to uninstall this app and moved on to apple music and yt premium.",
+      "its Spotify. WHAT DO I HAVE TO SAY, its great and it has a billion and one songs to choose from FOR YOU. I love it"
     ]
   },
   {
     "topic_id": 4,
     "keywords": [
       "premium",
-      "ads",
       "free",
-      "pay",
-      "ad",
-      "songs"
+      "songs",
+      "ads",
+      "subscription",
+      "listen"
     ],
-    "review_count": 27,
-    "avg_rating": 2.0,
-    "avg_sentiment": 0.281,
+    "review_count": 26,
+    "avg_rating": 2.08,
+    "avg_sentiment": 0.35,
     "sample_reviews": [
-      "to much add and force to join premium and other things are alright",
-      "welcome to Spotify premium ads",
-      "Too Many Ads There were already reasons to pay for premium for better options. The app has now been set up to be passive-aggressive with the ad volume n an attempt to force free users to pay. If I were decide to pay for music streaming as opposed to using a different company, which I am close to doing, I would go somewhere else despite how much I had liked Spotify out of principle."
+      "I would have given 5 stars, but it needs an option to clear the play queue.",
+      "best music platform just wish removing queue the music that didn't involve premium",
+      "because in order to listen to music of our choice we have to pay imagine"
     ]
   },
   {
     "topic_id": 5,
     "keywords": [
-      "ive",
-      "playlist",
-      "play",
-      "songs",
-      "shuffle",
-      "download"
+      "ads",
+      "ad",
+      "stupid",
+      "minutes",
+      "song",
+      "especially"
     ],
-    "review_count": 24,
-    "avg_rating": 1.88,
-    "avg_sentiment": -0.078,
+    "review_count": 23,
+    "avg_rating": 2.43,
+    "avg_sentiment": -0.002,
     "sample_reviews": [
-      "dumdums i can't share to facefuk without the music pausing",
-      "have been driving for 4 hours and my Playlist with over 700 songs keeps repeating the same songs in the same order",
-      "It has not played for 2 days"
+      "WAYYY too many ads, I get having to have ads ofc but I've gotten around 3 minutes of just advertisements when I'm just trying to listen to music.",
+      "I hate the ads",
+      "To much ads but very good audio 4 stars"
     ]
   },
   {
     "topic_id": 6,
     "keywords": [
-      "ads",
-      "ad",
-      "ads ads",
-      "bad",
-      "lots",
-      "like ads"
+      "playlist",
+      "song",
+      "play",
+      "songs",
+      "stop",
+      "ive"
     ],
-    "review_count": 24,
-    "avg_rating": 3.29,
-    "avg_sentiment": 0.05,
+    "review_count": 23,
+    "avg_rating": 2.04,
+    "avg_sentiment": -0.068,
     "sample_reviews": [
-      "a little bit of ads but overall great music quality and so many to choose from",
-      "To many publicity",
-      "too much ads"
+      "after a while I was finishing sorting my music and wanted to play my new playlists but when I clicked play it played a totally different song to the ones on the playlist and you can't make it so you can run through the playlist top to bottom and when the playlist is finished it doesn't restart it takes you to another song not in the playlist. it also tryies making me pay all the time with ads and saying I can't play my music so it's not very good unless your paying for a subscription. 2 stars.",
+      "Never had any issues, always find the songs I am looking for and even in the middle of nowhere, you can have your list downloaded in case you lose signal. Love it.",
+      "why the hell do you keep crashing GENUINE QUESTION. it randomly crashes and the song doesn't turn off I wait for like a minute for the app to settle down. It gets really slow and just stops working. the music bugs in the background. this isn't my first time going through this but it actually used to get fixed before. I've been going through this for a week now it's insufferable."
     ]
   },
   {
     "topic_id": 7,
     "keywords": [
-      "music",
-      "selection",
-      "songs",
-      "collection songs",
-      "accurate",
-      "certain"
+      "premium",
+      "dont",
+      "features",
+      "premium dont",
+      "users",
+      "greedy"
     ],
-    "review_count": 15,
-    "avg_rating": 4.93,
-    "avg_sentiment": 0.527,
+    "review_count": 22,
+    "avg_rating": 3.45,
+    "avg_sentiment": 0.148,
     "sample_reviews": [
-      "It has very cool songs",
-      "gets you whateva musical songs or the names of the bastard's you looking for",
-      "love all music"
+      "I love it so much because but please stop being so greedy because if we don't have any money to buy a premium then its not gonna work",
+      "Extremely greedy company that wants to drain you of all your money",
+      "it's full of premium features"
     ]
   },
   {
     "topic_id": 8,
     "keywords": [
-      "update",
-      "add",
-      "screen",
-      "widget",
-      "pc",
-      "issues"
+      "music",
+      "music music",
+      "escuchar",
+      "like",
+      "listen",
+      "cool"
     ],
-    "review_count": 12,
-    "avg_rating": 1.92,
-    "avg_sentiment": -0.183,
+    "review_count": 21,
+    "avg_rating": 4.86,
+    "avg_sentiment": 0.541,
     "sample_reviews": [
-      "New widgets are useless as you cant play/pause or skip.",
-      "It was 5 Until the application started to stop for no reasons please I need help my account meant a lot to me",
-      "The app keeps stopping when I open other apps. Annoying asf. Fix please! EDIT: It's still doing it. Pretty lame. please fix this."
+      "I Love Music.",
+      "I can find whatever song I want to listen to no matter what genre it is, and I love it",
+      "my favorite thing is to listen to songs"
     ]
   }
 ]

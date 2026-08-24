@@ -3,100 +3,171 @@
     "topic_id": 0,
     "keywords": [
       "swiggy",
-      "delivery",
       "order",
+      "delivery",
       "food",
-      "customer",
-      "worst"
+      "ordered",
+      "customer"
     ],
-    "review_count": 360,
-    "avg_rating": 2.26,
-    "avg_sentiment": -0.101,
+    "review_count": 167,
+    "avg_rating": 1.62,
+    "avg_sentiment": -0.262,
     "sample_reviews": [
-      "cheating money when we cancel orders.",
-      "prices are generally much higher than restuarant prices",
-      "I love Swiggy good offers good product fast delivery"
-    ],
-    "label": "Swiggy delivery issues",
-    "category": "complaint",
-    "root_cause": "Cheating money when cancelling orders",
-    "priority": "high",
-    "priority_reason": "Low rating and multiple complaints",
-    "pm_action": "Investigate and resolve payment cancellation issue"
+      "Swiggy is a false promise app, collects money for Bolt delivery but but don't...",
+      "swiggy cancelled my order of food in train which is worst and with hungry you cancelled because of you my not eaten anything. worst useless Swiggy if order cancels every time then why show order food in train , people will cancel Swiggy remember that.",
+      "I waited more than 1 hour for my order, but Swiggy still failed to deliver it. When I tried to resolve the issue, instead of taking responsibility for the delay, I was told that I would have to pay \u20b9144 as a cancellation fee. So the customer waits for an hour, doesn\u2019t receive the food, and is then expected to pay a cancellation fee? \u200d\u2642\ufe0f This is completely unfair and shows a serious lack of customer support. If Swiggy cannot deliver the order on time, why should the customer be penalized."
+    ]
   },
   {
     "topic_id": 1,
     "keywords": [
+      "bhi",
+      "hain",
       "order",
-      "packet",
-      "time",
-      "delivery",
-      "rs",
-      "boy"
+      "veg",
+      "restaurant",
+      "swiggy"
     ],
-    "review_count": 41,
-    "avg_rating": 2.29,
-    "avg_sentiment": -0.0,
+    "review_count": 47,
+    "avg_rating": 2.4,
+    "avg_sentiment": 0.044,
     "sample_reviews": [
-      "20 mint ka order ek ghnte baad aayega customer care ko call krne ka koi option he nhi milega..... bakwas h I uninstalled the app because I couldn\u2019t connect for 30 minutes when my order was being delivered. Instead of focusing on fixing the connectivity issue, I hope you at least managed to satisfy my hunger.",
-      "orders dosa but got delivery of burgur and Cenclied in 1 minute but chochla ho gya 1 mnt me khana bn jata in ka zometo is perfect insted of swiggy.",
-      "ek time yh app bhot aacha hua karta tha but ab yh ap itna gnda ho chuka order krne wla preshan hota h ghnto wait kro inse swl jwb krte rho order nh aata kbhi inka ptner order leke bhg jta h kbhi order exchange hojta h bht hi bekr service ho chuki inki don't order this ap"
-    ],
-    "label": "Poor Delivery Experience",
-    "category": "complaint",
-    "root_cause": "Inadequate customer support and connectivity issues",
-    "priority": "high",
-    "priority_reason": "Low rating and multiple complaints",
-    "pm_action": "Investigate and resolve connectivity issues and improve customer support"
+      "naya update bahut bekaar hai order lagane k bad out of zone dikha deta hai",
+      "bekar app hai",
+      "ee tym lo food echina ni modda ki dannam"
+    ]
   },
   {
     "topic_id": 2,
     "keywords": [
-      "service service",
+      "charges",
+      "gst",
+      "extra",
+      "high",
       "service",
-      "services",
-      "excellent",
-      "superb",
-      "hygiene"
+      "bad"
     ],
-    "review_count": 40,
-    "avg_rating": 4.78,
-    "avg_sentiment": 0.5,
+    "review_count": 47,
+    "avg_rating": 1.38,
+    "avg_sentiment": -0.343,
     "sample_reviews": [
-      "best service",
-      "nice service",
-      "nice service"
-    ],
-    "label": "Excellent Service",
-    "category": "praise",
-    "root_cause": "Good hygiene maintained",
-    "priority": "medium",
-    "priority_reason": "Average rating and moderate review count",
-    "pm_action": "Verify service quality with restaurant"
+      "so much of cost",
+      "so much network issue there",
+      "Extra charge very highly"
+    ]
   },
   {
     "topic_id": 3,
     "keywords": [
-      "ok",
-      "excellent",
-      "super",
-      "better",
-      "awesome",
-      "thats"
+      "service",
+      "working service",
+      "working",
+      "service quality",
+      "experience",
+      "excellent"
+    ],
+    "review_count": 28,
+    "avg_rating": 4.96,
+    "avg_sentiment": 0.47,
+    "sample_reviews": [
+      "good service excellent ",
+      "very good service",
+      "very Good Services"
+    ]
+  },
+  {
+    "topic_id": 4,
+    "keywords": [
+      "fast",
+      "delivery",
+      "delivery delivery",
+      "quick",
+      "option",
+      "super"
     ],
     "review_count": 25,
-    "avg_rating": 4.64,
-    "avg_sentiment": 0.521,
+    "avg_rating": 4.32,
+    "avg_sentiment": 0.3,
     "sample_reviews": [
-      "nice and fast",
-      "that's so great ",
-      "this no good"
+      "fast delivery",
+      "nice delivery fast",
+      "quick delivery"
+    ]
+  },
+  {
+    "topic_id": 5,
+    "keywords": [
+      "quality",
+      "bad quality",
+      "superb quality",
+      "plateform",
+      "useful",
+      "superb"
     ],
-    "label": "Swiggy Review Analysis",
-    "category": "praise",
-    "root_cause": "Overall rating is 4.64/5 with 25 reviews",
-    "priority": "medium",
-    "priority_reason": "Rating is above average but not excellent",
-    "pm_action": "Investigate and improve delivery speed"
+    "review_count": 19,
+    "avg_rating": 4.42,
+    "avg_sentiment": 0.484,
+    "sample_reviews": [
+      "very well done mister",
+      "good better best !!!!",
+      "nice plateform"
+    ]
+  },
+  {
+    "topic_id": 6,
+    "keywords": [
+      "thank",
+      "ill",
+      "faster",
+      "helpful",
+      "excellent",
+      "night"
+    ],
+    "review_count": 15,
+    "avg_rating": 4.67,
+    "avg_sentiment": 0.557,
+    "sample_reviews": [
+      "good apps nice working",
+      "it's so use full app",
+      "nice app and very helpful for night creving."
+    ]
+  },
+  {
+    "topic_id": 7,
+    "keywords": [
+      "food",
+      "quality",
+      "try",
+      "superb quality",
+      "sufficient",
+      "foul"
+    ],
+    "review_count": 15,
+    "avg_rating": 4.4,
+    "avg_sentiment": 0.435,
+    "sample_reviews": [
+      "Good QUALITY FOOD.",
+      "very good platform for ordering food",
+      "\"The food is so delicious with sufficient quantity at reasonable price,I will order again.Thank you for providing great experience\""
+    ]
+  },
+  {
+    "topic_id": 8,
+    "keywords": [
+      "offers",
+      "offer",
+      "super",
+      "price",
+      "swingy",
+      "price item"
+    ],
+    "review_count": 12,
+    "avg_rating": 4.83,
+    "avg_sentiment": 0.51,
+    "sample_reviews": [
+      "good price from order and best offers you get",
+      "best offer very good ",
+      "need more offers"
+    ]
   }
 ]
