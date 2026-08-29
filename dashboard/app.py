@@ -198,7 +198,7 @@ Structure:
     return response.choices[0].message.content.strip()
 
 # ── Weekly trend helper ───────────────────────────────
-def build_weekly_trend(df):
+def build_daily_trend(df):
     df = df.copy()
     df["review_date"] = pd.to_datetime(df["review_date"])
     df["day"] = df["review_date"].dt.date
@@ -358,13 +358,13 @@ with tab1:
     with col1:
         st.subheader("Rating Trend by Week")
         df_reviews = load_reviews(selected_app)
-        daily     = build_weekly_trend(df_reviews)
+        daily     = build_daily_trend(df_reviews)
 
         if len(daily) >= 2:
             fig_trend = go.Figure()
             fig_trend.add_trace(go.Scatter(
                 x=daily["day"],
-                y=weekly["avg_rating"],
+                y=daily["avg_rating"],
                 mode="lines+markers",
                 fill="tozeroy",
                 fillcolor="rgba(31, 119, 180, 0.12)",
