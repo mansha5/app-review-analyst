@@ -16,7 +16,13 @@
       "very very good app all world",
       "love it what a app",
       "its is very good appp"
-    ]
+    ],
+    "label": "App praised for quality",
+    "category": "praise",
+    "root_cause": "Users appreciate the app\u2019s overall quality and usability",
+    "priority": "low",
+    "priority_reason": "High average rating and positive reviews indicate low urgency",
+    "pm_action": "Maintain current features and continue gathering user feedback for future improvements"
   },
   {
     "topic_id": 1,
@@ -54,7 +60,13 @@
       "pagal hai Instagram",
       "bakar ha delete kro bna mtlab ka id suspend kr rhaha",
       "\u0986\u09ae\u09be\u09b0 \u0987\u09a8\u09b8\u09cd\u099f\u09be \u0986\u0987\u09a1\u09bf \u09ad\u09be\u09b2\u09cb \u09b2\u09c7\u0997\u09c7\u099b\u09c7 \u0986\u09ae\u09bf \u09a4\u09be\u0987 \u099c\u09a8\u09cd\u09af \u09ac\u09b2\u099b\u09bf \u0986\u09ae\u09be\u09b0 \u099c\u09bf\u09a8\u09bf\u09b8\u099f\u09be \u0995\u09c7 \u09ae\u09be\u09a8\u09c7 \u0986\u09ae\u09be\u09b0 \u09ad\u09bf\u09a1\u09bf\u0993\u0995\u09c7 \u09ad\u09be\u0987\u09b0\u09be\u09b2 \u0995\u09b0\u09c7 \u09a6\u09be\u0993 "
-    ]
+    ],
+    "label": "Account ID Suspension Issue",
+    "category": "complaint",
+    "root_cause": "User\u2019s account ID is being suspended without clear reason",
+    "priority": "medium",
+    "priority_reason": "Average rating moderate and many reviews indicate issues",
+    "pm_action": "Investigate suspension policy and provide clearer guidelines to users"
   },
   {
     "topic_id": 3,
@@ -73,7 +85,13 @@
       "it's amazing",
       "so nice and supportive",
       "Good and excellent experience\u2b50\u2b50\u2b50\u2b50"
-    ]
+    ],
+    "label": "Positive user feedback",
+    "category": "praise",
+    "root_cause": "Users find Instagram engaging and supportive, leading to high satisfaction.",
+    "priority": "low",
+    "priority_reason": "The app has a high average rating and overwhelmingly positive reviews.",
+    "pm_action": "Continue enhancing engagement features and monitor user satisfaction."
   },
   {
     "topic_id": 4,
@@ -92,7 +110,13 @@
       "this aap has more updates than any other and after update there will no new features ",
       "Alot of bug in app i'd a update but still message bugs reel won't work I'm having sick expreance",
       "nice but I found many lags, Bugs."
-    ]
+    ],
+    "label": "Reels Bugs and Lags",
+    "category": "bug",
+    "root_cause": "Reels functionality broken due to recent update causing bugs and lags.",
+    "priority": "medium",
+    "priority_reason": "User rating slightly above threshold but many negative reviews indicate medium priority.",
+    "pm_action": "Investigate and fix Reels playback bugs, roll back recent update if necessary."
   },
   {
     "topic_id": 5,
@@ -111,7 +135,13 @@
       "I got suspended for no reason and I can't make a different account I ",
       "I can't login in my account when it was working just fine a few hours ago.How????!!!",
       "my account was all are suspended reason behind it"
-    ]
+    ],
+    "label": "Account Suspended Without Reason",
+    "category": "complaint",
+    "root_cause": "Users are being suspended without clear justification, causing frustration.",
+    "priority": "high",
+    "priority_reason": "Low rating and high volume of complaints indicate urgent need for resolution.",
+    "pm_action": "Implement a transparent appeal process and improve communication about suspension reasons."
   },
   {
     "topic_id": 6,
@@ -130,7 +160,13 @@
       "I am post 2 photo but when i post 3 one the pic was not in the id ?",
       "the worst app I have ever seen like why tf my accounts are getting disabled!!? i would want it to be fixed. I don't want to give a single star like my 5 yrs old acc got disabled huh worse. kindly fix it! and just give back my old acc!!",
       "it unfortunately, get stopped"
-    ]
+    ],
+    "label": "Account Suspension Complaint",
+    "category": "complaint",
+    "root_cause": "Unintended account suspension due to algorithmic flagging or policy enforcement",
+    "priority": "high",
+    "priority_reason": "Low rating and high review count indicate widespread dissatisfaction",
+    "pm_action": "Implement a transparent account recovery and appeal system to reduce accidental suspensions"
   },
   {
     "topic_id": 7,
@@ -149,7 +185,13 @@
       "best place to either wate your time or to learn something new every scroll... make a wise decision",
       "it's great to use",
       "fast and clear"
-    ]
+    ],
+    "label": "Engaging and Easy to Use",
+    "category": "praise",
+    "root_cause": "Users find Instagram's content engaging and interface intuitive.",
+    "priority": "low",
+    "priority_reason": "Positive reviews and high rating indicate satisfaction.",
+    "pm_action": "Maintain and improve content discovery and UI simplicity."
   },
   {
     "topic_id": 8,
@@ -187,7 +229,13 @@
       "Great experience",
       "I had a good experience",
       "nice experience"
-    ]
+    ],
+    "label": "Positive Experience Feedback",
+    "category": "praise",
+    "root_cause": "Users appreciate the smooth and enjoyable experience on Instagram.",
+    "priority": "low",
+    "priority_reason": "High rating and positive reviews indicate low urgency.",
+    "pm_action": "Continue monitoring feedback and maintain current features."
   },
   {
     "topic_id": 10,
@@ -206,6 +254,12 @@
       "When, I click to see stories it is immediately kicking me out. I deleted and added this app5 times.",
       "suggesting randoms' stories over people you follow is stupid and annoying.",
       "remove the story suggestion update..."
-    ]
+    ],
+    "label": "Story removal and crash issue",
+    "category": "bug",
+    "root_cause": "Stories are being removed or causing app to crash when accessed.",
+    "priority": "medium",
+    "priority_reason": "Moderate negative sentiment with limited volume.",
+    "pm_action": "Investigate and fix story suggestion logic to prevent removal and crashes."
   }
 ]

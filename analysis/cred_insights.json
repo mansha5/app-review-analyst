@@ -35,7 +35,13 @@
       "good experience",
       "very bad support experience",
       "overall good services"
-    ]
+    ],
+    "label": "Support issues amid good service",
+    "category": "complaint",
+    "root_cause": "Inconsistent support response times causing frustration",
+    "priority": "low",
+    "priority_reason": "Positive overall rating but isolated support complaints indicate a need for improvement",
+    "pm_action": "Implement a dedicated support ticketing system to track and resolve issues faster"
   },
   {
     "topic_id": 2,
@@ -54,7 +60,13 @@
       "sabse bakvass app hai es se bahut jald fraud kar leta hai mera 10000/- nuksaan kar diya kisi ne call forwarding kar ke call ke through OTP se logins kar liaa massage ke OTP se nahi hota but call k through kar lia es me call ke through OTP login rahna bahut bad hai",
       "very good apps bahut acchi app se yah bahut acchi apps hai ismein finance ki suvidha bhi hai aur bil subah 11 ki suvidha bhi hai yah bahut acchi apps hai",
       "\u0905\u092c \u0915\u094d\u0930\u0947\u0921\u093c \u092e\u0947\u0902 \u092a\u0939\u0932\u0947 \u0935\u093e\u0932\u0940 \u092c\u093e\u0924 \u0928\u0939\u0940\u0902 \u0939\u0948 \u092c\u093f\u0932\u094d\u0915\u0941\u0932 \u092d\u0940 \u0915\u0947\u0936 \u092c\u0947\u0915 \u0928\u0939\u0940\u0902 \u092e\u093f\u0932\u0924\u093e \u0939\u0948 "
-    ]
+    ],
+    "label": "Security breach via call forwarding",
+    "category": "complaint",
+    "root_cause": "App's OTP verification is vulnerable to call forwarding attacks, allowing unauthorized logins.",
+    "priority": "high",
+    "priority_reason": "Low rating and high review volume indicate widespread user dissatisfaction.",
+    "pm_action": "Implement secure OTP verification using time-based tokens and disable call forwarding for OTP."
   },
   {
     "topic_id": 3,
@@ -73,6 +85,12 @@
       "please stop bringing updates every fortnight. why does your team bring updates so frequently? otherwise it's a great platform to pay credit card bills",
       "I think the guy who writes update notes deserve a raise for every update",
       "2 to 3 update per day and nothing any improvement then why should send update very disappoint"
-    ]
+    ],
+    "label": "Too frequent updates",
+    "category": "complaint",
+    "root_cause": "Users are frustrated by the high frequency of updates",
+    "priority": "medium",
+    "priority_reason": "User dissatisfaction due to frequent updates",
+    "pm_action": "Reduce update frequency to weekly and communicate the schedule to users"
   }
 ]

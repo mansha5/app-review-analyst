@@ -16,7 +16,13 @@
       "great movie so touching it just bought tears in my eyes. in this era of fake love it inspires us for true love and deep feelings for some one forever which never changes after long distance and wait",
       "just love the movie \u2764\ufe0f",
       "I just love the new addition of movies! Most are my listed faves."
-    ]
+    ],
+    "label": "Positive feedback on emotional movies",
+    "category": "praise",
+    "root_cause": "Users appreciate the emotional depth and storytelling of recent movies",
+    "priority": "low",
+    "priority_reason": "High average rating and positive reviews indicate low priority",
+    "pm_action": "Continue supporting current content strategy and highlight emotional storytelling in marketing"
   },
   {
     "topic_id": 1,
@@ -35,7 +41,13 @@
       "best than ader app",
       "fantastic app",
       "very nice app"
-    ]
+    ],
+    "label": "Positive user feedback",
+    "category": "praise",
+    "root_cause": "Users appreciate the app's user-friendly interface and extensive content library.",
+    "priority": "low",
+    "priority_reason": "High rating and positive reviews indicate low urgency.",
+    "pm_action": "Continue to enhance content recommendations and maintain UI quality."
   },
   {
     "topic_id": 2,
@@ -54,7 +66,13 @@
       "Netflix is the Best! ",
       "Netflix delivers an unmatched user experience. The recommendation algorithm is top-tier, profile management is effortless, and the interface is incredibly fast across all devices. Highly recommended for binge-watching!",
       "\"Netflix has an amazing selection of shows and movies for every mood \u2014 smooth streaming and always something new to watch. Love it!\""
-    ]
+    ],
+    "label": "Excellent Netflix Experience",
+    "category": "praise",
+    "root_cause": "Outstanding user experience and recommendation algorithm",
+    "priority": "low",
+    "priority_reason": "Positive reviews with high rating",
+    "pm_action": "Continue improving recommendation algorithm and expanding content library"
   },
   {
     "topic_id": 3,
@@ -73,7 +91,13 @@
       "we all love it",
       "Awesome viewing ",
       "I love it everything about it its worth watching rocck star good job and thank you for showing this to us and thank you nextflix too"
-    ]
+    ],
+    "label": "Great Netflix Experience",
+    "category": "praise",
+    "root_cause": "High-quality content and user-friendly interface",
+    "priority": "low",
+    "priority_reason": "Positive user sentiment and high rating",
+    "pm_action": "Continue investing in diverse content and improve recommendation algorithm"
   },
   {
     "topic_id": 4,
@@ -130,7 +154,13 @@
       "Dialogue not audible properly.. ruining whole watch",
       "app update is trash. \"clips\" is the most idiotic thing I've seen in a second. you need to label any program that has AI. Just terrible enshitification everywhere",
       "please fix the l1 to l3 widevine. i need to reinstall if i want to watch in hd."
-    ]
+    ],
+    "label": "Audio and Update Issues",
+    "category": "complaint",
+    "root_cause": "Audio sync problems and poorly optimized updates are causing user frustration.",
+    "priority": "high",
+    "priority_reason": "Low rating and high review count signal urgent attention.",
+    "pm_action": "Release a patch fixing audio sync and update bugs in the next app version."
   },
   {
     "topic_id": 7,
@@ -149,7 +179,13 @@
       "too many ads for a small amount of low quality content",
       "I like netflix but I dont think it's wright you have to pay more money so you don't have adverts",
       "So I just got the ad tier of Netflix. I opened up a show, and it's showing me that two times during a episode of outer banks, it will show ads. i really appreciate that. It didn't force me to watch ads as soon as I clicked on the show. Like other streaming services."
-    ]
+    ],
+    "label": "Excessive Ads in Ad Tier",
+    "category": "complaint",
+    "root_cause": "Users are dissatisfied with the high frequency of ads in the ad tier, leading to a low rating.",
+    "priority": "high",
+    "priority_reason": "The app has a low rating of 2.48 and over 30 reviews, indicating widespread dissatisfaction.",
+    "pm_action": "Reduce ad frequency in the ad tier by 50% to improve user experience."
   },
   {
     "topic_id": 8,
@@ -168,7 +204,13 @@
       "these prices are out of control",
       "too expensive brw",
       "Insane corporate greed! 2026 update: worse then ever!"
-    ]
+    ],
+    "label": "High Pricing Concerns",
+    "category": "complaint",
+    "root_cause": "Users feel subscription price has increased too much relative to content value.",
+    "priority": "high",
+    "priority_reason": "Low rating and many reviews indicate widespread dissatisfaction.",
+    "pm_action": "Investigate pricing structure and consider tiered plans or promotional discounts."
   },
   {
     "topic_id": 9,
@@ -187,7 +229,13 @@
       "it was quite good",
       "Just great all around",
       "pretty good!"
-    ]
+    ],
+    "label": "Positive Feedback on Netflix",
+    "category": "praise",
+    "root_cause": "Users appreciate Netflix's content quality and user experience.",
+    "priority": "low",
+    "priority_reason": "Positive reviews indicate high user satisfaction.",
+    "pm_action": "Continue to maintain high-quality content and consider highlighting user testimonials in marketing."
   },
   {
     "topic_id": 10,
@@ -206,7 +254,13 @@
       "I mistakenly uninstalled it but now I can't install it again ",
       "Restrictions on movies should be all accessable",
       "Won't load , Just a black screen on my phone . No matter how many times I uninstalled it and reinstalled it that didn't work! Only one time it actually loaded up and I was able to see the content but it went right back to not loading and only showing a black screen !"
-    ]
+    ],
+    "label": "Black screen loading issue",
+    "category": "bug",
+    "root_cause": "Corrupted app installation causing rendering failure",
+    "priority": "medium",
+    "priority_reason": "Rating below 2.5 but review count not exceeding 30, so medium priority",
+    "pm_action": "Collect crash logs from affected devices and release a hotfix to fix the rendering bug"
   },
   {
     "topic_id": 11,
@@ -226,12 +280,12 @@
       "when I cancel my membership I dont want netflix to continue asking me to undo my cancellation with some annoying pop up. Now my membership has been prolonged another month when I didnt want too.",
       "payment doesn't work"
     ],
-    "label": "Household Verification and Cancellation Friction",
+    "label": "Subscription cancellation frustration",
     "category": "complaint",
-    "root_cause": "Intrusive household validation prompts and aggressive cancellation retention pop-ups cause severe user frustration and unintended subscription renewals.",
+    "root_cause": "Users are frustrated by frequent cancellation prompts and payment failures, leading to a perception of poor value.",
     "priority": "medium",
-    "priority_reason": "The average rating is 1.29, but the review count of 28 does not meet the threshold of more than 30 required for high priority.",
-    "pm_action": "Audit the cancellation flow UX to prevent accidental renewals and reduce the frequency of household verification prompts for multi-profile accounts."
+    "priority_reason": "Low rating and negative feedback indicate significant user dissatisfaction.",
+    "pm_action": "Implement a clearer cancellation flow and improve payment processing reliability."
   },
   {
     "topic_id": 12,
@@ -251,12 +305,12 @@
       "its to good platform and i enjoy a lot of series and movies i love it and make sure Netflix make a good shows",
       "served me since I was 3 in 2015 this platform never disappoints me 10 out of 10"
     ],
-    "label": "Overall Platform Praise",
+    "label": "Positive user feedback",
     "category": "praise",
-    "root_cause": "Users express strong satisfaction with platform reliability, remote access, and content selection.",
+    "root_cause": "Users enjoy diverse content and reliable service",
     "priority": "low",
-    "priority_reason": "Feedback is overwhelmingly positive with a high average rating of 4.46.",
-    "pm_action": "Share feedback with the engineering and content teams to sustain platform quality and user delight."
+    "priority_reason": "High rating and positive reviews indicate low priority",
+    "pm_action": "Continue supporting current features and monitor user satisfaction"
   },
   {
     "topic_id": 13,
@@ -276,12 +330,12 @@
       "l signed the Netflix but it didn't work",
       "not working on Netflix my phone redmi12 4G check"
     ],
-    "label": "App Installation and Startup Failures",
+    "label": "Netflix app not working",
     "category": "bug",
-    "root_cause": "Users are unable to download, install, or launch the Netflix app across specific hardware, including FireTV sticks and Redmi 12 4G devices.",
+    "root_cause": "The Netflix app fails to download or install on FireTV and mobile devices due to compatibility or server issues.",
     "priority": "medium",
-    "priority_reason": "The priority is set to medium because the average rating is below 2.5, but the total review count of 18 does not meet the high-priority threshold of over 30 reviews.",
-    "pm_action": "Coordinate with the engineering and QA teams to reproduce and patch device-specific installation and launch failures on Fire OS and Redmi 12 4G builds."
+    "priority_reason": "Low rating and multiple complaints indicate a significant issue affecting user experience.",
+    "pm_action": "Fix the app's compatibility issue on FireTV and mobile devices and offer refunds to affected users."
   },
   {
     "topic_id": 14,
@@ -300,13 +354,7 @@
       "one of the worst streaming services on the internet",
       "only better for content exclusives",
       "It's nice for streaming and good actually"
-    ],
-    "label": "Mixed sentiment on streaming value",
-    "category": "other",
-    "root_cause": "Users value exclusive content highly but hold mixed opinions regarding overall service performance relative to competitors.",
-    "priority": "low",
-    "priority_reason": "The app maintains a high overall rating of 4.28 out of 5 indicating strong general user satisfaction.",
-    "pm_action": "Analyze user engagement patterns on non-exclusive catalog items to optimize content discovery and perceived platform value."
+    ]
   },
   {
     "topic_id": 15,
@@ -326,12 +374,12 @@
       "best of the best",
       "Best fun time \u23f2\ufe0f "
     ],
-    "label": "High satisfaction with content experience",
+    "label": "Great Netflix Experience",
     "category": "praise",
-    "root_cause": "Users are delighted with the overall entertainment value and platform experience provided by Netflix.",
+    "root_cause": "Users appreciate Netflix's engaging content and user-friendly interface.",
     "priority": "low",
-    "priority_reason": "Priority is low because the user feedback is overwhelmingly positive with a high average rating of 4.5 out of 5.",
-    "pm_action": "Maintain current content recommendation algorithms and service stability to sustain high user satisfaction."
+    "priority_reason": "Positive reviews indicate high user satisfaction.",
+    "pm_action": "Continue supporting current features and consider highlighting user testimonials in marketing."
   },
   {
     "topic_id": 16,
@@ -350,13 +398,7 @@
       "Yeah stupid email send sucks again I can't watch any movies because of stupid email resent this is not recommended just nothing",
       "It would be nice to lock your profile with a password so no one else in the house can interfere with your watch list.",
       "Keeps asking for more email accounts"
-    ],
-    "label": "Email Verification and Profile Privacy",
-    "category": "complaint",
-    "root_cause": "Users face playback friction from repeated email verification loops and desire profile-level password protection.",
-    "priority": "medium",
-    "priority_reason": "The rating is under 2.5, but the volume of 13 reviews does not exceed the threshold of 30 required for high priority.",
-    "pm_action": "Investigate authentication email re-triggering logic and ensure profile PIN features are clearly surfaced to users."
+    ]
   },
   {
     "topic_id": 17,
@@ -375,6 +417,12 @@
       "extremely Worst Experience to Login and Create a new Account.",
       "I can't sign up at all. there is no \"use password instead\" button, no, it just doesn't work.",
       "login and user/device management has become very annoying lately"
-    ]
+    ],
+    "label": "Login Failure",
+    "category": "bug",
+    "root_cause": "Authentication flow broken, missing password option",
+    "priority": "medium",
+    "priority_reason": "Low rating and multiple complaints indicate medium urgency",
+    "pm_action": "Fix login authentication flow to support password sign-up and device management"
   }
 ]

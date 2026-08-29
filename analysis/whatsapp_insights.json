@@ -35,7 +35,13 @@
       "very smooth",
       "you are the best",
       "Good product and good service"
-    ]
+    ],
+    "label": "Positive Feedback on WhatsApp",
+    "category": "praise",
+    "root_cause": "Users appreciate the app's smooth performance and reliable communication.",
+    "priority": "low",
+    "priority_reason": "High average rating and positive reviews indicate low urgency.",
+    "pm_action": "Schedule a quarterly review of user feedback to maintain satisfaction."
   },
   {
     "topic_id": 2,
@@ -54,7 +60,13 @@
       "best msg app",
       "really awesome app",
       "this app is absolutely amazing"
-    ]
+    ],
+    "label": "Positive user feedback",
+    "category": "praise",
+    "root_cause": "Users value the app's messaging capabilities and overall experience.",
+    "priority": "low",
+    "priority_reason": "High average rating and positive reviews indicate low urgency.",
+    "pm_action": "Continue monitoring user feedback and maintain current feature set."
   },
   {
     "topic_id": 3,
@@ -92,7 +104,13 @@
       "plz my Whatsap Opan",
       "Very nice aap hai easki facelity bahut bhadya hai",
       "I am om Kumar very kharab aapp"
-    ]
+    ],
+    "label": "App fails to open",
+    "category": "bug",
+    "root_cause": "App fails to launch for some users",
+    "priority": "medium",
+    "priority_reason": "Moderate rating with negative reviews and high review count indicates medium urgency",
+    "pm_action": "Fix launch crash and deploy patch"
   },
   {
     "topic_id": 5,
@@ -130,7 +148,13 @@
       "if there were zero star, I would have given it. The app is becoming useless day by day, you just wake up you find your account suspended from no where, no proper reason. it is full of inconveniences everytime, not enjoyable anymore. you don't use it for a single day you find account suspended, you decide to use it, suspended. it's no longer the WhatsApp we used to enjoy.",
       "it's a good app though I've been using this app for months now,and suddenly yesterday, WhatsApp restrict my account,I don't know what I did wrong, I'm even trying to verify it this morning now,they are telling me number not verified like that is even the only number I have (you people should give me back my account oooo) cause I don't understand your problem with my account ",
       "Hey team WhatsApp My WhatsApp number is banned last week and I tried to restore my account but failed. I am facing this problem.This account can't use whatapp I assure you I have not violate any policy of whatapp and this is my personal number and I am facing very problem now a days so please consider my request and restore my WhatsApp account as soon as possible Thanks your regrads"
-    ]
+    ],
+    "label": "Account Suspension Issues",
+    "category": "complaint",
+    "root_cause": "Unclear account suspension policy leads to frequent bans",
+    "priority": "high",
+    "priority_reason": "Low average rating and many complaints indicate urgent need to address account suspension issues",
+    "pm_action": "Implement a clear, user-friendly appeal system for suspended accounts"
   },
   {
     "topic_id": 7,
@@ -168,6 +192,12 @@
       "I really don't like the look of the newest update about the position of the status at the top of the chat. It makes me want to hide all the status as it seems that is the only way to hide it from the top. what even is this. So, WhatsApp devs, tell me how to hide the status icon on top of the chat without hiding all my contacts' status, which should make it still accessible at the updates section?",
       "Others status on top is annoying as hell",
       "Why you add status at homepage "
-    ]
+    ],
+    "label": "Hide status icon request",
+    "category": "feature_request",
+    "root_cause": "Users find the status icon at the top of chat intrusive and want an option to hide it without affecting contact status visibility.",
+    "priority": "medium",
+    "priority_reason": "Moderate user dissatisfaction with a feature that is not critical but impacts user experience.",
+    "pm_action": "Add a toggle in chat settings to hide the status icon."
   }
 ]

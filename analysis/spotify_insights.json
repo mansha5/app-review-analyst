@@ -16,7 +16,13 @@
       "Spotify is the ultimate app for music streaming and podcast discovery. The personalized playlists, daily mixes, and audio recommendation algorithms are unmatched. Smooth streaming quality across all devices.",
       "\"Spotify makes discovering and enjoying music so easy \u2014 huge library, great playlists, and smooth listening experience every time. Love it!\"",
       "i Purple you Spotify "
-    ]
+    ],
+    "label": "Great music streaming experience",
+    "category": "praise",
+    "root_cause": "Users appreciate personalized playlists and smooth streaming.",
+    "priority": "low",
+    "priority_reason": "Positive reviews indicate strong user satisfaction.",
+    "pm_action": "Maintain high streaming quality."
   },
   {
     "topic_id": 1,
@@ -35,7 +41,13 @@
       "best music app it allows you to use for free",
       "great app for anyone trying too enjoy and get the best sound quality",
       "best app for music "
-    ]
+    ],
+    "label": "Excellent music streaming app",
+    "category": "praise",
+    "root_cause": "Users appreciate free access and high sound quality.",
+    "priority": "low",
+    "priority_reason": "Positive reviews and high rating indicate low priority.",
+    "pm_action": "Continue supporting current features and monitor for future improvements."
   },
   {
     "topic_id": 2,
@@ -54,7 +66,13 @@
       "perfect for music lovers...",
       "your music is limited as to where I can't find every song I search!",
       "just perfect in their array of music genre."
-    ]
+    ],
+    "label": "Music Availability Issue",
+    "category": "complaint",
+    "root_cause": "Limited song catalog in certain regions",
+    "priority": "low",
+    "priority_reason": "High average rating indicates overall satisfaction",
+    "pm_action": "Expand regional licensing agreements to increase song availability"
   },
   {
     "topic_id": 3,
@@ -73,7 +91,13 @@
       "I really enjoy this app",
       "The bets well polished UI app . This work of art is very good , I wish the next update will be cool",
       "greatest app of all time"
-    ]
+    ],
+    "label": "User Praise for UI",
+    "category": "praise",
+    "root_cause": "Users appreciate the polished UI and overall enjoyable experience",
+    "priority": "low",
+    "priority_reason": "High average rating and overwhelmingly positive reviews indicate low urgency",
+    "pm_action": "Continue monitoring feedback and plan incremental UI enhancements for the next update"
   },
   {
     "topic_id": 4,
@@ -92,7 +116,13 @@
       "super great",
       "It's Great...",
       "very nice excellent "
-    ]
+    ],
+    "label": "Positive user feedback",
+    "category": "praise",
+    "root_cause": "Users appreciate the app's excellent features and user-friendly interface.",
+    "priority": "low",
+    "priority_reason": "Positive reviews indicate high user satisfaction.",
+    "pm_action": "Continue to highlight these strengths in marketing materials."
   },
   {
     "topic_id": 5,
@@ -111,7 +141,13 @@
       "Apesar de pagar premium, cuando escucho podcasts siguen apareciendo anuncios, y que si los puedo adelantar? Se supone que pago para no escucharlos y aun asi aparecen, arreglen eso",
       "offline nahi h kya",
       "ese accha to youTube sahi hai bahut kam add aate hai"
-    ]
+    ],
+    "label": "Ads in Premium Podcasts",
+    "category": "complaint",
+    "root_cause": "Ads still appear in podcasts despite premium subscription",
+    "priority": "medium",
+    "priority_reason": "Average rating slightly below 3 with many complaints",
+    "pm_action": "Investigate ad delivery for premium podcasts and fix the ad injection bug"
   },
   {
     "topic_id": 6,
@@ -130,7 +166,13 @@
       "Not bad It's a bit of a bad altitude of business",
       "stop the ads",
       "very nice but some time ads annoy so much"
-    ]
+    ],
+    "label": "Frequent Ads Annoy Users",
+    "category": "complaint",
+    "root_cause": "Ads are frequent and annoying to users.",
+    "priority": "medium",
+    "priority_reason": "Rating slightly below average and many reviews mention ads.",
+    "pm_action": "Reduce ad frequency or offer an ad\u2011free tier."
   },
   {
     "topic_id": 7,
@@ -168,7 +210,13 @@
       "There has been several times, where the app will not respond at all. It will freeze on the screen and I will have to close the app and re-open.",
       "the new updates of the app keeps crashing! premium user here.",
       "The app can't open,I have been finding it so difficult"
-    ]
+    ],
+    "label": "App crashes and freezes",
+    "category": "bug",
+    "root_cause": "The app crashes and freezes due to a memory leak introduced in the latest update.",
+    "priority": "high",
+    "priority_reason": "User rating is low and many complaints indicate widespread instability.",
+    "pm_action": "Investigate the latest update for memory leaks and release a hotfix."
   },
   {
     "topic_id": 9,
@@ -187,7 +235,13 @@
       "became too commercial..",
       "too much advertisement",
       "too many ads"
-    ]
+    ],
+    "label": "Too many ads",
+    "category": "complaint",
+    "root_cause": "Excessive advertising detracts from user experience.",
+    "priority": "high",
+    "priority_reason": "Low rating and high review count indicate significant user dissatisfaction.",
+    "pm_action": "Reduce ad frequency and introduce an ad\u2011free subscription tier."
   },
   {
     "topic_id": 10,
@@ -225,7 +279,13 @@
       "I am losing my mind. Every single time I open the app it throws the DJ in my face. I can tell google to play a song, open the app and \"hi its dj x here\" literally stopping what I'm playing for dj x. I quite like the dj but when I want it. We pay for a duo plan and this has been driving me mad for a few weeks it never use to happen and making me consider cancelling my plan.",
       "The new auto DJ \"mix\" feature is amazing. Absolute game changer in the way I enjoy music.",
       "You broke the smart shuffle!! Shuffle used to actually shuffle things, but now it doesn't absolutely nothing when on smart shuffle. Suggested songs are added in between songs, but the Playlist is not shuffled and plays the same 5 songs over and over.. Horrible experience!"
-    ]
+    ],
+    "label": "DJ Interruption & Shuffle Bug",
+    "category": "complaint",
+    "root_cause": "The auto DJ and smart shuffle features are malfunctioning, causing unwanted interruptions and repetitive playback.",
+    "priority": "medium",
+    "priority_reason": "User frustration due to frequent DJ interruptions and broken shuffle leads to potential churn.",
+    "pm_action": "Investigate and fix the auto DJ trigger logic and shuffle algorithm, and release a patch to restore proper functionality."
   },
   {
     "topic_id": 12,
@@ -244,7 +304,13 @@
       "been the best so far, no complaints",
       "simply the best",
       "you guys are really the best,"
-    ]
+    ],
+    "label": "Positive Feedback",
+    "category": "praise",
+    "root_cause": "Users are satisfied with the app's performance and features.",
+    "priority": "low",
+    "priority_reason": "High average rating and positive reviews indicate low priority.",
+    "pm_action": "Continue monitoring user feedback and maintain current features."
   },
   {
     "topic_id": 13,
@@ -263,7 +329,13 @@
       "My phone will say its connected to my car but the music will be playing from my phone and sometimes when its connected it shows its playing but you cant hear anything.",
       "The app keep closing when I just opened to play music. I need to re install this and lost all my downloaded music ",
       "Bluetooth is not working through my ear buds. ( my other apps work fine)"
-    ]
+    ],
+    "label": "App crashes and Bluetooth issues",
+    "category": "bug",
+    "root_cause": "App crashes on launch and Bluetooth pairing fails",
+    "priority": "medium",
+    "priority_reason": "Low rating and frequent crashes indicate medium priority",
+    "pm_action": "Release a hotfix addressing crash logs and Bluetooth pairing, and monitor crash reports"
   },
   {
     "topic_id": 14,
@@ -301,7 +373,13 @@
       "tooo many adds",
       "there's way too many adds but the music is good and it's free so I don't really mind",
       "Adds are a pain, but that's a small price to pay to be able to listen to all your favourite artists for free. Easy to search and find all the music you like. I highly recommend."
-    ]
+    ],
+    "label": "Too many ads",
+    "category": "complaint",
+    "root_cause": "Excessive ad frequency disrupts listening experience",
+    "priority": "medium",
+    "priority_reason": "Moderate negative sentiment with limited review volume",
+    "pm_action": "Introduce a cap on ads per hour to reduce interruptions"
   },
   {
     "topic_id": 16,
@@ -320,7 +398,13 @@
       "You have to pay for everything. Wanna play albums in order, pay. Wanna have less ads while scrolling, pay. Wanna listen to music, pay. All the freaking time c'mon!",
       "when your free skips gets over it becomes,1 full song =3ads ,and that is guaranteed",
       "We can listen only few songs a day then if we want to listen more songs we have to purchase premium Didn't expect this."
-    ]
+    ],
+    "label": "Free tier too restrictive",
+    "category": "complaint",
+    "root_cause": "Users feel the free tier is too restrictive and ads are too frequent, making premium seem necessary.",
+    "priority": "medium",
+    "priority_reason": "Low rating indicates dissatisfaction, but low review count means limited impact.",
+    "pm_action": "Conduct a survey to identify acceptable ad limits and adjust the free tier accordingly."
   },
   {
     "topic_id": 17,
@@ -339,7 +423,13 @@
       "\u201cMy UPI payment of \u20b9139 to Spotify India Pvt Ltd was successful on 27 July 2026, but my Premium plan is showing \u2018Plan Paused\u2019 and says my last payment didn\u2019t work. Please verify and activate my Premium subscription. I can provide the transaction ID and payment screenshot my issue",
       "love the app and never had any real problems. had a subscription for years. due to unfortunate events I had to cancel but not cause of the app. once my situation changes I plan on getting it back.",
       "has made great strides in respectable data handling policies (thanks GDPR) it got me to come back... and actually subscribe this time."
-    ]
+    ],
+    "label": "Payment failure, subscription paused",
+    "category": "complaint",
+    "root_cause": "The UPI payment was processed but the subscription status was not updated due to a system error.",
+    "priority": "medium",
+    "priority_reason": "User's subscription is paused despite successful payment, impacting user experience.",
+    "pm_action": "Investigate payment processing logs and update subscription status for affected users."
   },
   {
     "topic_id": 18,
@@ -358,7 +448,13 @@
       "It is very accurate and convenient",
       "super good to use",
       "didn't use much"
-    ]
+    ],
+    "label": "Praise for accuracy and convenience",
+    "category": "praise",
+    "root_cause": "Users value the app's accuracy and convenience.",
+    "priority": "low",
+    "priority_reason": "Positive reviews and high rating indicate low urgency.",
+    "pm_action": "Highlight accuracy and convenience in marketing materials."
   },
   {
     "topic_id": 19,
@@ -377,6 +473,12 @@
       "app kerps glitching when trying to play podcasts. it is impossible to use.",
       "this app sucks. it has so many bugs I don't even know where to begin. IT JUST SHUTS OFF! that's it. I cannot listen to more than 2 minutes before IT SHUTS OFF! It's maddening. I have to open the phone, turn it on and 2 minutes later ITS OFF! I've switched to Audible because Spotify is so bad it's unusable. podcasts won't stream.",
       "When I try to listen to some podcasts, it lags and even if I wanna listen to music when my phone is off, IT STILL LAGS SPOTIFY. FIX IT"
-    ]
+    ],
+    "label": "Podcast playback crashes",
+    "category": "bug",
+    "root_cause": "Podcast playback crashes due to memory leaks and poor buffering.",
+    "priority": "medium",
+    "priority_reason": "Low user satisfaction and high churn risk due to frequent crashes and lags.",
+    "pm_action": "Investigate and fix memory management in podcast playback module; add crash logs and release hotfix."
   }
 ]

@@ -16,7 +16,13 @@
       "support is useless. premium features don't work and the troubleshooting flow involves changing 11 settings and then just using another device entirely. save yourself the headache and just use Brave.",
       "Horrible update. What is wrong with you?",
       "ads all video this is worst app"
-    ]
+    ],
+    "label": "Premium features broken, ads overload",
+    "category": "complaint",
+    "root_cause": "Premium features not working and ads overwhelm users",
+    "priority": "medium",
+    "priority_reason": "User dissatisfaction due to broken premium features and intrusive ads",
+    "pm_action": "Investigate premium feature failures and reduce ad frequency in videos"
   },
   {
     "topic_id": 1,
@@ -54,7 +60,13 @@
       "Microphone problem solved....",
       "The microphone doesn't work....",
       "microphone is not working properly"
-    ]
+    ],
+    "label": "Microphone not working",
+    "category": "bug",
+    "root_cause": "The microphone fails to function due to a software or driver incompatibility issue.",
+    "priority": "medium",
+    "priority_reason": "The app has a low rating but the review count is below the threshold for high priority.",
+    "pm_action": "Investigate microphone driver compatibility and release a patch to restore functionality."
   },
   {
     "topic_id": 3,
@@ -73,7 +85,13 @@
       "fix your algorithm it's all the same slop based on recent searches",
       "The voice search was not working properly... 27/8/26",
       "I have been facing voice search issues."
-    ]
+    ],
+    "label": "Voice search not working",
+    "category": "bug",
+    "root_cause": "The voice search algorithm fails to recognize user input due to microphone permissions or audio processing errors.",
+    "priority": "medium",
+    "priority_reason": "Low rating and multiple complaints indicate a significant issue affecting user experience.",
+    "pm_action": "Investigate microphone permission handling and update the voice recognition pipeline to improve accuracy."
   },
   {
     "topic_id": 4,
@@ -92,6 +110,12 @@
       "please help my YouTube microphone",
       "My YouTube microphone is not working correctly. Every time I turn it on, it says, \"Didn't hear that. Tap the microphone to try again. Didn't hear that. Didn't hear that. Tap the microphone to try again. Didn't hear that. Tap the microphone to try again. Didn't hear that. Didn't hear that. Tap the microphone to try again.\" Also, my downloaded videos are gone. Every time I try to download videos, it just gives error 404",
       "Today i was trying to searching something in YouTube microphone but the Microphone has a creepy voice and constantly said Didn't hear that try again i was try many methods but nothing work on it I Ask to the YouTube management please fix it as soon as possible !"
-    ]
+    ],
+    "label": "Microphone Recognition Failure",
+    "category": "bug",
+    "root_cause": "Microphone recognition fails due to faulty audio input handling.",
+    "priority": "medium",
+    "priority_reason": "Negative rating with moderate review volume signals user frustration.",
+    "pm_action": "Fix microphone recognition logic and add fallback prompt for unrecognized input."
   }
 ]

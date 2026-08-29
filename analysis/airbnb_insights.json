@@ -17,12 +17,12 @@
       "This is a fantastic app for finding comfortable and affordable places to stay. The app is easy to use, the booking process is simple, and there are plenty of options to choose from. I especially appreciate the detailed property information, photos, reviews, and convenient communication with hosts. Overall, Airbnb makes planning and booking trips much easier. Highly recommended!",
       "I absolutely love this app"
     ],
-    "label": "User Praise for Ease",
+    "label": "Positive user feedback",
     "category": "praise",
-    "root_cause": "Users appreciate the intuitive interface, seamless booking flow, detailed property listings, and convenient host communication.",
+    "root_cause": "Users appreciate the app's ease of use, detailed property information, and convenient host communication.",
     "priority": "low",
-    "priority_reason": "The feedback is purely positive with no reported issues or feature complaints.",
-    "pm_action": "Document success factors of the current booking UX to preserve these patterns in future design iterations."
+    "priority_reason": "High rating and positive reviews indicate strong user satisfaction.",
+    "pm_action": "Feature user testimonials prominently in marketing materials to reinforce brand trust."
   },
   {
     "topic_id": 1,
@@ -42,12 +42,12 @@
       "very convenient and useful",
       "very easy and straight forward"
     ],
-    "label": "Easy Navigation and Booking Experience",
+    "label": "Easy booking experience",
     "category": "praise",
-    "root_cause": "Users find the app highly intuitive, consistent, and convenient for navigating and completing bookings.",
+    "root_cause": "Users find the app intuitive and straightforward for booking",
     "priority": "low",
-    "priority_reason": "The feedback is overwhelmingly positive with a high average rating of 4.81 across 262 reviews.",
-    "pm_action": "Document and maintain the current UX design patterns used in the booking flow to ensure consistency across future app updates."
+    "priority_reason": "High rating and overwhelmingly positive reviews indicate low urgency",
+    "pm_action": "Maintain current UX and monitor for any emerging issues"
   },
   {
     "topic_id": 2,
@@ -67,12 +67,12 @@
       "muito bom! ajuda muito",
       "Una aplicaci\u00f3n que conecta personas en todo el mundo, gracias por hacer f\u00e1ciles las reservas de mis estancias."
     ],
-    "label": "High praise for booking experience",
+    "label": "Positive feedback on booking ease",
     "category": "praise",
-    "root_cause": "Users value the easy booking process and global variety of accommodations available on the platform.",
+    "root_cause": "Users appreciate diverse options and easy booking process",
     "priority": "low",
-    "priority_reason": "The reviews express strong user satisfaction and positive sentiment, requiring no urgent fixes.",
-    "pm_action": "Share positive user feedback with the search and booking product teams to reinforce successful UX patterns."
+    "priority_reason": "Positive reviews and rating above threshold",
+    "pm_action": "Continue supporting features that enhance discoverability and booking ease"
   },
   {
     "topic_id": 3,
@@ -92,12 +92,12 @@
       "Hassle verification.",
       "I verified my identity multiple ways. I don't trust this. Something is wrong here."
     ],
-    "label": "Broken identity verification login flow",
-    "category": "bug",
-    "root_cause": "The app loses state when users switch to messaging/email apps to retrieve 2FA codes, resulting in session resets and failed code validation.",
+    "label": "Authenticator Code Verification Bug",
+    "category": "complaint",
+    "root_cause": "The authenticator code verification process is buggy, causing users to be unable to enter or verify codes.",
     "priority": "medium",
-    "priority_reason": "The average rating is below 2.5 at 1.55, but the review count of 29 does not meet the threshold of >30 for high priority.",
-    "pm_action": "Implement native OS OTP auto-fill support and fix app background state preservation during 2FA verification."
+    "priority_reason": "The low rating and frequent complaints suggest a notable problem that needs attention.",
+    "pm_action": "Investigate and fix the authenticator code verification flow, ensuring codes can be entered and validated correctly, and provide clear error messages."
   },
   {
     "topic_id": 4,
@@ -117,12 +117,12 @@
       "always on top",
       "Just AWESOME"
     ],
-    "label": "Overwhelmingly Positive User Feedback",
+    "label": "Positive user feedback",
     "category": "praise",
-    "root_cause": "Users are highly satisfied with the app's recent updates and overall performance.",
+    "root_cause": "Users appreciate the app's smooth experience and appealing design.",
     "priority": "low",
-    "priority_reason": "Feedback is overwhelmingly positive with an average rating of 4.96 out of 5.",
-    "pm_action": "Share positive sentiment with the development team to reinforce effective features and maintain quality."
+    "priority_reason": "High average rating and positive reviews indicate strong user satisfaction.",
+    "pm_action": "Maintain current features and monitor for any emerging issues."
   },
   {
     "topic_id": 5,
@@ -142,12 +142,12 @@
       "Excellent experience all-around!",
       "awesome experience"
     ],
-    "label": "High satisfaction with Airbnb Experiences",
+    "label": "Great Experience Praise",
     "category": "praise",
-    "root_cause": "Users are experiencing consistently high quality and seamless interactions with Airbnb Experiences.",
+    "root_cause": "High quality experiences delivered consistently.",
     "priority": "low",
-    "priority_reason": "Priority is low because the reviews are overwhelmingly positive with an average rating of 4.96 out of 5.",
-    "pm_action": "Share this positive feedback with the Experiences product team to reinforce successful product strategies."
+    "priority_reason": "Positive reviews indicate high user satisfaction.",
+    "pm_action": "Maintain current quality and showcase positive reviews in marketing materials."
   },
   {
     "topic_id": 6,
@@ -185,7 +185,13 @@
       "apps airbnb lagi mudah untuk saya complete kan booking saya. tak loading lama.",
       "sangat mudah",
       "sobrang useless, nag rerequire ng physical id even though wala na!! digital lang ho naprovide ng government."
-    ]
+    ],
+    "label": "ID requirement issue",
+    "category": "complaint",
+    "root_cause": "Physical ID requirement despite digital availability",
+    "priority": "medium",
+    "priority_reason": "Moderate user dissatisfaction due to ID requirement",
+    "pm_action": "Investigate and remove unnecessary physical ID requirement; enable digital ID verification"
   },
   {
     "topic_id": 8,
@@ -204,7 +210,13 @@
       "The quality of service can be inconsistent, largely contingent on the specific location. We have observed instances of misrepresentation or discrepancies between advertised and delivered services. Furthermore, our customer service operations are outsourced, which can present challenges for clients attempting to resolve immediate concerns, particularly when traveling internationally or even domestically, due to difficulties in reaching either the host or customer support.",
       "terrible customer service",
       "The worst customer service ever. Don't expect them to help with anything."
-    ]
+    ],
+    "label": "Terrible Customer Service",
+    "category": "complaint",
+    "root_cause": "Outsourced customer support leads to poor response times and miscommunication.",
+    "priority": "medium",
+    "priority_reason": "Low rating and numerous complaints indicate significant dissatisfaction.",
+    "pm_action": "Reevaluate outsourcing agreements and implement a dedicated in-house support team for critical issues."
   },
   {
     "topic_id": 9,
@@ -223,7 +235,13 @@
       "I am a host and i use the platform for traveling it is great!!",
       "Great Host on sorrento towers junior sweet .5Starhost very helpful, and accommodating. Great experience.",
       "Great very kind and considerate host"
-    ]
+    ],
+    "label": "Excellent Host Experience",
+    "category": "praise",
+    "root_cause": "Positive host experience",
+    "priority": "low",
+    "priority_reason": "High rating and positive reviews indicate low priority",
+    "pm_action": "Send a thank-you note to the host and highlight their positive feedback in the host community newsletter"
   },
   {
     "topic_id": 10,
@@ -242,7 +260,13 @@
       "host lied to air BNB and left a fraudulent review on my profile . air BNB didn't have us pay but left review on my account after saying they would deal with it. won't use again. Vrbo it is.",
       "I love the air bnb app! It's so convenient! ",
       "I love the absolute convenience of using Air BnB we used it our 1st trip and everything was absolutely amazing"
-    ]
+    ],
+    "label": "Fraudulent Review Issue",
+    "category": "complaint",
+    "root_cause": "Users are receiving fraudulent reviews on their profiles due to a system error that allows hosts to post reviews without proper verification.",
+    "priority": "medium",
+    "priority_reason": "The issue affects user trust and could lead to account damage.",
+    "pm_action": "Implement a verification step for host reviews and audit existing reviews to remove fraudulent entries."
   },
   {
     "topic_id": 11,
@@ -261,6 +285,12 @@
       "fast and easy",
       "fast and easy",
       "easy and fast"
-    ]
+    ],
+    "label": "Fast and Easy Experience",
+    "category": "praise",
+    "root_cause": "Users appreciate the quick and simple booking process",
+    "priority": "low",
+    "priority_reason": "High rating and positive reviews indicate no immediate issues",
+    "pm_action": "Highlight speed and simplicity in marketing materials"
   }
 ]

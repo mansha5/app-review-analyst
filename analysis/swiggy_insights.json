@@ -16,7 +16,13 @@
       "horrible customer care support. Received wrong order and there is no resolution. no refund",
       "Easily I've ordered over hundreds of orders, but the way in which it treats its loyal customers is so humiliating. Since any genuine issue can't be addressed by them, now I'll quit, both Swiggy and it's brother Instamart, they are worthless",
       "waste app . this app gives offer and shutdown."
-    ]
+    ],
+    "label": "Customer Support Failure",
+    "category": "complaint",
+    "root_cause": "Inadequate customer support and order mismanagement leading to unresolved complaints.",
+    "priority": "high",
+    "priority_reason": "Low rating and high volume of complaints indicate urgent need for improvement.",
+    "pm_action": "Implement a dedicated escalation team and automated refund workflow for order errors."
   },
   {
     "topic_id": 1,
@@ -35,7 +41,13 @@
       "good service",
       "taking very time ",
       "fantastic, mind-blowing, extraordinary services"
-    ]
+    ],
+    "label": "Slow Service Issue",
+    "category": "complaint",
+    "root_cause": "Delayed delivery due to high demand",
+    "priority": "low",
+    "priority_reason": "Positive rating indicates overall satisfaction, but complaint about speed suggests improvement needed.",
+    "pm_action": "Implement real-time order tracking and optimize delivery routes."
   },
   {
     "topic_id": 2,
@@ -54,7 +66,13 @@
       "friends vedi e rakhi ki enno offers pettinattu buildup chesadu adi antha fake money full ga cut avthunavani okasari payment chesemudu vhusukondi edi fake ......",
       "\u0a9c\u0ac0\u0ab5\u0aa8\u0aa8\u0ac0 \u0ab8\u0acc\u0aa5\u0ac0 \u0aa8\u0a95\u0abe\u0aae\u0ac0 \u0a85\u0aa8\u0ac7 \u0aae\u0abe\u0aa8\u0ab8\u0abf\u0a95 \u0aa4\u0acd\u0ab0\u0abe\u0ab8 \u0a86\u0aaa\u0aa8\u0abe\u0ab0\u0ac0 \u0ab8\u0ab0\u0acd\u0ab5\u0abf\u0ab8! \u200b\u0ab8\u0acc\u0aa5\u0ac0 \u0aaa\u0ab9\u0ac7\u0ab2\u0abe \u0aa4\u0acb \u0ab8\u0acd\u0ab5\u0abf\u0a97\u0ac0 \u0a8f\u0aaa \u0aaa\u0ab0 \u0a9c \u0aa1\u0abf\u0ab2\u0abf\u0ab5\u0ab0\u0ac0\u0aa8\u0acb \u0a9f\u0abe\u0a88\u0aae \u0a96\u0ac2\u0aac \u0ab5\u0aa7\u0abe\u0ab0\u0ac7 \u0aac\u0aa4\u0abe\u0ab5\u0ab5\u0abe\u0aae\u0abe\u0a82 \u0a86\u0ab5\u0acd\u0aaf\u0acb \u0ab9\u0aa4\u0acb. \u0aa4\u0ac7\u0aae \u0a9b\u0aa4\u0abe\u0a82 \u0aa7\u0ac0\u0ab0\u0a9c \u0ab0\u0abe\u0a96\u0ac0\u0aa8\u0ac7 \u0a93\u0ab0\u0acd\u0aa1\u0ab0 \u0a95\u0ab0\u0acd\u0aaf\u0acb, \u0aa4\u0acb \u0ab0\u0ac7\u0ab8\u0acd\u0a9f\u0acb\u0ab0\u0aa8\u0acd\u0a9f \u0ab5\u0abe\u0ab3\u0abe\u0a8f \u0a8f\u0aa8\u0abe\u0aa5\u0ac0 \u0aaa\u0aa3 \u0aac\u0aae\u0aa3\u0acb \u0ab8\u0aae\u0aaf \u0aac\u0a97\u0abe\u0aa1\u0acd\u0aaf\u0acb. \u0a86\u0a9f\u0ab2\u0ac1\u0a82 \u0a93\u0a9b\u0ac1\u0a82 \u0ab9\u0acb\u0aaf \u0aa4\u0ac7\u0aae \u0a9c\u0acd\u0aaf\u0abe\u0ab0\u0ac7 \u0aae\u0ac7\u0a82 \u0aaa\u0ab0\u0abf\u0ab8\u0acd\u0aa5\u0abf\u0aa4\u0abf \u0a9c\u0abe\u0aa3\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 \u0ab0\u0ac7\u0ab8\u0acd\u0a9f\u0acb\u0ab0\u0aa8\u0acd\u0a9f \u0aaa\u0ab0 \u0a95\u0acb\u0ab2 \u0a95\u0ab0\u0acd\u0aaf\u0acb, \u0aa4\u0acb \u0ab8\u0abe\u0aae\u0ac7\u0aa5\u0ac0 \u0a85\u0aa4\u0acd\u0aaf\u0a82\u0aa4 \u0a85\u0ab8\u0aad\u0acd\u0aaf, \u0a97\u0ac7\u0ab0\u0ab5\u0ab0\u0acd\u0aa4\u0aa3\u0ac2\u0a95 \u0a85\u0aa8\u0ac7 \u0aac\u0aa6\u0acd\u0aa7\u0abf\u0aae\u0ac0\u0a9d\u0ac0 \u0aad\u0ab0\u0acd\u0aaf\u0acb \u0a9c\u0ab5\u0abe\u0aac \u0aae\u0ab3\u0acd\u0aaf\u0acb. \u200b\u0a97\u0acd\u0ab0\u0abe\u0ab9\u0a95\u0aa8\u0ac0 \u0ab8\u0aae\u0aaf\u0aa8\u0ac0 \u0a95\u0ac7 \u0a97\u0acc\u0ab0\u0ab5\u0aa8\u0ac0 \u0a95\u0acb\u0a88 \u0a95\u0abf\u0a82\u0aae\u0aa4 \u0a9c \u0aa8\u0aa5\u0ac0? \u0a86\u0ab5\u0ac0 \u0aa5\u0ab0\u0acd\u0aa1-\u0a95\u0acd\u0ab2\u0abe\u0ab8 \u0ab8\u0ab0\u0acd\u0ab5\u0abf\u0ab8 \u0a85\u0aa8\u0ac7 \u0a89\u0aa6\u0acd\u0aa7\u0aa4 \u0ab5\u0ab0\u0acd\u0aa4\u0aa8 \u0aae\u0abe\u0a9f\u0ac7 \u0ab0\u0ac7\u0ab8\u0acd\u0a9f\u0acb\u0ab0\u0aa8\u0acd\u0a9f \u0a85\u0aa8\u0ac7 \u0ab8\u0acd\u0ab5\u0abf\u0a97\u0ac0 \u0aac\u0a82\u0aa8\u0ac7 \u0ab2\u0abe\u0aaf\u0a95 \u0a9b\u0ac7.",
       "menyu nahi dikhate ho"
-    ]
+    ],
+    "label": "Delivery delay & rude staff",
+    "category": "complaint",
+    "root_cause": "Customers report delayed deliveries, fake offers, and rude restaurant staff",
+    "priority": "medium",
+    "priority_reason": "Moderate negative sentiment with high review volume",
+    "pm_action": "Investigate delivery times, audit promotional offers, and provide staff training"
   },
   {
     "topic_id": 3,
@@ -92,7 +110,13 @@
       "payment fails repeatedly",
       "no option cash on delivery",
       "Plays with people's mind again and again by Buzz and Rakhi fight. I had 100 cash on rakhi event and suddenly all disappeared, and I couldn't redeem that for order even yesterday.... and prices are also High. I have ordered an item and there was an offer of 17 cashback and it said will be added after delivery, but still not added. I will never install this again."
-    ]
+    ],
+    "label": "Payment & Redemption Issues",
+    "category": "complaint",
+    "root_cause": "Payment failures and missing cash\u2011on\u2011delivery option cause user frustration and loss of trust",
+    "priority": "medium",
+    "priority_reason": "Low rating and multiple negative reviews highlight urgent need to improve payment reliability and redemption features",
+    "pm_action": "Deploy a stable payment gateway, enable cash\u2011on\u2011delivery, fix cashback redemption logic, and communicate changes to users"
   },
   {
     "topic_id": 5,
@@ -130,7 +154,13 @@
       "This is a very bad app because it is looting the company's money in the name of GST. Answer this quickly why such high GST is charged.",
       "delivery charge is very expensive ",
       "lot of hidden charges unhappy with extra charge If it is one time I can tell u but it happens multiple time . so fix aur u go na lose"
-    ]
+    ],
+    "label": "High GST and Delivery Charges",
+    "category": "complaint",
+    "root_cause": "Customers feel GST and delivery fees are excessively high and hidden.",
+    "priority": "medium",
+    "priority_reason": "Low rating and negative reviews indicate dissatisfaction.",
+    "pm_action": "Investigate fee structure, provide transparent breakdown, and consider reducing delivery fee."
   },
   {
     "topic_id": 7,
@@ -168,7 +198,13 @@
       "if you wanna cancel then you cannot because they don't listen to what you ask they use AI bots which provide nohelp their customer care gives no quick help as they delay the cancellation time to let the situation be when order is being delivered and then there is fully no scope of cancelling they charge exactly the same amount of the order as the cancellation fees which the amount of your order hence if you have done using online prepaid then you will not get a rupees back as refund disaster ap",
       "very pathetic experience after waiting for an hour swiggy just called me and said its cancelled. Pathetic Pathetic Pathetic",
       "wont let me cancel my order peacefully"
-    ]
+    ],
+    "label": "Cancellation Process Issues",
+    "category": "complaint",
+    "root_cause": "Customers cannot cancel orders due to AI bot interference and delayed cancellation process.",
+    "priority": "medium",
+    "priority_reason": "Low rating and negative feedback indicate urgent need to address cancellation issues.",
+    "pm_action": "Implement a real-time cancellation feature with human support and reduce cancellation fees."
   },
   {
     "topic_id": 9,
@@ -206,7 +242,13 @@
       "It is very tasty and every time I order it, it makes my heart happy. The pizza here has a lot of special things and is also very tasty.",
       "good service good food nd honest behaviour mr happy",
       "good easy to eat any and any time"
-    ]
+    ],
+    "label": "Excellent food and service",
+    "category": "praise",
+    "root_cause": "Customers praise the tasty food and good service",
+    "priority": "low",
+    "priority_reason": "High rating and positive reviews",
+    "pm_action": "Highlight positive reviews in marketing materials"
   },
   {
     "topic_id": 11,
@@ -225,7 +267,13 @@
       "I'm so happy to happy ",
       "nice overview",
       "super wonderful"
-    ]
+    ],
+    "label": "Positive Feedback",
+    "category": "praise",
+    "root_cause": "Customers are satisfied with the service quality and food.",
+    "priority": "low",
+    "priority_reason": "Positive sentiment and high rating indicate low urgency.",
+    "pm_action": "Maintain current service standards and share positive reviews on social media."
   },
   {
     "topic_id": 12,
@@ -244,7 +292,13 @@
       "nice offers and service",
       "big offer \u2764\ufe0f\u200d",
       "nice offers on some specific restaurants \u2728"
-    ]
+    ],
+    "label": "Positive feedback on offers",
+    "category": "praise",
+    "root_cause": "Customers appreciate the attractive offers and good service.",
+    "priority": "low",
+    "priority_reason": "Positive reviews indicate high satisfaction, so no urgent action needed.",
+    "pm_action": "Maintain current offer strategy and monitor for any changes in customer sentiment."
   },
   {
     "topic_id": 13,
@@ -263,6 +317,12 @@
       "worst experience I have faced",
       "good experience",
       "nice experience "
-    ]
+    ],
+    "label": "Negative Delivery Experience",
+    "category": "complaint",
+    "root_cause": "Delivery delay and poor service",
+    "priority": "medium",
+    "priority_reason": "Moderate rating and limited complaints",
+    "pm_action": "Investigate delivery process and improve response time"
   }
 ]

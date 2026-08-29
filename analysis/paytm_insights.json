@@ -92,7 +92,13 @@
       "app not working & freez after opening, also I had uninstalled & reinstall app but facing same problem",
       "App is not working, always flash message highlight Device Environment is not Correct",
       "The app is not opening with an error saying' device environment is not correct \"."
-    ]
+    ],
+    "label": "Device environment mismatch",
+    "category": "bug",
+    "root_cause": "The app incorrectly flags supported devices as unsupported due to a faulty device environment check.",
+    "priority": "high",
+    "priority_reason": "Low rating and many complaints indicate a critical issue.",
+    "pm_action": "Revise the device environment validation logic and release an update that correctly identifies supported devices."
   },
   {
     "topic_id": 5,
@@ -130,7 +136,13 @@
       "good service ",
       "Best service.",
       "best servesh"
-    ]
+    ],
+    "label": "Excellent Service Feedback",
+    "category": "praise",
+    "root_cause": "Customers appreciate the efficient and reliable service provided by Paytm.",
+    "priority": "low",
+    "priority_reason": "High rating and positive reviews indicate low urgency.",
+    "pm_action": "Highlight positive reviews in marketing materials"
   },
   {
     "topic_id": 7,
@@ -149,7 +161,13 @@
       "you don't give any reward as well as assure reward you are liyer",
       "Stole my money. I purchased a Google play Recharge code and i first tried to redeem it said the Code is only Redeemable in India (I'm in India and my account is also set in India) then after a while when i tried again it said the code was already redeem so i checked my Google play balance it was still 0.",
       "Vouchers from entertainment brands are great."
-    ]
+    ],
+    "label": "Reward and Redemption Issues",
+    "category": "complaint",
+    "root_cause": "Users are not receiving promised rewards and experiencing issues redeeming codes",
+    "priority": "medium",
+    "priority_reason": "Low rating and multiple complaints indicate medium urgency",
+    "pm_action": "Fix reward distribution and code redemption bugs, and update user communication"
   },
   {
     "topic_id": 8,
@@ -168,7 +186,13 @@
       "this is very easy plapp",
       "excellent and easy to use",
       "easy to use"
-    ]
+    ],
+    "label": "Easy to use",
+    "category": "praise",
+    "root_cause": "The app offers a simple, intuitive interface that users find easy to navigate.",
+    "priority": "low",
+    "priority_reason": "High average rating and positive reviews indicate strong user satisfaction.",
+    "pm_action": "Maintain current UI simplicity and monitor for any emerging usability issues."
   },
   {
     "topic_id": 9,
@@ -225,7 +249,13 @@
       "best best Paytm who is",
       "Paytm is a very good.",
       "it's really nice i love this payetm in my life i love it's really good "
-    ]
+    ],
+    "label": "Positive Paytm Experience",
+    "category": "praise",
+    "root_cause": "Positive user experience with Paytm's features.",
+    "priority": "low",
+    "priority_reason": "High rating indicates positive sentiment.",
+    "pm_action": "Continue to maintain current features and monitor for any emerging issues."
   },
   {
     "topic_id": 12,
@@ -244,7 +274,13 @@
       "best experience",
       "Good experience",
       "good experience"
-    ]
+    ],
+    "label": "Positive user feedback",
+    "category": "praise",
+    "root_cause": "Users report excellent experience with Paytm",
+    "priority": "low",
+    "priority_reason": "High rating and positive reviews",
+    "pm_action": "Maintain current service quality and monitor for any emerging issues"
   },
   {
     "topic_id": 13,
@@ -263,7 +299,13 @@
       "I love the app! The app is soo much faster download. But now download faster and more stable. Thank you so much to everyone algorithms. You'd stop an entry and it'd be several seconds before it'd actually stop and those extra seconds are added too the entry? This is syncing happens pretty much every time you open the app, start, stop, or edit an entry, so it was a real pain. Not to mention being unable to use the app when it's syncing because it literally stops responding until it's done.",
       "I love the app. You'd stop an entry and it'd be several seconds before it'd actually stop and those extra seconds are added to the entry. But now download faster and more stable. Not to mention being unable to use the app when it's syncing because its literally stop responding until it's done. The app is soo much faster download. This is syncing happens pretty much every time you open the app, start, stop, or edit an entry. so it was real pain to use. Thank you so much to everyone algorithms.",
       "I lovethe app! The app is soo much faster download. This is syncinghappens pretty much every time you open the app, start, stop, or edit an entry, so it was a real pain. Not to mention being unable to use the app when it's syncing because it literally stop responding until it's done. Thank you so much to everyone algorithms. But now download faster and more stable. You'd stop an entry and it'd be several seconds before it'd actually stop and those extra seconds are added too the entry."
-    ]
+    ],
+    "label": "Sync blocking UI",
+    "category": "bug",
+    "root_cause": "Sync process blocks UI causing delays and unresponsiveness",
+    "priority": "medium",
+    "priority_reason": "User experience impacted by sync delays despite high rating",
+    "pm_action": "Optimize sync to run asynchronously and reduce UI blocking"
   },
   {
     "topic_id": 14,
@@ -282,7 +324,13 @@
       "very fast and safety",
       "very fast pa",
       "very fast and good"
-    ]
+    ],
+    "label": "Fast & Safe Experience",
+    "category": "praise",
+    "root_cause": "Users appreciate the app\u2019s speed and safety features.",
+    "priority": "low",
+    "priority_reason": "Positive sentiment with high rating.",
+    "pm_action": "Maintain current speed and safety features; monitor for any emerging issues."
   },
   {
     "topic_id": 15,
@@ -301,7 +349,13 @@
       "Fast processing app",
       "so fast hassle free",
       "very good, not glitch, speed and clear everything"
-    ]
+    ],
+    "label": "Praise for fast performance",
+    "category": "praise",
+    "root_cause": "Users appreciate the app\u2019s fast processing, glitch-free experience, and clear interface.",
+    "priority": "low",
+    "priority_reason": "High rating and positive reviews indicate low urgency.",
+    "pm_action": "Maintain current performance and monitor for any future glitches."
   },
   {
     "topic_id": 16,
@@ -320,7 +374,13 @@
       "yes nice application",
       "Good Application",
       "Best Functional Application"
-    ]
+    ],
+    "label": "Positive Feedback on App",
+    "category": "praise",
+    "root_cause": "Users appreciate the app's functionality and user-friendly design.",
+    "priority": "low",
+    "priority_reason": "Positive reviews indicate high user satisfaction.",
+    "pm_action": "Acknowledge users and highlight positive feedback in the next release notes."
   },
   {
     "topic_id": 17,
@@ -339,7 +399,13 @@
       "So easy to handle, quick, reliable and secure",
       "very Reliable and Very useful",
       "fast and secure"
-    ]
+    ],
+    "label": "Fast, Secure, Reliable",
+    "category": "praise",
+    "root_cause": "The app offers a fast, secure, and reliable experience.",
+    "priority": "low",
+    "priority_reason": "Positive reviews indicate low urgency for changes.",
+    "pm_action": "Maintain current features and monitor user satisfaction."
   },
   {
     "topic_id": 18,
@@ -358,6 +424,12 @@
       "Excellent money transaction app out of all other apps . Nothing to say. Fully satisfied. Most reliable. Now sustainable. It works easy and consistent for overseas residents. Now no need to keep wallet in the pocket. ",
       "good apps for daily sending money .Direct payment",
       "good app for money transfer"
-    ]
+    ],
+    "label": "High satisfaction with transfers",
+    "category": "praise",
+    "root_cause": "Users appreciate reliable and easy money transfer features",
+    "priority": "low",
+    "priority_reason": "Positive reviews and high rating indicate low priority",
+    "pm_action": "Maintain current features and monitor for any new issues"
   }
 ]

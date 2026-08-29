@@ -16,7 +16,13 @@
       "first time with uber",
       "cancel all my ride",
       "taking to long to confirm plus canceling the ride several time if the emergency means?"
-    ]
+    ],
+    "label": "Ride Cancellation & Wait Time",
+    "category": "complaint",
+    "root_cause": "Frequent driver cancellations and delayed confirmations are causing user frustration.",
+    "priority": "medium",
+    "priority_reason": "The rating is above 2.5 but below 3, and there are many complaints about cancellations, warranting medium priority.",
+    "pm_action": "Review and adjust driver dispatch logic to reduce cancellations and improve confirmation speed."
   },
   {
     "topic_id": 1,
@@ -35,7 +41,13 @@
       "Always good",
       "very good and fast service ",
       "Very organized"
-    ]
+    ],
+    "label": "Excellent Service Praise",
+    "category": "praise",
+    "root_cause": "Customers appreciate the fast, organized, and friendly service",
+    "priority": "low",
+    "priority_reason": "High rating and overwhelmingly positive reviews",
+    "pm_action": "Maintain current service standards and collect ongoing feedback for continuous improvement"
   },
   {
     "topic_id": 2,
@@ -54,7 +66,13 @@
       "Worst app at festival or emergency",
       "worst app I have seen",
       "good application"
-    ]
+    ],
+    "label": "App performance issues",
+    "category": "complaint",
+    "root_cause": "The app crashes or performs poorly during high-demand events like festivals or emergencies.",
+    "priority": "low",
+    "priority_reason": "The overall rating is above 3 and the number of reviews is moderate, indicating a generally positive perception.",
+    "pm_action": "Implement performance optimizations and stress testing for peak traffic scenarios."
   },
   {
     "topic_id": 3,
@@ -73,7 +91,13 @@
       "bekaar app he",
       "\u0907\u0938\u0938\u0947 \u0918\u091f\u093f\u092f\u093e service \u0915\u094d\u092f\u093e \u0939\u0940 \u0939\u094b \u0938\u0915\u0924\u0940 \u0939\u0948\u0902...\u0930\u0941\u092a\u092f\u093e \u092a\u0947\u0921\u093c \u092a\u0930 \u0909\u0917 \u0930\u0939\u093e \u0939\u0948\u0902 ..\u092e\u0947\u0930\u093e \u092c\u0938 \u091a\u0932\u0947 \u0924\u094b \u0905\u092d\u0940 \u092c\u0902\u0926 \u0915\u0930\u0935\u093e \u0926\u0941.....",
       "bahut hi kharab service hai uber ka"
-    ]
+    ],
+    "label": "Poor Service Payment Issues",
+    "category": "complaint",
+    "root_cause": "Users report unreliable service and payment errors causing frustration.",
+    "priority": "high",
+    "priority_reason": "Low rating and high review volume indicate widespread dissatisfaction.",
+    "pm_action": "Investigate and resolve payment processing errors and improve driver reliability."
   },
   {
     "topic_id": 4,
@@ -111,7 +135,13 @@
       "good experience",
       "good experience",
       "waste experience"
-    ]
+    ],
+    "label": "Positive Experience Feedback",
+    "category": "praise",
+    "root_cause": "Users appreciate the smooth ride experience.",
+    "priority": "low",
+    "priority_reason": "High rating indicates satisfaction.",
+    "pm_action": "Maintain current service quality and monitor for any decline."
   },
   {
     "topic_id": 6,
@@ -130,7 +160,13 @@
       "horrible customer service",
       "Your customer support services have become excessively poor. You make it impossible to chat customer care agents, and when we do, we get robotic responses. You've started robbing your customers, too. My 13 cedis balance??? Finally, your no wait time policy is unfair and very impractical",
       "the most horrible customer support ive ever had the displeasure of having to deal with"
-    ]
+    ],
+    "label": "Poor Customer Support",
+    "category": "complaint",
+    "root_cause": "The customer support system is unresponsive and automated, leading to frustration.",
+    "priority": "medium",
+    "priority_reason": "Low rating and negative reviews indicate significant customer dissatisfaction.",
+    "pm_action": "Implement a live chat support feature with real-time agent response."
   },
   {
     "topic_id": 7,
@@ -149,7 +185,13 @@
       "it's very average costly.",
       "price wise all good",
       "too much cost"
-    ]
+    ],
+    "label": "High Cost Complaints",
+    "category": "complaint",
+    "root_cause": "Users feel the ride cost is too high.",
+    "priority": "medium",
+    "priority_reason": "Average rating and moderate review count indicate a medium priority issue.",
+    "pm_action": "Investigate pricing strategy and consider dynamic pricing or discounts to improve affordability perception."
   },
   {
     "topic_id": 8,
@@ -168,6 +210,12 @@
       "nice experience",
       "nice experience",
       "Great experience everytime"
-    ]
+    ],
+    "label": "Excellent Uber Experience",
+    "category": "praise",
+    "root_cause": "Consistent high-quality service and efficient rides.",
+    "priority": "low",
+    "priority_reason": "Positive feedback indicates no immediate action required.",
+    "pm_action": "Feature this positive feedback in the next internal performance report."
   }
 ]
