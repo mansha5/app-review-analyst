@@ -2,115 +2,96 @@
   {
     "topic_id": 0,
     "keywords": [
-      "experience",
-      "bad",
-      "life",
+      "love",
+      "youtube",
       "like",
-      "easy",
-      "fast"
+      "videos",
+      "watch",
+      "easy"
     ],
-    "review_count": 57,
-    "avg_rating": 4.05,
-    "avg_sentiment": 0.187,
+    "review_count": 114,
+    "avg_rating": 4.36,
+    "avg_sentiment": 0.412,
     "sample_reviews": [
-      "good experience",
-      "verygoodapp",
-      "Nice app no fraud app trusted app"
+      "nice very good",
+      "It is very nice and good",
+      "Very nice comfortable"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "update",
-      "videos",
+      "ads",
+      "ad",
+      "youtube",
       "video",
-      "screen",
-      "button",
-      "worse"
+      "ai",
+      "premium"
     ],
-    "review_count": 50,
-    "avg_rating": 1.52,
-    "avg_sentiment": -0.331,
+    "review_count": 91,
+    "avg_rating": 1.69,
+    "avg_sentiment": -0.104,
     "sample_reviews": [
-      "I face this problem always within 3 months all my downloaded videos delete automatically and even tho my phone has internet all the time even the background data usage is on still they vanish and I am a student so I need oneshot videos to watch so I download them in advance even my friends have their videos for 1 whole year safely but only mine are deleted idk why pls fix this issue i hope u make a setting in which the downloaded videos can stay in the app as long as the user wants!!!!!!!!!",
-      "Getting multiple updates daily am updating application please roll out some better patch which stops this updates",
-      "Youtube changes playlist UI for the worst with each new update. NO i DONT want to click multiple times just to add ONE video to multiple playlists. what, am i living in backwardsville? pls fix this frankly stupid feature its so annoying <(\ua426\u314d _\u314d)>"
+      "I ain't paying so much just to watch ads constantly , specially right after 5-10mins of any video . work on for those who can't have premium.",
+      "best app for world but some many ads but ok",
+      "remove ads and never change old layout "
     ]
   },
   {
     "topic_id": 2,
     "keywords": [
-      "ads",
       "video",
-      "ad",
       "youtube",
-      "minutes",
-      "dont"
+      "videos",
+      "update",
+      "screen",
+      "im"
     ],
-    "review_count": 46,
-    "avg_rating": 1.59,
-    "avg_sentiment": -0.175,
+    "review_count": 60,
+    "avg_rating": 2.2,
+    "avg_sentiment": -0.093,
     "sample_reviews": [
-      "Too much ads make it very horrible",
-      "Way too many ads ",
-      "ads, ads and more ads. cannot watch even a short video without quitting the app due to ads"
+      "cannot download video",
+      "press-and-hold for 2x playback has ~2 second lag before the speed engages, and another ~2 seconds after releasing before it returns to 1x. Device: Galaxy Z Fold 8, Latest YouTube app. Not the touchscreen \u2014 other apps long-press normally. Not network or account \u2014 same gesture on the web player in a browser on this same phone is instant.",
+      "Didn't open you tube."
     ]
   },
   {
     "topic_id": 3,
     "keywords": [
-      "add",
-      "mehnat",
-      "hi",
-      "swipe",
-      "youtube",
-      "tv"
+      "update",
+      "working",
+      "tab",
+      "search",
+      "available",
+      "entire"
     ],
-    "review_count": 29,
-    "avg_rating": 3.1,
-    "avg_sentiment": 0.019,
+    "review_count": 39,
+    "avg_rating": 1.67,
+    "avg_sentiment": -0.154,
     "sample_reviews": [
-      "beautiful kahaniyan",
-      "Krishna Pasha Mondal",
-      "updated version too much buffering , youtube pahle jaisa nhi rha"
+      "The entire app has been rendered useless, as my subscriptions tab in the bottom, has been completely removed. It's not even there next to the home tab, and since I don't have my search history turned on, I basically have nothing to watch, unless I explicitly search for something. Absolutely horrible change. GIVE ME MY SUBSCRIPTIONS TAB BACK!",
+      "so annoying it's won't even load why why",
+      "stoped working after a couple of years on my galaxy tab a"
     ]
   },
   {
     "topic_id": 4,
     "keywords": [
+      "video",
       "youtube",
-      "fix",
-      "open youtube",
-      "open",
-      "working",
-      "im"
+      "mera",
+      "advertisement",
+      "main",
+      "youtube channel"
     ],
-    "review_count": 27,
-    "avg_rating": 2.19,
-    "avg_sentiment": -0.051,
+    "review_count": 21,
+    "avg_rating": 3.9,
+    "avg_sentiment": 0.022,
     "sample_reviews": [
-      "can't see videos",
-      "whenever i watch any video some error show up again and again i have to turn on my flight mode or just reopen youtube. this needs to be fixed!",
-      "My ( video/whatch) history videos keeps stacking up whenever I'm on the search bar on my history, please fix this issue"
-    ]
-  },
-  {
-    "topic_id": 5,
-    "keywords": [
-      "love",
-      "easy",
-      "youtube",
-      "day",
-      "life",
-      "content"
-    ],
-    "review_count": 19,
-    "avg_rating": 4.26,
-    "avg_sentiment": 0.568,
-    "sample_reviews": [
-      "you tube is a wide variety of videos available. It is easy to search for content and find something interesting to watch",
-      "very nice life easy time paas easy i love u youtube",
-      "I love the videos!"
+      "santosh kumar nice",
+      "menyediakan banyak kategori video yg menarik dan dapat menarik minat saya menonton sewaktu masa lapang",
+      "\u201cBanyak sangat kandungan yang bermanfaat dan menghiburkan. Saya boleh belajar perkara baharu, dengar muzik dan menonton video pada bila-bila masa.\u201d"
     ]
   }
 ]

@@ -2,226 +2,134 @@
   {
     "topic_id": 0,
     "keywords": [
-      "netflix",
-      "easy",
-      "movies",
-      "watch",
-      "streaming",
-      "shows"
+      "phone",
+      "dont",
+      "know",
+      "payment",
+      "need",
+      "screen"
     ],
-    "review_count": 52,
-    "avg_rating": 4.0,
-    "avg_sentiment": 0.452,
+    "review_count": 86,
+    "avg_rating": 2.77,
+    "avg_sentiment": 0.138,
     "sample_reviews": [
-      "\u201cThe app Netflix is easy to navigate and has a wide selection of movies and shows. I like how convenient it is for watching content.\u201d",
-      "Netflix has always been more than just a streaming platform for me. \u2764\ufe0f I genuinely love movies and web series, and watching them has become such a special part of my life. From amazing stories to unforgettable characters, Netflix always gives me something worth watching. There are so many platforms out there, but Netflix will always be my favorite. Thank you for bringing so many beautiful stories to our screens. \u2764\ufe0f\u2728",
-      "Netflix and chill"
-    ],
-    "label": "Easy to navigate",
-    "category": "praise",
-    "root_cause": "User-friendly interface",
-    "priority": "medium",
-    "priority_reason": "Average rating is 4.0",
-    "pm_action": "No action required"
+      "love the app but it dosent have all the animes I want to watch, and the for the pfp dose not have the ones I want so thats a bummer but other wise its a good app",
+      "the moment they took out the casting button I cancelled my account.",
+      "I am getting logged out to often. Inconveniente."
+    ]
   },
   {
     "topic_id": 1,
     "keywords": [
       "movie",
+      "film",
+      "awesome",
+      "interesting",
       "movies",
-      "new",
-      "new movies",
-      "english",
-      "series"
+      "watch"
     ],
-    "review_count": 45,
-    "avg_rating": 3.98,
-    "avg_sentiment": 0.323,
+    "review_count": 55,
+    "avg_rating": 4.69,
+    "avg_sentiment": 0.482,
     "sample_reviews": [
-      "Very well directed. This movie shows how someone can honestly snap when they feel hurt, embarrassed, disappointed and betrayed.",
-      "difficult to get some movies",
-      "I love the new movies that come up."
-    ],
-    "label": "New movies difficult to get",
-    "category": "complaint",
-    "root_cause": "Difficulties in accessing new movies",
-    "priority": "high",
-    "priority_reason": "Average rating is 3.98 and review count is 45",
-    "pm_action": "Improve accessibility of new movies"
+      "bring back dead end paranormal Park",
+      "Awesome Movie",
+      "This was actually a wonderful little film !"
+    ]
   },
   {
     "topic_id": 2,
     "keywords": [
-      "entertaining",
-      "reliable",
-      "experience",
-      "excellent",
-      "content",
-      "quality"
+      "netflix",
+      "movies",
+      "like",
+      "love",
+      "watch",
+      "shows"
     ],
-    "review_count": 36,
-    "avg_rating": 4.81,
-    "avg_sentiment": 0.458,
+    "review_count": 50,
+    "avg_rating": 4.2,
+    "avg_sentiment": 0.363,
     "sample_reviews": [
-      "very fun and lovely.",
-      "Just the Best!!",
-      "it's good to have.."
-    ],
-    "label": "Excellent Netflix Experience",
-    "category": "praise",
-    "root_cause": "Entertaining and reliable content quality",
-    "priority": "medium",
-    "priority_reason": "Average rating is 4.81 and review count is 36",
-    "pm_action": "Monitor and maintain content quality"
+      "Love Netflix! So many great shows and movies to watch. \u2764\ufe0f",
+      "Netflix gotta have it ",
+      "For My OCD And (Maybe Autism, I Don't Know SZA) Netflix Has Really Helped Me Control My Wrath, I Would Be Locked In A Federal Prison Right Now With Predators Lives On My Conscience Right Now If It Weren't For Netflix. For That I Am Extremely Explicitly Grateful. Yours Truly. -HotshotDaMonsta."
+    ]
   },
   {
     "topic_id": 3,
     "keywords": [
-      "watch",
-      "series",
-      "seasons",
-      "series movies",
-      "awesome",
-      "season"
+      "love",
+      "love love",
+      "beautiful",
+      "perfect",
+      "experience",
+      "like"
     ],
-    "review_count": 31,
-    "avg_rating": 4.39,
-    "avg_sentiment": 0.489,
+    "review_count": 46,
+    "avg_rating": 4.24,
+    "avg_sentiment": 0.441,
     "sample_reviews": [
-      "yes it's good for me I get to watch stuff",
-      "add big bang theory and georgie and mandy's first marriage",
-      "it's just sooo amazing it almost has all the series and movies i look for!!!"
-    ],
-    "label": "Awesome Series and Movies",
-    "category": "praise",
-    "root_cause": "Lack of specific series and movies",
-    "priority": "medium",
-    "priority_reason": "Average rating is 4.39 and review count is 31",
-    "pm_action": "Add requested series and movies to the platform"
+      "if I can I will give more than 5 \u2b50\ufe0f",
+      "it refreshes my mind",
+      "wowowow so awesome (im 21 btw)"
+    ]
   },
   {
     "topic_id": 4,
     "keywords": [
-      "streaming",
-      "better",
+      "english",
+      "add",
+      "money",
       "movie",
-      "movies",
-      "like",
-      "shows"
+      "watching",
+      "le"
     ],
-    "review_count": 29,
-    "avg_rating": 4.34,
-    "avg_sentiment": 0.611,
+    "review_count": 21,
+    "avg_rating": 3.67,
+    "avg_sentiment": 0.044,
     "sample_reviews": [
-      "A great streaming platform with many movies, series, and shows to enjoy.",
-      "good app for movies",
-      "great app with better and better streaming options. Need more fighting anime and classic action movies! bring back the 80s and 90s block busters woth grit and steel!"
-    ],
-    "label": "Streaming Platform Improvement Needed",
-    "category": "complaint",
-    "root_cause": "Need more fighting anime and classic action movies",
-    "priority": "high",
-    "priority_reason": "Rating is 4.34 and review count is 29",
-    "pm_action": "Add more anime and classic action movies to the platform"
+      "bhut he bekar hai....hindi audio ki movie and show bhut kam or sb english me 95% jada aate ...to etna money lete kyu ho sbi se jitna money le rhe ho uss me hindi wale ke liye hindi all Hollywood and south and bollywood to show/dala kro bekar aap hai",
+      "I love watching movies here cause you can translate it into any language.",
+      "Please add in KDrama from Yr 2010"
+    ]
   },
   {
     "topic_id": 5,
     "keywords": [
-      "love",
-      "ai",
-      "lot",
-      "apps",
-      "works",
-      "like"
+      "streaming",
+      "service",
+      "subscription",
+      "streaming service",
+      "expensive",
+      "worth"
     ],
-    "review_count": 23,
-    "avg_rating": 4.04,
-    "avg_sentiment": 0.495,
+    "review_count": 20,
+    "avg_rating": 3.75,
+    "avg_sentiment": 0.273,
     "sample_reviews": [
-      "world the best app",
-      "I love this app",
-      "This is by far the \"Old Reliable\" of apps!! "
-    ],
-    "label": "Love AI App Works",
-    "category": "praise",
-    "root_cause": "Users enjoy the app's features.",
-    "priority": "medium",
-    "priority_reason": "Average rating is 4.04 and review count is 23.",
-    "pm_action": "Monitor user feedback for potential issues."
+      "Honestly, I hadn't purchased before because I was just sure the price was outrageous. To my surprise, when my curiosity finally convinced me to checkout the prices for myself to see what I am up against.. I saw that prices ranging from \"completely affordable\" to \"it's a good deal\" and I don't think I gave myself another minute before I purchased. Im a documentary fan that's not been able to find a streaming service that tops the Netflix Documentaries on any level.",
+      "I hate that you have to pay ",
+      "Nflix has definitely Improved over the years. I'm an old school patron, I remember when Nflix came out, they would mail you discs to watch. then you had to mail them back. then they'd mail you more. Then they started streaming an Bingo, they hit the Jackpot. "
+    ]
   },
   {
     "topic_id": 6,
     "keywords": [
-      "update",
-      "open",
-      "did",
-      "issue",
-      "updated",
-      "new"
+      "season",
+      "shows",
+      "love",
+      "long",
+      "enjoy",
+      "series"
     ],
-    "review_count": 16,
-    "avg_rating": 2.31,
-    "avg_sentiment": 0.005,
+    "review_count": 18,
+    "avg_rating": 4.94,
+    "avg_sentiment": 0.738,
     "sample_reviews": [
-      "Did not get help",
-      "please bring back blackpink display profile please",
-      "the new update stinks"
-    ],
-    "label": "New Update Issues",
-    "category": "complaint",
-    "root_cause": "Users are unhappy with the new update.",
-    "priority": "high",
-    "priority_reason": "Average rating is low and review count is high.",
-    "pm_action": "Investigate and fix the issues causing user dissatisfaction."
-  },
-  {
-    "topic_id": 7,
-    "keywords": [
-      "hindi",
-      "indian",
-      "available",
-      "movie",
-      "annoying",
-      "man"
-    ],
-    "review_count": 14,
-    "avg_rating": 2.5,
-    "avg_sentiment": -0.041,
-    "sample_reviews": [
-      "kuchh series nhi dikh ri h",
-      "\u0940 \u0930\u093f\u092f\u0932\u0940 \u0932\u0935\u094d\u0921 it",
-      "No Serbian localization, still..."
-    ],
-    "label": "No Hindi movie available",
-    "category": "complaint",
-    "root_cause": "No Hindi movies are available for streaming",
-    "priority": "high",
-    "priority_reason": "Low rating and high review count",
-    "pm_action": "Check content availability and update catalog"
-  },
-  {
-    "topic_id": 8,
-    "keywords": [
-      "working",
-      "playing",
-      "videos",
-      "keeps",
-      "play",
-      "subscription"
-    ],
-    "review_count": 11,
-    "avg_rating": 1.09,
-    "avg_sentiment": -0.176,
-    "sample_reviews": [
-      "it is not playing my movies if again and agin shows that Netflix is not responding",
-      "Autoplay previews turned off. still autoplays previews until phone is dead. PLEASE SORT OUT OR CANCELLING SUBSCRIPTION!!!",
-      "can't sign in on my Android phone but I already paid for it. it's working on our TV and two other phones except for mine"
-    ],
-    "label": "Netflix not responding",
-    "category": "complaint",
-    "root_cause": "Technical issues with app functionality",
-    "priority": "high",
-    "priority_reason": "Low rating and multiple complaints",
-    "pm_action": "Investigate and resolve technical issues"
+      "Awsome place to find the Shows you Love.",
+      "The show is grt. Idk if anyone else rlly likes it, but it's a grt show. I enjoy it. Grt actresses in it. I'm sure they work hard. Have a good one.",
+      "Great shows and entertainment "
+    ]
   }
 ]

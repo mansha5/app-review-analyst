@@ -4,49 +4,37 @@
     "keywords": [
       "food",
       "customer",
-      "support",
-      "time",
+      "experience",
+      "service",
       "bad",
-      "customer support"
+      "better"
     ],
-    "review_count": 312,
-    "avg_rating": 2.59,
-    "avg_sentiment": -0.029,
+    "review_count": 356,
+    "avg_rating": 2.42,
+    "avg_sentiment": -0.094,
     "sample_reviews": [
-      "first time order",
-      "itna time lagta h ek cake ko delevery dene me ??",
-      "very gandaaaa so lazyyy very very poorrr.timing"
-    ],
-    "label": "Bad Customer Support",
-    "category": "complaint",
-    "root_cause": "Poor timing and lazy delivery service",
-    "priority": "high",
-    "priority_reason": "Low rating and high review count",
-    "pm_action": "Investigate and improve delivery service efficiency"
+      "well using multiple apps they attract by their low prices but adding into cart multiple fee applies except zomato are good one lowest at best I have made",
+      "Coppon voucher not redeem",
+      "Worst service and causing health issues by unhygienic food service and worst response I experienced and money wasted Soo people don't prefer zomato in future and further and it is happening repeatedly"
+    ]
   },
   {
     "topic_id": 1,
     "keywords": [
       "service",
       "excellent",
-      "thank",
-      "ok",
-      "work",
-      "quality"
+      "platform",
+      "sarvice",
+      "services",
+      "response"
     ],
-    "review_count": 78,
-    "avg_rating": 4.76,
-    "avg_sentiment": 0.528,
+    "review_count": 76,
+    "avg_rating": 4.68,
+    "avg_sentiment": 0.493,
     "sample_reviews": [
-      "very very good",
+      "easy and nice to have a good day",
       "good service",
-      "basically the service was good and phthe taste of food ki amazing"
-    ],
-    "label": "Excellent Service",
-    "category": "praise",
-    "root_cause": "Good service and quality food",
-    "priority": "medium",
-    "priority_reason": "Average rating and review count",
-    "pm_action": "Investigate and improve service consistency"
+      "best service"
+    ]
   }
 ]

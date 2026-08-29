@@ -3,200 +3,114 @@
     "topic_id": 0,
     "keywords": [
       "easy",
-      "user",
-      "fast",
-      "upi",
-      "excellent",
-      "friendly"
+      "service",
+      "secure",
+      "safe",
+      "awesome",
+      "fast"
     ],
-    "review_count": 122,
-    "avg_rating": 4.7,
-    "avg_sentiment": 0.467,
+    "review_count": 117,
+    "avg_rating": 4.69,
+    "avg_sentiment": 0.466,
     "sample_reviews": [
-      "very good and they very reliable towards customers.",
-      "fast & accurate",
-      "good and great"
-    ],
-    "label": "Excellent Paytm Experience",
-    "category": "praise",
-    "root_cause": "Fast and accurate transactions",
-    "priority": "medium",
-    "priority_reason": "Average rating is 4.7",
-    "pm_action": "Improve customer support for low ratings"
+      "Nice app. Recharge quickly. Awesome one is-when you post ur No. then immediate shows d Number locality.",
+      "very useful ",
+      "i love app secure app no problem fast upi aap"
+    ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "payment",
       "paytm",
+      "payment",
       "payments",
-      "transaction",
+      "upi",
       "fast",
-      "fast payment"
+      "money"
     ],
-    "review_count": 71,
-    "avg_rating": 4.51,
-    "avg_sentiment": 0.419,
+    "review_count": 110,
+    "avg_rating": 3.66,
+    "avg_sentiment": 0.247,
     "sample_reviews": [
-      "super and simple payments",
-      "good payment app",
-      "super, but solve issues with govt regulations"
-    ],
-    "label": "Paytm Payment Issues",
-    "category": "complaint",
-    "root_cause": "Issues with govt regulations",
-    "priority": "medium",
-    "priority_reason": "Average rating is 4.51 and review count is 71",
-    "pm_action": "Investigate and resolve govt regulation issues"
+      "paytm best app",
+      "it's great paytm.. ",
+      "thankyou Paytm"
+    ]
   },
   {
     "topic_id": 2,
     "keywords": [
+      "raha",
+      "ka",
       "nahi",
-      "bhi",
-      "sir",
-      "customer care",
-      "care",
-      "diya"
+      "hi",
+      "rs",
+      "apps"
     ],
-    "review_count": 36,
-    "avg_rating": 3.61,
-    "avg_sentiment": 0.108,
+    "review_count": 43,
+    "avg_rating": 3.26,
+    "avg_sentiment": 0.072,
     "sample_reviews": [
-      "bahut hi achha hai",
-      "mne apollo pharmacy ka voucher liya par voucher code to de diya lekin pin nahi diya or customer care bhi kuch nahi kar Rahi wrost app and customer care aapne jo link Diya usse bhi kuch nahi ho raha",
-      "cashback 50\u20b9 bol k kuch bhi voucher pakda dete hai upto 50\u20b9 bhi n bolte"
-    ],
-    "label": "Poor Customer Care",
-    "category": "complaint",
-    "root_cause": "Inadequate customer support and voucher issues",
-    "priority": "high",
-    "priority_reason": "Low rating and high review count",
-    "pm_action": "Improve customer support and voucher redemption process"
+      "dharmendra \u2764\u2764\u2764\u2764\u2764",
+      "radhe radhe",
+      "sound box bilkul na le....inke sound box ki service bilkul ghatiya h. ..ai se samsya ka samadhan kerte h...aaj 22.08.2026 ko lagbhag 10 din ho gye inki or se koi solution nhi ho rha ....ab to bus consumer court Jana hi bacha h.... bilkul ghatiya service..."
+    ]
   },
   {
     "topic_id": 3,
     "keywords": [
-      "paytm",
-      "login",
-      "working",
-      "customer",
-      "insurance",
-      "link"
+      "environment",
+      "device",
+      "device environment",
+      "environment correct",
+      "correct",
+      "working"
     ],
-    "review_count": 22,
-    "avg_rating": 1.86,
-    "avg_sentiment": 0.029,
+    "review_count": 23,
+    "avg_rating": 1.43,
+    "avg_sentiment": -0.121,
     "sample_reviews": [
-      "please sir paytm login attempt problem solve me",
-      "not work in low network",
-      "customer care call service not available for any query or discussion not available any person"
-    ],
-    "label": "Paytm login issues",
-    "category": "complaint",
-    "root_cause": "Poor network connectivity",
-    "priority": "high",
-    "priority_reason": "Low rating and multiple complaints",
-    "pm_action": "Investigate and resolve login attempt problems"
+      "I am getting error environment is not correct. tell me reason for that??. model no- techno LE 7. please fix it as soon as possible",
+      "it keeps saying not for device environment & payment fails everytime",
+      "My aap showing 0000 enviornment not recognised error"
+    ]
   },
   {
     "topic_id": 4,
     "keywords": [
-      "service",
-      "excellent service",
-      "excellent",
-      "bad",
-      "morning",
-      "service super"
+      "cashback",
+      "cash",
+      "gold",
+      "fake",
+      "offers",
+      "need"
     ],
-    "review_count": 19,
-    "avg_rating": 4.63,
-    "avg_sentiment": 0.441,
+    "review_count": 17,
+    "avg_rating": 3.06,
+    "avg_sentiment": -0.017,
     "sample_reviews": [
-      "good service",
-      "Good work Best sarvish",
-      "good service"
-    ],
-    "label": "Excellent Paytm Service",
-    "category": "praise",
-    "root_cause": "Users are satisfied with the service.",
-    "priority": "medium",
-    "priority_reason": "Average rating is 4.63 and review count is 19.",
-    "pm_action": "Monitor and maintain the current service level."
+      "good Cash back",
+      "Even though I'm using a coupon I'm not getting cashback afterwards...",
+      "fake and decieving cashback offers"
+    ]
   },
   {
     "topic_id": 5,
     "keywords": [
-      "device",
-      "correct",
-      "environment correct",
-      "device environment",
-      "environment",
-      "issue"
+      "stop",
+      "seconds",
+      "faster",
+      "download",
+      "added",
+      "soo"
     ],
-    "review_count": 17,
-    "avg_rating": 1.76,
-    "avg_sentiment": -0.077,
+    "review_count": 11,
+    "avg_rating": 4.45,
+    "avg_sentiment": 0.147,
     "sample_reviews": [
-      "plz help not open",
-      "I'm facing an issue opening the app. and it's been happening for a few months.",
-      "unable to use the app from past 3 months always showing device environment not correct 0000 tried all the ways and fixed but still not working"
-    ],
-    "label": "Paytm App Not Opening",
-    "category": "complaint",
-    "root_cause": "Device environment not correct",
-    "priority": "high",
-    "priority_reason": "Low rating and multiple reviews",
-    "pm_action": "Investigate device environment compatibility issues"
-  },
-  {
-    "topic_id": 6,
-    "keywords": [
-      "experience",
-      "super",
-      "",
-      "",
-      "",
-      ""
-    ],
-    "review_count": 12,
-    "avg_rating": 5.0,
-    "avg_sentiment": 0.487,
-    "sample_reviews": [
-      "great experience",
-      "good experience",
-      "Good experience"
-    ],
-    "label": "Paytm User Experience",
-    "category": "praise",
-    "root_cause": "Users had great experiences with Paytm.",
-    "priority": "medium",
-    "priority_reason": "Average rating is 5.0 and review count is 12.",
-    "pm_action": "Investigate and improve user experience further."
-  },
-  {
-    "topic_id": 7,
-    "keywords": [
-      "cashback",
-      "100",
-      "reward",
-      "cash",
-      "dete",
-      "offers"
-    ],
-    "review_count": 12,
-    "avg_rating": 3.83,
-    "avg_sentiment": 0.162,
-    "sample_reviews": [
-      "cashback nhi dete",
-      "didn't receive reference reward",
-      "amazing work but discount is not good"
-    ],
-    "label": "Poor Cashback Experience",
-    "category": "complaint",
-    "root_cause": "Cashback not provided as expected",
-    "priority": "high",
-    "priority_reason": "Low rating and multiple complaints",
-    "pm_action": "Investigate and resolve cashback issues"
+      "I love the app! This is syncing happens pretty much every time you open the app, start, stop, or edit an entry, so it was a real pain. The app is soo much faster download. Not to mention being unable to use the app when it's syncing because it literally stops responding until it's done. But now download faster and more stable. Thank you so much to everyone algorithms. You'd stop an entry and it'd be several seconds before it'd actually stop and those extra seconds are added too the entry?",
+      "I love the app! The app is soo much faster download. You'd stop an entry and it'd be several \u23f0seconds before it'd actually stop and those extra seconds are added too the entry.This is syncing happens pretty much every time you open the app, start, stop, or edit an entry, so it was a real pain. But now download faster and more stable. Thank you so much to everyone algorithms. Not to mention being unable to use the app when it's syncing because it literally stops responding until it's done.",
+      "I love\u23f0 the app! This is syncing happens pretty much every time you open the app, start, stop, or edit an entry, so it was a real pain. The app is soo much faster download. Not to mention being unable to use the app when it's syncing because it literally stops responding until it's done. Thank you so much to everyone algorithms. But now download faster and more stable. You'd stop an entry and it'd be several seconds before it'd actually stop and those extra seconds are added too the entry."
+    ]
   }
 ]

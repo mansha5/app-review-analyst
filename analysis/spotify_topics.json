@@ -2,96 +2,96 @@
   {
     "topic_id": 0,
     "keywords": [
-      "music",
-      "listening",
-      "better",
-      "quality",
-      "artists",
-      "excellent"
+      "love",
+      "excellent",
+      "amazing",
+      "experience",
+      "price",
+      "pretty"
     ],
-    "review_count": 73,
-    "avg_rating": 4.55,
-    "avg_sentiment": 0.409,
+    "review_count": 51,
+    "avg_rating": 4.67,
+    "avg_sentiment": 0.454,
     "sample_reviews": [
-      "it's just too good..",
-      "exceptional",
-      "makes listening to my favorite music very easy"
+      "I love this",
+      "it's really nice and handy",
+      "it's greate"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "premium",
-      "pay",
-      "free",
-      "ads",
-      "song",
-      "dont"
+      "music",
+      "love",
+      "love music",
+      "songs",
+      "play music",
+      "play"
     ],
-    "review_count": 49,
-    "avg_rating": 2.33,
-    "avg_sentiment": 0.098,
+    "review_count": 50,
+    "avg_rating": 4.66,
+    "avg_sentiment": 0.647,
     "sample_reviews": [
-      "I wanted to give zero star but I couldn't very very bad experience if you don't have money for the premium then just don't download it consistently asking for premium constant add and zero free features I think it will fall down because of these reasons and you can't even choose a playlist or hear again the song you previously heard",
-      "Ads on podcasts I'm already paying for as a premium customer are ridiculous. I use them to help me sleep. It is about 4 AM and I am awake for the third time tonight because of an obnoxious ad. The app also routinely crashes and needs its cache cleared to work again. This does not happen with other music streaming apps. If function and stability are important to you, Spotify is not the app you want.",
-      "premium is the way to go WW2"
+      "it was very useful for listening free music",
+      "it's very comfortable play you music any time great app 5 \u2728",
+      "Greta appp because videos and i 3vn download videos to wact h offlin4 FOR FREE"
     ]
   },
   {
     "topic_id": 2,
     "keywords": [
-      "music",
-      "listen",
-      "music music",
-      "streaming",
-      "absolutely",
-      "love"
+      "love",
+      "work",
+      "time",
+      "favorite",
+      "pretty",
+      "easy"
     ],
-    "review_count": 44,
-    "avg_rating": 4.48,
-    "avg_sentiment": 0.515,
+    "review_count": 49,
+    "avg_rating": 4.61,
+    "avg_sentiment": 0.477,
     "sample_reviews": [
-      "very nice music listening app",
-      "Awsome sound quality. The app always works and always has the right type of music I listen to. The only problem is that when you want to see what new songs the artist your following released you have to go tonthe music tab and click following it is not awsome. otherwise awsome app.",
-      "best music app even when the network is poor it still plays perfectly without skipping"
+      "it's a app that is probably my favorite tbh",
+      "it is good for me.",
+      "great app; can find almost anything on it."
     ]
   },
   {
     "topic_id": 3,
     "keywords": [
+      "spotify",
+      "music",
+      "songs",
       "love",
-      "excellent",
-      "worst",
-      "works",
-      "10",
-      "bad"
+      "love spotify",
+      "dont"
     ],
-    "review_count": 41,
-    "avg_rating": 4.41,
-    "avg_sentiment": 0.478,
+    "review_count": 47,
+    "avg_rating": 3.77,
+    "avg_sentiment": 0.384,
     "sample_reviews": [
-      "worst app too slow.",
-      "love the exploring and the algorithm just works",
-      "is the best app ever frr"
+      "Don't know what I would do without music and appreciate spotify for giving that to me",
+      "Finally moved to apple music and yt music. I hate Spotify free version as they give me a daily limit in the number of songs I can choose . I don't have the freedom to choose the songs I want to play. This is absurd and it absolutely irritated me. I finally decided to uninstall this app and moved on to apple music and yt premium.",
+      "its Spotify. WHAT DO I HAVE TO SAY, its great and it has a billion and one songs to choose from FOR YOU. I love it"
     ]
   },
   {
     "topic_id": 4,
     "keywords": [
-      "spotify",
-      "music",
-      "love spotify",
-      "love",
-      "playlists",
-      "songs"
+      "premium",
+      "free",
+      "songs",
+      "ads",
+      "subscription",
+      "listen"
     ],
-    "review_count": 37,
-    "avg_rating": 4.62,
-    "avg_sentiment": 0.65,
+    "review_count": 26,
+    "avg_rating": 2.08,
+    "avg_sentiment": 0.35,
     "sample_reviews": [
-      "today have subscribed to spotify..but the quality of music is far far below the you tube music which also i have subscribed...the variety is lacking too , they just play pop songs repetitive",
-      "Hello guys a very good morning too u all I here by introduce to Spotify App one I a million. It is my favorite music app and I love every aspect of it so guys I will love you to make this app your favorite.",
-      "nice songs all songs i want is here in spotify"
+      "I would have given 5 stars, but it needs an option to clear the play queue.",
+      "best music platform just wish removing queue the music that didn't involve premium",
+      "because in order to listen to music of our choice we have to pay imagine"
     ]
   },
   {
@@ -99,56 +99,75 @@
     "keywords": [
       "ads",
       "ad",
-      "row",
-      "played",
-      "garbage",
-      "annoying"
+      "stupid",
+      "minutes",
+      "song",
+      "especially"
     ],
-    "review_count": 21,
-    "avg_rating": 3.14,
-    "avg_sentiment": 0.055,
+    "review_count": 23,
+    "avg_rating": 2.43,
+    "avg_sentiment": -0.002,
     "sample_reviews": [
-      "ads are crazily frequent, played 1-2songs with 2-3ads, then 1-2songs and 2-3ads again. not sure why, my friend without subscription played more than 1hour to came into 1 ad only.",
-      "it's good but there's alot of ads I get you need to put ads but can you not give me the same ad 3 times in a row it's more annoying",
-      "app is good but, lot's of ads"
+      "WAYYY too many ads, I get having to have ads ofc but I've gotten around 3 minutes of just advertisements when I'm just trying to listen to music.",
+      "I hate the ads",
+      "To much ads but very good audio 4 stars"
     ]
   },
   {
     "topic_id": 6,
     "keywords": [
-      "spotify",
-      "phone",
-      "fix",
-      "ive",
-      "update",
-      "pls"
+      "playlist",
+      "song",
+      "play",
+      "songs",
+      "stop",
+      "ive"
     ],
-    "review_count": 20,
-    "avg_rating": 2.25,
-    "avg_sentiment": 0.179,
+    "review_count": 23,
+    "avg_rating": 2.04,
+    "avg_sentiment": -0.068,
     "sample_reviews": [
-      "I've been using Spotify for more than a year. app shows suggest worst songs repeated so I uninstall app.",
-      "I've had Spotify for years without too many issues but man this year has really been sucky.. Months ago it was just crashing out of nowhere and that seemed to be finally fixed but now for weeks it's been super slow loading up anything and now on top of that it's been crashing again restarting my phones screen and apps. I've done many clean reinstalls which cause it to be normal for a very short time before reverting back to how it's been acting.",
-      "worst ever update of Spotify. I select a song play, it says update to Premium and random song starts. gonna uninstall and switch to some better app."
+      "after a while I was finishing sorting my music and wanted to play my new playlists but when I clicked play it played a totally different song to the ones on the playlist and you can't make it so you can run through the playlist top to bottom and when the playlist is finished it doesn't restart it takes you to another song not in the playlist. it also tryies making me pay all the time with ads and saying I can't play my music so it's not very good unless your paying for a subscription. 2 stars.",
+      "Never had any issues, always find the songs I am looking for and even in the middle of nowhere, you can have your list downloaded in case you lose signal. Love it.",
+      "why the hell do you keep crashing GENUINE QUESTION. it randomly crashes and the song doesn't turn off I wait for like a minute for the app to settle down. It gets really slow and just stops working. the music bugs in the background. this isn't my first time going through this but it actually used to get fixed before. I've been going through this for a week now it's insufferable."
     ]
   },
   {
     "topic_id": 7,
     "keywords": [
-      "update",
-      "working",
-      "screen",
-      "ive",
-      "new update",
-      "ive cleared"
+      "premium",
+      "dont",
+      "features",
+      "premium dont",
+      "users",
+      "greedy"
     ],
-    "review_count": 18,
-    "avg_rating": 2.56,
-    "avg_sentiment": -0.147,
+    "review_count": 22,
+    "avg_rating": 3.45,
+    "avg_sentiment": 0.148,
     "sample_reviews": [
-      "it doesn't load fully sometimes but it's a very good app and I really like it",
-      "This days i always have to uninstall my app before i can reopen it, i just came to install again and i don't have this problem with any other app. This happens on the both Samsung i have",
-      "this app not opening"
+      "I love it so much because but please stop being so greedy because if we don't have any money to buy a premium then its not gonna work",
+      "Extremely greedy company that wants to drain you of all your money",
+      "it's full of premium features"
+    ]
+  },
+  {
+    "topic_id": 8,
+    "keywords": [
+      "music",
+      "music music",
+      "escuchar",
+      "like",
+      "listen",
+      "cool"
+    ],
+    "review_count": 21,
+    "avg_rating": 4.86,
+    "avg_sentiment": 0.541,
+    "sample_reviews": [
+      "I Love Music.",
+      "I can find whatever song I want to listen to no matter what genre it is, and I love it",
+      "my favorite thing is to listen to songs"
     ]
   }
 ]

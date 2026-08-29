@@ -2,151 +2,115 @@
   {
     "topic_id": 0,
     "keywords": [
-      "money",
       "phonepe",
-      "phone",
       "pay",
-      "issue",
-      "problem"
+      "phone",
+      "upi",
+      "money",
+      "phone pay"
     ],
-    "review_count": 138,
-    "avg_rating": 3.43,
-    "avg_sentiment": 0.169,
+    "review_count": 160,
+    "avg_rating": 3.39,
+    "avg_sentiment": 0.172,
     "sample_reviews": [
-      "best then paytm",
-      "Best Best Best",
-      "Easy to use. Faster transaction. Happy with this app."
-    ],
-    "label": "PhonePe Money Pay Issue",
-    "category": "complaint",
-    "root_cause": "Users are facing problems with the app.",
-    "priority": "medium",
-    "priority_reason": "Average rating is 3.43 and review count is 138.",
-    "pm_action": "Investigate and resolve the issues reported by users."
+      "phonpe app update some times lag phonepe and slow",
+      "please solve to balance chek problm",
+      "using your phonepe super"
+    ]
   },
   {
     "topic_id": 1,
     "keywords": [
+      "secure",
+      "helpful",
+      "application",
       "excellent",
-      "like",
-      "upi",
-      "update",
-      "features",
-      "useful"
+      "fantastic",
+      "easy"
     ],
-    "review_count": 66,
-    "avg_rating": 4.33,
-    "avg_sentiment": 0.396,
+    "review_count": 63,
+    "avg_rating": 4.6,
+    "avg_sentiment": 0.517,
     "sample_reviews": [
-      "It's important app",
-      "I am using this app since last month. It works nicely. So far I did not get any problem.",
-      "too good app"
-    ],
-    "label": "Excellent UPI App",
-    "category": "praise",
-    "root_cause": "It's an important app",
-    "priority": "medium",
-    "priority_reason": "Average rating is 4.33",
-    "pm_action": "Monitor for any issues"
+      "good use this app",
+      "super app best app",
+      "this is very nice app for transion"
+    ]
   },
   {
     "topic_id": 2,
     "keywords": [
-      "service",
-      "working",
+      "work",
       "excellent",
-      "excellent service",
+      "amazing",
       "super",
-      "thank"
+      "awesome",
+      "im"
     ],
-    "review_count": 54,
-    "avg_rating": 4.78,
-    "avg_sentiment": 0.444,
+    "review_count": 32,
+    "avg_rating": 4.75,
+    "avg_sentiment": 0.484,
     "sample_reviews": [
-      "really good.....",
-      "good day sarvis",
-      "good and smooth"
-    ],
-    "label": "Excellent Service",
-    "category": "praise",
-    "root_cause": "Users are satisfied with the service",
-    "priority": "medium",
-    "priority_reason": "Average rating is above 2.5 and review count is below 30",
-    "pm_action": "Monitor and maintain the current service level"
+      "excellent work",
+      "helf any time",
+      "it's of absolutely good"
+    ]
   },
   {
     "topic_id": 3,
     "keywords": [
-      "easy",
-      "useful",
-      "useful easy",
-      "simple",
-      "friendly",
-      "come"
+      "service",
+      "customer",
+      "support",
+      "care",
+      "services",
+      "excellent"
     ],
-    "review_count": 36,
-    "avg_rating": 4.86,
-    "avg_sentiment": 0.469,
+    "review_count": 24,
+    "avg_rating": 4.12,
+    "avg_sentiment": 0.394,
     "sample_reviews": [
-      "it's good very simple",
-      "this useful to us",
-      "very useful"
-    ],
-    "label": "PhonePe User Experience",
-    "category": "praise",
-    "root_cause": "Easy and simple to use",
-    "priority": "medium",
-    "priority_reason": "Average rating is 4.86 and review count is 36",
-    "pm_action": "Investigate and improve user interface"
+      "excellent service",
+      "good service",
+      "excellent and fast service"
+    ]
   },
   {
     "topic_id": 4,
     "keywords": [
-      "loan",
-      "phone",
-      "hi",
-      "pe",
-      "phonepe",
-      "phone pe"
+      "easy",
+      "fast",
+      "convenient",
+      "secure",
+      "100",
+      "reliable"
     ],
-    "review_count": 28,
-    "avg_rating": 3.29,
-    "avg_sentiment": -0.073,
+    "review_count": 23,
+    "avg_rating": 4.96,
+    "avg_sentiment": 0.412,
     "sample_reviews": [
-      "\u092a\u0947\u092e\u0947\u0902\u091f \u0905\u091f\u0915 \u091c\u093e\u0924\u093e \u0939\u0948",
-      "sad moh maya hai",
-      "upi pin problem hora hai"
-    ],
-    "label": "PhonePe Payment Issue",
-    "category": "complaint",
-    "root_cause": "Payment gets stuck",
-    "priority": "high",
-    "priority_reason": "Low rating and multiple complaints",
-    "pm_action": "Investigate and resolve UPI pin problem"
+      "fast and secure.",
+      "Easy and fast to operate .",
+      "easy and simple"
+    ]
   },
   {
     "topic_id": 5,
     "keywords": [
       "experience",
+      "better",
+      "experience better",
       "bad experience",
-      "bad",
-      "got",
-      "overall",
-      "amazing"
+      "yes",
+      "bad"
     ],
-    "review_count": 19,
-    "avg_rating": 4.32,
-    "avg_sentiment": 0.394,
+    "review_count": 23,
+    "avg_rating": 4.83,
+    "avg_sentiment": 0.497,
     "sample_reviews": [
-      "good experience",
-      "good experience...",
-      "good experience"
-    ],
-    "label": "Bad Experience on Phonepe",
-    "category": "complaint",
-    "root_cause": "Users got a bad experience on Phonepe.",
-    "priority": "medium",
-    "priority_reason": "Average rating is 4.32/5 and review count is 19.",
-    "pm_action": "Investigate and resolve the issue to improve user experience."
+      "Good experience",
+      "Excellent working and performances always for A better experience",
+      "better experience"
+    ]
   }
 ]

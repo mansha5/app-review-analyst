@@ -6,47 +6,54 @@
       "credit",
       "card",
       "payment",
-      "credit card",
-      "rewards"
+      "customer",
+      "credit card"
     ],
-    "review_count": 322,
-    "avg_rating": 2.16,
-    "avg_sentiment": 0.074,
+    "review_count": 285,
+    "avg_rating": 1.75,
+    "avg_sentiment": -0.008,
     "sample_reviews": [
-      "it's difficult to use",
-      "No cash back ,,, I have been using this from many years to pay all my credit card bills but now a days not getting any cash back,, definitely we should switch to other app I guess",
-      "very help full"
-    ],
-    "label": "Credit Card Payment App",
-    "category": "complaint",
-    "root_cause": "Difficult to use and no cash back rewards",
-    "priority": "high",
-    "priority_reason": "Low rating and many reviews",
-    "pm_action": "Improve user interface and add cash back rewards"
+      "fraud app charged unnecessary charges",
+      "\u2b50 Very disappointing experience with CRED\u2019s referral program. I completed the referral requirements, but the promised reward was not credited. Customer support was also unable to provide a clear solution. If you offer referral rewards, you should honor them. Extremely frustrating experience. Definitely not recommended.",
+      "CRED has completely lost the customer-friendly features that made it great. The app used to offer real cashback and excellent rewards for paying bills on time. Now, it just gives you \"CRED Coins\" which are completely useless and have zero real-world value. Instead of a rewarding experience, the app is now heavily cluttered with aggressive ads pushing loans, rent payments, and credit lines"
+    ]
   },
   {
     "topic_id": 1,
     "keywords": [
+      "useful",
+      "excellent",
+      "ui",
+      "service",
+      "experience",
+      "download"
+    ],
+    "review_count": 49,
+    "avg_rating": 4.2,
+    "avg_sentiment": 0.437,
+    "sample_reviews": [
+      "Very Useful",
+      "good experience",
+      "nice app all in one"
+    ]
+  },
+  {
+    "topic_id": 2,
+    "keywords": [
       "fake",
-      "hi",
-      "cred",
       "flipkart",
-      "payment",
-      "help"
+      "account",
+      "bad",
+      "refund",
+      "payment"
     ],
     "review_count": 21,
-    "avg_rating": 2.24,
-    "avg_sentiment": 0.121,
+    "avg_rating": 2.33,
+    "avg_sentiment": 0.065,
     "sample_reviews": [
-      "Faltu App Hai Maine flipkart se shopping ka payment Is app se Kiya tha , Flipkart ka Refund Amount mere Primary Account Me Nahi Gaya Balki Jo Allready in active Account hai Usme Bheja Hai Cred app Ki Team Ne , FAKE APP FAKE APP FAKE APP FAKE APP FAKE APP FAKE APP FAKE APP FAKE APP FAKE APP FAKE APP FAKE APP FAKE APP very Bad service fake app fake app fake app fake app please Do Not Used This app 10 August se Inka team Kaam kar raha hai Mera Payment Refund ke liye abhi tak nahi huwa .",
-      "sabne to tujhe 1 star review diye hain dalle fir tere pas 4.8 ki rating kaise aa gayi. ruk Teri video banata hu",
-      "adi adchanila kamala yet"
-    ],
-    "label": "Fake payment refund issue",
-    "category": "complaint",
-    "root_cause": "Payment refund not processed",
-    "priority": "high",
-    "priority_reason": "Rating is 2.24 and review count is 21",
-    "pm_action": "Investigate and resolve refund issue within 24 hours"
+      "Awesome usefull But only for rich people matlab branded costly branded purchase krne wale logo ke liye he h..... her chiz costly... regular kam wali chiz nhe ati es per...",
+      "aaj mere se extra 2Rs. charge postpaid sim ka bill bharne ka iya h kyu kisliye",
+      "ekdum ka bekar app hai, mera credit sahi hone ke baad bhi login nahi ho pa Raha hai. aur waitlisted dikha raha hai"
+    ]
   }
 ]
