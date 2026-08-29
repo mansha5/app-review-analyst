@@ -356,7 +356,7 @@ with tab1:
     col1, col2 = st.columns([2, 1])
 
     with col1:
-        st.subheader("Rating Trend by Week")
+        st.subheader("Rating Trend by Day")
         df_reviews = load_reviews(selected_app)
         daily     = build_daily_trend(df_reviews)
 

@@ -36,7 +36,7 @@ def build_app_analytics(app_name):
         cat = t.get("category", "other")
         category_counts[cat] = category_counts.get(cat, 0) + t.get("review_count", 0)
 
-        if t.get("priority") == "high" and "label" in t:
+        if t.get("priority") in ["high", "medium"] and "label" in t:
             high_priority.append({
                 "label":        t["label"],
                 "category":     cat,
