@@ -2,172 +2,39 @@
   {
     "topic_id": 0,
     "keywords": [
-      "food",
-      "delivery",
-      "order",
-      "worst",
       "time",
-      "delivery partner"
+      "service",
+      "care",
+      "quality",
+      "product",
+      "guys"
     ],
-    "review_count": 126,
-    "avg_rating": 1.94,
-    "avg_sentiment": -0.222,
+    "review_count": 443,
+    "avg_rating": 2.05,
+    "avg_sentiment": -0.161,
     "sample_reviews": [
-      "I placed the order by mistake, and the money has already been deducted. I tried to cancel the order within just one minute, but I was told it couldn't be done because the food was already \"ready.\" How can food be ready in just one minute? Now they are saying there will be no refund. Anyone can make a mistake, and I simply don't need the food anymore. Is this how you run a business\u2014by cheating people? I admit I made a mistake. But if your app offers absolutely no way to rectify even a single err",
-      "Very Poor Service Provided...... Too much irresponsible Behavior....... Purely negligence from their part...... So I lost trust and uninstalled the app",
-      "This app is designed by whizkids who do not want criticism of any kind, constructive or otherwise. There is no provision in the app for bringing any issue to notice. My instamart store is shown as closed for past 3 months. There is no way I can ask these whizkids when it will open. For help, you get FAQs. Their vegetables are underweight,they play around with the Weights and Measures Act. A business of delivering goods cheaper than cost ???"
+      "amazinggg offers and deals",
+      "I hate the 100\u2105 cancellation fees policy",
+      "very bad service they are not giving resolution when food is bad not able to eat smelling very bad"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "swiggy",
-      "order",
-      "customer",
-      "food",
-      "support",
-      "experience"
-    ],
-    "review_count": 68,
-    "avg_rating": 1.78,
-    "avg_sentiment": -0.163,
-    "sample_reviews": [
-      "I gave Swiggy 1 star rating for their service because they changed the terms and conditions of the 'Buzz' offer.",
-      "Swiggy prices needs to come down as it's listed prices are more than the double of the restaurant prices for some.",
-      "Zero Support in a Crisis customer support is completely useless when safety is actually on the line. I had an appalling experience with an abusive delivery partner who was aggressive and out of line. When I tried reporting this, Swiggy's AI chatbot trapped me in a endless automated loop and refused to transfer me to a human agent. Out of options, I tried calling their emergency safety helpline, but the call wouldn't even go through. Swiggy clearly does not care about customer safety"
-    ]
-  },
-  {
-    "topic_id": 2,
-    "keywords": [
       "service",
-      "offers",
-      "experience",
-      "expensive",
-      "time",
-      "price"
+      "awesome",
+      "job",
+      "amazing",
+      "10",
+      "loving"
     ],
-    "review_count": 61,
-    "avg_rating": 4.16,
-    "avg_sentiment": 0.413,
+    "review_count": 50,
+    "avg_rating": 4.74,
+    "avg_sentiment": 0.475,
     "sample_reviews": [
-      "Everything is well and good.",
-      "Good Experience and Offers",
-      "very reasonable price comparitively"
-    ]
-  },
-  {
-    "topic_id": 3,
-    "keywords": [
-      "order",
-      "hi",
-      "service",
-      "12",
-      "chahie",
-      "time"
-    ],
-    "review_count": 37,
-    "avg_rating": 3.0,
-    "avg_sentiment": -0.066,
-    "sample_reviews": [
-      "bahut hi kharab h swiggy",
-      "Mazza aa rha he. Mera juice kha he",
-      "ek dam bekar app hai"
-    ]
-  },
-  {
-    "topic_id": 4,
-    "keywords": [
-      "service",
-      "service service",
-      "service worst",
-      "customer",
-      "customer care",
-      "care"
-    ],
-    "review_count": 36,
-    "avg_rating": 3.25,
-    "avg_sentiment": 0.101,
-    "sample_reviews": [
-      "good service",
-      "good service",
+      "best service",
+      "good sarcvice",
       "good service"
-    ]
-  },
-  {
-    "topic_id": 5,
-    "keywords": [
-      "charges",
-      "platform",
-      "extra",
-      "high",
-      "charge",
-      "delivery"
-    ],
-    "review_count": 22,
-    "avg_rating": 2.09,
-    "avg_sentiment": -0.179,
-    "sample_reviews": [
-      "platform charge is to much",
-      "dilivery charge is over",
-      "all good but delivery charge is not good"
-    ]
-  },
-  {
-    "topic_id": 6,
-    "keywords": [
-      "zomato",
-      "better",
-      "worst",
-      "customer",
-      "refund",
-      "worst customer"
-    ],
-    "review_count": 21,
-    "avg_rating": 1.9,
-    "avg_sentiment": 0.109,
-    "sample_reviews": [
-      "Better than Zomato prices",
-      "zomato much better",
-      "better than zomato and blinkit"
-    ]
-  },
-  {
-    "topic_id": 7,
-    "keywords": [
-      "fake",
-      "fraud",
-      "card",
-      "delivery time",
-      "totally",
-      "time"
-    ],
-    "review_count": 12,
-    "avg_rating": 1.17,
-    "avg_sentiment": -0.58,
-    "sample_reviews": [
-      "Total fraud of an app. They are actively cheating customers with hidden fees and fabricated charges. Coupon codes are a total lie because the checkout system subtly inflates the price anyway. This platform is completely untrustworthy and unreliable. Avoid this nightmare and just walk to the restaurant yourself.",
-      "this is fraud",
-      "fake offers"
-    ]
-  },
-  {
-    "topic_id": 8,
-    "keywords": [
-      "fast",
-      "fast delivery",
-      "delivery",
-      "super",
-      "super delivery",
-      "earlier"
-    ],
-    "review_count": 12,
-    "avg_rating": 4.83,
-    "avg_sentiment": 0.128,
-    "sample_reviews": [
-      "working time so late ",
-      "super app very fast delivery",
-      "fast 1 time order brother"
     ]
   }
 ]

@@ -2,77 +2,153 @@
   {
     "topic_id": 0,
     "keywords": [
-      "paytm",
-      "payment",
+      "easy",
+      "user",
+      "fast",
       "upi",
-      "cashback",
-      "device",
-      "payments"
+      "excellent",
+      "friendly"
     ],
-    "review_count": 164,
-    "avg_rating": 3.41,
-    "avg_sentiment": 0.202,
+    "review_count": 122,
+    "avg_rating": 4.7,
+    "avg_sentiment": 0.467,
     "sample_reviews": [
-      "thanks for money transfer",
-      "nice app for UPI",
-      "best app ever for doing online payment"
+      "very good and they very reliable towards customers.",
+      "fast & accurate",
+      "good and great"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "service",
-      "experience",
-      "excellent",
-      "user",
-      "easy",
-      "super"
+      "payment",
+      "paytm",
+      "payments",
+      "transaction",
+      "fast",
+      "fast payment"
     ],
-    "review_count": 141,
-    "avg_rating": 4.85,
-    "avg_sentiment": 0.508,
+    "review_count": 71,
+    "avg_rating": 4.51,
+    "avg_sentiment": 0.419,
     "sample_reviews": [
-      "good and fast",
-      "it's awesome",
-      "Great... Great"
+      "super and simple payments",
+      "good payment app",
+      "super, but solve issues with govt regulations"
     ]
   },
   {
     "topic_id": 2,
     "keywords": [
-      "coins",
-      "paytm",
-      "cashback",
-      "problem",
-      "limit",
-      "login"
+      "nahi",
+      "bhi",
+      "sir",
+      "customer care",
+      "care",
+      "diya"
     ],
-    "review_count": 38,
-    "avg_rating": 3.47,
-    "avg_sentiment": 0.043,
+    "review_count": 36,
+    "avg_rating": 3.61,
+    "avg_sentiment": 0.108,
     "sample_reviews": [
-      "bo vadiy a ap",
-      "open nahi ho rha hai my device me",
-      "bahut acha hai"
+      "bahut hi achha hai",
+      "mne apollo pharmacy ka voucher liya par voucher code to de diya lekin pin nahi diya or customer care bhi kuch nahi kar Rahi wrost app and customer care aapne jo link Diya usse bhi kuch nahi ho raha",
+      "cashback 50\u20b9 bol k kuch bhi voucher pakda dete hai upto 50\u20b9 bhi n bolte"
     ]
   },
   {
     "topic_id": 3,
     "keywords": [
-      "stop",
-      "faster",
-      "seconds",
-      "download",
-      "responding",
-      "edit"
+      "paytm",
+      "login",
+      "working",
+      "customer",
+      "insurance",
+      "link"
     ],
-    "review_count": 14,
-    "avg_rating": 4.71,
-    "avg_sentiment": -0.049,
+    "review_count": 22,
+    "avg_rating": 1.86,
+    "avg_sentiment": 0.029,
     "sample_reviews": [
-      "I love the app! The app is soo much faster download. But now download faster and more stable. Thank you so much to everyone algorithms. You'd stop an entry and it'd be several seconds before it'd actually stop and those extra seconds are added too the entry? This is syncing happens pretty much every time you open the app, start, stop, or edit an entry, so it was a real pain. Not to mention being unable to use the app when it's syncing because it literally stops responding until it's done.!",
-      "I love the app! The app is soo much faster download. Thank you so much to everyone algorithms. Not to mention being unable to use the app when it's syncing because it literally stops responding until it's done. This is syncing happens pretty much every time you open the app, start, stop, or edit an entry, so it was a real pain. But now download faster and more stable. You'd stop an entry and it'd be several seconds before it'd actually stop and those extra seconds are added too the entry.",
-      "I love the app! The app is soo much faster download. This is syncing happens pretty much every time you open the app, start, stop, or edit an entry, so it was a real pain. Not to mention \u23f0being unable to use the app when it's syncing because it literally stops responding until it's done. But now download faster and more stable. You'd stop an entry and it'd be several seconds before it'd actually stop and those extra seconds are added too the entry. Thank you so much to everyone algorithms."
+      "please sir paytm login attempt problem solve me",
+      "not work in low network",
+      "customer care call service not available for any query or discussion not available any person"
+    ]
+  },
+  {
+    "topic_id": 4,
+    "keywords": [
+      "service",
+      "excellent service",
+      "excellent",
+      "bad",
+      "morning",
+      "service super"
+    ],
+    "review_count": 19,
+    "avg_rating": 4.63,
+    "avg_sentiment": 0.441,
+    "sample_reviews": [
+      "good service",
+      "Good work Best sarvish",
+      "good service"
+    ]
+  },
+  {
+    "topic_id": 5,
+    "keywords": [
+      "device",
+      "correct",
+      "environment correct",
+      "device environment",
+      "environment",
+      "issue"
+    ],
+    "review_count": 17,
+    "avg_rating": 1.76,
+    "avg_sentiment": -0.077,
+    "sample_reviews": [
+      "plz help not open",
+      "I'm facing an issue opening the app. and it's been happening for a few months.",
+      "unable to use the app from past 3 months always showing device environment not correct 0000 tried all the ways and fixed but still not working"
+    ]
+  },
+  {
+    "topic_id": 6,
+    "keywords": [
+      "experience",
+      "super",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "review_count": 12,
+    "avg_rating": 5.0,
+    "avg_sentiment": 0.487,
+    "sample_reviews": [
+      "great experience",
+      "good experience",
+      "Good experience"
+    ]
+  },
+  {
+    "topic_id": 7,
+    "keywords": [
+      "cashback",
+      "100",
+      "reward",
+      "cash",
+      "dete",
+      "offers"
+    ],
+    "review_count": 12,
+    "avg_rating": 3.83,
+    "avg_sentiment": 0.162,
+    "sample_reviews": [
+      "cashback nhi dete",
+      "didn't receive reference reward",
+      "amazing work but discount is not good"
     ]
   }
 ]

@@ -2,201 +2,151 @@
   {
     "topic_id": 0,
     "keywords": [
-      "phone",
+      "money",
       "phonepe",
-      "phone pay",
-      "ke",
+      "phone",
       "pay",
-      "phonepay"
+      "issue",
+      "problem"
     ],
-    "review_count": 107,
-    "avg_rating": 4.01,
-    "avg_sentiment": 0.309,
+    "review_count": 138,
+    "avg_rating": 3.43,
+    "avg_sentiment": 0.169,
     "sample_reviews": [
-      "very nice app",
-      "very good app",
-      "I am Kausar Alam,Pupil teacher.it apps our life is very important any time"
+      "best then paytm",
+      "Best Best Best",
+      "Easy to use. Faster transaction. Happy with this app."
     ],
-    "label": "very nice app",
-    "category": "praise",
-    "root_cause": "user likes the app",
+    "label": "PhonePe Money Pay Issue",
+    "category": "complaint",
+    "root_cause": "Users are facing problems with the app.",
     "priority": "medium",
-    "priority_reason": "average rating and moderate review count",
-    "pm_action": "no action required"
+    "priority_reason": "Average rating is 3.43 and review count is 138.",
+    "pm_action": "Investigate and resolve the issues reported by users."
   },
   {
     "topic_id": 1,
     "keywords": [
-      "payment",
-      "payments",
-      "money",
-      "pay",
-      "fast",
-      "phone"
+      "excellent",
+      "like",
+      "upi",
+      "update",
+      "features",
+      "useful"
     ],
-    "review_count": 58,
-    "avg_rating": 4.5,
-    "avg_sentiment": 0.462,
+    "review_count": 66,
+    "avg_rating": 4.33,
+    "avg_sentiment": 0.396,
     "sample_reviews": [
-      "this helpfull for payments",
-      "I used my fast payment application is Phonepe UPI Payment is very useful application so you try it ",
-      "Best UPI Payments App"
+      "It's important app",
+      "I am using this app since last month. It works nicely. So far I did not get any problem.",
+      "too good app"
     ],
-    "label": "Phonepe Payment App",
+    "label": "Excellent UPI App",
     "category": "praise",
-    "root_cause": "User found Phonepe useful for payments",
+    "root_cause": "It's an important app",
     "priority": "medium",
-    "priority_reason": "Average rating is 4.5 and review count is 58",
-    "pm_action": "Monitor user feedback for potential issues"
+    "priority_reason": "Average rating is 4.33",
+    "pm_action": "Monitor for any issues"
   },
   {
     "topic_id": 2,
     "keywords": [
-      "easy",
-      "simple",
-      "overall",
-      "user",
-      "convenient",
-      "fast"
+      "service",
+      "working",
+      "excellent",
+      "excellent service",
+      "super",
+      "thank"
     ],
     "review_count": 54,
-    "avg_rating": 4.74,
-    "avg_sentiment": 0.423,
+    "avg_rating": 4.78,
+    "avg_sentiment": 0.444,
     "sample_reviews": [
-      "Happy Nice year ",
-      "very good n fast",
-      "not difficult not easier"
+      "really good.....",
+      "good day sarvis",
+      "good and smooth"
     ],
-    "label": "Overall User Experience",
+    "label": "Excellent Service",
     "category": "praise",
-    "root_cause": "Easy and simple to use",
+    "root_cause": "Users are satisfied with the service",
     "priority": "medium",
-    "priority_reason": "Average rating is 4.74 out of 5",
-    "pm_action": "Investigate and improve loading speed"
+    "priority_reason": "Average rating is above 2.5 and review count is below 30",
+    "pm_action": "Monitor and maintain the current service level"
   },
   {
     "topic_id": 3,
     "keywords": [
-      "worst",
-      "issue",
-      "support",
-      "phonepe",
-      "balance",
-      "bad"
+      "easy",
+      "useful",
+      "useful easy",
+      "simple",
+      "friendly",
+      "come"
     ],
-    "review_count": 26,
-    "avg_rating": 1.73,
-    "avg_sentiment": -0.293,
+    "review_count": 36,
+    "avg_rating": 4.86,
+    "avg_sentiment": 0.469,
     "sample_reviews": [
-      "very very bad experience. my question is if the receiver's bank experiencing downtime, why phonepe is not crediting the amount back. I have been following up this every hour on phonepe app. the reply is same.this is fraud. a complaint with RBI against phonepe is registered. for small amount of Rs.2000 RBI will order compensation of Rs 25000 for mental agony and business loss. phonepe should investigate the pending payments on priority basis. During the last three years I have lost Rs. 2lakhs",
-      "Why is the app startup time suddenly long now? it was working fine then suddenly the white phone pe screen on startup stays for 5 seconds and the app is slow and laggy. What's wrong with this dev team, every few updates they mess up.",
-      "Good but there is one glitch my friend is sharing screenshot msg bt its not downloading please resolve"
+      "it's good very simple",
+      "this useful to us",
+      "very useful"
     ],
-    "label": "PhonePe Balance Issue",
-    "category": "complaint",
-    "root_cause": "Poor customer support and delayed refunds",
-    "priority": "high",
-    "priority_reason": "Low rating and multiple complaints",
-    "pm_action": "Investigate and resolve pending payments within 24 hours"
+    "label": "PhonePe User Experience",
+    "category": "praise",
+    "root_cause": "Easy and simple to use",
+    "priority": "medium",
+    "priority_reason": "Average rating is 4.86 and review count is 36",
+    "pm_action": "Investigate and improve user interface"
   },
   {
     "topic_id": 4,
     "keywords": [
-      "kumar",
-      "kam",
+      "loan",
+      "phone",
       "hi",
-      "tha",
-      "hello",
-      "jata"
+      "pe",
+      "phonepe",
+      "phone pe"
     ],
-    "review_count": 20,
-    "avg_rating": 4.3,
-    "avg_sentiment": 0.061,
+    "review_count": 28,
+    "avg_rating": 3.29,
+    "avg_sentiment": -0.073,
     "sample_reviews": [
-      "bhut badiya",
-      "hello sir \u092e\u0947\u0930\u0947 \u0905\u0915\u093e\u0909\u0902\u091f\u0938\u0947 \u090f\u0915 \u091f\u094d\u0930\u093e\u0902\u0938\u092a\u094b\u0930\u094d\u091f \u0928\u0939\u0940\u0902 \u0939\u094b \u0930\u0939\u093e \u0939\u0948 20000 \u0938\u0947 \u091c\u094d\u092f\u093e\u0926\u093e \u0928\u0939\u0940\u0902 \u0939\u094b\u0924\u093e\u0939\u0948 \u092e\u093f\u0936\u093e \u0938\u0930\u094d\u0935\u0947 \u0921\u093e\u0909\u0928 \u092c\u0924\u093e\u0924\u093e \u0939\u0948 \u092e\u0947\u0930\u0947 \u0905\u0915\u093e\u0909\u0902\u091f \u0915\u093e \u0938\u0930\u094d\u0935\u0947 \u0938\u0939\u0940\u0915\u0940\u091c\u093f\u090f \u092e\u0947\u0930\u093e \u092c\u0921\u093c\u093e \u0916\u093e\u0924\u093e \u0939\u0948 \u0907\u0938 \u092c\u093e\u0924 \u092a\u0930 \u0915\u0941\u091b please help me ",
-      "bahut badiya hai"
+      "\u092a\u0947\u092e\u0947\u0902\u091f \u0905\u091f\u0915 \u091c\u093e\u0924\u093e \u0939\u0948",
+      "sad moh maya hai",
+      "upi pin problem hora hai"
     ],
-    "label": "Account Transport Issue",
+    "label": "PhonePe Payment Issue",
     "category": "complaint",
-    "root_cause": "Transport not happening from account",
+    "root_cause": "Payment gets stuck",
     "priority": "high",
-    "priority_reason": "Rating is 4.3 and review count is 20",
-    "pm_action": "Investigate and resolve transport issue"
+    "priority_reason": "Low rating and multiple complaints",
+    "pm_action": "Investigate and resolve UPI pin problem"
   },
   {
     "topic_id": 5,
     "keywords": [
-      "service",
-      "services",
-      "service bad",
-      "excellent service",
-      "option",
-      "excellent"
-    ],
-    "review_count": 16,
-    "avg_rating": 4.56,
-    "avg_sentiment": 0.405,
-    "sample_reviews": [
-      "exlent service",
-      "good service",
-      "good service"
-    ],
-    "label": "Phonepe Service Review",
-    "category": "praise",
-    "root_cause": "Users experienced excellent service",
-    "priority": "medium",
-    "priority_reason": "Average rating is 4.56 and review count is 16",
-    "pm_action": "Investigate and improve service quality"
-  },
-  {
-    "topic_id": 6,
-    "keywords": [
-      "upi",
-      "useful",
-      "india",
-      "secure",
-      "people",
-      "ke"
-    ],
-    "review_count": 13,
-    "avg_rating": 3.85,
-    "avg_sentiment": 0.425,
-    "sample_reviews": [
-      "not support this aap",
-      "This aap is very useful and very good app",
-      "best appointment upi"
-    ],
-    "label": "PhonePe UPI App Review",
-    "category": "praise",
-    "root_cause": "Users find the app useful and good.",
-    "priority": "medium",
-    "priority_reason": "Average rating is 3.85 and review count is 13.",
-    "pm_action": "Investigate and address the negative review."
-  },
-  {
-    "topic_id": 7,
-    "keywords": [
       "experience",
       "bad experience",
       "bad",
-      "",
-      "",
-      ""
+      "got",
+      "overall",
+      "amazing"
     ],
-    "review_count": 13,
-    "avg_rating": 4.69,
-    "avg_sentiment": 0.408,
+    "review_count": 19,
+    "avg_rating": 4.32,
+    "avg_sentiment": 0.394,
     "sample_reviews": [
-      " satisfying",
-      "Nice experience",
-      "experience is genuinely really good "
+      "good experience",
+      "good experience...",
+      "good experience"
     ],
-    "label": "Good experience",
-    "category": "praise",
-    "root_cause": "Satisfying and genuinely good experience",
+    "label": "Bad Experience on Phonepe",
+    "category": "complaint",
+    "root_cause": "Users got a bad experience on Phonepe.",
     "priority": "medium",
-    "priority_reason": "Average rating is 4.69 and review count is 13",
-    "pm_action": "Investigate and improve customer experience"
+    "priority_reason": "Average rating is 4.32/5 and review count is 19.",
+    "pm_action": "Investigate and resolve the issue to improve user experience."
   }
 ]

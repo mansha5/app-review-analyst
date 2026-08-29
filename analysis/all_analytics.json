@@ -1,758 +1,675 @@
 {
   "airbnb": {
     "app_name": "airbnb",
-    "total_reviews": 417,
-    "avg_rating": 3.67,
-    "avg_sentiment": 0.278,
-    "pct_positive": 66.2,
-    "pct_negative": 31.2,
-    "pct_neutral": 2.6,
+    "total_reviews": 414,
+    "avg_rating": 3.64,
+    "avg_sentiment": 0.274,
+    "pct_positive": 64.7,
+    "pct_negative": 31.6,
+    "pct_neutral": 3.6,
     "category_breakdown": {
-      "praise": 238,
-      "other": 146,
-      "complaint": 38
+      "praise": 214,
+      "other": 58,
+      "bug": 28,
+      "complaint": 63
     },
     "high_priority_issues": [
       {
-        "label": "Payment issues and poor service",
-        "category": "complaint",
-        "review_count": 20,
-        "avg_rating": 1.45,
-        "root_cause": "Poor communication and unclear policies",
-        "pm_action": "Review and improve payment and customer service processes"
+        "label": "Inaccurate total upon reservation",
+        "category": "bug",
+        "review_count": 28,
+        "avg_rating": 3.93,
+        "root_cause": "App displays incorrect total before reservation",
+        "pm_action": "Update app to display correct total before reservation"
       },
       {
-        "label": "Poor customer service",
+        "label": "Verification Issues",
         "category": "complaint",
         "review_count": 18,
-        "avg_rating": 3.39,
-        "root_cause": "Lack of compensation for cancelled booking",
-        "pm_action": "Offer refund or compensation for cancelled booking"
+        "avg_rating": 1.39,
+        "root_cause": "Inadequate verification process causes frustration",
+        "pm_action": "Simplify verification process and reduce data collection"
+      },
+      {
+        "label": "Poor customer care",
+        "category": "complaint",
+        "review_count": 16,
+        "avg_rating": 3.25,
+        "root_cause": "Poor communication and lack of compensation",
+        "pm_action": "Improve customer care and compensation policies"
+      },
+      {
+        "label": "Reservation issues with hosts",
+        "category": "complaint",
+        "review_count": 12,
+        "avg_rating": 1.83,
+        "root_cause": "Hosts not updating availability on website",
+        "pm_action": "Review and update host availability policy"
       }
     ],
     "monthly_trend": [
       {
-        "year_month": "2026-07",
-        "review_count": 54,
-        "avg_rating": 3.796,
-        "avg_sentiment": 0.288
-      },
-      {
         "year_month": "2026-08",
-        "review_count": 363,
-        "avg_rating": 3.647,
-        "avg_sentiment": 0.276
+        "review_count": 414,
+        "avg_rating": 3.635,
+        "avg_sentiment": 0.274
       }
     ],
     "rating_distribution": {
-      "1": 115,
-      "2": 15,
-      "3": 11,
-      "4": 29,
-      "5": 247
+      "1": 119,
+      "2": 12,
+      "3": 15,
+      "4": 23,
+      "5": 245
     }
   },
   "cred": {
     "app_name": "cred",
-    "total_reviews": 342,
-    "avg_rating": 2.22,
-    "avg_sentiment": 0.092,
-    "pct_positive": 26.6,
-    "pct_negative": 65.2,
+    "total_reviews": 343,
+    "avg_rating": 2.17,
+    "avg_sentiment": 0.077,
+    "pct_positive": 25.1,
+    "pct_negative": 66.8,
     "pct_neutral": 8.2,
     "category_breakdown": {
-      "complaint": 223,
-      "praise": 62
+      "complaint": 343
     },
     "high_priority_issues": [
       {
-        "label": "Cred loan fraud calls",
+        "label": "Credit Card Payment App",
         "category": "complaint",
-        "review_count": 66,
-        "avg_rating": 1.64,
-        "root_cause": "Poonawala FinCorp insurance policy issue",
-        "pm_action": "Investigate Poonawala FinCorp partnership and implement fraud prevention measures"
+        "review_count": 322,
+        "avg_rating": 2.16,
+        "root_cause": "Difficult to use and no cash back rewards",
+        "pm_action": "Improve user interface and add cash back rewards"
       },
       {
-        "label": "Rewards and cashback issues",
+        "label": "Fake payment refund issue",
         "category": "complaint",
-        "review_count": 54,
-        "avg_rating": 1.72,
-        "root_cause": "Rewards system is not rewarding",
-        "pm_action": "Improve rewards and cashback system"
-      },
-      {
-        "label": "UPI stuck in processing",
-        "category": "complaint",
-        "review_count": 44,
-        "avg_rating": 2.89,
-        "root_cause": "Money stuck in processing due to incorrect UPI implementation",
-        "pm_action": "Investigate and fix UPI processing issue"
-      },
-      {
-        "label": "Cred App Issues",
-        "category": "complaint",
-        "review_count": 23,
-        "avg_rating": 1.57,
-        "root_cause": "Technical errors and lagging issues",
-        "pm_action": "Investigate and fix technical errors"
-      },
-      {
-        "label": "Credit Card Payment Issues",
-        "category": "complaint",
-        "review_count": 22,
-        "avg_rating": 1.0,
-        "root_cause": "Payment processing errors and delayed refunds",
-        "pm_action": "Investigate payment processing system and improve refund timelines"
-      },
-      {
-        "label": "Cred voucher issues",
-        "category": "complaint",
-        "review_count": 14,
-        "avg_rating": 2.07,
-        "root_cause": "Lack of cashback and offers",
-        "pm_action": "Review and improve voucher redemption process"
+        "review_count": 21,
+        "avg_rating": 2.24,
+        "root_cause": "Payment refund not processed",
+        "pm_action": "Investigate and resolve refund issue within 24 hours"
       }
     ],
     "monthly_trend": [
       {
         "year_month": "2026-07",
-        "review_count": 82,
-        "avg_rating": 2.402,
-        "avg_sentiment": 0.113
+        "review_count": 27,
+        "avg_rating": 2.222,
+        "avg_sentiment": 0.073
       },
       {
         "year_month": "2026-08",
-        "review_count": 260,
-        "avg_rating": 2.165,
-        "avg_sentiment": 0.086
+        "review_count": 316,
+        "avg_rating": 2.161,
+        "avg_sentiment": 0.077
       }
     ],
     "rating_distribution": {
-      "1": 200,
+      "1": 206,
       "2": 23,
       "3": 28,
-      "4": 25,
-      "5": 66
+      "4": 23,
+      "5": 63
     }
   },
   "duolingo": {
     "app_name": "duolingo",
-    "total_reviews": 370,
-    "avg_rating": 4.44,
-    "avg_sentiment": 0.474,
-    "pct_positive": 87.3,
-    "pct_negative": 9.7,
-    "pct_neutral": 3.0,
+    "total_reviews": 388,
+    "avg_rating": 4.35,
+    "avg_sentiment": 0.463,
+    "pct_positive": 83.5,
+    "pct_negative": 11.6,
+    "pct_neutral": 4.9,
     "category_breakdown": {
-      "praise": 370
+      "other": 87,
+      "feature_request": 50,
+      "praise": 185
     },
     "high_priority_issues": [],
     "monthly_trend": [
       {
         "year_month": "2026-08",
-        "review_count": 370,
-        "avg_rating": 4.441,
-        "avg_sentiment": 0.474
+        "review_count": 388,
+        "avg_rating": 4.351,
+        "avg_sentiment": 0.463
       }
     ],
     "rating_distribution": {
-      "1": 26,
-      "2": 10,
-      "3": 11,
+      "1": 28,
+      "2": 17,
+      "3": 19,
       "4": 51,
-      "5": 272
+      "5": 273
     }
   },
   "instagram": {
     "app_name": "instagram",
-    "total_reviews": 632,
-    "avg_rating": 3.35,
-    "avg_sentiment": 0.134,
-    "pct_positive": 56.5,
-    "pct_negative": 38.8,
+    "total_reviews": 655,
+    "avg_rating": 3.32,
+    "avg_sentiment": 0.163,
+    "pct_positive": 55.9,
+    "pct_negative": 39.4,
     "pct_neutral": 4.7,
     "category_breakdown": {
-      "praise": 245,
-      "complaint": 209,
-      "other": 110,
-      "feature_request": 18,
-      "bug": 11
+      "complaint": 292,
+      "praise": 230,
+      "other": 24
     },
     "high_priority_issues": [
       {
-        "label": "id suspend",
+        "label": "Account Suspended Issue",
         "category": "complaint",
-        "review_count": 85,
-        "avg_rating": 3.76,
-        "root_cause": "User's ID is suspended",
-        "pm_action": "Re-enable user's ID"
+        "review_count": 157,
+        "avg_rating": 2.59,
+        "root_cause": "Account keeps getting deactivated",
+        "pm_action": "Reinvestigate account suspension reasons"
       },
       {
-        "label": "Account Suspension Issues",
+        "label": "Instagram Download Issue",
         "category": "complaint",
-        "review_count": 60,
-        "avg_rating": 1.92,
-        "root_cause": "Users are getting their accounts suspended without clear reasons.",
-        "pm_action": "Investigate and provide clear reasons for account suspension."
+        "review_count": 103,
+        "avg_rating": 3.48,
+        "root_cause": "App not downloading on phone",
+        "pm_action": "Investigate and fix download issue"
       },
       {
-        "label": "Instagram Glitches Today",
-        "category": "complaint",
-        "review_count": 24,
-        "avg_rating": 2.38,
-        "root_cause": "Glitches are affecting user experience",
-        "pm_action": "Investigate and resolve the quick snap issue on tablets"
-      },
-      {
-        "label": "Unfollow notification feature",
-        "category": "feature_request",
-        "review_count": 18,
-        "avg_rating": 2.28,
-        "root_cause": "Users want to catch people who unfollow them",
-        "pm_action": "Implement unfollow notification feature within the next 6 weeks"
-      },
-      {
-        "label": "Suspended Account Issues",
+        "label": "Addictive app for kids",
         "category": "complaint",
         "review_count": 17,
-        "avg_rating": 1.47,
-        "root_cause": "Inconsistent and unfair account suspension policies",
-        "pm_action": "Review and revise account suspension policies to reduce false positives"
+        "avg_rating": 3.59,
+        "root_cause": "Causes distraction and is not educational",
+        "pm_action": "Implement parental controls to limit screen time"
       },
       {
-        "label": "Annoying ads on Instagram",
+        "label": "Search update issues",
         "category": "complaint",
-        "review_count": 12,
-        "avg_rating": 1.0,
-        "root_cause": "Too many ads are displayed",
-        "pm_action": "Reduce ad frequency by 50%"
-      },
-      {
-        "label": "Viral Video Views Issue",
-        "category": "complaint",
-        "review_count": 11,
-        "avg_rating": 3.91,
-        "root_cause": "Users are not getting enough views on their videos",
-        "pm_action": "Investigate and resolve the issue with view counts"
-      },
-      {
-        "label": "Login Issues Persist",
-        "category": "bug",
-        "review_count": 11,
-        "avg_rating": 1.55,
-        "root_cause": "Technical issues with account verification and password recovery.",
-        "pm_action": "Investigate and resolve account verification and password recovery bugs ASAP"
+        "review_count": 15,
+        "avg_rating": 1.4,
+        "root_cause": "Technical issues with search update",
+        "pm_action": "Investigate and fix search update bug"
       }
     ],
     "monthly_trend": [
       {
         "year_month": "2026-08",
-        "review_count": 632,
-        "avg_rating": 3.353,
-        "avg_sentiment": 0.134
+        "review_count": 655,
+        "avg_rating": 3.322,
+        "avg_sentiment": 0.163
       }
     ],
     "rating_distribution": {
-      "1": 217,
-      "2": 28,
-      "3": 30,
-      "4": 29,
+      "1": 225,
+      "2": 33,
+      "3": 31,
+      "4": 38,
       "5": 328
     }
   },
   "netflix": {
     "app_name": "netflix",
-    "total_reviews": 349,
-    "avg_rating": 3.87,
-    "avg_sentiment": 0.295,
-    "pct_positive": 71.1,
-    "pct_negative": 22.9,
-    "pct_neutral": 6.0,
+    "total_reviews": 344,
+    "avg_rating": 3.78,
+    "avg_sentiment": 0.343,
+    "pct_positive": 66.9,
+    "pct_negative": 26.7,
+    "pct_neutral": 6.4,
     "category_breakdown": {
-      "praise": 216,
-      "complaint": 44
+      "praise": 142,
+      "complaint": 115
     },
     "high_priority_issues": [
       {
-        "label": "Expensive subscription with ads",
+        "label": "New movies difficult to get",
         "category": "complaint",
-        "review_count": 31,
-        "avg_rating": 2.16,
-        "root_cause": "Unfair pricing model",
-        "pm_action": "Review pricing strategy and consider ad-free options"
+        "review_count": 45,
+        "avg_rating": 3.98,
+        "root_cause": "Difficulties in accessing new movies",
+        "pm_action": "Improve accessibility of new movies"
       },
       {
-        "label": "Account Creation Issues",
+        "label": "Streaming Platform Improvement Needed",
         "category": "complaint",
-        "review_count": 13,
-        "avg_rating": 1.62,
-        "root_cause": "Inconsistent user experience across devices",
-        "pm_action": "Investigate Samsung uninstall issue and improve login process"
+        "review_count": 29,
+        "avg_rating": 4.34,
+        "root_cause": "Need more fighting anime and classic action movies",
+        "pm_action": "Add more anime and classic action movies to the platform"
+      },
+      {
+        "label": "New Update Issues",
+        "category": "complaint",
+        "review_count": 16,
+        "avg_rating": 2.31,
+        "root_cause": "Users are unhappy with the new update.",
+        "pm_action": "Investigate and fix the issues causing user dissatisfaction."
+      },
+      {
+        "label": "No Hindi movie available",
+        "category": "complaint",
+        "review_count": 14,
+        "avg_rating": 2.5,
+        "root_cause": "No Hindi movies are available for streaming",
+        "pm_action": "Check content availability and update catalog"
+      },
+      {
+        "label": "Netflix not responding",
+        "category": "complaint",
+        "review_count": 11,
+        "avg_rating": 1.09,
+        "root_cause": "Technical issues with app functionality",
+        "pm_action": "Investigate and resolve technical issues"
       }
     ],
     "monthly_trend": [
       {
         "year_month": "2026-08",
-        "review_count": 349,
-        "avg_rating": 3.868,
-        "avg_sentiment": 0.295
+        "review_count": 344,
+        "avg_rating": 3.785,
+        "avg_sentiment": 0.343
       }
     ],
     "rating_distribution": {
-      "1": 68,
-      "2": 12,
-      "3": 21,
-      "4": 45,
+      "1": 71,
+      "2": 21,
+      "3": 22,
+      "4": 27,
       "5": 203
     }
   },
   "paytm": {
     "app_name": "paytm",
-    "total_reviews": 363,
-    "avg_rating": 4.05,
+    "total_reviews": 365,
+    "avg_rating": 4.06,
     "avg_sentiment": 0.295,
-    "pct_positive": 76.6,
-    "pct_negative": 22.6,
-    "pct_neutral": 0.8,
+    "pct_positive": 76.4,
+    "pct_negative": 21.4,
+    "pct_neutral": 2.2,
     "category_breakdown": {
-      "complaint": 164,
-      "praise": 155,
-      "bug": 38
+      "praise": 153,
+      "complaint": 158
     },
-    "high_priority_issues": [],
+    "high_priority_issues": [
+      {
+        "label": "Poor Customer Care",
+        "category": "complaint",
+        "review_count": 36,
+        "avg_rating": 3.61,
+        "root_cause": "Inadequate customer support and voucher issues",
+        "pm_action": "Improve customer support and voucher redemption process"
+      },
+      {
+        "label": "Paytm login issues",
+        "category": "complaint",
+        "review_count": 22,
+        "avg_rating": 1.86,
+        "root_cause": "Poor network connectivity",
+        "pm_action": "Investigate and resolve login attempt problems"
+      },
+      {
+        "label": "Paytm App Not Opening",
+        "category": "complaint",
+        "review_count": 17,
+        "avg_rating": 1.76,
+        "root_cause": "Device environment not correct",
+        "pm_action": "Investigate device environment compatibility issues"
+      },
+      {
+        "label": "Poor Cashback Experience",
+        "category": "complaint",
+        "review_count": 12,
+        "avg_rating": 3.83,
+        "root_cause": "Cashback not provided as expected",
+        "pm_action": "Investigate and resolve cashback issues"
+      }
+    ],
     "monthly_trend": [
       {
         "year_month": "2026-08",
-        "review_count": 363,
-        "avg_rating": 4.052,
+        "review_count": 365,
+        "avg_rating": 4.063,
         "avg_sentiment": 0.295
       }
     ],
     "rating_distribution": {
-      "1": 76,
-      "2": 6,
-      "3": 3,
-      "4": 16,
-      "5": 262
+      "1": 71,
+      "2": 7,
+      "3": 8,
+      "4": 21,
+      "5": 258
     }
   },
   "phonepe": {
     "app_name": "phonepe",
-    "total_reviews": 363,
-    "avg_rating": 4.08,
-    "avg_sentiment": 0.29,
-    "pct_positive": 78.2,
-    "pct_negative": 19.3,
-    "pct_neutral": 2.5,
+    "total_reviews": 343,
+    "avg_rating": 4.0,
+    "avg_sentiment": 0.281,
+    "pct_positive": 75.5,
+    "pct_negative": 20.7,
+    "pct_neutral": 3.8,
     "category_breakdown": {
-      "praise": 261,
-      "complaint": 46
+      "complaint": 185,
+      "praise": 156
     },
     "high_priority_issues": [
       {
-        "label": "PhonePe Balance Issue",
+        "label": "PhonePe Payment Issue",
         "category": "complaint",
-        "review_count": 26,
-        "avg_rating": 1.73,
-        "root_cause": "Poor customer support and delayed refunds",
-        "pm_action": "Investigate and resolve pending payments within 24 hours"
-      },
-      {
-        "label": "Account Transport Issue",
-        "category": "complaint",
-        "review_count": 20,
-        "avg_rating": 4.3,
-        "root_cause": "Transport not happening from account",
-        "pm_action": "Investigate and resolve transport issue"
+        "review_count": 28,
+        "avg_rating": 3.29,
+        "root_cause": "Payment gets stuck",
+        "pm_action": "Investigate and resolve UPI pin problem"
       }
     ],
     "monthly_trend": [
       {
         "year_month": "2026-08",
-        "review_count": 363,
-        "avg_rating": 4.08,
-        "avg_sentiment": 0.29
+        "review_count": 343,
+        "avg_rating": 4.0,
+        "avg_sentiment": 0.281
       }
     ],
     "rating_distribution": {
-      "1": 64,
-      "2": 6,
-      "3": 9,
-      "4": 42,
-      "5": 242
+      "1": 63,
+      "2": 8,
+      "3": 13,
+      "4": 41,
+      "5": 218
     }
   },
   "spotify": {
     "app_name": "spotify",
-    "total_reviews": 387,
-    "avg_rating": 3.67,
-    "avg_sentiment": 0.338,
-    "pct_positive": 63.6,
-    "pct_negative": 28.7,
-    "pct_neutral": 7.8,
+    "total_reviews": 377,
+    "avg_rating": 3.66,
+    "avg_sentiment": 0.29,
+    "pct_positive": 64.5,
+    "pct_negative": 29.2,
+    "pct_neutral": 6.4,
     "category_breakdown": {
-      "complaint": 202,
-      "praise": 84,
-      "other": 94
+      "praise": 117,
+      "complaint": 148,
+      "other": 40,
+      "bug": 18
     },
     "high_priority_issues": [
       {
-        "label": "Good app, but pay to download",
+        "label": "Spotify Premium Issues",
         "category": "complaint",
-        "review_count": 50,
-        "avg_rating": 4.22,
-        "root_cause": "Users feel forced to pay for the app",
-        "pm_action": "Consider a free version or trial"
+        "review_count": 49,
+        "avg_rating": 2.33,
+        "root_cause": "Poor user experience due to ads and crashes",
+        "pm_action": "Investigate and resolve ad and crash issues"
       },
       {
-        "label": "Worst Music App Experience",
+        "label": "Slow app performance",
         "category": "complaint",
         "review_count": 41,
-        "avg_rating": 4.15,
-        "root_cause": "App not able to listen music recently",
-        "pm_action": "Investigate and resolve music streaming issue"
+        "avg_rating": 4.41,
+        "root_cause": "App is too slow",
+        "pm_action": "Optimize app performance"
       },
       {
-        "label": "Spotify playlist saving issue",
+        "label": "Poor Music Quality",
         "category": "complaint",
         "review_count": 37,
-        "avg_rating": 4.43,
-        "root_cause": "Generated playlists cannot be saved",
-        "pm_action": "Improve playlist saving functionality"
+        "avg_rating": 4.62,
+        "root_cause": "Lacking variety and repetitive pop songs",
+        "pm_action": "Improve music variety and reduce repetition"
       },
       {
-        "label": "Spotify app performance issues",
+        "label": "Frequent Ads Annoyance",
         "category": "complaint",
-        "review_count": 28,
-        "avg_rating": 1.96,
-        "root_cause": "Cache and load times are too slow",
-        "pm_action": "Investigate and fix cache and load time issues"
+        "review_count": 21,
+        "avg_rating": 3.14,
+        "root_cause": "Ads are too frequent and repetitive.",
+        "pm_action": "Implement ad rotation to reduce repetition."
       },
       {
-        "label": "Spotify Glitch",
-        "category": "complaint",
-        "review_count": 14,
-        "avg_rating": 3.0,
-        "root_cause": "Spotify app is malfunctioning",
-        "pm_action": "Investigate and fix the issue ASAP"
+        "label": "App Crashes on Reopen",
+        "category": "bug",
+        "review_count": 18,
+        "avg_rating": 2.56,
+        "root_cause": "App not loading fully or crashing on reopen",
+        "pm_action": "Investigate and fix the app crashing issue"
       }
     ],
     "monthly_trend": [
       {
         "year_month": "2026-08",
-        "review_count": 387,
-        "avg_rating": 3.669,
-        "avg_sentiment": 0.338
+        "review_count": 377,
+        "avg_rating": 3.66,
+        "avg_sentiment": 0.29
       }
     ],
     "rating_distribution": {
-      "1": 90,
-      "2": 21,
-      "3": 30,
-      "4": 32,
-      "5": 214
+      "1": 82,
+      "2": 28,
+      "3": 24,
+      "4": 45,
+      "5": 198
     }
   },
   "swiggy": {
     "app_name": "swiggy",
-    "total_reviews": 512,
-    "avg_rating": 2.44,
-    "avg_sentiment": -0.081,
-    "pct_positive": 34.2,
-    "pct_negative": 61.5,
-    "pct_neutral": 4.3,
+    "total_reviews": 493,
+    "avg_rating": 2.32,
+    "avg_sentiment": -0.097,
+    "pct_positive": 31.4,
+    "pct_negative": 64.7,
+    "pct_neutral": 3.9,
     "category_breakdown": {
-      "complaint": 334,
-      "praise": 61
+      "complaint": 443,
+      "praise": 50
     },
     "high_priority_issues": [
       {
-        "label": "Swiggy Order Cancellation Issue",
+        "label": "Poor Service and Quality",
         "category": "complaint",
-        "review_count": 126,
-        "avg_rating": 1.94,
-        "root_cause": "Inadequate order cancellation policy",
-        "pm_action": "Implement a more flexible order cancellation policy"
-      },
-      {
-        "label": "Poor Customer Support",
-        "category": "complaint",
-        "review_count": 68,
-        "avg_rating": 1.78,
-        "root_cause": "Inadequate customer support system and unresponsive helpline",
-        "pm_action": "Implement a more efficient and responsive customer support system"
-      },
-      {
-        "label": "Swiggy Service Issue",
-        "category": "complaint",
-        "review_count": 37,
-        "avg_rating": 3.0,
-        "root_cause": "Poor service and low quality food",
-        "pm_action": "Investigate and resolve the issue with the service provider"
-      },
-      {
-        "label": "Poor service on multiple occasions",
-        "category": "complaint",
-        "review_count": 36,
-        "avg_rating": 3.25,
-        "root_cause": "Inconsistent service quality",
-        "pm_action": "Investigate and improve service standards"
-      },
-      {
-        "label": "High Delivery Charges",
-        "category": "complaint",
-        "review_count": 22,
-        "avg_rating": 2.09,
-        "root_cause": "Excessive platform and delivery charges",
-        "pm_action": "Review and optimize delivery and platform charges"
-      },
-      {
-        "label": "Worst customer experience",
-        "category": "complaint",
-        "review_count": 21,
-        "avg_rating": 1.9,
-        "root_cause": "Poor service and high prices",
-        "pm_action": "Refund policy review and service improvement"
-      },
-      {
-        "label": "Fake offers and hidden fees",
-        "category": "complaint",
-        "review_count": 12,
-        "avg_rating": 1.17,
-        "root_cause": "App is actively cheating customers",
-        "pm_action": "Investigate and resolve hidden fees issue"
+        "review_count": 443,
+        "avg_rating": 2.05,
+        "root_cause": "100\u2105 cancellation fees policy and bad service",
+        "pm_action": "Review and revise cancellation fees policy"
       }
     ],
     "monthly_trend": [
       {
         "year_month": "2026-08",
-        "review_count": 512,
-        "avg_rating": 2.443,
-        "avg_sentiment": -0.081
+        "review_count": 493,
+        "avg_rating": 2.325,
+        "avg_sentiment": -0.097
       }
     ],
     "rating_distribution": {
-      "1": 295,
-      "2": 20,
-      "3": 22,
-      "4": 25,
-      "5": 150
+      "1": 304,
+      "2": 15,
+      "3": 19,
+      "4": 20,
+      "5": 135
     }
   },
   "uber": {
     "app_name": "uber",
-    "total_reviews": 321,
-    "avg_rating": 3.24,
-    "avg_sentiment": 0.158,
-    "pct_positive": 55.1,
-    "pct_negative": 42.4,
-    "pct_neutral": 2.5,
+    "total_reviews": 329,
+    "avg_rating": 3.36,
+    "avg_sentiment": 0.161,
+    "pct_positive": 58.1,
+    "pct_negative": 40.1,
+    "pct_neutral": 1.8,
     "category_breakdown": {
-      "complaint": 169,
-      "praise": 103
+      "complaint": 175,
+      "praise": 154
     },
     "high_priority_issues": [
       {
-        "label": "Uber Price Manipulation",
+        "label": "Poor Driver Service",
         "category": "complaint",
-        "review_count": 150,
-        "avg_rating": 2.27,
-        "root_cause": "Drivers prioritize profit over customer needs",
-        "pm_action": "Implement price regulation and driver penalties"
-      },
-      {
-        "label": "Uber issues with ride",
-        "category": "complaint",
-        "review_count": 19,
-        "avg_rating": 1.58,
-        "root_cause": "Poor service and high prices",
-        "pm_action": "Investigate and improve service quality"
+        "review_count": 175,
+        "avg_rating": 2.21,
+        "root_cause": "Drivers don't pick calls and take too much time to confirm a ride",
+        "pm_action": "Improve driver response time and notification system"
       }
     ],
     "monthly_trend": [
       {
         "year_month": "2026-08",
-        "review_count": 321,
-        "avg_rating": 3.237,
-        "avg_sentiment": 0.158
+        "review_count": 329,
+        "avg_rating": 3.365,
+        "avg_sentiment": 0.161
       }
     ],
     "rating_distribution": {
-      "1": 130,
-      "2": 6,
-      "3": 8,
-      "4": 12,
-      "5": 165
+      "1": 122,
+      "2": 10,
+      "3": 6,
+      "4": 8,
+      "5": 183
     }
   },
   "whatsapp": {
     "app_name": "whatsapp",
-    "total_reviews": 507,
-    "avg_rating": 3.7,
-    "avg_sentiment": 0.258,
-    "pct_positive": 64.9,
-    "pct_negative": 28.8,
-    "pct_neutral": 6.3,
+    "total_reviews": 523,
+    "avg_rating": 3.5,
+    "avg_sentiment": 0.203,
+    "pct_positive": 60.4,
+    "pct_negative": 34.6,
+    "pct_neutral": 5.0,
     "category_breakdown": {
-      "praise": 183,
-      "complaint": 212
+      "praise": 293,
+      "complaint": 228
     },
     "high_priority_issues": [
       {
-        "label": "Account Ban Issue",
+        "label": "Whatsapp Install Issue",
         "category": "complaint",
-        "review_count": 50,
-        "avg_rating": 2.28,
-        "root_cause": "User account banned without reason",
-        "pm_action": "Reactivate account and investigate ban reason"
+        "review_count": 188,
+        "avg_rating": 2.7,
+        "root_cause": "Installation issue due to unofficial download",
+        "pm_action": "Investigate and resolve installation issue on official website"
       },
       {
-        "label": "Poor Update Experience",
+        "label": "Account issue",
         "category": "complaint",
-        "review_count": 26,
-        "avg_rating": 2.35,
-        "root_cause": "Updates not tested properly before release",
-        "pm_action": "Re-test updates before release"
-      },
-      {
-        "label": "WhatsApp login issues",
-        "category": "complaint",
-        "review_count": 22,
-        "avg_rating": 3.09,
-        "root_cause": "Failed phone number verification",
-        "pm_action": "Investigate and resolve phone verification issue"
-      },
-      {
-        "label": "Crashing and Blinking Issue",
-        "category": "complaint",
-        "review_count": 17,
-        "avg_rating": 2.18,
-        "root_cause": "App update caused compatibility issues with Realme Minipad.",
-        "pm_action": "Investigate and release a patch update to resolve compatibility issues."
+        "review_count": 40,
+        "avg_rating": 3.45,
+        "root_cause": "Account not accessible due to unknown reasons",
+        "pm_action": "Re-enable account access"
       }
     ],
     "monthly_trend": [
       {
         "year_month": "2026-08",
-        "review_count": 507,
-        "avg_rating": 3.696,
-        "avg_sentiment": 0.258
+        "review_count": 523,
+        "avg_rating": 3.499,
+        "avg_sentiment": 0.203
       }
     ],
     "rating_distribution": {
-      "1": 119,
-      "2": 27,
-      "3": 32,
-      "4": 40,
-      "5": 289
+      "1": 148,
+      "2": 33,
+      "3": 26,
+      "4": 42,
+      "5": 274
     }
   },
   "youtube": {
     "app_name": "youtube",
-    "total_reviews": 317,
-    "avg_rating": 3.04,
-    "avg_sentiment": 0.122,
-    "pct_positive": 48.9,
-    "pct_negative": 45.7,
-    "pct_neutral": 5.4,
+    "total_reviews": 297,
+    "avg_rating": 2.69,
+    "avg_sentiment": -0.013,
+    "pct_positive": 39.7,
+    "pct_negative": 56.6,
+    "pct_neutral": 3.7,
     "category_breakdown": {
-      "complaint": 317
+      "complaint": 159,
+      "bug": 50,
+      "praise": 19
     },
     "high_priority_issues": [
       {
-        "label": "YouTube App Issues",
-        "category": "complaint",
-        "review_count": 269,
-        "avg_rating": 2.93,
-        "root_cause": "Poor app performance and increased ads",
-        "pm_action": "Investigate and fix app playback issues"
+        "label": "Video Deletion Issue",
+        "category": "bug",
+        "review_count": 50,
+        "avg_rating": 1.52,
+        "root_cause": "Inconsistent app behavior on device",
+        "pm_action": "Investigate and resolve video deletion issue"
       },
       {
-        "label": "YouTube ads issue",
+        "label": "Too many ads on YouTube",
         "category": "complaint",
-        "review_count": 48,
-        "avg_rating": 3.65,
-        "root_cause": "Intrusive ads are disrupting content",
-        "pm_action": "Reduce ad frequency and improve content visibility"
+        "review_count": 46,
+        "avg_rating": 1.59,
+        "root_cause": "Excessive ads disrupt user experience",
+        "pm_action": "Reduce ad frequency by 30%"
+      },
+      {
+        "label": "updated version too much buffering",
+        "category": "complaint",
+        "review_count": 29,
+        "avg_rating": 3.1,
+        "root_cause": "YouTube pahle jaisa nhi rha",
+        "pm_action": "Investigate and resolve the buffering issue in the updated version"
+      },
+      {
+        "label": "YouTube not working properly",
+        "category": "complaint",
+        "review_count": 27,
+        "avg_rating": 2.19,
+        "root_cause": "Error shows up while watching videos",
+        "pm_action": "Investigate and fix the error issue"
       }
     ],
     "monthly_trend": [
       {
         "year_month": "2026-08",
-        "review_count": 317,
-        "avg_rating": 3.041,
-        "avg_sentiment": 0.122
+        "review_count": 297,
+        "avg_rating": 2.687,
+        "avg_sentiment": -0.013
       }
     ],
     "rating_distribution": {
-      "1": 125,
+      "1": 148,
       "2": 20,
-      "3": 17,
-      "4": 27,
-      "5": 128
+      "3": 11,
+      "4": 13,
+      "5": 105
     }
   },
   "zomato": {
     "app_name": "zomato",
-    "total_reviews": 383,
-    "avg_rating": 3.06,
-    "avg_sentiment": 0.04,
-    "pct_positive": 49.1,
-    "pct_negative": 44.6,
-    "pct_neutral": 6.3,
+    "total_reviews": 390,
+    "avg_rating": 3.02,
+    "avg_sentiment": 0.083,
+    "pct_positive": 51.0,
+    "pct_negative": 47.2,
+    "pct_neutral": 1.8,
     "category_breakdown": {
-      "complaint": 259,
-      "praise": 112
+      "complaint": 312,
+      "praise": 78
     },
     "high_priority_issues": [
       {
-        "label": "Poor Order Cancellation Support",
+        "label": "Bad Customer Support",
         "category": "complaint",
-        "review_count": 143,
-        "avg_rating": 2.5,
-        "root_cause": "Inadequate order cancellation process",
-        "pm_action": "Implement order cancellation feature within 1 minute"
-      },
-      {
-        "label": "Failed payment refund issue",
-        "category": "complaint",
-        "review_count": 44,
-        "avg_rating": 2.45,
-        "root_cause": "Payment processing error and delayed refund",
-        "pm_action": "Investigate payment processing system and expedite refunds"
-      },
-      {
-        "label": "Expensive delivery charges",
-        "category": "complaint",
-        "review_count": 41,
-        "avg_rating": 2.56,
-        "root_cause": "High delivery charges without offers",
-        "pm_action": "Review pricing strategy and offer discounts"
-      },
-      {
-        "label": "Bad Delivery Experience",
-        "category": "complaint",
-        "review_count": 31,
-        "avg_rating": 3.03,
-        "root_cause": "Poor customer support and delivery issues",
-        "pm_action": "Investigate and resolve delivery partner issues"
+        "review_count": 312,
+        "avg_rating": 2.59,
+        "root_cause": "Poor timing and lazy delivery service",
+        "pm_action": "Investigate and improve delivery service efficiency"
       }
     ],
     "monthly_trend": [
       {
         "year_month": "2026-08",
-        "review_count": 383,
-        "avg_rating": 3.057,
-        "avg_sentiment": 0.04
+        "review_count": 390,
+        "avg_rating": 3.023,
+        "avg_sentiment": 0.083
       }
     ],
     "rating_distribution": {
-      "1": 158,
-      "2": 13,
-      "3": 24,
-      "4": 25,
-      "5": 163
+      "1": 167,
+      "2": 17,
+      "3": 7,
+      "4": 38,
+      "5": 161
     }
   }
 }
