@@ -190,10 +190,10 @@ Structure:
 3. Recommended action (1 sentence)"""
 
     response = groq_client.chat.completions.create(
-        model="llama-3.1-8b-instant",
-        messages=[{"role": "user", "content": prompt}],
-        temperature=0.2,
-        max_tokens=500,
+    model="openai/gpt-oss-20b",
+    messages=[{"role": "user", "content": prompt}],
+    temperature=0.2,
+    max_tokens=1024,
     )
     return response.choices[0].message.content.strip()
 
@@ -223,7 +223,7 @@ apps      = sorted(analytics.keys())
 with st.sidebar:
     st.markdown("## Review Intelligence")
     st.markdown("---")
-    selected_app = st.selectbox("Select App", apps)
+    selected_app = st.selectbox("Select App",apps,index=apps.index("zomato"))
     data         = analytics[selected_app]
 
     st.markdown("---")
@@ -363,7 +363,7 @@ with tab1:
         if len(daily) >= 2:
             fig_trend = go.Figure()
             fig_trend.add_trace(go.Scatter(
-                x=weekly["week"],
+                x=daily["day"],
                 y=weekly["avg_rating"],
                 mode="lines+markers",
                 fill="tozeroy",
