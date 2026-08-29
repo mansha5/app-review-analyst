@@ -1,5 +1,6 @@
 import os
 import json
+import re
 import numpy as np
 import pandas as pd
 import faiss
@@ -9,6 +10,7 @@ import plotly.graph_objects as go
 from groq import Groq
 from dotenv import load_dotenv
 from sentence_transformers import SentenceTransformer
+from collections import Counter
 
 load_dotenv()
 groq_client = Groq(api_key=os.getenv("GROQ_API_KEY"))
@@ -27,7 +29,7 @@ st.markdown("""
     </h2>
     <p style='color:#ccd9f0; margin:0.2rem 0 0 0; font-size:0.88rem'>
         AI-powered product analytics from real user reviews &nbsp;·&nbsp;
-        13 apps &nbsp;·&nbsp; 5,200+ reviews &nbsp;·&nbsp;
+        13 apps &nbsp;·&nbsp; 15,000+ reviews &nbsp;·&nbsp;
         Semantic search + LLM insights
     </p>
 </div>
@@ -40,16 +42,12 @@ st.markdown("""
         padding-left: 2rem !important;
         padding-right: 2rem !important;
     }
-
-    /* clean metric cards */
     [data-testid="stMetric"] {
         background: #f8f9fa;
         border-radius: 8px;
         padding: 0.8rem 1rem;
         border: 1px solid #e9ecef;
     }
-
-    /* issue cards */
     .issue-card {
         background: #fff8f8;
         border-left: 3px solid #E53935;
@@ -78,8 +76,6 @@ st.markdown("""
         border-radius: 0 6px 6px 0;
         margin-bottom: 0.6rem;
     }
-
-    /* ai answer box */
     .ai-answer {
         background: #f0f4ff;
         border: 1px solid #c5d3f0;
@@ -88,8 +84,6 @@ st.markdown("""
         margin-bottom: 1rem;
         line-height: 1.6;
     }
-
-    /* sidebar */
     div[data-testid="stSidebarContent"] {
         background: #f8f9fa;
     }
@@ -103,7 +97,6 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# ── Category colors ───────────────────────────────────
 CATEGORY_COLORS = {
     "complaint":       "#E53935",
     "bug":             "#F57C00",
@@ -136,7 +129,16 @@ COMPETITOR_PAIRS = {
     "whatsapp":  "instagram",
 }
 
-# ── Loaders ───────────────────────────────────────────
+STOPWORDS = {
+    "this","that","with","have","from","they","will","your",
+    "been","were","what","when","just","also","very","more",
+    "app","good","zomato","swiggy","uber","spotify","netflix",
+    "instagram","whatsapp","youtube","paytm","phonepe","airbnb",
+    "cred","duolingo","really","great","nice","best","worst",
+    "like","would","could","should","about","after","before",
+    "their","there","then","than","some","time","even","back",
+}
+
 @st.cache_data
 def load_analytics():
     with open("analysis/all_analytics.json") as f:
@@ -153,7 +155,6 @@ def load_rag(app_name):
     df    = pd.read_parquet(f"data/processed/{app_name}.parquet")
     return model, index, df
 
-# ── RAG ───────────────────────────────────────────────
 def retrieve_reviews(question, model, index, df, top_k=15):
     q_vec = model.encode([question], convert_to_numpy=True)
     faiss.normalize_L2(q_vec)
@@ -190,32 +191,23 @@ Structure:
 3. Recommended action (1 sentence)"""
 
     response = groq_client.chat.completions.create(
-    model="openai/gpt-oss-20b",
-    messages=[{"role": "user", "content": prompt}],
-    temperature=0.2,
-    max_tokens=1024,
+        model="openai/gpt-oss-20b",
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0.2,
+        max_tokens=1024,
     )
     return response.choices[0].message.content.strip()
 
-# ── Weekly trend helper ───────────────────────────────
-def build_daily_trend(df):
-    df = df.copy()
-    df["review_date"] = pd.to_datetime(df["review_date"])
-    df["day"] = df["review_date"].dt.date
-    daily = (
-        df.groupby("day")
-        .agg(
-            review_count=("rating", "count"),
-            avg_rating=("rating", "mean"),
-            avg_sentiment=("vader_score", "mean"),
-        )
-        .round(3)
-        .reset_index()
-        .sort_values("day")
-    )
-    return daily
+def get_top_keywords(df_reviews, app_name, n=10):
+    neg = df_reviews[df_reviews["vader_sentiment"] == "negative"]["review_text"]
+    if len(neg) < 10:
+        return []
+    text = " ".join(neg.tolist()).lower()
+    words = re.findall(r'\b[a-z]{4,}\b', text)
+    extra = {app_name.lower()}
+    counts = Counter(w for w in words if w not in STOPWORDS | extra)
+    return counts.most_common(n)
 
-# ── Load data ─────────────────────────────────────────
 analytics = load_analytics()
 apps      = sorted(analytics.keys())
 
@@ -223,22 +215,23 @@ apps      = sorted(analytics.keys())
 with st.sidebar:
     st.markdown("## Review Intelligence")
     st.markdown("---")
-    selected_app = st.selectbox("Select App",apps,index=apps.index("zomato"))
-    data         = analytics[selected_app]
+    selected_app = st.selectbox(
+        "Select App", apps, index=apps.index("zomato")
+    )
+    data = analytics[selected_app]
 
     st.markdown("---")
     st.markdown("**Portfolio Health**")
-    st.markdown("<div style='font-size:0.8rem; color:#888; margin-bottom:6px'>sorted by avg rating</div>", unsafe_allow_html=True)
-
+    st.markdown(
+        "<div style='font-size:0.8rem; color:#888; margin-bottom:6px'>"
+        "sorted by avg rating</div>",
+        unsafe_allow_html=True
+    )
     sorted_apps = sorted(apps, key=lambda a: analytics[a]["avg_rating"])
     for app in sorted_apps:
         r = analytics[app]["avg_rating"]
         n = analytics[app]["pct_negative"]
-        dot = (
-            "🔴" if r < 3 else
-            "🟡" if r < 3.8 else
-            "🟢"
-        )
+        dot = "🔴" if r < 3 else "🟡" if r < 3.8 else "🟢"
         weight = "font-weight:600" if app == selected_app else ""
         st.markdown(
             f"<div class='app-health-row' style='{weight}'>"
@@ -250,17 +243,21 @@ with st.sidebar:
         )
 
 # ── Header ────────────────────────────────────────────
-avg    = data["avg_rating"]
-color  = "#E53935" if avg < 3 else "#F57C00" if avg < 3.8 else "#2E7D32"
+avg   = data["avg_rating"]
+color = "#E53935" if avg < 3 else "#F57C00" if avg < 3.8 else "#2E7D32"
 
 hc1, hc2 = st.columns([3, 1])
 with hc1:
     st.title(selected_app.title())
-    st.caption(f"Review Intelligence Report  ·  {data['total_reviews']} reviews analyzed")
+    st.caption(
+        f"Review Intelligence Report  ·  "
+        f"{data['total_reviews']} reviews analyzed"
+    )
 with hc2:
     st.markdown(
         f"<div style='text-align:right; padding-top:0.8rem'>"
-        f"<span style='font-size:2.8rem; font-weight:700; color:{color}'>{avg}</span>"
+        f"<span style='font-size:2.8rem; font-weight:700; color:{color}'>"
+        f"{avg}</span>"
         f"<span style='color:#888; font-size:1rem'> / 5.0</span>"
         f"</div>",
         unsafe_allow_html=True
@@ -276,20 +273,15 @@ k5.metric("High Priority Issues", len(data["high_priority_issues"]))
 
 st.markdown("---")
 
-# ══════════════════════════════════════════════════════
-# AI ANALYST
-# ══════════════════════════════════════════════════════
-
+# ── AI Analyst ────────────────────────────────────────
 st.markdown("#### Ask the AI Product Analyst")
 st.caption("Answers are grounded in actual reviews via semantic search.")
 
-# reset on app switch
 if st.session_state.get("last_app") != selected_app:
     st.session_state.ai_question = ""
     st.session_state.ai_answer   = ""
     st.session_state.last_app    = selected_app
 
-# suggested questions
 sq1, sq2, sq3, sq4, sq5 = st.columns(5)
 suggestions = {
     sq1: "Why are users unhappy?",
@@ -303,7 +295,6 @@ for col, q in suggestions.items():
         st.session_state.ai_question = q
         st.session_state.ai_answer   = ""
 
-# text input + button on same row
 qi1, qi2 = st.columns([5, 1])
 with qi1:
     typed = st.text_input(
@@ -320,15 +311,14 @@ if ask_clicked and typed.strip():
     st.session_state.ai_question = typed.strip()
     st.session_state.ai_answer   = ""
 
-# show answer directly below
 if st.session_state.get("ai_question") and not st.session_state.get("ai_answer"):
     q = st.session_state.ai_question
     model_rag, index_rag, df_rag = load_rag(selected_app)
     with st.spinner("Retrieving relevant reviews..."):
         retrieved = retrieve_reviews(q, model_rag, index_rag, df_rag)
         answer    = ask_analyst(q, selected_app, retrieved, data)
-    st.session_state.ai_answer  = answer
-    st.session_state.ai_last_q  = q
+    st.session_state.ai_answer = answer
+    st.session_state.ai_last_q = q
 
 if st.session_state.get("ai_answer"):
     st.markdown(
@@ -342,88 +332,111 @@ if st.session_state.get("ai_answer"):
 
 st.markdown("---")
 
-# ══════════════════════════════════════════════════════
-# TABS — Analytics + Competitor
-# ══════════════════════════════════════════════════════
+# ── Tabs ──────────────────────────────────────────────
 tab1, tab2 = st.tabs(["Analytics", "Competitor Comparison"])
 
 # ════════════════════════════════════════════════════
-# TAB 1 — Analytics
+# TAB 1
 # ════════════════════════════════════════════════════
 with tab1:
+    df_reviews = load_reviews(selected_app)
 
-    # Row 1: weekly trend + rating distribution
+    # Row 1: Sentiment vs Rating + Top Keywords
     col1, col2 = st.columns([2, 1])
 
     with col1:
-        st.subheader("Rating Trend by Day")
-        df_reviews = load_reviews(selected_app)
-        daily     = build_daily_trend(df_reviews)
+        st.subheader("Sentiment vs Rating Breakdown")
+        sentiment_rating = df_reviews.groupby(
+            ["rating", "vader_sentiment"]
+        ).size().reset_index(name="count")
 
-        if len(daily) >= 2:
-            fig_trend = go.Figure()
-            fig_trend.add_trace(go.Scatter(
-                x=daily["day"],
-                y=daily["avg_rating"],
-                mode="lines+markers",
-                fill="tozeroy",
-                fillcolor="rgba(31, 119, 180, 0.12)",
-                line=dict(color="#1f77b4", width=2.5),
-                marker=dict(size=6, color="#1f77b4"),
-                name="Avg Rating",
-                hovertemplate=(
-                    "<b>Week of %{x|%b %d}</b><br>"
-                    "Avg Rating: %{y:.2f}<extra></extra>"
-                )
-            ))
-            fig_trend.update_layout(
-                height=300,
-                margin=dict(t=10, b=20, l=10, r=10),
-                yaxis=dict(range=[1, 5], gridcolor="#f0f0f0"),
-                xaxis=dict(showgrid=False),
-                plot_bgcolor="white",
-                paper_bgcolor="white",
-                showlegend=False,
-            )
-            st.plotly_chart(fig_trend, use_container_width=True)
-        else:
-            st.info("Not enough data across weeks for trend analysis.")
-
-    with col2:
-        st.subheader("Rating Distribution")
-        rating_dist = data["rating_distribution"]
-        all_stars   = [1, 2, 3, 4, 5]
-        star_colors = {
-            1: "#E53935",
-            2: "#F57C00",
-            3: "#FDD835",
-            4: "#7CB342",
-            5: "#2E7D32",
-        }
-
-        rating_dist_int = {int(k): v for k, v in rating_dist.items()}
-        y_vals = [rating_dist_int.get(s, 0) for s in all_stars]
-
-        fig_dist = go.Figure(go.Bar(
-            x=["1★", "2★", "3★", "4★", "5★"],
-            y=y_vals,
-            marker_color=[star_colors[s] for s in all_stars],
-            hovertemplate="<b>%{x} stars</b><br>%{y} reviews<extra></extra>",
-        ))
-        fig_dist.update_layout(
+        fig_sr = px.bar(
+            sentiment_rating,
+            x="rating",
+            y="count",
+            color="vader_sentiment",
+            color_discrete_map={
+                "positive": "#2E7D32",
+                "neutral":  "#F9A825",
+                "negative": "#E53935"
+            },
+            labels={
+                "rating": "Stars",
+                "count": "Reviews",
+                "vader_sentiment": "Sentiment"
+            },
+            barmode="stack"
+        )
+        fig_sr.update_layout(
             height=300,
-            margin=dict(t=10, b=20, l=10, r=10),
+            margin=dict(t=10, b=20),
             plot_bgcolor="white",
             paper_bgcolor="white",
-            xaxis=dict(title="Stars", showgrid=False),
-            yaxis=dict(title="Reviews", gridcolor="#f0f0f0"),
-            showlegend=False,
+            xaxis=dict(showgrid=False, tickvals=[1,2,3,4,5]),
+            yaxis=dict(gridcolor="#f0f0f0"),
+            legend=dict(orientation="h", y=1.12)
         )
-        st.plotly_chart(fig_dist, use_container_width=True)
+        st.plotly_chart(fig_sr, use_container_width=True)
+
+    with col2:
+        st.subheader("Top Keywords — Negative Reviews")
+        top_kw = get_top_keywords(df_reviews, selected_app)
+        if top_kw:
+            fig_kw = go.Figure(go.Bar(
+                x=[c for _, c in top_kw],
+                y=[w for w, _ in top_kw],
+                orientation="h",
+                marker_color="#E53935"
+            ))
+            fig_kw.update_layout(
+                height=300,
+                margin=dict(t=10, b=10, l=10, r=10),
+                plot_bgcolor="white",
+                paper_bgcolor="white",
+                xaxis=dict(
+                    title="Frequency",
+                    showgrid=True,
+                    gridcolor="#f0f0f0"
+                ),
+                yaxis=dict(autorange="reversed"),
+            )
+            st.plotly_chart(fig_kw, use_container_width=True)
+        else:
+            st.info("Not enough negative reviews.")
 
     st.markdown("---")
 
-    # Row 2: donut + high priority issues
+    # Row 2: Rating Distribution
+    st.subheader("Rating Distribution")
+    rating_dist     = data["rating_distribution"]
+    all_stars       = [1, 2, 3, 4, 5]
+    star_colors     = {
+        1: "#E53935", 2: "#F57C00",
+        3: "#FDD835", 4: "#7CB342", 5: "#2E7D32",
+    }
+    rating_dist_int = {int(k): v for k, v in rating_dist.items()}
+    y_vals          = [rating_dist_int.get(s, 0) for s in all_stars]
+
+    fig_dist = go.Figure(go.Bar(
+        x=["1★", "2★", "3★", "4★", "5★"],
+        y=y_vals,
+        marker_color=[star_colors[s] for s in all_stars],
+        hovertemplate="<b>%{x} stars</b><br>%{y} reviews<extra></extra>",
+    ))
+    fig_dist.update_layout(
+        height=250,
+        margin=dict(t=10, b=20, l=10, r=10),
+        plot_bgcolor="white",
+        paper_bgcolor="white",
+        xaxis=dict(title="Stars", showgrid=False),
+        yaxis=dict(title="Reviews", gridcolor="#f0f0f0"),
+        showlegend=False,
+    )
+    st.plotly_chart(fig_dist, use_container_width=True)
+
+    st.markdown("---")
+
+    # Row 3: Donut + High Priority Issues
     col3, col4 = st.columns([1, 2])
 
     with col3:
@@ -432,30 +445,29 @@ with tab1:
         if cat:
             labels = list(cat.keys())
             values = list(cat.values())
-            colors = [CATEGORY_COLORS.get(l, "#888") for l in labels]
-
             fig_donut = go.Figure(go.Pie(
                 labels=[l.replace("_", " ").title() for l in labels],
                 values=values,
                 hole=0.48,
                 marker=dict(
-                    colors=["#66C2A5","#FC8D62","#8DA0CB","#E78AC3","#A6D854"],
+                    colors=[
+                        "#66C2A5","#FC8D62","#8DA0CB",
+                        "#E78AC3","#A6D854"
+                    ],
                     line=dict(color="white", width=2)
                 ),
                 textposition="inside",
                 textinfo="percent",
-                hovertemplate="<b>%{label}</b><br>%{value} reviews · %{percent}<extra></extra>",
+                hovertemplate=(
+                    "<b>%{label}</b><br>"
+                    "%{value} reviews · %{percent}<extra></extra>"
+                ),
             ))
             fig_donut.update_layout(
                 height=340,
                 margin=dict(t=10, b=10, l=10, r=10),
                 showlegend=True,
-                legend=dict(
-                    orientation="v",
-                    x=1.0,
-                    y=0.5,
-                    font=dict(size=12)
-                ),
+                legend=dict(orientation="v", x=1.0, y=0.5, font=dict(size=12)),
                 paper_bgcolor="white",
             )
             st.plotly_chart(fig_donut, use_container_width=True)
@@ -486,7 +498,7 @@ with tab1:
 
     st.markdown("---")
 
-    # Row 3: review browser
+    # Row 4: Review Browser
     st.subheader("Review Browser")
     fc1, fc2 = st.columns(2)
     with fc1:
@@ -506,7 +518,9 @@ with tab1:
     if rating_filter:
         filtered = filtered[filtered["rating"].isin(rating_filter)]
     if sentiment_filter:
-        filtered = filtered[filtered["vader_sentiment"].isin(sentiment_filter)]
+        filtered = filtered[
+            filtered["vader_sentiment"].isin(sentiment_filter)
+        ]
 
     st.dataframe(
         filtered[[
@@ -527,7 +541,7 @@ with tab1:
     )
 
 # ════════════════════════════════════════════════════
-# TAB 2 — Competitor Comparison
+# TAB 2
 # ════════════════════════════════════════════════════
 with tab2:
     competitor = COMPETITOR_PAIRS.get(selected_app)
@@ -542,7 +556,6 @@ with tab2:
 
         def delta(a, b): return round(a - b, 2)
 
-        # labeled KPI columns
         ac1, ac2 = st.columns(2)
         with ac1:
             st.markdown(f"**{selected_app.title()}**")
@@ -564,14 +577,18 @@ with tab2:
             m6.metric(
                 "Negative Reviews",
                 f"{comp_data['pct_negative']}%",
-                delta=delta(comp_data['pct_negative'], data['pct_negative']),
+                delta=delta(
+                    comp_data['pct_negative'], data['pct_negative']
+                ),
                 delta_color="inverse",
             )
             m7, m8 = st.columns(2)
             m7.metric(
                 "Positive Reviews",
                 f"{comp_data['pct_positive']}%",
-                delta=delta(comp_data['pct_positive'], data['pct_positive']),
+                delta=delta(
+                    comp_data['pct_positive'], data['pct_positive']
+                ),
             )
             m8.metric(
                 "High Priority",
@@ -585,7 +602,6 @@ with tab2:
 
         st.markdown("---")
 
-        # rating distribution comparison
         st.subheader("Rating Distribution")
         r1 = data["rating_distribution"]
         r2 = comp_data["rating_distribution"]
@@ -617,20 +633,21 @@ with tab2:
 
         st.markdown("---")
 
-        # sentiment comparison
         st.subheader("Sentiment Breakdown")
         sent_fig = go.Figure()
-        for app_n, app_d, col in [
+        for app_n, app_d, c in [
             (selected_app.title(), data,      "#1f77b4"),
             (competitor.title(),   comp_data, "#E53935"),
         ]:
             sent_fig.add_trace(go.Bar(
                 name=app_n,
                 x=["Positive", "Neutral", "Negative"],
-                y=[app_d["pct_positive"],
-                   app_d["pct_neutral"],
-                   app_d["pct_negative"]],
-                marker_color=col,
+                y=[
+                    app_d["pct_positive"],
+                    app_d["pct_neutral"],
+                    app_d["pct_negative"]
+                ],
+                marker_color=c,
             ))
         sent_fig.update_layout(
             barmode="group",
@@ -646,7 +663,6 @@ with tab2:
 
         st.markdown("---")
 
-        # top issues side by side
         st.subheader("Top Issues")
         ic1, ic2 = st.columns(2)
 
