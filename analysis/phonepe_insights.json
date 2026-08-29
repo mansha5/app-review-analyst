@@ -2,115 +2,284 @@
   {
     "topic_id": 0,
     "keywords": [
-      "phonepe",
+      "payment",
       "pay",
+      "phonepe",
       "phone",
-      "upi",
       "money",
       "phone pay"
     ],
-    "review_count": 160,
-    "avg_rating": 3.39,
-    "avg_sentiment": 0.172,
+    "review_count": 248,
+    "avg_rating": 3.41,
+    "avg_sentiment": 0.196,
     "sample_reviews": [
-      "phonpe app update some times lag phonepe and slow",
-      "please solve to balance chek problm",
-      "using your phonepe super"
-    ]
+      "Add auto refresh option in this application.",
+      "super app... just stop taking charges for recharge of mobile",
+      "Collecting To Much Amount From Customer This Completly Wrong.... A Basic Recharge Of Airtel 349 If Done Phonpe Is Collecting Payment Of 355 to 359 instead Of 349 This is Completely Wrong..... In Our India 700 Million People Using Phonpe Means 70 crore people using.... Daily Active Transaction 14 core people Doing For Example 1 crore people Reacharged In A Single Recharge Payment Of 355 instead Of 349..(10000000\u00d76=60000000)6crore Per day A Common Man Working 700 per day... Try To Collect Less."
+    ],
+    "label": "Mobile Recharge Platform Fee Complaints",
+    "category": "complaint",
+    "root_cause": "Users are dissatisfied with extra platform convenience fees added on top of standard mobile recharge prices.",
+    "priority": "medium",
+    "priority_reason": "Priority is set to medium as the app's average rating is 3.41, which does not meet the criteria for high priority.",
+    "pm_action": "Evaluate tiered platform fee structures or offer targeted cashback incentives on mobile recharges to mitigate user drop-off to competitors."
   },
   {
     "topic_id": 1,
     "keywords": [
-      "secure",
-      "helpful",
-      "application",
-      "excellent",
-      "fantastic",
-      "easy"
+      "raha",
+      "nahi",
+      "kam",
+      "hi",
+      "bhi",
+      "badiya"
     ],
-    "review_count": 63,
-    "avg_rating": 4.6,
-    "avg_sentiment": 0.517,
+    "review_count": 91,
+    "avg_rating": 3.86,
+    "avg_sentiment": 0.015,
     "sample_reviews": [
-      "good use this app",
-      "super app best app",
-      "this is very nice app for transion"
-    ]
+      "badhiya jay sree ram",
+      "bahut achcha",
+      "phonepe ki service to bahut acchi hai per kahin jagah network ke Karan yah service bahut kam Ho jaati Hai Jahan paise Kisi Ko dene ke liye yah scan karte hain tab bahut dikkat a jaati Hai per service acchi hai aur aap aise hi aage Apne service ko behtar karte rahiyega thank u so Mach phonepe. experience ki bole to achcha hai."
+    ],
+    "label": "Low network QR scan issues",
+    "category": "praise",
+    "root_cause": "Poor network connectivity causes scanning delays during transactions despite high overall user satisfaction.",
+    "priority": "low",
+    "priority_reason": "The average rating of 3.86 reflects overall positive feedback with low-severity complaints.",
+    "pm_action": "Optimize QR scanner performance and offline payload handling for low-bandwidth networks."
   },
   {
     "topic_id": 2,
     "keywords": [
       "work",
       "excellent",
-      "amazing",
-      "super",
-      "awesome",
-      "im"
+      "working",
+      "job",
+      "thank",
+      "thanks"
     ],
-    "review_count": 32,
-    "avg_rating": 4.75,
-    "avg_sentiment": 0.484,
+    "review_count": 83,
+    "avg_rating": 4.66,
+    "avg_sentiment": 0.482,
     "sample_reviews": [
-      "excellent work",
-      "helf any time",
-      "it's of absolutely good"
-    ]
+      "I love you\u2764\ufe0f",
+      "good thank you",
+      "it us better than all"
+    ],
+    "label": "High User Satisfaction and Praise",
+    "category": "praise",
+    "root_cause": "Users are expressing strong satisfaction and appreciation for the app's seamless overall experience and performance.",
+    "priority": "low",
+    "priority_reason": "Priority is low because the overall feedback is overwhelmingly positive with an average rating of 4.66 out of 5.",
+    "pm_action": "Monitor user retention trends and leverage positive sentiment to prompt satisfied users for App Store ratings."
   },
   {
     "topic_id": 3,
     "keywords": [
-      "service",
-      "customer",
-      "support",
-      "care",
-      "services",
-      "excellent"
+      "excellent",
+      "ads",
+      "love",
+      "apps",
+      "amazing",
+      "user interface"
     ],
-    "review_count": 24,
-    "avg_rating": 4.12,
-    "avg_sentiment": 0.394,
+    "review_count": 51,
+    "avg_rating": 4.84,
+    "avg_sentiment": 0.555,
     "sample_reviews": [
-      "excellent service",
-      "good service",
-      "excellent and fast service"
-    ]
+      "this app is very good please avid adds",
+      "so good app",
+      "excellent app"
+    ],
+    "label": "Highly Positive User Feedback",
+    "category": "praise",
+    "root_cause": "Users are highly satisfied with the app's user interface and performance, though some express mild frustration with ad frequency.",
+    "priority": "low",
+    "priority_reason": "Priority is low because the reviews are overwhelmingly positive with a high average rating of 4.84 out of 5.",
+    "pm_action": "Optimize ad frequency capping to ensure monetization efforts do not degrade the core user experience."
   },
   {
     "topic_id": 4,
     "keywords": [
       "easy",
-      "fast",
-      "convenient",
-      "secure",
-      "100",
-      "reliable"
+      "simple easy",
+      "simple",
+      "work",
+      "helpful easy",
+      "user friendly"
     ],
-    "review_count": 23,
-    "avg_rating": 4.96,
-    "avg_sentiment": 0.412,
+    "review_count": 37,
+    "avg_rating": 4.62,
+    "avg_sentiment": 0.502,
     "sample_reviews": [
-      "fast and secure.",
-      "Easy and fast to operate .",
-      "easy and simple"
-    ]
+      "seamless usage",
+      "easy to use and very useful",
+      "its easy to use"
+    ],
+    "label": "User Friendly Experience Praise",
+    "category": "praise",
+    "root_cause": "Users find the application interface highly intuitive, simple, and seamless to navigate.",
+    "priority": "low",
+    "priority_reason": "Feedback is overwhelmingly positive with a high average rating of 4.62 out of 5.",
+    "pm_action": "Maintain current UX design patterns and continue benchmarking seamless workflows for future feature updates."
   },
   {
     "topic_id": 5,
     "keywords": [
       "experience",
-      "better",
-      "experience better",
-      "bad experience",
-      "yes",
-      "bad"
+      "smooth",
+      "worst",
+      "feel",
+      "love",
+      "years"
     ],
-    "review_count": 23,
-    "avg_rating": 4.83,
-    "avg_sentiment": 0.497,
+    "review_count": 34,
+    "avg_rating": 4.53,
+    "avg_sentiment": 0.405,
     "sample_reviews": [
-      "Good experience",
-      "Excellent working and performances always for A better experience",
-      "better experience"
+      "very nice experience I love it",
+      "wowww great experience",
+      "good experience to customer support"
+    ],
+    "label": "High overall user experience praise",
+    "category": "praise",
+    "root_cause": "Users are highly satisfied with PhonePe's overall app performance and customer support team.",
+    "priority": "low",
+    "priority_reason": "Priority is low because the average rating is 4.53 and user feedback is overwhelmingly positive.",
+    "pm_action": "Share praise with the customer support team and continue maintaining existing core UX workflows."
+  },
+  {
+    "topic_id": 6,
+    "keywords": [
+      "upi",
+      "super",
+      "india",
+      "security",
+      "completely",
+      "fast"
+    ],
+    "review_count": 32,
+    "avg_rating": 4.53,
+    "avg_sentiment": 0.435,
+    "sample_reviews": [
+      "Best UPI App Ever",
+      "Bad app, Bhim upi is better",
+      "very nice upi app"
+    ]
+  },
+  {
+    "topic_id": 7,
+    "keywords": [
+      "service",
+      "proper",
+      "mast badiya",
+      "excellent",
+      "happy",
+      "fast"
+    ],
+    "review_count": 28,
+    "avg_rating": 4.57,
+    "avg_sentiment": 0.363,
+    "sample_reviews": [
+      "supar service",
+      "nice servic",
+      "very nice service"
+    ]
+  },
+  {
+    "topic_id": 8,
+    "keywords": [
+      "useful",
+      "helpful",
+      "helpful useful",
+      "useful useful",
+      "easy helpful",
+      "create"
+    ],
+    "review_count": 21,
+    "avg_rating": 4.76,
+    "avg_sentiment": 0.433,
+    "sample_reviews": [
+      "This app is very helpful for me",
+      "Very useful app",
+      "very very usefull full app"
+    ]
+  },
+  {
+    "topic_id": 9,
+    "keywords": [
+      "useful",
+      "helpful",
+      "useful useful",
+      "helpfull",
+      "helpful useful",
+      "useful helpful"
+    ],
+    "review_count": 21,
+    "avg_rating": 4.67,
+    "avg_sentiment": 0.508,
+    "sample_reviews": [
+      "it's good and very helpful",
+      "Most Powerful",
+      "It's useful \u2728"
+    ]
+  },
+  {
+    "topic_id": 10,
+    "keywords": [
+      "application",
+      "application application",
+      "worst",
+      "safe",
+      "lock",
+      "hacker"
+    ],
+    "review_count": 19,
+    "avg_rating": 4.21,
+    "avg_sentiment": 0.388,
+    "sample_reviews": [
+      "very bad app hacker",
+      "Good application with most features that a person would wish",
+      "best application"
+    ]
+  },
+  {
+    "topic_id": 11,
+    "keywords": [
+      "payment transfer",
+      "market",
+      "aplication",
+      "useful",
+      "helpfull",
+      "fee"
+    ],
+    "review_count": 19,
+    "avg_rating": 4.68,
+    "avg_sentiment": 0.376,
+    "sample_reviews": [
+      "very nice aap ",
+      "best aap in Market.",
+      "nice transaction aap"
+    ]
+  },
+  {
+    "topic_id": 12,
+    "keywords": [
+      "thank phonepe",
+      "responsive",
+      "phonepe working",
+      "want",
+      "job",
+      "phonepe"
+    ],
+    "review_count": 14,
+    "avg_rating": 4.29,
+    "avg_sentiment": 0.387,
+    "sample_reviews": [
+      "nice to use app",
+      "very nice app",
+      "very nice app"
     ]
   }
 ]

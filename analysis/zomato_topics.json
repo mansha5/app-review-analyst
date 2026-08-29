@@ -2,39 +2,248 @@
   {
     "topic_id": 0,
     "keywords": [
-      "food",
+      "order",
+      "zomato",
+      "delivery",
       "customer",
-      "experience",
-      "service",
-      "bad",
-      "better"
+      "refund",
+      "dont"
     ],
-    "review_count": 356,
-    "avg_rating": 2.42,
-    "avg_sentiment": -0.094,
+    "review_count": 153,
+    "avg_rating": 1.37,
+    "avg_sentiment": -0.355,
     "sample_reviews": [
-      "well using multiple apps they attract by their low prices but adding into cart multiple fee applies except zomato are good one lowest at best I have made",
-      "Coppon voucher not redeem",
-      "Worst service and causing health issues by unhygienic food service and worst response I experienced and money wasted Soo people don't prefer zomato in future and further and it is happening repeatedly"
+      "worst app ever, i ordered food and it was showing 30 minutes initially but after 30 min it was delayed by 24 minutes, then again it was delayed by 18 minutes after 1 hour, I had to cancel the order and delete this app!!",
+      "received the wrong order",
+      "They doesn't refund the money. they tell you that they have refunded but the money will not be refunded"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
       "service",
+      "service service",
+      "customer",
+      "customer service",
+      "pathetic",
+      "service customer"
+    ],
+    "review_count": 78,
+    "avg_rating": 3.24,
+    "avg_sentiment": 0.17,
+    "sample_reviews": [
+      "good service",
+      "zapto very fast service",
+      "super service"
+    ]
+  },
+  {
+    "topic_id": 2,
+    "keywords": [
+      "outstanding",
+      "service",
       "excellent",
-      "platform",
-      "sarvice",
-      "services",
-      "response"
+      "quality",
+      "ok",
+      "working"
     ],
     "review_count": 76,
-    "avg_rating": 4.68,
-    "avg_sentiment": 0.493,
+    "avg_rating": 4.64,
+    "avg_sentiment": 0.491,
     "sample_reviews": [
-      "easy and nice to have a good day",
-      "good service",
-      "best service"
+      "very good service in emergency",
+      "modals are good",
+      "ok good good"
+    ]
+  },
+  {
+    "topic_id": 3,
+    "keywords": [
+      "food",
+      "food delivery",
+      "taste",
+      "quality",
+      "delivery",
+      "delivery food"
+    ],
+    "review_count": 75,
+    "avg_rating": 4.16,
+    "avg_sentiment": 0.335,
+    "sample_reviews": [
+      "It is very good app, and also provided good food for people who travelled in train",
+      "best food appppppppp",
+      "Best Lowest Price Food Dilevery App"
+    ]
+  },
+  {
+    "topic_id": 4,
+    "keywords": [
+      "bhi",
+      "kiya",
+      "ka",
+      "ko",
+      "ke",
+      "ye"
+    ],
+    "review_count": 72,
+    "avg_rating": 2.79,
+    "avg_sentiment": -0.002,
+    "sample_reviews": [
+      "brother's kulcha is very bad very very small in size",
+      "badiya app hai",
+      "ekdm ghtiya"
+    ]
+  },
+  {
+    "topic_id": 5,
+    "keywords": [
+      "high",
+      "charges",
+      "price",
+      "extra charges",
+      "extra",
+      "delivery charges"
+    ],
+    "review_count": 46,
+    "avg_rating": 1.91,
+    "avg_sentiment": -0.12,
+    "sample_reviews": [
+      "delivery charges very high",
+      "taking more extra charges of order",
+      "taken too much delivery charges"
+    ]
+  },
+  {
+    "topic_id": 6,
+    "keywords": [
+      "easy",
+      "application",
+      "excellent",
+      "superb",
+      "love",
+      "amazing"
+    ],
+    "review_count": 42,
+    "avg_rating": 4.76,
+    "avg_sentiment": 0.484,
+    "sample_reviews": [
+      "very good app",
+      "this app is best",
+      "very Simple and very Easy"
+    ]
+  },
+  {
+    "topic_id": 7,
+    "keywords": [
+      "delivery",
+      "fast delivery",
+      "fast",
+      "delivery delivery",
+      "delivery fast",
+      "delivery boy"
+    ],
+    "review_count": 32,
+    "avg_rating": 4.31,
+    "avg_sentiment": 0.274,
+    "sample_reviews": [
+      "y becoz I'm also worked as a delivery boy took lot of orders from 9R clouds and Kitchen(home) garden",
+      "best delivery",
+      "it's amazing delivery very fast \u23e9"
+    ]
+  },
+  {
+    "topic_id": 8,
+    "keywords": [
+      "zomato",
+      "zomato zomato",
+      "thanks",
+      "thanks zomato",
+      "india",
+      "like zomato"
+    ],
+    "review_count": 31,
+    "avg_rating": 3.94,
+    "avg_sentiment": 0.255,
+    "sample_reviews": [
+      "I like you zomato",
+      "nice zamtao",
+      "nice zomato"
+    ]
+  },
+  {
+    "topic_id": 9,
+    "keywords": [
+      "delevery",
+      "time",
+      "late",
+      "right",
+      "timeing",
+      "aacha"
+    ],
+    "review_count": 16,
+    "avg_rating": 4.25,
+    "avg_sentiment": 0.152,
+    "sample_reviews": [
+      "nice .. aacha h time to timedilvery",
+      "timley deleviry",
+      "never on time but ok"
+    ]
+  },
+  {
+    "topic_id": 10,
+    "keywords": [
+      "offer",
+      "offers",
+      "discount",
+      "happy",
+      "new",
+      "available"
+    ],
+    "review_count": 15,
+    "avg_rating": 3.67,
+    "avg_sentiment": 0.343,
+    "sample_reviews": [
+      "nice give offer",
+      "good option with best offers ",
+      "Good Offers available. delivery on time"
+    ]
+  },
+  {
+    "topic_id": 11,
+    "keywords": [
+      "experience",
+      "experience bad",
+      "worst",
+      "bad experience",
+      "worst experience",
+      "worst worst"
+    ],
+    "review_count": 13,
+    "avg_rating": 3.0,
+    "avg_sentiment": -0.053,
+    "sample_reviews": [
+      "my second mother ",
+      "worth experience",
+      "overall good experience"
+    ]
+  },
+  {
+    "topic_id": 12,
+    "keywords": [
+      "cash",
+      "cash delivery",
+      "available",
+      "option",
+      "delivery",
+      "pay"
+    ],
+    "review_count": 12,
+    "avg_rating": 2.5,
+    "avg_sentiment": -0.057,
+    "sample_reviews": [
+      "cash on delivery honi chahiye",
+      "can't pay in cash",
+      "case on dalevury not available"
     ]
   }
 ]

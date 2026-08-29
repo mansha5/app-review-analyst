@@ -3,76 +3,264 @@
     "topic_id": 0,
     "keywords": [
       "airbnb",
-      "stay",
-      "place",
+      "booking",
       "love",
+      "stay",
       "host",
-      "places"
+      "easy"
     ],
-    "review_count": 155,
-    "avg_rating": 3.88,
-    "avg_sentiment": 0.339,
+    "review_count": 702,
+    "avg_rating": 3.81,
+    "avg_sentiment": 0.38,
     "sample_reviews": [
-      "nice app bro",
-      "it openly lets pedophiles lease to guests yet company refuses to tell me why I can't use their service after 5 years and 4 attempts, yeah, seriously",
-      "excepcional encantada con Airbnb no tiene Rival.."
-    ]
+      "ease of use...currently hopping from one location to the next in hawaii. I travel alone...and i love studios and 1bed being available.",
+      "This is a fantastic app for finding comfortable and affordable places to stay. The app is easy to use, the booking process is simple, and there are plenty of options to choose from. I especially appreciate the detailed property information, photos, reviews, and convenient communication with hosts. Overall, Airbnb makes planning and booking trips much easier. Highly recommended!",
+      "I absolutely love this app"
+    ],
+    "label": "User Praise for Ease",
+    "category": "praise",
+    "root_cause": "Users appreciate the intuitive interface, seamless booking flow, detailed property listings, and convenient host communication.",
+    "priority": "low",
+    "priority_reason": "The feedback is purely positive with no reported issues or feature complaints.",
+    "pm_action": "Document success factors of the current booking UX to preserve these patterns in future design iterations."
   },
   {
     "topic_id": 1,
     "keywords": [
       "easy",
       "easy easy",
-      "far",
-      "fast",
-      "user",
-      "book"
+      "navigate",
+      "book",
+      "easy book",
+      "service"
     ],
-    "review_count": 81,
-    "avg_rating": 4.72,
-    "avg_sentiment": 0.461,
+    "review_count": 262,
+    "avg_rating": 4.81,
+    "avg_sentiment": 0.463,
     "sample_reviews": [
-      "good so far. we'll see what happens",
-      "super easy and lots of great info",
-      "easy to use"
-    ]
+      "Users friendly and very consistent",
+      "very convenient and useful",
+      "very easy and straight forward"
+    ],
+    "label": "Easy Navigation and Booking Experience",
+    "category": "praise",
+    "root_cause": "Users find the app highly intuitive, consistent, and convenient for navigating and completing bookings.",
+    "priority": "low",
+    "priority_reason": "The feedback is overwhelmingly positive with a high average rating of 4.81 across 262 reviews.",
+    "pm_action": "Document and maintain the current UX design patterns used in the booking flow to ensure consistency across future app updates."
   },
   {
     "topic_id": 2,
     "keywords": [
-      "account",
-      "service",
-      "customer service",
-      "customer",
-      "payment",
-      "try"
+      "ideal",
+      "algo",
+      "browser",
+      "solo",
+      "tiene",
+      "ms"
     ],
-    "review_count": 42,
-    "avg_rating": 1.48,
-    "avg_sentiment": -0.281,
+    "review_count": 30,
+    "avg_rating": 3.43,
+    "avg_sentiment": -0.021,
     "sample_reviews": [
-      "Terrible customer service disrespectful and slow",
-      "If you have a recycled phone number, you are doomed!",
-      "I have been a customer for 8 years and have booked many times the app is good in those matters. But I was just booking a trip to Maui I rented 2 places to stay with them. they said rent your car with us and we'll give your abb credit of $53. so I rented the car and they are giving me the run around sending me the car rental company for the credit and the car rental company is sending me back to abb for the credit thats a scam I could have rented in 100 sites but I didnt im giving them 0"
-    ]
+      "Es genial poder encontrar diversas opciones",
+      "muito bom! ajuda muito",
+      "Una aplicaci\u00f3n que conecta personas en todo el mundo, gracias por hacer f\u00e1ciles las reservas de mis estancias."
+    ],
+    "label": "High praise for booking experience",
+    "category": "praise",
+    "root_cause": "Users value the easy booking process and global variety of accommodations available on the platform.",
+    "priority": "low",
+    "priority_reason": "The reviews express strong user satisfaction and positive sentiment, requiring no urgent fixes.",
+    "pm_action": "Share positive user feedback with the search and booking product teams to reinforce successful UX patterns."
   },
   {
     "topic_id": 3,
     "keywords": [
-      "experience",
-      "excellent",
-      "till",
-      "overall",
-      "bad experience",
-      "seamless"
+      "verification",
+      "phone",
+      "verify",
+      "id",
+      "identity",
+      "code"
     ],
-    "review_count": 12,
-    "avg_rating": 4.92,
-    "avg_sentiment": 0.384,
+    "review_count": 29,
+    "avg_rating": 1.55,
+    "avg_sentiment": -0.259,
     "sample_reviews": [
+      "log in trouble is still HORRIBLE. every time they send the authenticator code, going to the text or email to copy the code shuts you out of the page to enter the code, or entering the code gives you a pop up that it's the wrong code. stick with the website instead!",
+      "Hassle verification.",
+      "I verified my identity multiple ways. I don't trust this. Something is wrong here."
+    ],
+    "label": "Broken identity verification login flow",
+    "category": "bug",
+    "root_cause": "The app loses state when users switch to messaging/email apps to retrieve 2FA codes, resulting in session resets and failed code validation.",
+    "priority": "medium",
+    "priority_reason": "The average rating is below 2.5 at 1.55, but the review count of 29 does not meet the threshold of >30 for high priority.",
+    "pm_action": "Implement native OS OTP auto-fill support and fix app background state preservation during 2FA verification."
+  },
+  {
+    "topic_id": 4,
+    "keywords": [
+      "pleasure",
+      "love love",
+      "updating",
+      "spot",
+      "fantastic",
+      "problems"
+    ],
+    "review_count": 26,
+    "avg_rating": 4.96,
+    "avg_sentiment": 0.548,
+    "sample_reviews": [
+      "Just great!",
+      "always on top",
+      "Just AWESOME"
+    ],
+    "label": "Overwhelmingly Positive User Feedback",
+    "category": "praise",
+    "root_cause": "Users are highly satisfied with the app's recent updates and overall performance.",
+    "priority": "low",
+    "priority_reason": "Feedback is overwhelmingly positive with an average rating of 4.96 out of 5.",
+    "pm_action": "Share positive sentiment with the development team to reinforce effective features and maintain quality."
+  },
+  {
+    "topic_id": 5,
+    "keywords": [
+      "experience",
+      "experience experience",
+      "experiences",
+      "excellent",
+      "far",
+      "experiences far"
+    ],
+    "review_count": 25,
+    "avg_rating": 4.96,
+    "avg_sentiment": 0.459,
+    "sample_reviews": [
+      "every one of my experiences have been great so far. keep.it up!",
       "Excellent experience all-around!",
-      "awesome experience",
-      "Till now awesomeeeee....... experience everyone should try it"
+      "awesome experience"
+    ],
+    "label": "High satisfaction with Airbnb Experiences",
+    "category": "praise",
+    "root_cause": "Users are experiencing consistently high quality and seamless interactions with Airbnb Experiences.",
+    "priority": "low",
+    "priority_reason": "Priority is low because the reviews are overwhelmingly positive with an average rating of 4.96 out of 5.",
+    "pm_action": "Share this positive feedback with the Experiences product team to reinforce successful product strategies."
+  },
+  {
+    "topic_id": 6,
+    "keywords": [
+      "far",
+      "worse",
+      "goes",
+      "getting worse",
+      "perfect far",
+      "looking forward"
+    ],
+    "review_count": 25,
+    "avg_rating": 4.56,
+    "avg_sentiment": 0.367,
+    "sample_reviews": [
+      "everything goes so smoothly",
+      "good so far. we'll see what happens",
+      "not great when things go wrong"
+    ]
+  },
+  {
+    "topic_id": 7,
+    "keywords": [
+      "ka",
+      "number",
+      "google",
+      "okay",
+      "ms",
+      "refundable"
+    ],
+    "review_count": 24,
+    "avg_rating": 3.54,
+    "avg_sentiment": 0.071,
+    "sample_reviews": [
+      "apps airbnb lagi mudah untuk saya complete kan booking saya. tak loading lama.",
+      "sangat mudah",
+      "sobrang useless, nag rerequire ng physical id even though wala na!! digital lang ho naprovide ng government."
+    ]
+  },
+  {
+    "topic_id": 8,
+    "keywords": [
+      "customer",
+      "customer service",
+      "service",
+      "terrible",
+      "terrible customer",
+      "customers"
+    ],
+    "review_count": 21,
+    "avg_rating": 1.33,
+    "avg_sentiment": -0.348,
+    "sample_reviews": [
+      "The quality of service can be inconsistent, largely contingent on the specific location. We have observed instances of misrepresentation or discrepancies between advertised and delivered services. Furthermore, our customer service operations are outsourced, which can present challenges for clients attempting to resolve immediate concerns, particularly when traveling internationally or even domestically, due to difficulties in reaching either the host or customer support.",
+      "terrible customer service",
+      "The worst customer service ever. Don't expect them to help with anything."
+    ]
+  },
+  {
+    "topic_id": 9,
+    "keywords": [
+      "hosts",
+      "host",
+      "friendly",
+      "accommodating",
+      "easy",
+      "like"
+    ],
+    "review_count": 20,
+    "avg_rating": 4.95,
+    "avg_sentiment": 0.759,
+    "sample_reviews": [
+      "I am a host and i use the platform for traveling it is great!!",
+      "Great Host on sorrento towers junior sweet .5Starhost very helpful, and accommodating. Great experience.",
+      "Great very kind and considerate host"
+    ]
+  },
+  {
+    "topic_id": 10,
+    "keywords": [
+      "air",
+      "bnb",
+      "air bnb",
+      "account",
+      "fraudulent",
+      "love"
+    ],
+    "review_count": 17,
+    "avg_rating": 3.47,
+    "avg_sentiment": 0.286,
+    "sample_reviews": [
+      "host lied to air BNB and left a fraudulent review on my profile . air BNB didn't have us pay but left review on my account after saying they would deal with it. won't use again. Vrbo it is.",
+      "I love the air bnb app! It's so convenient! ",
+      "I love the absolute convenience of using Air BnB we used it our 1st trip and everything was absolutely amazing"
+    ]
+  },
+  {
+    "topic_id": 11,
+    "keywords": [
+      "fast",
+      "fast easy",
+      "easy fast",
+      "easy",
+      "super simple",
+      "easy perfect"
+    ],
+    "review_count": 15,
+    "avg_rating": 4.73,
+    "avg_sentiment": 0.368,
+    "sample_reviews": [
+      "fast and easy",
+      "fast and easy",
+      "easy and fast"
     ]
   }
 ]

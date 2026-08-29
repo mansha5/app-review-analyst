@@ -2,58 +2,58 @@
   {
     "topic_id": 0,
     "keywords": [
-      "phone",
-      "dont",
-      "know",
-      "payment",
-      "need",
-      "screen"
+      "movie",
+      "movies",
+      "season",
+      "series",
+      "story",
+      "love"
     ],
-    "review_count": 86,
-    "avg_rating": 2.77,
-    "avg_sentiment": 0.138,
+    "review_count": 277,
+    "avg_rating": 4.57,
+    "avg_sentiment": 0.488,
     "sample_reviews": [
-      "love the app but it dosent have all the animes I want to watch, and the for the pfp dose not have the ones I want so thats a bummer but other wise its a good app",
-      "the moment they took out the casting button I cancelled my account.",
-      "I am getting logged out to often. Inconveniente."
+      "great movie so touching it just bought tears in my eyes. in this era of fake love it inspires us for true love and deep feelings for some one forever which never changes after long distance and wait",
+      "just love the movie \u2764\ufe0f",
+      "I just love the new addition of movies! Most are my listed faves."
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
+      "amazing",
+      "love",
+      "shows",
       "movie",
-      "film",
-      "awesome",
-      "interesting",
       "movies",
       "watch"
     ],
-    "review_count": 55,
-    "avg_rating": 4.69,
-    "avg_sentiment": 0.482,
+    "review_count": 133,
+    "avg_rating": 4.44,
+    "avg_sentiment": 0.446,
     "sample_reviews": [
-      "bring back dead end paranormal Park",
-      "Awesome Movie",
-      "This was actually a wonderful little film !"
+      "best than ader app",
+      "fantastic app",
+      "very nice app"
     ]
   },
   {
     "topic_id": 2,
     "keywords": [
       "netflix",
+      "love netflix",
       "movies",
-      "like",
+      "netflix netflix",
       "love",
-      "watch",
-      "shows"
+      "watch"
     ],
-    "review_count": 50,
-    "avg_rating": 4.2,
-    "avg_sentiment": 0.363,
+    "review_count": 123,
+    "avg_rating": 4.65,
+    "avg_sentiment": 0.542,
     "sample_reviews": [
-      "Love Netflix! So many great shows and movies to watch. \u2764\ufe0f",
-      "Netflix gotta have it ",
-      "For My OCD And (Maybe Autism, I Don't Know SZA) Netflix Has Really Helped Me Control My Wrath, I Would Be Locked In A Federal Prison Right Now With Predators Lives On My Conscience Right Now If It Weren't For Netflix. For That I Am Extremely Explicitly Grateful. Yours Truly. -HotshotDaMonsta."
+      "Netflix is the Best! ",
+      "Netflix delivers an unmatched user experience. The recommendation algorithm is top-tier, profile management is effortless, and the interface is incredibly fast across all devices. Highly recommended for binge-watching!",
+      "\"Netflix has an amazing selection of shows and movies for every mood \u2014 smooth streaming and always something new to watch. Love it!\""
     ]
   },
   {
@@ -61,75 +61,320 @@
     "keywords": [
       "love",
       "love love",
-      "beautiful",
-      "perfect",
-      "experience",
-      "like"
+      "entertainment",
+      "awesome",
+      "heart",
+      "entertaining"
     ],
-    "review_count": 46,
-    "avg_rating": 4.24,
-    "avg_sentiment": 0.441,
+    "review_count": 86,
+    "avg_rating": 4.7,
+    "avg_sentiment": 0.578,
     "sample_reviews": [
-      "if I can I will give more than 5 \u2b50\ufe0f",
-      "it refreshes my mind",
-      "wowowow so awesome (im 21 btw)"
+      "we all love it",
+      "Awesome viewing ",
+      "I love it everything about it its worth watching rocck star good job and thank you for showing this to us and thank you nextflix too"
     ]
   },
   {
     "topic_id": 4,
     "keywords": [
-      "english",
-      "add",
-      "money",
       "movie",
-      "watching",
-      "le"
+      "hindi",
+      "drama",
+      "li",
+      "bhi",
+      "ng"
     ],
-    "review_count": 21,
-    "avg_rating": 3.67,
-    "avg_sentiment": 0.044,
+    "review_count": 53,
+    "avg_rating": 3.58,
+    "avg_sentiment": 0.045,
     "sample_reviews": [
-      "bhut he bekar hai....hindi audio ki movie and show bhut kam or sb english me 95% jada aate ...to etna money lete kyu ho sbi se jitna money le rhe ho uss me hindi wale ke liye hindi all Hollywood and south and bollywood to show/dala kro bekar aap hai",
-      "I love watching movies here cause you can translate it into any language.",
-      "Please add in KDrama from Yr 2010"
+      "\u0e15\u0e34\u0e14\u0e21\u0e32\u0e01\u0e31\u0e1a\u0e40\u0e04\u0e23\u0e37\u0e48\u0e2d\u0e07 \u0e25\u0e1a\u0e2d\u0e2d\u0e01\u0e01\u0e47\u0e44\u0e21\u0e48\u0e44\u0e14\u0e49 \u0e41\u0e25\u0e49\u0e27\u0e08\u0e30\u0e21\u0e32\u0e17\u0e33\u0e44\u0e21\u0e01\u0e38\u0e07\u0e07",
+      "good movie nhi chal Raha hai why",
+      "inkluzivn\u00ed seri\u00e1ly, nic moc obsah, kdy\u017e u\u017e n\u011bco obl\u00edben\u00e9ho. tak to po chv\u00edli sma\u017eou"
     ]
   },
   {
     "topic_id": 5,
     "keywords": [
-      "streaming",
-      "service",
-      "subscription",
-      "streaming service",
-      "expensive",
-      "worth"
+      "hindi",
+      "dubbed",
+      "subtitles",
+      "language",
+      "anime",
+      "dub"
     ],
-    "review_count": 20,
-    "avg_rating": 3.75,
-    "avg_sentiment": 0.273,
+    "review_count": 50,
+    "avg_rating": 3.68,
+    "avg_sentiment": 0.161,
     "sample_reviews": [
-      "Honestly, I hadn't purchased before because I was just sure the price was outrageous. To my surprise, when my curiosity finally convinced me to checkout the prices for myself to see what I am up against.. I saw that prices ranging from \"completely affordable\" to \"it's a good deal\" and I don't think I gave myself another minute before I purchased. Im a documentary fan that's not been able to find a streaming service that tops the Netflix Documentaries on any level.",
-      "I hate that you have to pay ",
-      "Nflix has definitely Improved over the years. I'm an old school patron, I remember when Nflix came out, they would mail you discs to watch. then you had to mail them back. then they'd mail you more. Then they started streaming an Bingo, they hit the Jackpot. "
+      "I am obsessed with the selection of Korean Shows. That's all I watch. All the time.",
+      "ai visual dubbing is about as bad as you expect. trying to enjoy nero the assassin in the original french, with English subtitles, without the ai visual dubbing but its not possible. brutal. the actors original french performances are obfuscated by really bad ai animation.",
+      "pls dont remove nanny ph the big bang thank you"
     ]
   },
   {
     "topic_id": 6,
     "keywords": [
-      "season",
-      "shows",
-      "love",
-      "long",
-      "enjoy",
-      "series"
+      "tv",
+      "watching",
+      "brightness",
+      "works",
+      "screen",
+      "phone"
+    ],
+    "review_count": 38,
+    "avg_rating": 2.18,
+    "avg_sentiment": -0.089,
+    "sample_reviews": [
+      "Dialogue not audible properly.. ruining whole watch",
+      "app update is trash. \"clips\" is the most idiotic thing I've seen in a second. you need to label any program that has AI. Just terrible enshitification everywhere",
+      "please fix the l1 to l3 widevine. i need to reinstall if i want to watch in hd."
+    ]
+  },
+  {
+    "topic_id": 7,
+    "keywords": [
+      "ads",
+      "ad",
+      "subscription",
+      "commercials",
+      "dont",
+      "free"
+    ],
+    "review_count": 33,
+    "avg_rating": 2.48,
+    "avg_sentiment": -0.049,
+    "sample_reviews": [
+      "too many ads for a small amount of low quality content",
+      "I like netflix but I dont think it's wright you have to pay more money so you don't have adverts",
+      "So I just got the ad tier of Netflix. I opened up a show, and it's showing me that two times during a episode of outer banks, it will show ads. i really appreciate that. It didn't force me to watch ads as soon as I clicked on the show. Like other streaming services."
+    ]
+  },
+  {
+    "topic_id": 8,
+    "keywords": [
+      "expensive",
+      "price",
+      "prices",
+      "getting expensive",
+      "getting",
+      "greed"
+    ],
+    "review_count": 31,
+    "avg_rating": 2.48,
+    "avg_sentiment": 0.052,
+    "sample_reviews": [
+      "these prices are out of control",
+      "too expensive brw",
+      "Insane corporate greed! 2026 update: worse then ever!"
+    ]
+  },
+  {
+    "topic_id": 9,
+    "keywords": [
+      "bad",
+      "quite",
+      "wonderful",
+      "pretty",
+      "twists",
+      "neat"
+    ],
+    "review_count": 30,
+    "avg_rating": 4.5,
+    "avg_sentiment": 0.437,
+    "sample_reviews": [
+      "it was quite good",
+      "Just great all around",
+      "pretty good!"
+    ]
+  },
+  {
+    "topic_id": 10,
+    "keywords": [
+      "working",
+      "screen",
+      "black screen",
+      "black",
+      "download",
+      "loading"
+    ],
+    "review_count": 30,
+    "avg_rating": 1.47,
+    "avg_sentiment": -0.097,
+    "sample_reviews": [
+      "I mistakenly uninstalled it but now I can't install it again ",
+      "Restrictions on movies should be all accessable",
+      "Won't load , Just a black screen on my phone . No matter how many times I uninstalled it and reinstalled it that didn't work! Only one time it actually loaded up and I was able to see the content but it went right back to not loading and only showing a black screen !"
+    ]
+  },
+  {
+    "topic_id": 11,
+    "keywords": [
+      "payment",
+      "subscription",
+      "membership",
+      "cancel",
+      "month",
+      "paid"
+    ],
+    "review_count": 28,
+    "avg_rating": 1.29,
+    "avg_sentiment": -0.373,
+    "sample_reviews": [
+      "NETFLIX I'M ABOUT TO CANCEL MY SUBSCRIPTION I PAY FOR 5 PROFILE AND I ONLY USE 4 STOP MAKING ME HAVE TO UPDATE MY HOUSEHOLD EVERY TIME I WANT TO WATCH SOMETHING!! I'M ABOUT TO CANCEL MY SUBSCRIPTION!! Y'ALL ARE NOT WORTH THE $26.99 STOP ASKING ME TO UPGATE MY HOUSEHOLD EVERY TIME I WANT TO WATCH SOMETHING!!!!!!!!!!!!!",
+      "when I cancel my membership I dont want netflix to continue asking me to undo my cancellation with some annoying pop up. Now my membership has been prolonged another month when I didnt want too.",
+      "payment doesn't work"
+    ],
+    "label": "Household Verification and Cancellation Friction",
+    "category": "complaint",
+    "root_cause": "Intrusive household validation prompts and aggressive cancellation retention pop-ups cause severe user frustration and unintended subscription renewals.",
+    "priority": "medium",
+    "priority_reason": "The average rating is 1.29, but the review count of 28 does not meet the threshold of more than 30 required for high priority.",
+    "pm_action": "Audit the cancellation flow UX to prevent accidental renewals and reduce the frequency of household verification prompts for multi-profile accounts."
+  },
+  {
+    "topic_id": 12,
+    "keywords": [
+      "platform",
+      "platform entertainment",
+      "entertainment",
+      "preferences",
+      "important",
+      "web"
+    ],
+    "review_count": 24,
+    "avg_rating": 4.46,
+    "avg_sentiment": 0.535,
+    "sample_reviews": [
+      "The best remote access",
+      "its to good platform and i enjoy a lot of series and movies i love it and make sure Netflix make a good shows",
+      "served me since I was 3 in 2015 this platform never disappoints me 10 out of 10"
+    ],
+    "label": "Overall Platform Praise",
+    "category": "praise",
+    "root_cause": "Users express strong satisfaction with platform reliability, remote access, and content selection.",
+    "priority": "low",
+    "priority_reason": "Feedback is overwhelmingly positive with a high average rating of 4.46.",
+    "pm_action": "Share feedback with the engineering and content teams to sustain platform quality and user delight."
+  },
+  {
+    "topic_id": 13,
+    "keywords": [
+      "netflix",
+      "update",
+      "working",
+      "dont know",
+      "internet",
+      "days"
     ],
     "review_count": 18,
-    "avg_rating": 4.94,
-    "avg_sentiment": 0.738,
+    "avg_rating": 1.83,
+    "avg_sentiment": -0.029,
     "sample_reviews": [
-      "Awsome place to find the Shows you Love.",
-      "The show is grt. Idk if anyone else rlly likes it, but it's a grt show. I enjoy it. Grt actresses in it. I'm sure they work hard. Have a good one.",
-      "Great shows and entertainment "
+      "unfortunately, though the hardware in my FireTV stick is fully updated and says the device is compatible, Netflix, i had jumped the gun pre-purchasing, but i couldn't even use it. i had to borrow my friends' Prime account to watch shows. i dont know why your app, Netflix, just will not download. Every other app has downloaded fine.. nnot Netflix. I've rebooted the firetv, I've factory reset. nothing has worked. how can I get reimbursed the money wasted on the subscription for the month of Aug?",
+      "l signed the Netflix but it didn't work",
+      "not working on Netflix my phone redmi12 4G check"
+    ],
+    "label": "App Installation and Startup Failures",
+    "category": "bug",
+    "root_cause": "Users are unable to download, install, or launch the Netflix app across specific hardware, including FireTV sticks and Redmi 12 4G devices.",
+    "priority": "medium",
+    "priority_reason": "The priority is set to medium because the average rating is below 2.5, but the total review count of 18 does not meet the high-priority threshold of over 30 reviews.",
+    "pm_action": "Coordinate with the engineering and QA teams to reproduce and patch device-specific installation and launch failures on Fire OS and Redmi 12 4G builds."
+  },
+  {
+    "topic_id": 14,
+    "keywords": [
+      "streaming",
+      "services",
+      "streaming service",
+      "mail",
+      "content",
+      "needs"
+    ],
+    "review_count": 18,
+    "avg_rating": 4.28,
+    "avg_sentiment": 0.431,
+    "sample_reviews": [
+      "one of the worst streaming services on the internet",
+      "only better for content exclusives",
+      "It's nice for streaming and good actually"
+    ],
+    "label": "Mixed sentiment on streaming value",
+    "category": "other",
+    "root_cause": "Users value exclusive content highly but hold mixed opinions regarding overall service performance relative to competitors.",
+    "priority": "low",
+    "priority_reason": "The app maintains a high overall rating of 4.28 out of 5 indicating strong general user satisfaction.",
+    "pm_action": "Analyze user engagement patterns on non-exclusive catalog items to optimize content discovery and perceived platform value."
+  },
+  {
+    "topic_id": 15,
+    "keywords": [
+      "things want",
+      "percent",
+      "bestest",
+      "totally",
+      "piece",
+      "time"
+    ],
+    "review_count": 14,
+    "avg_rating": 4.5,
+    "avg_sentiment": 0.628,
+    "sample_reviews": [
+      "the best ever",
+      "best of the best",
+      "Best fun time \u23f2\ufe0f "
+    ],
+    "label": "High satisfaction with content experience",
+    "category": "praise",
+    "root_cause": "Users are delighted with the overall entertainment value and platform experience provided by Netflix.",
+    "priority": "low",
+    "priority_reason": "Priority is low because the user feedback is overwhelmingly positive with a high average rating of 4.5 out of 5.",
+    "pm_action": "Maintain current content recommendation algorithms and service stability to sustain high user satisfaction."
+  },
+  {
+    "topic_id": 16,
+    "keywords": [
+      "email",
+      "profile",
+      "account",
+      "individual",
+      "data",
+      "stupid"
+    ],
+    "review_count": 13,
+    "avg_rating": 1.0,
+    "avg_sentiment": -0.267,
+    "sample_reviews": [
+      "Yeah stupid email send sucks again I can't watch any movies because of stupid email resent this is not recommended just nothing",
+      "It would be nice to lock your profile with a password so no one else in the house can interfere with your watch list.",
+      "Keeps asking for more email accounts"
+    ],
+    "label": "Email Verification and Profile Privacy",
+    "category": "complaint",
+    "root_cause": "Users face playback friction from repeated email verification loops and desire profile-level password protection.",
+    "priority": "medium",
+    "priority_reason": "The rating is under 2.5, but the volume of 13 reviews does not exceed the threshold of 30 required for high priority.",
+    "pm_action": "Investigate authentication email re-triggering logic and ensure profile PIN features are clearly surfaced to users."
+  },
+  {
+    "topic_id": 17,
+    "keywords": [
+      "login",
+      "verification",
+      "laptop",
+      "issue",
+      "email",
+      "unable"
+    ],
+    "review_count": 10,
+    "avg_rating": 1.2,
+    "avg_sentiment": -0.194,
+    "sample_reviews": [
+      "extremely Worst Experience to Login and Create a new Account.",
+      "I can't sign up at all. there is no \"use password instead\" button, no, it just doesn't work.",
+      "login and user/device management has become very annoying lately"
     ]
   }
 ]

@@ -2,96 +2,96 @@
   {
     "topic_id": 0,
     "keywords": [
-      "love",
       "youtube",
-      "like",
+      "ads",
+      "video",
       "videos",
-      "watch",
-      "easy"
+      "like",
+      "update"
     ],
-    "review_count": 114,
-    "avg_rating": 4.36,
-    "avg_sentiment": 0.412,
+    "review_count": 1139,
+    "avg_rating": 2.82,
+    "avg_sentiment": 0.101,
     "sample_reviews": [
-      "nice very good",
-      "It is very nice and good",
-      "Very nice comfortable"
+      "support is useless. premium features don't work and the troubleshooting flow involves changing 11 settings and then just using another device entirely. save yourself the headache and just use Brave.",
+      "Horrible update. What is wrong with you?",
+      "ads all video this is worst app"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "ads",
-      "ad",
+      "hi",
+      "raha",
+      "mera",
       "youtube",
-      "video",
-      "ai",
-      "premium"
+      "ko",
+      "update"
     ],
-    "review_count": 91,
-    "avg_rating": 1.69,
-    "avg_sentiment": -0.104,
+    "review_count": 137,
+    "avg_rating": 3.36,
+    "avg_sentiment": 0.061,
     "sample_reviews": [
-      "I ain't paying so much just to watch ads constantly , specially right after 5-10mins of any video . work on for those who can't have premium.",
-      "best app for world but some many ads but ok",
-      "remove ads and never change old layout "
+      "jatav king ",
+      "bakit ayaw magamit you tube ko?",
+      "Bikash nayaj"
     ]
   },
   {
     "topic_id": 2,
     "keywords": [
-      "video",
-      "youtube",
-      "videos",
-      "update",
-      "screen",
-      "im"
+      "microphone",
+      "bhi",
+      "raha",
+      "kam raha",
+      "kam",
+      "ka"
     ],
-    "review_count": 60,
-    "avg_rating": 2.2,
-    "avg_sentiment": -0.093,
+    "review_count": 16,
+    "avg_rating": 2.12,
+    "avg_sentiment": -0.02,
     "sample_reviews": [
-      "cannot download video",
-      "press-and-hold for 2x playback has ~2 second lag before the speed engages, and another ~2 seconds after releasing before it returns to 1x. Device: Galaxy Z Fold 8, Latest YouTube app. Not the touchscreen \u2014 other apps long-press normally. Not network or account \u2014 same gesture on the web player in a browser on this same phone is instant.",
-      "Didn't open you tube."
+      "Microphone problem solved....",
+      "The microphone doesn't work....",
+      "microphone is not working properly"
     ]
   },
   {
     "topic_id": 3,
     "keywords": [
-      "update",
-      "working",
-      "tab",
       "search",
-      "available",
-      "entire"
+      "voice",
+      "hear",
+      "microphone",
+      "working",
+      "didnt hear"
     ],
-    "review_count": 39,
-    "avg_rating": 1.67,
-    "avg_sentiment": -0.154,
+    "review_count": 14,
+    "avg_rating": 1.71,
+    "avg_sentiment": 0.058,
     "sample_reviews": [
-      "The entire app has been rendered useless, as my subscriptions tab in the bottom, has been completely removed. It's not even there next to the home tab, and since I don't have my search history turned on, I basically have nothing to watch, unless I explicitly search for something. Absolutely horrible change. GIVE ME MY SUBSCRIPTIONS TAB BACK!",
-      "so annoying it's won't even load why why",
-      "stoped working after a couple of years on my galaxy tab a"
+      "fix your algorithm it's all the same slop based on recent searches",
+      "The voice search was not working properly... 27/8/26",
+      "I have been facing voice search issues."
     ]
   },
   {
     "topic_id": 4,
     "keywords": [
-      "video",
-      "youtube",
-      "mera",
-      "advertisement",
-      "main",
-      "youtube channel"
+      "microphone",
+      "didnt hear",
+      "hear",
+      "didnt",
+      "try",
+      "hear tap"
     ],
-    "review_count": 21,
-    "avg_rating": 3.9,
-    "avg_sentiment": 0.022,
+    "review_count": 10,
+    "avg_rating": 2.4,
+    "avg_sentiment": -0.011,
     "sample_reviews": [
-      "santosh kumar nice",
-      "menyediakan banyak kategori video yg menarik dan dapat menarik minat saya menonton sewaktu masa lapang",
-      "\u201cBanyak sangat kandungan yang bermanfaat dan menghiburkan. Saya boleh belajar perkara baharu, dengar muzik dan menonton video pada bila-bila masa.\u201d"
+      "please help my YouTube microphone",
+      "My YouTube microphone is not working correctly. Every time I turn it on, it says, \"Didn't hear that. Tap the microphone to try again. Didn't hear that. Didn't hear that. Tap the microphone to try again. Didn't hear that. Tap the microphone to try again. Didn't hear that. Didn't hear that. Tap the microphone to try again.\" Also, my downloaded videos are gone. Every time I try to download videos, it just gives error 404",
+      "Today i was trying to searching something in YouTube microphone but the Microphone has a creepy voice and constantly said Didn't hear that try again i was try many methods but nothing work on it I Ask to the YouTube management please fix it as soon as possible !"
     ]
   }
 ]

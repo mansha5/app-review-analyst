@@ -2,62 +2,81 @@
   {
     "topic_id": 0,
     "keywords": [
-      "easy",
-      "service",
-      "secure",
-      "safe",
-      "awesome",
-      "fast"
+      "koi",
+      "hi",
+      "ka",
+      "log",
+      "karo",
+      "paytm"
     ],
-    "review_count": 117,
-    "avg_rating": 4.69,
-    "avg_sentiment": 0.466,
+    "review_count": 87,
+    "avg_rating": 3.13,
+    "avg_sentiment": 0.035,
     "sample_reviews": [
-      "Nice app. Recharge quickly. Awesome one is-when you post ur No. then immediate shows d Number locality.",
-      "very useful ",
-      "i love app secure app no problem fast upi aap"
+      "bakawas app",
+      "sri wow appa super",
+      "bahut achcha"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "paytm",
       "payment",
       "payments",
       "upi",
-      "fast",
-      "money"
+      "paytm",
+      "online",
+      "online payment"
     ],
-    "review_count": 110,
-    "avg_rating": 3.66,
-    "avg_sentiment": 0.247,
+    "review_count": 87,
+    "avg_rating": 4.76,
+    "avg_sentiment": 0.5,
     "sample_reviews": [
-      "paytm best app",
-      "it's great paytm.. ",
-      "thankyou Paytm"
+      "best mobile payment app",
+      "very good app, simple interface i am using it since 2017 without any difficulty, i request to provide option to turn off all in app sound while success payments",
+      "overall good app but one problem in this app that make paytm drawback so plz contact me for this problem solution don't ignore this .."
     ]
   },
   {
     "topic_id": 2,
     "keywords": [
-      "raha",
-      "ka",
-      "nahi",
-      "hi",
-      "rs",
-      "apps"
+      "upi",
+      "amazing",
+      "love",
+      "indian",
+      "superb",
+      "years"
     ],
-    "review_count": 43,
-    "avg_rating": 3.26,
-    "avg_sentiment": 0.072,
+    "review_count": 83,
+    "avg_rating": 4.89,
+    "avg_sentiment": 0.519,
     "sample_reviews": [
-      "dharmendra \u2764\u2764\u2764\u2764\u2764",
-      "radhe radhe",
-      "sound box bilkul na le....inke sound box ki service bilkul ghatiya h. ..ai se samsya ka samadhan kerte h...aaj 22.08.2026 ko lagbhag 10 din ho gye inki or se koi solution nhi ho rha ....ab to bus consumer court Jana hi bacha h.... bilkul ghatiya service..."
+      "it good app",
+      "very good app",
+      "it's amazing, India's best UPI app now I'm so happy"
     ]
   },
   {
     "topic_id": 3,
+    "keywords": [
+      "paytm",
+      "device",
+      "unable",
+      "issue",
+      "showing",
+      "transaction"
+    ],
+    "review_count": 54,
+    "avg_rating": 1.83,
+    "avg_sentiment": -0.07,
+    "sample_reviews": [
+      "Hi, please add the Paytm wallet option again.",
+      "I have changed my mobile and verification has not been done and I can't do any transaction on paytm. Any time shows verification couldn't not been done and issue in upi system. can u help me do get out from this problem otherwise no use of paytm for me in future 09:49 AM",
+      "Hi Paytm, my app has suddenly stopped working with the pop up message 'device environment is not correct'. I had uninstalled the app to re-download but now I'm unable to login and the app gives a pop up message to contact Paytm support."
+    ]
+  },
+  {
+    "topic_id": 4,
     "keywords": [
       "environment",
       "device",
@@ -66,51 +85,279 @@
       "correct",
       "working"
     ],
-    "review_count": 23,
-    "avg_rating": 1.43,
-    "avg_sentiment": -0.121,
+    "review_count": 48,
+    "avg_rating": 1.62,
+    "avg_sentiment": -0.132,
     "sample_reviews": [
-      "I am getting error environment is not correct. tell me reason for that??. model no- techno LE 7. please fix it as soon as possible",
-      "it keeps saying not for device environment & payment fails everytime",
-      "My aap showing 0000 enviornment not recognised error"
-    ]
-  },
-  {
-    "topic_id": 4,
-    "keywords": [
-      "cashback",
-      "cash",
-      "gold",
-      "fake",
-      "offers",
-      "need"
-    ],
-    "review_count": 17,
-    "avg_rating": 3.06,
-    "avg_sentiment": -0.017,
-    "sample_reviews": [
-      "good Cash back",
-      "Even though I'm using a coupon I'm not getting cashback afterwards...",
-      "fake and decieving cashback offers"
+      "app not working & freez after opening, also I had uninstalled & reinstall app but facing same problem",
+      "App is not working, always flash message highlight Device Environment is not Correct",
+      "The app is not opening with an error saying' device environment is not correct \"."
     ]
   },
   {
     "topic_id": 5,
     "keywords": [
+      "happy",
+      "super",
+      "fantastic",
+      "ok",
+      "superb",
+      "like"
+    ],
+    "review_count": 41,
+    "avg_rating": 4.8,
+    "avg_sentiment": 0.588,
+    "sample_reviews": [
+      "super i like this",
+      "excellent work",
+      "It was great"
+    ]
+  },
+  {
+    "topic_id": 6,
+    "keywords": [
+      "service",
+      "services",
+      "quick",
+      "awesome",
+      "excellent service",
+      "poor service"
+    ],
+    "review_count": 35,
+    "avg_rating": 4.66,
+    "avg_sentiment": 0.399,
+    "sample_reviews": [
+      "good service ",
+      "Best service.",
+      "best servesh"
+    ]
+  },
+  {
+    "topic_id": 7,
+    "keywords": [
+      "rewards",
+      "coins",
+      "cashback",
+      "worst",
+      "coin",
+      "gold"
+    ],
+    "review_count": 29,
+    "avg_rating": 2.24,
+    "avg_sentiment": 0.112,
+    "sample_reviews": [
+      "you don't give any reward as well as assure reward you are liyer",
+      "Stole my money. I purchased a Google play Recharge code and i first tried to redeem it said the Code is only Redeemable in India (I'm in India and my account is also set in India) then after a while when i tried again it said the code was already redeem so i checked my Google play balance it was still 0.",
+      "Vouchers from entertainment brands are great."
+    ]
+  },
+  {
+    "topic_id": 8,
+    "keywords": [
+      "easy",
+      "user",
+      "friendly",
+      "user friendly",
+      "simple easy",
+      "simple"
+    ],
+    "review_count": 29,
+    "avg_rating": 4.93,
+    "avg_sentiment": 0.552,
+    "sample_reviews": [
+      "this is very easy plapp",
+      "excellent and easy to use",
+      "easy to use"
+    ]
+  },
+  {
+    "topic_id": 9,
+    "keywords": [
+      "payment",
+      "fast",
+      "fast payment",
+      "speed",
+      "payment payment",
+      "super fast"
+    ],
+    "review_count": 24,
+    "avg_rating": 4.21,
+    "avg_sentiment": 0.159,
+    "sample_reviews": [
+      "so much speed on payment and much more chashback",
+      "every time after payment they make fool after paid",
+      "smooth payment"
+    ]
+  },
+  {
+    "topic_id": 10,
+    "keywords": [
+      "cashback",
+      "cash",
+      "fake",
+      "gold",
+      "said",
+      "offers"
+    ],
+    "review_count": 23,
+    "avg_rating": 2.52,
+    "avg_sentiment": -0.053,
+    "sample_reviews": [
+      "yesterday my gold coin 1550 and today my coins is 221 only total froud.",
+      "need more discount for cashback other wise all fine",
+      "gajab cashback"
+    ]
+  },
+  {
+    "topic_id": 11,
+    "keywords": [
+      "paytm",
+      "paytm paytm",
+      "love paytm",
+      "love",
+      "confusing",
+      "experience paytm"
+    ],
+    "review_count": 20,
+    "avg_rating": 4.75,
+    "avg_sentiment": 0.478,
+    "sample_reviews": [
+      "best best Paytm who is",
+      "Paytm is a very good.",
+      "it's really nice i love this payetm in my life i love it's really good "
+    ]
+  },
+  {
+    "topic_id": 12,
+    "keywords": [
+      "experience",
+      "bad experience",
+      "year",
+      "wonderful",
+      "better",
+      "bad"
+    ],
+    "review_count": 20,
+    "avg_rating": 4.7,
+    "avg_sentiment": 0.446,
+    "sample_reviews": [
+      "best experience",
+      "Good experience",
+      "good experience"
+    ]
+  },
+  {
+    "topic_id": 13,
+    "keywords": [
       "stop",
-      "seconds",
       "faster",
+      "seconds",
       "download",
-      "added",
+      "start",
       "soo"
     ],
-    "review_count": 11,
-    "avg_rating": 4.45,
-    "avg_sentiment": 0.147,
+    "review_count": 15,
+    "avg_rating": 4.93,
+    "avg_sentiment": 0.008,
     "sample_reviews": [
-      "I love the app! This is syncing happens pretty much every time you open the app, start, stop, or edit an entry, so it was a real pain. The app is soo much faster download. Not to mention being unable to use the app when it's syncing because it literally stops responding until it's done. But now download faster and more stable. Thank you so much to everyone algorithms. You'd stop an entry and it'd be several seconds before it'd actually stop and those extra seconds are added too the entry?",
-      "I love the app! The app is soo much faster download. You'd stop an entry and it'd be several \u23f0seconds before it'd actually stop and those extra seconds are added too the entry.This is syncing happens pretty much every time you open the app, start, stop, or edit an entry, so it was a real pain. But now download faster and more stable. Thank you so much to everyone algorithms. Not to mention being unable to use the app when it's syncing because it literally stops responding until it's done.",
-      "I love\u23f0 the app! This is syncing happens pretty much every time you open the app, start, stop, or edit an entry, so it was a real pain. The app is soo much faster download. Not to mention being unable to use the app when it's syncing because it literally stops responding until it's done. Thank you so much to everyone algorithms. But now download faster and more stable. You'd stop an entry and it'd be several seconds before it'd actually stop and those extra seconds are added too the entry."
+      "I love the app! The app is soo much faster download. But now download faster and more stable. Thank you so much to everyone algorithms. You'd stop an entry and it'd be several seconds before it'd actually stop and those extra seconds are added too the entry? This is syncing happens pretty much every time you open the app, start, stop, or edit an entry, so it was a real pain. Not to mention being unable to use the app when it's syncing because it literally stops responding until it's done.",
+      "I love the app. You'd stop an entry and it'd be several seconds before it'd actually stop and those extra seconds are added to the entry. But now download faster and more stable. Not to mention being unable to use the app when it's syncing because its literally stop responding until it's done. The app is soo much faster download. This is syncing happens pretty much every time you open the app, start, stop, or edit an entry. so it was real pain to use. Thank you so much to everyone algorithms.",
+      "I lovethe app! The app is soo much faster download. This is syncinghappens pretty much every time you open the app, start, stop, or edit an entry, so it was a real pain. Not to mention being unable to use the app when it's syncing because it literally stop responding until it's done. Thank you so much to everyone algorithms. But now download faster and more stable. You'd stop an entry and it'd be several seconds before it'd actually stop and those extra seconds are added too the entry."
+    ]
+  },
+  {
+    "topic_id": 14,
+    "keywords": [
+      "fast",
+      "easy fast",
+      "fast easy",
+      "easy",
+      "smooth process",
+      "fully"
+    ],
+    "review_count": 14,
+    "avg_rating": 4.64,
+    "avg_sentiment": 0.269,
+    "sample_reviews": [
+      "very fast and safety",
+      "very fast pa",
+      "very fast and good"
+    ]
+  },
+  {
+    "topic_id": 15,
+    "keywords": [
+      "fast",
+      "super fast",
+      "super",
+      "hassle",
+      "glitch",
+      "clear"
+    ],
+    "review_count": 13,
+    "avg_rating": 4.85,
+    "avg_sentiment": 0.39,
+    "sample_reviews": [
+      "Fast processing app",
+      "so fast hassle free",
+      "very good, not glitch, speed and clear everything"
+    ]
+  },
+  {
+    "topic_id": 16,
+    "keywords": [
+      "application",
+      "application application",
+      "truly",
+      "application love",
+      "adding",
+      "feel"
+    ],
+    "review_count": 13,
+    "avg_rating": 4.69,
+    "avg_sentiment": 0.532,
+    "sample_reviews": [
+      "yes nice application",
+      "Good Application",
+      "Best Functional Application"
+    ]
+  },
+  {
+    "topic_id": 17,
+    "keywords": [
+      "secure",
+      "fast secure",
+      "reliable",
+      "fast",
+      "safe",
+      "useful"
+    ],
+    "review_count": 11,
+    "avg_rating": 4.73,
+    "avg_sentiment": 0.504,
+    "sample_reviews": [
+      "So easy to handle, quick, reliable and secure",
+      "very Reliable and Very useful",
+      "fast and secure"
+    ]
+  },
+  {
+    "topic_id": 18,
+    "keywords": [
+      "transfer",
+      "money transfer",
+      "money",
+      "sending",
+      "apps",
+      "transaction"
+    ],
+    "review_count": 11,
+    "avg_rating": 4.64,
+    "avg_sentiment": 0.521,
+    "sample_reviews": [
+      "Excellent money transaction app out of all other apps . Nothing to say. Fully satisfied. Most reliable. Now sustainable. It works easy and consistent for overseas residents. Now no need to keep wallet in the pocket. ",
+      "good apps for daily sending money .Direct payment",
+      "good app for money transfer"
     ]
   }
 ]

@@ -2,172 +2,381 @@
   {
     "topic_id": 0,
     "keywords": [
-      "love",
-      "excellent",
-      "amazing",
-      "experience",
-      "price",
-      "pretty"
+      "spotify",
+      "music",
+      "ads",
+      "premium",
+      "song",
+      "songs"
     ],
-    "review_count": 51,
-    "avg_rating": 4.67,
-    "avg_sentiment": 0.454,
+    "review_count": 250,
+    "avg_rating": 3.37,
+    "avg_sentiment": 0.336,
     "sample_reviews": [
-      "I love this",
-      "it's really nice and handy",
-      "it's greate"
+      "Spotify is the ultimate app for music streaming and podcast discovery. The personalized playlists, daily mixes, and audio recommendation algorithms are unmatched. Smooth streaming quality across all devices.",
+      "\"Spotify makes discovering and enjoying music so easy \u2014 huge library, great playlists, and smooth listening experience every time. Love it!\"",
+      "i Purple you Spotify "
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
       "music",
+      "music music",
+      "platform",
       "love",
-      "love music",
       "songs",
-      "play music",
-      "play"
+      "apps"
     ],
-    "review_count": 50,
-    "avg_rating": 4.66,
-    "avg_sentiment": 0.647,
+    "review_count": 162,
+    "avg_rating": 4.77,
+    "avg_sentiment": 0.594,
     "sample_reviews": [
-      "it was very useful for listening free music",
-      "it's very comfortable play you music any time great app 5 \u2728",
-      "Greta appp because videos and i 3vn download videos to wact h offlin4 FOR FREE"
+      "best music app it allows you to use for free",
+      "great app for anyone trying too enjoy and get the best sound quality",
+      "best app for music "
     ]
   },
   {
     "topic_id": 2,
     "keywords": [
+      "music",
       "love",
-      "work",
-      "time",
-      "favorite",
-      "pretty",
-      "easy"
+      "love music",
+      "songs",
+      "better",
+      "song"
     ],
-    "review_count": 49,
-    "avg_rating": 4.61,
-    "avg_sentiment": 0.477,
+    "review_count": 128,
+    "avg_rating": 4.71,
+    "avg_sentiment": 0.505,
     "sample_reviews": [
-      "it's a app that is probably my favorite tbh",
-      "it is good for me.",
-      "great app; can find almost anything on it."
+      "perfect for music lovers...",
+      "your music is limited as to where I can't find every song I search!",
+      "just perfect in their array of music genre."
     ]
   },
   {
     "topic_id": 3,
     "keywords": [
-      "spotify",
-      "music",
-      "songs",
       "love",
-      "love spotify",
-      "dont"
+      "application",
+      "amazing",
+      "awesome",
+      "love amazing",
+      "like"
     ],
-    "review_count": 47,
-    "avg_rating": 3.77,
-    "avg_sentiment": 0.384,
+    "review_count": 103,
+    "avg_rating": 4.81,
+    "avg_sentiment": 0.579,
     "sample_reviews": [
-      "Don't know what I would do without music and appreciate spotify for giving that to me",
-      "Finally moved to apple music and yt music. I hate Spotify free version as they give me a daily limit in the number of songs I can choose . I don't have the freedom to choose the songs I want to play. This is absurd and it absolutely irritated me. I finally decided to uninstall this app and moved on to apple music and yt premium.",
-      "its Spotify. WHAT DO I HAVE TO SAY, its great and it has a billion and one songs to choose from FOR YOU. I love it"
+      "I really enjoy this app",
+      "The bets well polished UI app . This work of art is very good , I wish the next update will be cool",
+      "greatest app of all time"
     ]
   },
   {
     "topic_id": 4,
     "keywords": [
-      "premium",
-      "free",
-      "songs",
-      "ads",
-      "subscription",
-      "listen"
+      "excellent",
+      "fantastic",
+      "love",
+      "super",
+      "sensational",
+      "absolutely"
     ],
-    "review_count": 26,
-    "avg_rating": 2.08,
-    "avg_sentiment": 0.35,
+    "review_count": 88,
+    "avg_rating": 4.72,
+    "avg_sentiment": 0.526,
     "sample_reviews": [
-      "I would have given 5 stars, but it needs an option to clear the play queue.",
-      "best music platform just wish removing queue the music that didn't involve premium",
-      "because in order to listen to music of our choice we have to pay imagine"
+      "super great",
+      "It's Great...",
+      "very nice excellent "
     ]
   },
   {
     "topic_id": 5,
     "keywords": [
-      "ads",
-      "ad",
-      "stupid",
-      "minutes",
-      "song",
-      "especially"
+      "ini",
+      "la",
+      "premium",
+      "ya",
+      "ghatiya",
+      "ang"
     ],
-    "review_count": 23,
-    "avg_rating": 2.43,
-    "avg_sentiment": -0.002,
+    "review_count": 57,
+    "avg_rating": 2.91,
+    "avg_sentiment": 0.059,
     "sample_reviews": [
-      "WAYYY too many ads, I get having to have ads ofc but I've gotten around 3 minutes of just advertisements when I'm just trying to listen to music.",
-      "I hate the ads",
-      "To much ads but very good audio 4 stars"
+      "Apesar de pagar premium, cuando escucho podcasts siguen apareciendo anuncios, y que si los puedo adelantar? Se supone que pago para no escucharlos y aun asi aparecen, arreglen eso",
+      "offline nahi h kya",
+      "ese accha to youTube sahi hai bahut kam add aate hai"
     ]
   },
   {
     "topic_id": 6,
     "keywords": [
-      "playlist",
-      "song",
-      "play",
-      "songs",
-      "stop",
-      "ive"
+      "ads",
+      "ads ads",
+      "like ads",
+      "frequent",
+      "like",
+      "ads annoying"
     ],
-    "review_count": 23,
-    "avg_rating": 2.04,
-    "avg_sentiment": -0.068,
+    "review_count": 45,
+    "avg_rating": 2.78,
+    "avg_sentiment": -0.002,
     "sample_reviews": [
-      "after a while I was finishing sorting my music and wanted to play my new playlists but when I clicked play it played a totally different song to the ones on the playlist and you can't make it so you can run through the playlist top to bottom and when the playlist is finished it doesn't restart it takes you to another song not in the playlist. it also tryies making me pay all the time with ads and saying I can't play my music so it's not very good unless your paying for a subscription. 2 stars.",
-      "Never had any issues, always find the songs I am looking for and even in the middle of nowhere, you can have your list downloaded in case you lose signal. Love it.",
-      "why the hell do you keep crashing GENUINE QUESTION. it randomly crashes and the song doesn't turn off I wait for like a minute for the app to settle down. It gets really slow and just stops working. the music bugs in the background. this isn't my first time going through this but it actually used to get fixed before. I've been going through this for a week now it's insufferable."
+      "Not bad It's a bit of a bad altitude of business",
+      "stop the ads",
+      "very nice but some time ads annoy so much"
     ]
   },
   {
     "topic_id": 7,
     "keywords": [
       "premium",
-      "dont",
-      "features",
-      "premium dont",
-      "users",
-      "greedy"
+      "adds premium",
+      "premium premium",
+      "adds",
+      "lower",
+      "lot"
     ],
-    "review_count": 22,
-    "avg_rating": 3.45,
-    "avg_sentiment": 0.148,
+    "review_count": 36,
+    "avg_rating": 3.33,
+    "avg_sentiment": 0.061,
     "sample_reviews": [
-      "I love it so much because but please stop being so greedy because if we don't have any money to buy a premium then its not gonna work",
-      "Extremely greedy company that wants to drain you of all your money",
-      "it's full of premium features"
+      "pay for premium and enjoy",
+      "good but start asking for premium",
+      "why That Instol Again Why"
     ]
   },
   {
     "topic_id": 8,
     "keywords": [
-      "music",
-      "music music",
-      "escuchar",
-      "like",
-      "listen",
-      "cool"
+      "battery",
+      "offline",
+      "android",
+      "crashing",
+      "keeps crashing",
+      "keeps"
     ],
-    "review_count": 21,
-    "avg_rating": 4.86,
-    "avg_sentiment": 0.541,
+    "review_count": 35,
+    "avg_rating": 1.74,
+    "avg_sentiment": 0.024,
     "sample_reviews": [
-      "I Love Music.",
-      "I can find whatever song I want to listen to no matter what genre it is, and I love it",
-      "my favorite thing is to listen to songs"
+      "There has been several times, where the app will not respond at all. It will freeze on the screen and I will have to close the app and re-open.",
+      "the new updates of the app keeps crashing! premium user here.",
+      "The app can't open,I have been finding it so difficult"
+    ]
+  },
+  {
+    "topic_id": 9,
+    "keywords": [
+      "ads ads",
+      "ads",
+      "practical",
+      "number ads",
+      "like way",
+      "way ads"
+    ],
+    "review_count": 32,
+    "avg_rating": 2.12,
+    "avg_sentiment": -0.003,
+    "sample_reviews": [
+      "became too commercial..",
+      "too much advertisement",
+      "too many ads"
+    ]
+  },
+  {
+    "topic_id": 10,
+    "keywords": [
+      "premium",
+      "free",
+      "pay",
+      "pay premium",
+      "literally",
+      "favorite"
+    ],
+    "review_count": 23,
+    "avg_rating": 3.65,
+    "avg_sentiment": 0.282,
+    "sample_reviews": [
+      "can't even use this app without premium ",
+      "I love it even on free it's like I am on premium",
+      "It's a very good app The premium package is amazingg"
+    ]
+  },
+  {
+    "topic_id": 11,
+    "keywords": [
+      "shuffle",
+      "dj",
+      "playlist",
+      "songs",
+      "fix",
+      "smart"
+    ],
+    "review_count": 22,
+    "avg_rating": 2.59,
+    "avg_sentiment": 0.202,
+    "sample_reviews": [
+      "I am losing my mind. Every single time I open the app it throws the DJ in my face. I can tell google to play a song, open the app and \"hi its dj x here\" literally stopping what I'm playing for dj x. I quite like the dj but when I want it. We pay for a duo plan and this has been driving me mad for a few weeks it never use to happen and making me consider cancelling my plan.",
+      "The new auto DJ \"mix\" feature is amazing. Absolute game changer in the way I enjoy music.",
+      "You broke the smart shuffle!! Shuffle used to actually shuffle things, but now it doesn't absolutely nothing when on smart shuffle. Suggested songs are added in between songs, but the Playlist is not shuffled and plays the same 5 songs over and over.. Horrible experience!"
+    ]
+  },
+  {
+    "topic_id": 12,
+    "keywords": [
+      "far",
+      "complaints",
+      "house",
+      "chores",
+      "special",
+      "simply"
+    ],
+    "review_count": 18,
+    "avg_rating": 4.83,
+    "avg_sentiment": 0.6,
+    "sample_reviews": [
+      "been the best so far, no complaints",
+      "simply the best",
+      "you guys are really the best,"
+    ]
+  },
+  {
+    "topic_id": 13,
+    "keywords": [
+      "keeps",
+      "working",
+      "open",
+      "play music",
+      "background",
+      "music"
+    ],
+    "review_count": 18,
+    "avg_rating": 2.22,
+    "avg_sentiment": -0.025,
+    "sample_reviews": [
+      "My phone will say its connected to my car but the music will be playing from my phone and sometimes when its connected it shows its playing but you cant hear anything.",
+      "The app keep closing when I just opened to play music. I need to re install this and lost all my downloaded music ",
+      "Bluetooth is not working through my ear buds. ( my other apps work fine)"
+    ]
+  },
+  {
+    "topic_id": 14,
+    "keywords": [
+      "experience",
+      "overall",
+      "dude",
+      "mind blowing",
+      "blowing",
+      "truely"
+    ],
+    "review_count": 18,
+    "avg_rating": 4.89,
+    "avg_sentiment": 0.377,
+    "sample_reviews": [
+      "seriously mind blowing experience",
+      "smooth experience ",
+      "overall, a good experience."
+    ]
+  },
+  {
+    "topic_id": 15,
+    "keywords": [
+      "adds",
+      "adds song",
+      "theres",
+      "free",
+      "unplayable",
+      "free listening"
+    ],
+    "review_count": 16,
+    "avg_rating": 3.44,
+    "avg_sentiment": 0.259,
+    "sample_reviews": [
+      "tooo many adds",
+      "there's way too many adds but the music is good and it's free so I don't really mind",
+      "Adds are a pain, but that's a small price to pay to be able to listen to all your favourite artists for free. Easy to search and find all the music you like. I highly recommend."
+    ]
+  },
+  {
+    "topic_id": 16,
+    "keywords": [
+      "skips",
+      "play",
+      "premium",
+      "wanna",
+      "pay",
+      "worth"
+    ],
+    "review_count": 16,
+    "avg_rating": 1.69,
+    "avg_sentiment": 0.093,
+    "sample_reviews": [
+      "You have to pay for everything. Wanna play albums in order, pay. Wanna have less ads while scrolling, pay. Wanna listen to music, pay. All the freaking time c'mon!",
+      "when your free skips gets over it becomes,1 full song =3ads ,and that is guaranteed",
+      "We can listen only few songs a day then if we want to listen more songs we have to purchase premium Didn't expect this."
+    ]
+  },
+  {
+    "topic_id": 17,
+    "keywords": [
+      "account",
+      "payment",
+      "money",
+      "subscription",
+      "plan",
+      "weeks"
+    ],
+    "review_count": 14,
+    "avg_rating": 2.5,
+    "avg_sentiment": -0.055,
+    "sample_reviews": [
+      "\u201cMy UPI payment of \u20b9139 to Spotify India Pvt Ltd was successful on 27 July 2026, but my Premium plan is showing \u2018Plan Paused\u2019 and says my last payment didn\u2019t work. Please verify and activate my Premium subscription. I can provide the transaction ID and payment screenshot my issue",
+      "love the app and never had any real problems. had a subscription for years. due to unfortunate events I had to cancel but not cause of the app. once my situation changes I plan on getting it back.",
+      "has made great strides in respectable data handling policies (thanks GDPR) it got me to come back... and actually subscribe this time."
+    ]
+  },
+  {
+    "topic_id": 18,
+    "keywords": [
+      "easy",
+      "easy love",
+      "value money",
+      "easy access",
+      "accurate",
+      "ease"
+    ],
+    "review_count": 13,
+    "avg_rating": 4.62,
+    "avg_sentiment": 0.487,
+    "sample_reviews": [
+      "It is very accurate and convenient",
+      "super good to use",
+      "didn't use much"
+    ]
+  },
+  {
+    "topic_id": 19,
+    "keywords": [
+      "podcasts",
+      "podcast",
+      "scrolling",
+      "lags",
+      "update",
+      "tired"
+    ],
+    "review_count": 12,
+    "avg_rating": 1.33,
+    "avg_sentiment": -0.044,
+    "sample_reviews": [
+      "app kerps glitching when trying to play podcasts. it is impossible to use.",
+      "this app sucks. it has so many bugs I don't even know where to begin. IT JUST SHUTS OFF! that's it. I cannot listen to more than 2 minutes before IT SHUTS OFF! It's maddening. I have to open the phone, turn it on and 2 minutes later ITS OFF! I've switched to Audible because Spotify is so bad it's unusable. podcasts won't stream.",
+      "When I try to listen to some podcasts, it lags and even if I wanna listen to music when my phone is off, IT STILL LAGS SPOTIFY. FIX IT"
     ]
   }
 ]

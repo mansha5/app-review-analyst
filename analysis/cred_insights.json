@@ -4,56 +4,75 @@
     "keywords": [
       "cred",
       "credit",
-      "card",
       "payment",
-      "customer",
+      "card",
+      "cashback",
       "credit card"
     ],
-    "review_count": 285,
-    "avg_rating": 1.75,
-    "avg_sentiment": -0.008,
+    "review_count": 790,
+    "avg_rating": 2.35,
+    "avg_sentiment": 0.092,
     "sample_reviews": [
-      "fraud app charged unnecessary charges",
-      "\u2b50 Very disappointing experience with CRED\u2019s referral program. I completed the referral requirements, but the promised reward was not credited. Customer support was also unable to provide a clear solution. If you offer referral rewards, you should honor them. Extremely frustrating experience. Definitely not recommended.",
-      "CRED has completely lost the customer-friendly features that made it great. The app used to offer real cashback and excellent rewards for paying bills on time. Now, it just gives you \"CRED Coins\" which are completely useless and have zero real-world value. Instead of a rewarding experience, the app is now heavily cluttered with aggressive ads pushing loans, rent payments, and credit lines"
+      "app is crashing and the only way to escalate is through the app",
+      "There are a lot of problems in delivering orders, and these people are not even able to solve these problems. Only asking time and after that my amount is refunded order is canceled. Very bad service of customer support and guidance they don't have any information about the shipping department.",
+      "very good app"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "useful",
-      "excellent",
-      "ui",
       "service",
       "experience",
-      "download"
+      "excellent",
+      "super",
+      "performance",
+      "excellent service"
     ],
-    "review_count": 49,
-    "avg_rating": 4.2,
-    "avg_sentiment": 0.437,
+    "review_count": 84,
+    "avg_rating": 4.39,
+    "avg_sentiment": 0.414,
     "sample_reviews": [
-      "Very Useful",
       "good experience",
-      "nice app all in one"
+      "very bad support experience",
+      "overall good services"
     ]
   },
   {
     "topic_id": 2,
     "keywords": [
+      "bhi",
+      "ke",
+      "nahi",
+      "fake fake",
       "fake",
-      "flipkart",
-      "account",
-      "bad",
-      "refund",
-      "payment"
+      "ka"
     ],
-    "review_count": 21,
-    "avg_rating": 2.33,
-    "avg_sentiment": 0.065,
+    "review_count": 67,
+    "avg_rating": 1.67,
+    "avg_sentiment": 0.006,
     "sample_reviews": [
-      "Awesome usefull But only for rich people matlab branded costly branded purchase krne wale logo ke liye he h..... her chiz costly... regular kam wali chiz nhe ati es per...",
-      "aaj mere se extra 2Rs. charge postpaid sim ka bill bharne ka iya h kyu kisliye",
-      "ekdum ka bekar app hai, mera credit sahi hone ke baad bhi login nahi ho pa Raha hai. aur waitlisted dikha raha hai"
+      "sabse bakvass app hai es se bahut jald fraud kar leta hai mera 10000/- nuksaan kar diya kisi ne call forwarding kar ke call ke through OTP se logins kar liaa massage ke OTP se nahi hota but call k through kar lia es me call ke through OTP login rahna bahut bad hai",
+      "very good apps bahut acchi app se yah bahut acchi apps hai ismein finance ki suvidha bhi hai aur bil subah 11 ki suvidha bhi hai yah bahut acchi apps hai",
+      "\u0905\u092c \u0915\u094d\u0930\u0947\u0921\u093c \u092e\u0947\u0902 \u092a\u0939\u0932\u0947 \u0935\u093e\u0932\u0940 \u092c\u093e\u0924 \u0928\u0939\u0940\u0902 \u0939\u0948 \u092c\u093f\u0932\u094d\u0915\u0941\u0932 \u092d\u0940 \u0915\u0947\u0936 \u092c\u0947\u0915 \u0928\u0939\u0940\u0902 \u092e\u093f\u0932\u0924\u093e \u0939\u0948 "
+    ]
+  },
+  {
+    "topic_id": 3,
+    "keywords": [
+      "update",
+      "updates",
+      "frequently",
+      "day",
+      "week",
+      "team"
+    ],
+    "review_count": 15,
+    "avg_rating": 3.0,
+    "avg_sentiment": 0.038,
+    "sample_reviews": [
+      "please stop bringing updates every fortnight. why does your team bring updates so frequently? otherwise it's a great platform to pay credit card bills",
+      "I think the guy who writes update notes deserve a raise for every update",
+      "2 to 3 update per day and nothing any improvement then why should send update very disappoint"
     ]
   }
 ]
