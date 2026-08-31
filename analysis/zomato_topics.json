@@ -2,248 +2,134 @@
   {
     "topic_id": 0,
     "keywords": [
-      "order",
-      "zomato",
       "delivery",
+      "food",
+      "order",
+      "worst",
       "customer",
-      "refund",
-      "dont"
+      "time"
     ],
-    "review_count": 153,
-    "avg_rating": 1.37,
-    "avg_sentiment": -0.355,
+    "review_count": 140,
+    "avg_rating": 2.9,
+    "avg_sentiment": -0.025,
     "sample_reviews": [
-      "worst app ever, i ordered food and it was showing 30 minutes initially but after 30 min it was delayed by 24 minutes, then again it was delayed by 18 minutes after 1 hour, I had to cancel the order and delete this app!!",
-      "received the wrong order",
-      "They doesn't refund the money. they tell you that they have refunded but the money will not be refunded"
+      "still I dnt get the order collected",
+      "worst service delayed delivery ",
+      "nice timing to give a order "
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "service",
-      "service service",
-      "customer",
-      "customer service",
-      "pathetic",
-      "service customer"
+      "zomato",
+      "food",
+      "ordered",
+      "order",
+      "delivery",
+      "restaurant"
     ],
-    "review_count": 78,
-    "avg_rating": 3.24,
-    "avg_sentiment": 0.17,
+    "review_count": 59,
+    "avg_rating": 2.03,
+    "avg_sentiment": -0.064,
     "sample_reviews": [
-      "good service",
-      "zapto very fast service",
-      "super service"
+      "now a days zomato delivers every order in minimum 2 hours, you should close this zomato instead of taking 2 hours for soggy and cold food",
+      "disgusting and very irritating support. I have placed an order for dosa and there is no mention of on onion on it also I have provided a cooking instruction during order placement but the cooking instruction has not followed and order sent with onion and garlic. then support has asked to cancel the order and they have not helped here and also they haven't provided any refund. my total money has wasted here. support has refused to provide the refund. very irritating support. uninstalled app",
+      "Thanks for Zomato. good and fast delivery door step food."
     ]
   },
   {
     "topic_id": 2,
     "keywords": [
-      "outstanding",
       "service",
+      "service service",
       "excellent",
-      "quality",
-      "ok",
-      "working"
+      "platform",
+      "need",
+      "quality"
     ],
-    "review_count": 76,
-    "avg_rating": 4.64,
-    "avg_sentiment": 0.491,
+    "review_count": 53,
+    "avg_rating": 4.77,
+    "avg_sentiment": 0.475,
     "sample_reviews": [
-      "very good service in emergency",
-      "modals are good",
-      "ok good good"
+      "good quality",
+      "nice service",
+      "nice service"
     ]
   },
   {
     "topic_id": 3,
     "keywords": [
-      "food",
-      "food delivery",
-      "taste",
-      "quality",
+      "cash",
+      "cash delivery",
+      "high",
+      "charges",
       "delivery",
-      "delivery food"
+      "available"
     ],
-    "review_count": 75,
-    "avg_rating": 4.16,
-    "avg_sentiment": 0.335,
+    "review_count": 41,
+    "avg_rating": 1.95,
+    "avg_sentiment": -0.07,
     "sample_reviews": [
-      "It is very good app, and also provided good food for people who travelled in train",
-      "best food appppppppp",
-      "Best Lowest Price Food Dilevery App"
+      "too pricy when compared to what they sell in the hotel",
+      "taking more money, steeling peoples money",
+      "cash on delivery is not avalabile "
     ]
   },
   {
     "topic_id": 4,
     "keywords": [
-      "bhi",
-      "kiya",
       "ka",
-      "ko",
       "ke",
-      "ye"
+      "hi",
+      "liye",
+      "karne",
+      "achha"
     ],
-    "review_count": 72,
-    "avg_rating": 2.79,
-    "avg_sentiment": -0.002,
+    "review_count": 32,
+    "avg_rating": 2.88,
+    "avg_sentiment": 0.034,
     "sample_reviews": [
-      "brother's kulcha is very bad very very small in size",
-      "badiya app hai",
-      "ekdm ghtiya"
+      "bahut badhiya hai",
+      "anpadh logon ke liye bahut achcha app hai",
+      "good sarvice raat 1.30 waje v oder aa jata ha thanks Zomato"
     ]
   },
   {
     "topic_id": 5,
     "keywords": [
-      "high",
-      "charges",
-      "price",
-      "extra charges",
-      "extra",
-      "delivery charges"
+      "service",
+      "service service",
+      "reliable",
+      "time",
+      "fast",
+      "quick"
     ],
-    "review_count": 46,
-    "avg_rating": 1.91,
-    "avg_sentiment": -0.12,
+    "review_count": 27,
+    "avg_rating": 4.48,
+    "avg_sentiment": 0.428,
     "sample_reviews": [
-      "delivery charges very high",
-      "taking more extra charges of order",
-      "taken too much delivery charges"
+      "It is reliable ",
+      "Service is very good",
+      "super service"
     ]
   },
   {
     "topic_id": 6,
     "keywords": [
-      "easy",
-      "application",
-      "excellent",
-      "superb",
-      "love",
-      "amazing"
+      "perfect",
+      "useful",
+      "rupees",
+      "gave",
+      "20",
+      "interface"
     ],
-    "review_count": 42,
-    "avg_rating": 4.76,
-    "avg_sentiment": 0.484,
+    "review_count": 23,
+    "avg_rating": 4.91,
+    "avg_sentiment": 0.569,
     "sample_reviews": [
+      "it's like it app...",
       "very good app",
-      "this app is best",
-      "very Simple and very Easy"
-    ]
-  },
-  {
-    "topic_id": 7,
-    "keywords": [
-      "delivery",
-      "fast delivery",
-      "fast",
-      "delivery delivery",
-      "delivery fast",
-      "delivery boy"
-    ],
-    "review_count": 32,
-    "avg_rating": 4.31,
-    "avg_sentiment": 0.274,
-    "sample_reviews": [
-      "y becoz I'm also worked as a delivery boy took lot of orders from 9R clouds and Kitchen(home) garden",
-      "best delivery",
-      "it's amazing delivery very fast \u23e9"
-    ]
-  },
-  {
-    "topic_id": 8,
-    "keywords": [
-      "zomato",
-      "zomato zomato",
-      "thanks",
-      "thanks zomato",
-      "india",
-      "like zomato"
-    ],
-    "review_count": 31,
-    "avg_rating": 3.94,
-    "avg_sentiment": 0.255,
-    "sample_reviews": [
-      "I like you zomato",
-      "nice zamtao",
-      "nice zomato"
-    ]
-  },
-  {
-    "topic_id": 9,
-    "keywords": [
-      "delevery",
-      "time",
-      "late",
-      "right",
-      "timeing",
-      "aacha"
-    ],
-    "review_count": 16,
-    "avg_rating": 4.25,
-    "avg_sentiment": 0.152,
-    "sample_reviews": [
-      "nice .. aacha h time to timedilvery",
-      "timley deleviry",
-      "never on time but ok"
-    ]
-  },
-  {
-    "topic_id": 10,
-    "keywords": [
-      "offer",
-      "offers",
-      "discount",
-      "happy",
-      "new",
-      "available"
-    ],
-    "review_count": 15,
-    "avg_rating": 3.67,
-    "avg_sentiment": 0.343,
-    "sample_reviews": [
-      "nice give offer",
-      "good option with best offers ",
-      "Good Offers available. delivery on time"
-    ]
-  },
-  {
-    "topic_id": 11,
-    "keywords": [
-      "experience",
-      "experience bad",
-      "worst",
-      "bad experience",
-      "worst experience",
-      "worst worst"
-    ],
-    "review_count": 13,
-    "avg_rating": 3.0,
-    "avg_sentiment": -0.053,
-    "sample_reviews": [
-      "my second mother ",
-      "worth experience",
-      "overall good experience"
-    ]
-  },
-  {
-    "topic_id": 12,
-    "keywords": [
-      "cash",
-      "cash delivery",
-      "available",
-      "option",
-      "delivery",
-      "pay"
-    ],
-    "review_count": 12,
-    "avg_rating": 2.5,
-    "avg_sentiment": -0.057,
-    "sample_reviews": [
-      "cash on delivery honi chahiye",
-      "can't pay in cash",
-      "case on dalevury not available"
+      "great app with wonderful offers!!"
     ]
   }
 ]

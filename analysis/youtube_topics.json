@@ -5,93 +5,36 @@
       "youtube",
       "ads",
       "video",
-      "videos",
       "like",
-      "update"
+      "update",
+      "channel"
     ],
-    "review_count": 1139,
-    "avg_rating": 2.82,
-    "avg_sentiment": 0.101,
+    "review_count": 277,
+    "avg_rating": 3.08,
+    "avg_sentiment": 0.123,
     "sample_reviews": [
-      "support is useless. premium features don't work and the troubleshooting flow involves changing 11 settings and then just using another device entirely. save yourself the headache and just use Brave.",
-      "Horrible update. What is wrong with you?",
-      "ads all video this is worst app"
+      "Youtube allows me to share my dreams \u2728\ufe0f and ideas with the rest of the world, connect with the rest of the world now.",
+      "the ad is way too much like I didn't even finish the 40 min video and I already got 14-15 ad what is this and some of them are un skipable ad what is this is it please fix it or else I will use other applications",
+      "yes good apps"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "hi",
-      "raha",
-      "mera",
       "youtube",
-      "ko",
-      "update"
+      "hi",
+      "got",
+      "update",
+      "video",
+      "time"
     ],
-    "review_count": 137,
-    "avg_rating": 3.36,
-    "avg_sentiment": 0.061,
+    "review_count": 37,
+    "avg_rating": 3.43,
+    "avg_sentiment": 0.117,
     "sample_reviews": [
-      "jatav king ",
-      "bakit ayaw magamit you tube ko?",
-      "Bikash nayaj"
-    ]
-  },
-  {
-    "topic_id": 2,
-    "keywords": [
-      "microphone",
-      "bhi",
-      "raha",
-      "kam raha",
-      "kam",
-      "ka"
-    ],
-    "review_count": 16,
-    "avg_rating": 2.12,
-    "avg_sentiment": -0.02,
-    "sample_reviews": [
-      "Microphone problem solved....",
-      "The microphone doesn't work....",
-      "microphone is not working properly"
-    ]
-  },
-  {
-    "topic_id": 3,
-    "keywords": [
-      "search",
-      "voice",
-      "hear",
-      "microphone",
-      "working",
-      "didnt hear"
-    ],
-    "review_count": 14,
-    "avg_rating": 1.71,
-    "avg_sentiment": 0.058,
-    "sample_reviews": [
-      "fix your algorithm it's all the same slop based on recent searches",
-      "The voice search was not working properly... 27/8/26",
-      "I have been facing voice search issues."
-    ]
-  },
-  {
-    "topic_id": 4,
-    "keywords": [
-      "microphone",
-      "didnt hear",
-      "hear",
-      "didnt",
-      "try",
-      "hear tap"
-    ],
-    "review_count": 10,
-    "avg_rating": 2.4,
-    "avg_sentiment": -0.011,
-    "sample_reviews": [
-      "please help my YouTube microphone",
-      "My YouTube microphone is not working correctly. Every time I turn it on, it says, \"Didn't hear that. Tap the microphone to try again. Didn't hear that. Didn't hear that. Tap the microphone to try again. Didn't hear that. Tap the microphone to try again. Didn't hear that. Didn't hear that. Tap the microphone to try again.\" Also, my downloaded videos are gone. Every time I try to download videos, it just gives error 404",
-      "Today i was trying to searching something in YouTube microphone but the Microphone has a creepy voice and constantly said Didn't hear that try again i was try many methods but nothing work on it I Ask to the YouTube management please fix it as soon as possible !"
+      "chalu nahi ho rha hai",
+      "Yooooooooooooo",
+      "Kisi bhi parkar ka jankari mil jata hai"
     ]
   }
 ]

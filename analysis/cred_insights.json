@@ -4,93 +4,75 @@
     "keywords": [
       "cred",
       "credit",
-      "payment",
       "card",
-      "cashback",
+      "payment",
+      "support",
       "credit card"
     ],
-    "review_count": 790,
-    "avg_rating": 2.35,
-    "avg_sentiment": 0.092,
+    "review_count": 260,
+    "avg_rating": 1.94,
+    "avg_sentiment": -0.001,
     "sample_reviews": [
-      "app is crashing and the only way to escalate is through the app",
-      "There are a lot of problems in delivering orders, and these people are not even able to solve these problems. Only asking time and after that my amount is refunded order is canceled. Very bad service of customer support and guidance they don't have any information about the shipping department.",
-      "very good app"
+      "Beware : Fraud App don't use this app.",
+      "CRED gives good cashback, but customer support is frustrating. No support phone number. After several UPI failures, the chatbot blocked me from reaching an agent. I posted a review here and sent email reminders; Cred agent called after 12 days of failed transactions . \" Call me \" link is hidden under \u201cMiscellaneous\u201d, followed by irrelevant options like vehicle inspection and KYC. Even \u201cCall me now\u201d leads to more steps and uploads. Good cashback doesn't justify such poor support accessibility.",
+      "UI is bad please change it, You can make the customer experience and customer acquisition very very good because of your UI you are not expanding like Gpay and PhonePe and dont show Always set up fingerprint for UPI payments its not good and please remove the clutter of all ads and all the things from the main dashboard it not looks clean its a payment app to make fast payment therefore these reasons the gpay and phonepe has taken 90% market share because you dont see the competitors app"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "service",
-      "experience",
       "excellent",
-      "super",
-      "performance",
-      "excellent service"
+      "experience",
+      "awesome",
+      "happy",
+      "service",
+      "useful"
     ],
-    "review_count": 84,
-    "avg_rating": 4.39,
-    "avg_sentiment": 0.414,
+    "review_count": 48,
+    "avg_rating": 4.54,
+    "avg_sentiment": 0.457,
     "sample_reviews": [
-      "good experience",
-      "very bad support experience",
-      "overall good services"
-    ],
-    "label": "Support issues amid good service",
-    "category": "complaint",
-    "root_cause": "Inconsistent support response times causing frustration",
-    "priority": "low",
-    "priority_reason": "Positive overall rating but isolated support complaints indicate a need for improvement",
-    "pm_action": "Implement a dedicated support ticketing system to track and resolve issues faster"
+      "third class app.. guys please don't use this app..",
+      "really good service ",
+      "very good app"
+    ]
   },
   {
     "topic_id": 2,
     "keywords": [
-      "bhi",
-      "ke",
-      "nahi",
-      "fake fake",
-      "fake",
-      "ka"
+      "update",
+      "working",
+      "open",
+      "slow",
+      "time",
+      "unable"
     ],
-    "review_count": 67,
-    "avg_rating": 1.67,
-    "avg_sentiment": 0.006,
+    "review_count": 27,
+    "avg_rating": 2.04,
+    "avg_sentiment": 0.05,
     "sample_reviews": [
-      "sabse bakvass app hai es se bahut jald fraud kar leta hai mera 10000/- nuksaan kar diya kisi ne call forwarding kar ke call ke through OTP se logins kar liaa massage ke OTP se nahi hota but call k through kar lia es me call ke through OTP login rahna bahut bad hai",
-      "very good apps bahut acchi app se yah bahut acchi apps hai ismein finance ki suvidha bhi hai aur bil subah 11 ki suvidha bhi hai yah bahut acchi apps hai",
-      "\u0905\u092c \u0915\u094d\u0930\u0947\u0921\u093c \u092e\u0947\u0902 \u092a\u0939\u0932\u0947 \u0935\u093e\u0932\u0940 \u092c\u093e\u0924 \u0928\u0939\u0940\u0902 \u0939\u0948 \u092c\u093f\u0932\u094d\u0915\u0941\u0932 \u092d\u0940 \u0915\u0947\u0936 \u092c\u0947\u0915 \u0928\u0939\u0940\u0902 \u092e\u093f\u0932\u0924\u093e \u0939\u0948 "
-    ],
-    "label": "Security breach via call forwarding",
-    "category": "complaint",
-    "root_cause": "App's OTP verification is vulnerable to call forwarding attacks, allowing unauthorized logins.",
-    "priority": "high",
-    "priority_reason": "Low rating and high review volume indicate widespread user dissatisfaction.",
-    "pm_action": "Implement secure OTP verification using time-based tokens and disable call forwarding for OTP."
+      "app is keeps on crashing after latest update",
+      "worse ui getting worse and sluggish",
+      "App working too slow"
+    ]
   },
   {
     "topic_id": 3,
     "keywords": [
-      "update",
-      "updates",
-      "frequently",
-      "day",
-      "week",
-      "team"
+      "fake",
+      "nahi",
+      "apps",
+      "voucher",
+      "cashback",
+      "flipkart"
     ],
-    "review_count": 15,
-    "avg_rating": 3.0,
-    "avg_sentiment": 0.038,
+    "review_count": 21,
+    "avg_rating": 2.1,
+    "avg_sentiment": 0.114,
     "sample_reviews": [
-      "please stop bringing updates every fortnight. why does your team bring updates so frequently? otherwise it's a great platform to pay credit card bills",
-      "I think the guy who writes update notes deserve a raise for every update",
-      "2 to 3 update per day and nothing any improvement then why should send update very disappoint"
-    ],
-    "label": "Too frequent updates",
-    "category": "complaint",
-    "root_cause": "Users are frustrated by the high frequency of updates",
-    "priority": "medium",
-    "priority_reason": "User dissatisfaction due to frequent updates",
-    "pm_action": "Reduce update frequency to weekly and communicate the schedule to users"
+      "Cashback ke liye download kiya tha shuruwat me dete they ab voucher pe voucher pakdaye jaa rhe hai. Isse acha to Amazon Pay hai waha pe cashback bhi milta hai aur saare credit cards ke bills ka bhi pta chal jata hai. I knew ki integrity wala reply aega, cashback dena shuru karo sab normal ho jaega.",
+      "sabse bakvass app hai es se bahut jald fraud kar leta hai mera 10000/- nuksaan kar diya kisi ne call forwarding kar ke call ke through OTP se logins kar liaa massage ke OTP se nahi hota but call k through kar lia es me call ke through OTP login rahna bahut bad hai",
+      "very good apps bahut acchi app se yah bahut acchi apps hai ismein finance ki suvidha bhi hai aur bil subah 11 ki suvidha bhi hai yah bahut acchi apps hai"
+    ]
   }
 ]

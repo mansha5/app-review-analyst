@@ -1,917 +1,366 @@
 {
   "airbnb": {
     "app_name": "airbnb",
-    "total_reviews": 1641,
-    "avg_rating": 3.78,
-    "avg_sentiment": 0.308,
-    "pct_positive": 68.7,
-    "pct_negative": 28.5,
-    "pct_neutral": 2.9,
+    "total_reviews": 410,
+    "avg_rating": 3.86,
+    "avg_sentiment": 0.288,
+    "pct_positive": 70.7,
+    "pct_negative": 25.6,
+    "pct_neutral": 3.7,
     "category_breakdown": {
-      "praise": 1080,
-      "complaint": 91,
-      "other": 25
+      "other": 341
     },
-    "high_priority_issues": [
-      {
-        "label": "Authenticator Code Verification Bug",
-        "category": "complaint",
-        "review_count": 29,
-        "avg_rating": 1.55,
-        "root_cause": "The authenticator code verification process is buggy, causing users to be unable to enter or verify codes.",
-        "pm_action": "Investigate and fix the authenticator code verification flow, ensuring codes can be entered and validated correctly, and provide clear error messages."
-      },
-      {
-        "label": "ID requirement issue",
-        "category": "complaint",
-        "review_count": 24,
-        "avg_rating": 3.54,
-        "root_cause": "Physical ID requirement despite digital availability",
-        "pm_action": "Investigate and remove unnecessary physical ID requirement; enable digital ID verification"
-      },
-      {
-        "label": "Terrible Customer Service",
-        "category": "complaint",
-        "review_count": 21,
-        "avg_rating": 1.33,
-        "root_cause": "Outsourced customer support leads to poor response times and miscommunication.",
-        "pm_action": "Reevaluate outsourcing agreements and implement a dedicated in-house support team for critical issues."
-      },
-      {
-        "label": "Fraudulent Review Issue",
-        "category": "complaint",
-        "review_count": 17,
-        "avg_rating": 3.47,
-        "root_cause": "Users are receiving fraudulent reviews on their profiles due to a system error that allows hosts to post reviews without proper verification.",
-        "pm_action": "Implement a verification step for host reviews and audit existing reviews to remove fraudulent entries."
-      }
-    ],
+    "high_priority_issues": [],
     "monthly_trend": [
       {
-        "year_month": "2026-07",
-        "review_count": 774,
-        "avg_rating": 3.766,
-        "avg_sentiment": 0.327
-      },
-      {
         "year_month": "2026-08",
-        "review_count": 867,
-        "avg_rating": 3.787,
-        "avg_sentiment": 0.291
+        "review_count": 410,
+        "avg_rating": 3.859,
+        "avg_sentiment": 0.288
       }
     ],
     "rating_distribution": {
-      "1": 411,
-      "2": 56,
-      "3": 47,
-      "4": 101,
-      "5": 1026
+      "1": 97,
+      "2": 8,
+      "3": 15,
+      "4": 26,
+      "5": 264
     }
   },
   "cred": {
     "app_name": "cred",
-    "total_reviews": 1347,
-    "avg_rating": 2.27,
-    "avg_sentiment": 0.074,
-    "pct_positive": 28.9,
-    "pct_negative": 65.0,
-    "pct_neutral": 6.1,
+    "total_reviews": 356,
+    "avg_rating": 2.31,
+    "avg_sentiment": 0.071,
+    "pct_positive": 29.8,
+    "pct_negative": 63.8,
+    "pct_neutral": 6.5,
     "category_breakdown": {
-      "other": 790,
-      "complaint": 166
+      "other": 356
     },
-    "high_priority_issues": [
-      {
-        "label": "Security breach via call forwarding",
-        "category": "complaint",
-        "review_count": 67,
-        "avg_rating": 1.67,
-        "root_cause": "App's OTP verification is vulnerable to call forwarding attacks, allowing unauthorized logins.",
-        "pm_action": "Implement secure OTP verification using time-based tokens and disable call forwarding for OTP."
-      },
-      {
-        "label": "Too frequent updates",
-        "category": "complaint",
-        "review_count": 15,
-        "avg_rating": 3.0,
-        "root_cause": "Users are frustrated by the high frequency of updates",
-        "pm_action": "Reduce update frequency to weekly and communicate the schedule to users"
-      }
-    ],
+    "high_priority_issues": [],
     "monthly_trend": [
       {
-        "year_month": "2026-06",
-        "review_count": 81,
-        "avg_rating": 2.198,
-        "avg_sentiment": 0.119
-      },
-      {
-        "year_month": "2026-07",
-        "review_count": 651,
-        "avg_rating": 2.344,
-        "avg_sentiment": 0.069
-      },
-      {
         "year_month": "2026-08",
-        "review_count": 615,
-        "avg_rating": 2.21,
-        "avg_sentiment": 0.073
+        "review_count": 356,
+        "avg_rating": 2.309,
+        "avg_sentiment": 0.071
       }
     ],
     "rating_distribution": {
-      "1": 798,
-      "2": 78,
-      "3": 82,
-      "4": 82,
-      "5": 307
+      "1": 210,
+      "2": 17,
+      "3": 23,
+      "4": 21,
+      "5": 85
     }
   },
   "duolingo": {
     "app_name": "duolingo",
-    "total_reviews": 1565,
-    "avg_rating": 4.33,
-    "avg_sentiment": 0.44,
-    "pct_positive": 82.9,
-    "pct_negative": 11.6,
-    "pct_neutral": 5.5,
+    "total_reviews": 395,
+    "avg_rating": 4.38,
+    "avg_sentiment": 0.446,
+    "pct_positive": 84.6,
+    "pct_negative": 10.6,
+    "pct_neutral": 4.8,
     "category_breakdown": {
-      "praise": 1140,
-      "complaint": 84,
-      "bug": 26,
-      "other": 16
+      "other": 348
     },
-    "high_priority_issues": [
-      {
-        "label": "Ads and Energy Frustration",
-        "category": "complaint",
-        "review_count": 28,
-        "avg_rating": 2.86,
-        "root_cause": "Ads and energy system frustrate users, causing dissatisfaction.",
-        "pm_action": "Reduce ad frequency and provide alternative energy replenishment options."
-      },
-      {
-        "label": "Daily Quest Reward Bug",
-        "category": "bug",
-        "review_count": 26,
-        "avg_rating": 4.12,
-        "root_cause": "Missing reward multiplier for daily quests",
-        "pm_action": "Investigate reward system and fix multiplier issue"
-      },
-      {
-        "label": "Icon change causing backlash",
-        "category": "complaint",
-        "review_count": 19,
-        "avg_rating": 2.26,
-        "root_cause": "Users are unhappy with the new icon design.",
-        "pm_action": "Conduct a quick A/B test with the old icon and gather user feedback before finalizing the new design."
-      },
-      {
-        "label": "Energy Bar Limitation Complaint",
-        "category": "complaint",
-        "review_count": 14,
-        "avg_rating": 2.5,
-        "root_cause": "Energy bar limits usage, causing frustration.",
-        "pm_action": "Adjust energy system to allow more flexible usage or provide alternative ways to replenish energy."
-      },
-      {
-        "label": "Aggressive streak reminder",
-        "category": "complaint",
-        "review_count": 12,
-        "avg_rating": 3.17,
-        "root_cause": "The streak reminder is too aggressive and threatening, causing frustration.",
-        "pm_action": "Adjust streak reminder tone to be encouraging rather than threatening."
-      },
-      {
-        "label": "Speaking feature broken",
-        "category": "complaint",
-        "review_count": 11,
-        "avg_rating": 2.73,
-        "root_cause": "Speaking exercises stopped working after recent update",
-        "pm_action": "Fix the speaking exercise bug introduced in the latest update"
-      }
-    ],
+    "high_priority_issues": [],
     "monthly_trend": [
       {
         "year_month": "2026-08",
-        "review_count": 1565,
-        "avg_rating": 4.331,
-        "avg_sentiment": 0.44
+        "review_count": 395,
+        "avg_rating": 4.38,
+        "avg_sentiment": 0.446
       }
     ],
     "rating_distribution": {
-      "1": 132,
-      "2": 49,
-      "3": 86,
-      "4": 200,
-      "5": 1098
+      "1": 29,
+      "2": 13,
+      "3": 19,
+      "4": 52,
+      "5": 282
     }
   },
   "instagram": {
     "app_name": "instagram",
-    "total_reviews": 1179,
-    "avg_rating": 3.64,
-    "avg_sentiment": 0.214,
-    "pct_positive": 64.6,
-    "pct_negative": 31.0,
-    "pct_neutral": 4.4,
+    "total_reviews": 626,
+    "avg_rating": 3.59,
+    "avg_sentiment": 0.237,
+    "pct_positive": 63.6,
+    "pct_negative": 32.1,
+    "pct_neutral": 4.3,
     "category_breakdown": {
-      "praise": 392,
-      "other": 221,
-      "complaint": 288,
-      "bug": 105
+      "other": 576
     },
-    "high_priority_issues": [
-      {
-        "label": "Account ID Suspension Issue",
-        "category": "complaint",
-        "review_count": 173,
-        "avg_rating": 3.64,
-        "root_cause": "User\u2019s account ID is being suspended without clear reason",
-        "pm_action": "Investigate suspension policy and provide clearer guidelines to users"
-      },
-      {
-        "label": "Reels Bugs and Lags",
-        "category": "bug",
-        "review_count": 90,
-        "avg_rating": 2.53,
-        "root_cause": "Reels functionality broken due to recent update causing bugs and lags.",
-        "pm_action": "Investigate and fix Reels playback bugs, roll back recent update if necessary."
-      },
-      {
-        "label": "Account Suspended Without Reason",
-        "category": "complaint",
-        "review_count": 66,
-        "avg_rating": 2.17,
-        "root_cause": "Users are being suspended without clear justification, causing frustration.",
-        "pm_action": "Implement a transparent appeal process and improve communication about suspension reasons."
-      },
-      {
-        "label": "Account Suspension Complaint",
-        "category": "complaint",
-        "review_count": 49,
-        "avg_rating": 1.86,
-        "root_cause": "Unintended account suspension due to algorithmic flagging or policy enforcement",
-        "pm_action": "Implement a transparent account recovery and appeal system to reduce accidental suspensions"
-      },
-      {
-        "label": "Story removal and crash issue",
-        "category": "bug",
-        "review_count": 15,
-        "avg_rating": 2.0,
-        "root_cause": "Stories are being removed or causing app to crash when accessed.",
-        "pm_action": "Investigate and fix story suggestion logic to prevent removal and crashes."
-      }
-    ],
+    "high_priority_issues": [],
     "monthly_trend": [
       {
         "year_month": "2026-08",
-        "review_count": 1179,
-        "avg_rating": 3.639,
-        "avg_sentiment": 0.214
+        "review_count": 626,
+        "avg_rating": 3.594,
+        "avg_sentiment": 0.237
       }
     ],
     "rating_distribution": {
-      "1": 323,
-      "2": 42,
-      "3": 52,
-      "4": 83,
-      "5": 679
+      "1": 185,
+      "2": 16,
+      "3": 27,
+      "4": 38,
+      "5": 360
     }
   },
   "netflix": {
     "app_name": "netflix",
-    "total_reviews": 1415,
-    "avg_rating": 3.83,
-    "avg_sentiment": 0.302,
-    "pct_positive": 68.8,
-    "pct_negative": 24.9,
-    "pct_neutral": 6.2,
+    "total_reviews": 370,
+    "avg_rating": 3.93,
+    "avg_sentiment": 0.371,
+    "pct_positive": 72.4,
+    "pct_negative": 23.8,
+    "pct_neutral": 3.8,
     "category_breakdown": {
-      "praise": 687,
-      "other": 134,
-      "complaint": 130,
-      "bug": 58
+      "other": 271
     },
-    "high_priority_issues": [
-      {
-        "label": "Audio and Update Issues",
-        "category": "complaint",
-        "review_count": 38,
-        "avg_rating": 2.18,
-        "root_cause": "Audio sync problems and poorly optimized updates are causing user frustration.",
-        "pm_action": "Release a patch fixing audio sync and update bugs in the next app version."
-      },
-      {
-        "label": "Excessive Ads in Ad Tier",
-        "category": "complaint",
-        "review_count": 33,
-        "avg_rating": 2.48,
-        "root_cause": "Users are dissatisfied with the high frequency of ads in the ad tier, leading to a low rating.",
-        "pm_action": "Reduce ad frequency in the ad tier by 50% to improve user experience."
-      },
-      {
-        "label": "High Pricing Concerns",
-        "category": "complaint",
-        "review_count": 31,
-        "avg_rating": 2.48,
-        "root_cause": "Users feel subscription price has increased too much relative to content value.",
-        "pm_action": "Investigate pricing structure and consider tiered plans or promotional discounts."
-      },
-      {
-        "label": "Black screen loading issue",
-        "category": "bug",
-        "review_count": 30,
-        "avg_rating": 1.47,
-        "root_cause": "Corrupted app installation causing rendering failure",
-        "pm_action": "Collect crash logs from affected devices and release a hotfix to fix the rendering bug"
-      },
-      {
-        "label": "Subscription cancellation frustration",
-        "category": "complaint",
-        "review_count": 28,
-        "avg_rating": 1.29,
-        "root_cause": "Users are frustrated by frequent cancellation prompts and payment failures, leading to a perception of poor value.",
-        "pm_action": "Implement a clearer cancellation flow and improve payment processing reliability."
-      },
-      {
-        "label": "Netflix app not working",
-        "category": "bug",
-        "review_count": 18,
-        "avg_rating": 1.83,
-        "root_cause": "The Netflix app fails to download or install on FireTV and mobile devices due to compatibility or server issues.",
-        "pm_action": "Fix the app's compatibility issue on FireTV and mobile devices and offer refunds to affected users."
-      },
-      {
-        "label": "Login Failure",
-        "category": "bug",
-        "review_count": 10,
-        "avg_rating": 1.2,
-        "root_cause": "Authentication flow broken, missing password option",
-        "pm_action": "Fix login authentication flow to support password sign-up and device management"
-      }
-    ],
+    "high_priority_issues": [],
     "monthly_trend": [
       {
         "year_month": "2026-08",
-        "review_count": 1415,
-        "avg_rating": 3.827,
-        "avg_sentiment": 0.302
+        "review_count": 370,
+        "avg_rating": 3.93,
+        "avg_sentiment": 0.371
       }
     ],
     "rating_distribution": {
-      "1": 290,
-      "2": 63,
-      "3": 88,
-      "4": 135,
-      "5": 839
+      "1": 72,
+      "2": 16,
+      "3": 14,
+      "4": 32,
+      "5": 236
     }
   },
   "paytm": {
     "app_name": "paytm",
-    "total_reviews": 855,
-    "avg_rating": 3.78,
-    "avg_sentiment": 0.255,
-    "pct_positive": 68.8,
-    "pct_negative": 29.4,
-    "pct_neutral": 1.9,
+    "total_reviews": 467,
+    "avg_rating": 3.82,
+    "avg_sentiment": 0.272,
+    "pct_positive": 69.6,
+    "pct_negative": 28.1,
+    "pct_neutral": 2.4,
     "category_breakdown": {
-      "other": 399,
-      "bug": 63,
-      "praise": 166,
-      "complaint": 29
+      "other": 442
     },
-    "high_priority_issues": [
-      {
-        "label": "Device environment mismatch",
-        "category": "bug",
-        "review_count": 48,
-        "avg_rating": 1.62,
-        "root_cause": "The app incorrectly flags supported devices as unsupported due to a faulty device environment check.",
-        "pm_action": "Revise the device environment validation logic and release an update that correctly identifies supported devices."
-      },
-      {
-        "label": "Reward and Redemption Issues",
-        "category": "complaint",
-        "review_count": 29,
-        "avg_rating": 2.24,
-        "root_cause": "Users are not receiving promised rewards and experiencing issues redeeming codes",
-        "pm_action": "Fix reward distribution and code redemption bugs, and update user communication"
-      },
-      {
-        "label": "Sync blocking UI",
-        "category": "bug",
-        "review_count": 15,
-        "avg_rating": 4.93,
-        "root_cause": "Sync process blocks UI causing delays and unresponsiveness",
-        "pm_action": "Optimize sync to run asynchronously and reduce UI blocking"
-      }
-    ],
+    "high_priority_issues": [],
     "monthly_trend": [
       {
         "year_month": "2026-08",
-        "review_count": 855,
-        "avg_rating": 3.781,
-        "avg_sentiment": 0.255
+        "review_count": 467,
+        "avg_rating": 3.822,
+        "avg_sentiment": 0.272
       }
     ],
     "rating_distribution": {
-      "1": 223,
-      "2": 28,
-      "3": 16,
-      "4": 34,
-      "5": 554
+      "1": 113,
+      "2": 18,
+      "3": 11,
+      "4": 22,
+      "5": 303
     }
   },
   "phonepe": {
     "app_name": "phonepe",
-    "total_reviews": 734,
-    "avg_rating": 4.09,
-    "avg_sentiment": 0.31,
-    "pct_positive": 77.7,
-    "pct_negative": 18.0,
-    "pct_neutral": 4.4,
+    "total_reviews": 346,
+    "avg_rating": 3.99,
+    "avg_sentiment": 0.29,
+    "pct_positive": 74.9,
+    "pct_negative": 20.8,
+    "pct_neutral": 4.3,
     "category_breakdown": {
-      "complaint": 339,
-      "praise": 255,
-      "other": 104
+      "other": 275
     },
-    "high_priority_issues": [
-      {
-        "label": "Overcharging on recharge",
-        "category": "complaint",
-        "review_count": 248,
-        "avg_rating": 3.41,
-        "root_cause": "Incorrect pricing logic for recharge",
-        "pm_action": "Investigate and correct recharge pricing algorithm"
-      }
-    ],
+    "high_priority_issues": [],
     "monthly_trend": [
       {
         "year_month": "2026-08",
-        "review_count": 734,
-        "avg_rating": 4.089,
-        "avg_sentiment": 0.31
+        "review_count": 346,
+        "avg_rating": 3.986,
+        "avg_sentiment": 0.29
       }
     ],
     "rating_distribution": {
-      "1": 118,
-      "2": 14,
-      "3": 32,
-      "4": 91,
-      "5": 479
+      "1": 66,
+      "2": 6,
+      "3": 15,
+      "4": 39,
+      "5": 220
     }
   },
   "spotify": {
     "app_name": "spotify",
-    "total_reviews": 1546,
-    "avg_rating": 3.62,
-    "avg_sentiment": 0.307,
-    "pct_positive": 63.4,
-    "pct_negative": 29.9,
-    "pct_neutral": 6.7,
+    "total_reviews": 383,
+    "avg_rating": 3.74,
+    "avg_sentiment": 0.289,
+    "pct_positive": 67.6,
+    "pct_negative": 26.1,
+    "pct_neutral": 6.3,
     "category_breakdown": {
-      "praise": 634,
-      "complaint": 330,
-      "other": 77,
-      "bug": 65
+      "other": 303
     },
-    "high_priority_issues": [
-      {
-        "label": "Ads in Premium Podcasts",
-        "category": "complaint",
-        "review_count": 57,
-        "avg_rating": 2.91,
-        "root_cause": "Ads still appear in podcasts despite premium subscription",
-        "pm_action": "Investigate ad delivery for premium podcasts and fix the ad injection bug"
-      },
-      {
-        "label": "Frequent Ads Annoy Users",
-        "category": "complaint",
-        "review_count": 45,
-        "avg_rating": 2.78,
-        "root_cause": "Ads are frequent and annoying to users.",
-        "pm_action": "Reduce ad frequency or offer an ad\u2011free tier."
-      },
-      {
-        "label": "App crashes and freezes",
-        "category": "bug",
-        "review_count": 35,
-        "avg_rating": 1.74,
-        "root_cause": "The app crashes and freezes due to a memory leak introduced in the latest update.",
-        "pm_action": "Investigate the latest update for memory leaks and release a hotfix."
-      },
-      {
-        "label": "Too many ads",
-        "category": "complaint",
-        "review_count": 32,
-        "avg_rating": 2.12,
-        "root_cause": "Excessive advertising detracts from user experience.",
-        "pm_action": "Reduce ad frequency and introduce an ad\u2011free subscription tier."
-      },
-      {
-        "label": "DJ Interruption & Shuffle Bug",
-        "category": "complaint",
-        "review_count": 22,
-        "avg_rating": 2.59,
-        "root_cause": "The auto DJ and smart shuffle features are malfunctioning, causing unwanted interruptions and repetitive playback.",
-        "pm_action": "Investigate and fix the auto DJ trigger logic and shuffle algorithm, and release a patch to restore proper functionality."
-      },
-      {
-        "label": "App crashes and Bluetooth issues",
-        "category": "bug",
-        "review_count": 18,
-        "avg_rating": 2.22,
-        "root_cause": "App crashes on launch and Bluetooth pairing fails",
-        "pm_action": "Release a hotfix addressing crash logs and Bluetooth pairing, and monitor crash reports"
-      },
-      {
-        "label": "Too many ads",
-        "category": "complaint",
-        "review_count": 16,
-        "avg_rating": 3.44,
-        "root_cause": "Excessive ad frequency disrupts listening experience",
-        "pm_action": "Introduce a cap on ads per hour to reduce interruptions"
-      },
-      {
-        "label": "Free tier too restrictive",
-        "category": "complaint",
-        "review_count": 16,
-        "avg_rating": 1.69,
-        "root_cause": "Users feel the free tier is too restrictive and ads are too frequent, making premium seem necessary.",
-        "pm_action": "Conduct a survey to identify acceptable ad limits and adjust the free tier accordingly."
-      },
-      {
-        "label": "Payment failure, subscription paused",
-        "category": "complaint",
-        "review_count": 14,
-        "avg_rating": 2.5,
-        "root_cause": "The UPI payment was processed but the subscription status was not updated due to a system error.",
-        "pm_action": "Investigate payment processing logs and update subscription status for affected users."
-      },
-      {
-        "label": "Podcast playback crashes",
-        "category": "bug",
-        "review_count": 12,
-        "avg_rating": 1.33,
-        "root_cause": "Podcast playback crashes due to memory leaks and poor buffering.",
-        "pm_action": "Investigate and fix memory management in podcast playback module; add crash logs and release hotfix."
-      }
-    ],
+    "high_priority_issues": [],
     "monthly_trend": [
       {
         "year_month": "2026-08",
-        "review_count": 1546,
-        "avg_rating": 3.615,
-        "avg_sentiment": 0.307
+        "review_count": 383,
+        "avg_rating": 3.744,
+        "avg_sentiment": 0.289
       }
     ],
     "rating_distribution": {
-      "1": 378,
-      "2": 85,
-      "3": 103,
-      "4": 168,
-      "5": 812
+      "1": 82,
+      "2": 18,
+      "3": 24,
+      "4": 51,
+      "5": 208
     }
   },
   "swiggy": {
     "app_name": "swiggy",
-    "total_reviews": 979,
-    "avg_rating": 2.58,
-    "avg_sentiment": -0.029,
-    "pct_positive": 38.1,
-    "pct_negative": 58.0,
-    "pct_neutral": 3.9,
+    "total_reviews": 501,
+    "avg_rating": 2.51,
+    "avg_sentiment": -0.041,
+    "pct_positive": 35.7,
+    "pct_negative": 60.7,
+    "pct_neutral": 3.6,
     "category_breakdown": {
-      "complaint": 581,
-      "other": 91,
-      "praise": 45
+      "other": 501
     },
-    "high_priority_issues": [
-      {
-        "label": "Customer Support Failure",
-        "category": "complaint",
-        "review_count": 301,
-        "avg_rating": 1.87,
-        "root_cause": "Inadequate customer support and order mismanagement leading to unresolved complaints.",
-        "pm_action": "Implement a dedicated escalation team and automated refund workflow for order errors."
-      },
-      {
-        "label": "Delivery delay & rude staff",
-        "category": "complaint",
-        "review_count": 76,
-        "avg_rating": 2.54,
-        "root_cause": "Customers report delayed deliveries, fake offers, and rude restaurant staff",
-        "pm_action": "Investigate delivery times, audit promotional offers, and provide staff training"
-      },
-      {
-        "label": "Payment & Redemption Issues",
-        "category": "complaint",
-        "review_count": 25,
-        "avg_rating": 1.44,
-        "root_cause": "Payment failures and missing cash\u2011on\u2011delivery option cause user frustration and loss of trust",
-        "pm_action": "Deploy a stable payment gateway, enable cash\u2011on\u2011delivery, fix cashback redemption logic, and communicate changes to users"
-      },
-      {
-        "label": "High GST and Delivery Charges",
-        "category": "complaint",
-        "review_count": 22,
-        "avg_rating": 2.23,
-        "root_cause": "Customers feel GST and delivery fees are excessively high and hidden.",
-        "pm_action": "Investigate fee structure, provide transparent breakdown, and consider reducing delivery fee."
-      },
-      {
-        "label": "Cancellation Process Issues",
-        "category": "complaint",
-        "review_count": 19,
-        "avg_rating": 1.21,
-        "root_cause": "Customers cannot cancel orders due to AI bot interference and delayed cancellation process.",
-        "pm_action": "Implement a real-time cancellation feature with human support and reduce cancellation fees."
-      },
-      {
-        "label": "Negative Delivery Experience",
-        "category": "complaint",
-        "review_count": 11,
-        "avg_rating": 3.55,
-        "root_cause": "Delivery delay and poor service",
-        "pm_action": "Investigate delivery process and improve response time"
-      }
-    ],
+    "high_priority_issues": [],
     "monthly_trend": [
       {
         "year_month": "2026-08",
-        "review_count": 979,
-        "avg_rating": 2.582,
-        "avg_sentiment": -0.029
+        "review_count": 501,
+        "avg_rating": 2.515,
+        "avg_sentiment": -0.041
       }
     ],
     "rating_distribution": {
-      "1": 528,
-      "2": 40,
-      "3": 38,
-      "4": 59,
-      "5": 314
+      "1": 277,
+      "2": 27,
+      "3": 18,
+      "4": 20,
+      "5": 159
     }
   },
   "uber": {
     "app_name": "uber",
-    "total_reviews": 1323,
-    "avg_rating": 3.31,
-    "avg_sentiment": 0.164,
-    "pct_positive": 56.1,
-    "pct_negative": 40.7,
-    "pct_neutral": 3.3,
+    "total_reviews": 333,
+    "avg_rating": 3.32,
+    "avg_sentiment": 0.166,
+    "pct_positive": 56.8,
+    "pct_negative": 40.8,
+    "pct_neutral": 2.4,
     "category_breakdown": {
-      "complaint": 709,
-      "praise": 268,
-      "other": 37
+      "other": 333
     },
-    "high_priority_issues": [
-      {
-        "label": "Ride Cancellation & Wait Time",
-        "category": "complaint",
-        "review_count": 481,
-        "avg_rating": 2.9,
-        "root_cause": "Frequent driver cancellations and delayed confirmations are causing user frustration.",
-        "pm_action": "Review and adjust driver dispatch logic to reduce cancellations and improve confirmation speed."
-      },
-      {
-        "label": "Poor Service Payment Issues",
-        "category": "complaint",
-        "review_count": 92,
-        "avg_rating": 2.4,
-        "root_cause": "Users report unreliable service and payment errors causing frustration.",
-        "pm_action": "Investigate and resolve payment processing errors and improve driver reliability."
-      },
-      {
-        "label": "Poor Customer Support",
-        "category": "complaint",
-        "review_count": 22,
-        "avg_rating": 1.77,
-        "root_cause": "The customer support system is unresponsive and automated, leading to frustration.",
-        "pm_action": "Implement a live chat support feature with real-time agent response."
-      },
-      {
-        "label": "High Cost Complaints",
-        "category": "complaint",
-        "review_count": 21,
-        "avg_rating": 3.9,
-        "root_cause": "Users feel the ride cost is too high.",
-        "pm_action": "Investigate pricing strategy and consider dynamic pricing or discounts to improve affordability perception."
-      }
-    ],
+    "high_priority_issues": [],
     "monthly_trend": [
       {
         "year_month": "2026-08",
-        "review_count": 1323,
-        "avg_rating": 3.306,
-        "avg_sentiment": 0.164
+        "review_count": 333,
+        "avg_rating": 3.315,
+        "avg_sentiment": 0.166
       }
     ],
     "rating_distribution": {
-      "1": 482,
-      "2": 56,
-      "3": 43,
-      "4": 59,
-      "5": 683
+      "1": 121,
+      "2": 15,
+      "3": 8,
+      "4": 16,
+      "5": 173
     }
   },
   "whatsapp": {
     "app_name": "whatsapp",
-    "total_reviews": 1057,
-    "avg_rating": 3.7,
-    "avg_sentiment": 0.248,
-    "pct_positive": 65.5,
-    "pct_negative": 28.5,
-    "pct_neutral": 6.1,
+    "total_reviews": 495,
+    "avg_rating": 3.61,
+    "avg_sentiment": 0.236,
+    "pct_positive": 62.2,
+    "pct_negative": 32.1,
+    "pct_neutral": 5.7,
     "category_breakdown": {
-      "other": 440,
-      "praise": 331,
-      "bug": 82,
-      "complaint": 48,
-      "feature_request": 12
+      "other": 442
     },
-    "high_priority_issues": [
-      {
-        "label": "App fails to open",
-        "category": "bug",
-        "review_count": 82,
-        "avg_rating": 3.56,
-        "root_cause": "App fails to launch for some users",
-        "pm_action": "Fix launch crash and deploy patch"
-      },
-      {
-        "label": "Account Suspension Issues",
-        "category": "complaint",
-        "review_count": 48,
-        "avg_rating": 2.48,
-        "root_cause": "Unclear account suspension policy leads to frequent bans",
-        "pm_action": "Implement a clear, user-friendly appeal system for suspended accounts"
-      },
-      {
-        "label": "Hide status icon request",
-        "category": "feature_request",
-        "review_count": 12,
-        "avg_rating": 2.08,
-        "root_cause": "Users find the status icon at the top of chat intrusive and want an option to hide it without affecting contact status visibility.",
-        "pm_action": "Add a toggle in chat settings to hide the status icon."
-      }
-    ],
+    "high_priority_issues": [],
     "monthly_trend": [
       {
         "year_month": "2026-08",
-        "review_count": 1057,
-        "avg_rating": 3.7,
-        "avg_sentiment": 0.248
+        "review_count": 495,
+        "avg_rating": 3.612,
+        "avg_sentiment": 0.236
       }
     ],
     "rating_distribution": {
-      "1": 248,
-      "2": 53,
-      "3": 64,
-      "4": 95,
-      "5": 597
+      "1": 123,
+      "2": 36,
+      "3": 28,
+      "4": 31,
+      "5": 277
     }
   },
   "youtube": {
     "app_name": "youtube",
-    "total_reviews": 1318,
-    "avg_rating": 2.85,
-    "avg_sentiment": 0.094,
-    "pct_positive": 42.6,
-    "pct_negative": 51.4,
-    "pct_neutral": 5.9,
+    "total_reviews": 314,
+    "avg_rating": 3.12,
+    "avg_sentiment": 0.122,
+    "pct_positive": 50.3,
+    "pct_negative": 44.3,
+    "pct_neutral": 5.4,
     "category_breakdown": {
-      "complaint": 1139,
-      "other": 137,
-      "bug": 40
+      "other": 314
     },
-    "high_priority_issues": [
-      {
-        "label": "Premium features broken, ads overload",
-        "category": "complaint",
-        "review_count": 1139,
-        "avg_rating": 2.82,
-        "root_cause": "Premium features not working and ads overwhelm users",
-        "pm_action": "Investigate premium feature failures and reduce ad frequency in videos"
-      },
-      {
-        "label": "Microphone not working",
-        "category": "bug",
-        "review_count": 16,
-        "avg_rating": 2.12,
-        "root_cause": "The microphone fails to function due to a software or driver incompatibility issue.",
-        "pm_action": "Investigate microphone driver compatibility and release a patch to restore functionality."
-      },
-      {
-        "label": "Voice search not working",
-        "category": "bug",
-        "review_count": 14,
-        "avg_rating": 1.71,
-        "root_cause": "The voice search algorithm fails to recognize user input due to microphone permissions or audio processing errors.",
-        "pm_action": "Investigate microphone permission handling and update the voice recognition pipeline to improve accuracy."
-      },
-      {
-        "label": "Microphone Recognition Failure",
-        "category": "bug",
-        "review_count": 10,
-        "avg_rating": 2.4,
-        "root_cause": "Microphone recognition fails due to faulty audio input handling.",
-        "pm_action": "Fix microphone recognition logic and add fallback prompt for unrecognized input."
-      }
-    ],
+    "high_priority_issues": [],
     "monthly_trend": [
       {
         "year_month": "2026-08",
-        "review_count": 1318,
-        "avg_rating": 2.852,
-        "avg_sentiment": 0.094
+        "review_count": 314,
+        "avg_rating": 3.124,
+        "avg_sentiment": 0.122
       }
     ],
     "rating_distribution": {
-      "1": 575,
-      "2": 103,
-      "3": 78,
-      "4": 66,
-      "5": 496
+      "1": 121,
+      "2": 18,
+      "3": 17,
+      "4": 17,
+      "5": 141
     }
   },
   "zomato": {
     "app_name": "zomato",
-    "total_reviews": 777,
-    "avg_rating": 3.03,
-    "avg_sentiment": 0.062,
-    "pct_positive": 49.2,
-    "pct_negative": 45.8,
-    "pct_neutral": 5.0,
+    "total_reviews": 401,
+    "avg_rating": 3.14,
+    "avg_sentiment": 0.102,
+    "pct_positive": 52.6,
+    "pct_negative": 43.6,
+    "pct_neutral": 3.7,
     "category_breakdown": {
-      "complaint": 299,
-      "other": 125,
-      "praise": 237
+      "other": 375
     },
-    "high_priority_issues": [
-      {
-        "label": "Delivery delays & refunds",
-        "category": "complaint",
-        "review_count": 153,
-        "avg_rating": 1.37,
-        "root_cause": "Delivery delays and refund processing failures causing customer dissatisfaction.",
-        "pm_action": "Implement real-time delivery tracking and automated refund confirmation to improve reliability."
-      },
-      {
-        "label": "Small Kulcha Size Issue",
-        "category": "complaint",
-        "review_count": 72,
-        "avg_rating": 2.79,
-        "root_cause": "The kulcha size is too small, leading to customer dissatisfaction.",
-        "pm_action": "Adjust the kulcha portion size to meet standard dimensions and update packaging."
-      },
-      {
-        "label": "High Delivery Charges Complaint",
-        "category": "complaint",
-        "review_count": 46,
-        "avg_rating": 1.91,
-        "root_cause": "Customers are dissatisfied due to excessive delivery fees.",
-        "pm_action": "Review and reduce delivery fee structure, and communicate changes to users."
-      },
-      {
-        "label": "Delivery Time Issues",
-        "category": "complaint",
-        "review_count": 16,
-        "avg_rating": 4.25,
-        "root_cause": "Delayed delivery due to logistics.",
-        "pm_action": "Investigate delivery logistics and improve ETA accuracy."
-      },
-      {
-        "label": "Positive overall experience",
-        "category": "praise",
-        "review_count": 13,
-        "avg_rating": 3.0,
-        "root_cause": "Customers appreciate the overall experience.",
-        "pm_action": "Highlight positive feedback in marketing and maintain quality."
-      },
-      {
-        "label": "Cash on Delivery Missing",
-        "category": "complaint",
-        "review_count": 12,
-        "avg_rating": 2.5,
-        "root_cause": "Cash on delivery option not available",
-        "pm_action": "Implement cash on delivery payment option"
-      }
-    ],
+    "high_priority_issues": [],
     "monthly_trend": [
       {
         "year_month": "2026-08",
-        "review_count": 777,
-        "avg_rating": 3.027,
-        "avg_sentiment": 0.062
+        "review_count": 401,
+        "avg_rating": 3.145,
+        "avg_sentiment": 0.102
       }
     ],
     "rating_distribution": {
-      "1": 335,
-      "2": 21,
-      "3": 39,
-      "4": 52,
-      "5": 330
+      "1": 162,
+      "2": 13,
+      "3": 15,
+      "4": 27,
+      "5": 184
     }
   }
 }

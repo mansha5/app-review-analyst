@@ -2,202 +2,153 @@
   {
     "topic_id": 0,
     "keywords": [
-      "whatsapp",
-      "communication",
-      "friends",
-      "family",
-      "messaging",
-      "chat"
+      "love",
+      "application",
+      "useful",
+      "easy",
+      "reliable",
+      "amazing"
     ],
-    "review_count": 258,
-    "avg_rating": 3.95,
-    "avg_sentiment": 0.373,
+    "review_count": 103,
+    "avg_rating": 4.56,
+    "avg_sentiment": 0.507,
     "sample_reviews": [
-      "I really love Whatsapp it's fast,cool n perfectly good",
-      "Can't update my WhatsApp",
-      "my WhatsApp is not working please check it"
+      "this app helps to convey massages faster than one may expect and improves many peoples live",
+      "it's trustable",
+      "it is very nice app"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "excellent",
+      "experience",
+      "bad",
       "fast",
-      "easy",
-      "love",
-      "reliable",
-      "slow"
+      "awesome",
+      "improve",
+      "fantastic"
     ],
-    "review_count": 226,
-    "avg_rating": 4.44,
-    "avg_sentiment": 0.433,
+    "review_count": 66,
+    "avg_rating": 4.42,
+    "avg_sentiment": 0.401,
     "sample_reviews": [
-      "very smooth",
-      "you are the best",
-      "Good product and good service"
-    ],
-    "label": "Positive Feedback on WhatsApp",
-    "category": "praise",
-    "root_cause": "Users appreciate the app's smooth performance and reliable communication.",
-    "priority": "low",
-    "priority_reason": "High average rating and positive reviews indicate low urgency.",
-    "pm_action": "Schedule a quarterly review of user feedback to maintain satisfaction."
+      "it was very good",
+      "it's fantastic!",
+      "it's time taken but best regards"
+    ]
   },
   {
     "topic_id": 2,
     "keywords": [
-      "helpful",
-      "amazing",
-      "useful",
-      "apps",
-      "thanks",
-      "difficult"
+      "video",
+      "communication",
+      "message",
+      "status",
+      "chat",
+      "video calls"
     ],
-    "review_count": 105,
-    "avg_rating": 4.74,
-    "avg_sentiment": 0.511,
+    "review_count": 59,
+    "avg_rating": 3.98,
+    "avg_sentiment": 0.443,
     "sample_reviews": [
-      "best msg app",
-      "really awesome app",
-      "this app is absolutely amazing"
-    ],
-    "label": "Positive user feedback",
-    "category": "praise",
-    "root_cause": "Users value the app's messaging capabilities and overall experience.",
-    "priority": "low",
-    "priority_reason": "High average rating and positive reviews indicate low urgency.",
-    "pm_action": "Continue monitoring user feedback and maintain current feature set."
+      "The upload quality for media of all kinds has deteriorated terribly in recent time. Something has to be done about this. Also, the introduction of premium features and usernames are totally needless",
+      "Nice app for chatting",
+      "very nice app I like my friends daily chat and status"
+    ]
   },
   {
     "topic_id": 3,
     "keywords": [
-      "working",
-      "update",
-      "open",
-      "phone",
-      "tablet",
-      "install"
+      "account",
+      "banned",
+      "whatsapp",
+      "review",
+      "ban",
+      "number"
     ],
-    "review_count": 87,
-    "avg_rating": 2.77,
-    "avg_sentiment": -0.021,
+    "review_count": 57,
+    "avg_rating": 2.4,
+    "avg_sentiment": -0.227,
     "sample_reviews": [
-      "It stop working guys",
-      "why can't you update with data where there is no WiFi",
-      "app can't open this my phone"
+      "2 month account banned bekar what shap he",
+      "I keep getting banned even tho I did not do anything",
+      "I am unable to use WhatsApp account because I keep receiving the message you need to use official WhatsApp I have already uninstalled the current version download the official WhatsApp from the Google play store and tried verifying my phone number again. please help me restore my account so I can continue using WhatsApp normally"
     ]
   },
   {
     "topic_id": 4,
     "keywords": [
-      "hi",
-      "ban",
-      "whatsapp",
-      "mera",
-      "tidak",
-      "reason"
+      "update",
+      "working",
+      "fix",
+      "option",
+      "voice",
+      "dont"
     ],
-    "review_count": 82,
-    "avg_rating": 3.56,
-    "avg_sentiment": 0.009,
+    "review_count": 49,
+    "avg_rating": 2.2,
+    "avg_sentiment": -0.087,
     "sample_reviews": [
-      "plz my Whatsap Opan",
-      "Very nice aap hai easki facelity bahut bhadya hai",
-      "I am om Kumar very kharab aapp"
-    ],
-    "label": "App fails to open",
-    "category": "bug",
-    "root_cause": "App fails to launch for some users",
-    "priority": "medium",
-    "priority_reason": "Moderate rating with negative reviews and high review count indicates medium urgency",
-    "pm_action": "Fix launch crash and deploy patch"
+      "After one month I still can't access the home page. I can't initiate conversations, view status nor even make a call.",
+      "not working correctly",
+      "its not working at all"
+    ]
   },
   {
     "topic_id": 5,
     "keywords": [
-      "account",
-      "review",
-      "number",
-      "account review",
-      "banned",
-      "reason"
+      "whatsapp",
+      "love",
+      "group",
+      "whatsapp whatsapp",
+      "ones",
+      "messenger"
     ],
-    "review_count": 72,
-    "avg_rating": 2.38,
-    "avg_sentiment": -0.08,
+    "review_count": 40,
+    "avg_rating": 4.0,
+    "avg_sentiment": 0.533,
     "sample_reviews": [
-      "my account is blocked why",
-      "Absolutely fascist AI running it. Two days ago I got a 6 hour suspension for posting a similar message about housing in two different groups that I've been active in since inception. Today I got suspended for DMing someone not in my contacts about a housing opportunity and having the audacity to reply to her when she responded. And so now I can't connect with ANYONE because of a total of four messages that were in no way bothering anyone or in violation of their terms of service.",
-      "cant log in"
+      "whatsapp bendh",
+      "i have never seen a app so helpful and easy going as WhatsApp i like the app jhor",
+      "WhatsApp is one of the best apps, and we love using it more than any other app."
     ]
   },
   {
     "topic_id": 6,
     "keywords": [
-      "account",
-      "whatsapp",
-      "review",
-      "banned",
-      "support",
-      "whatsapp account"
+      "na",
+      "sweet",
+      "nahi",
+      "happy",
+      "bar",
+      "ban"
     ],
-    "review_count": 48,
-    "avg_rating": 2.48,
-    "avg_sentiment": 0.064,
+    "review_count": 37,
+    "avg_rating": 4.11,
+    "avg_sentiment": 0.063,
     "sample_reviews": [
-      "if there were zero star, I would have given it. The app is becoming useless day by day, you just wake up you find your account suspended from no where, no proper reason. it is full of inconveniences everytime, not enjoyable anymore. you don't use it for a single day you find account suspended, you decide to use it, suspended. it's no longer the WhatsApp we used to enjoy.",
-      "it's a good app though I've been using this app for months now,and suddenly yesterday, WhatsApp restrict my account,I don't know what I did wrong, I'm even trying to verify it this morning now,they are telling me number not verified like that is even the only number I have (you people should give me back my account oooo) cause I don't understand your problem with my account ",
-      "Hey team WhatsApp My WhatsApp number is banned last week and I tried to restore my account but failed. I am facing this problem.This account can't use whatapp I assure you I have not violate any policy of whatapp and this is my personal number and I am facing very problem now a days so please consider my request and restore my WhatsApp account as soon as possible Thanks your regrads"
-    ],
-    "label": "Account Suspension Issues",
-    "category": "complaint",
-    "root_cause": "Unclear account suspension policy leads to frequent bans",
-    "priority": "high",
-    "priority_reason": "Low average rating and many complaints indicate urgent need to address account suspension issues",
-    "pm_action": "Implement a clear, user-friendly appeal system for suspended accounts"
+      "pelez open vatsop",
+      "Iko poa kwa matumizi na kwa wakati sahihi",
+      "this app is very good night sweet dreams and many moneys from you sona amar barita sobai valo acha lagta hai na ki bolcha ami toka valo basi na ami o sona hai to ami ki korchis kaoya to be a good night sweet and sweet heart bless you too God is always happy you sona amar o acha"
+    ]
   },
   {
     "topic_id": 7,
     "keywords": [
-      "voice",
-      "video",
-      "audio",
-      "voice notes",
-      "notes",
-      "button"
+      "whatsapp",
+      "working",
+      "version",
+      "open",
+      "updated",
+      "wont"
     ],
-    "review_count": 23,
-    "avg_rating": 2.22,
-    "avg_sentiment": -0.016,
+    "review_count": 31,
+    "avg_rating": 2.74,
+    "avg_sentiment": 0.045,
     "sample_reviews": [
-      "1] camera comes with sundden unpredictable zoom . 2] can create pause button when recording video please .",
-      "Great app, It could be better with call recording access",
-      "since recent update. The voice message are getting played from ear speaker like a phone call. this is causing ear speaker sensor to turn off the screen"
+      "The more whatsapp improves and updates the app, the more bugs appear and no one fixes it. Old times everything just worked fine",
+      "My phone doesn't want to download WhatsApp and i don't receive a code",
+      "Please, this app should do better. I don't see why in this modern age, messages will be clearing from WhatsApp. Such issue is alien to Facebook, Instagram, twitter and Telegram. WhatsApp Board should update their App so that no matter what happens, messages cannot clear from it. Thank you as I look forward to a positive response."
     ]
-  },
-  {
-    "topic_id": 8,
-    "keywords": [
-      "status",
-      "chat",
-      "tab",
-      "page",
-      "annoying",
-      "dont like"
-    ],
-    "review_count": 12,
-    "avg_rating": 2.08,
-    "avg_sentiment": -0.186,
-    "sample_reviews": [
-      "I really don't like the look of the newest update about the position of the status at the top of the chat. It makes me want to hide all the status as it seems that is the only way to hide it from the top. what even is this. So, WhatsApp devs, tell me how to hide the status icon on top of the chat without hiding all my contacts' status, which should make it still accessible at the updates section?",
-      "Others status on top is annoying as hell",
-      "Why you add status at homepage "
-    ],
-    "label": "Hide status icon request",
-    "category": "feature_request",
-    "root_cause": "Users find the status icon at the top of chat intrusive and want an option to hide it without affecting contact status visibility.",
-    "priority": "medium",
-    "priority_reason": "Moderate user dissatisfaction with a feature that is not critical but impacts user experience.",
-    "pm_action": "Add a toggle in chat settings to hide the status icon."
   }
 ]
