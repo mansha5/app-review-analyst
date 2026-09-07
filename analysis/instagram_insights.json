@@ -16,7 +16,13 @@
       "bilkul ghatiya",
       "pk pathan10k tiktoker",
       "@meta please insta pe close friend me green colour ko highlight se hataiye close friend me status to lge bt kisi ko pta na chale ki ye stuas close friend me lgaya gya h it's a humble request"
-    ]
+    ],
+    "label": "Hide Close Friend Highlight",
+    "category": "feature_request",
+    "root_cause": "Users want to hide close friend status highlight to maintain privacy",
+    "priority": "medium",
+    "priority_reason": "Moderate user dissatisfaction with privacy feature and moderate review volume",
+    "pm_action": "Add an option in settings to disable the close friend status highlight"
   },
   {
     "topic_id": 1,
@@ -35,7 +41,13 @@
       "this is very good app",
       "best app but please internet fast",
       "Honestly, I\u2019ve been using this app for years and it has been such a big help! From calls and chats to other daily needs, everything feels so much easier and more convenient. Definitely one of those apps I can\u2019t imagine going without! \u2764\ufe0f\u2728"
-    ]
+    ],
+    "label": "Positive user feedback",
+    "category": "praise",
+    "root_cause": "Users find the app easy to use daily and appreciate its excellent features",
+    "priority": "low",
+    "priority_reason": "High rating and positive reviews indicate low urgency",
+    "pm_action": "Continue monitoring feedback and maintain current feature set"
   },
   {
     "topic_id": 2,
@@ -54,7 +66,13 @@
       "my experience is best",
       "Very entertaining and informative",
       "good experience"
-    ]
+    ],
+    "label": "Positive User Experience",
+    "category": "praise",
+    "root_cause": "Users are satisfied with Instagram's features and interface.",
+    "priority": "low",
+    "priority_reason": "High rating and positive reviews suggest low urgency.",
+    "pm_action": "Continue monitoring feedback and maintain current features."
   },
   {
     "topic_id": 3,
@@ -73,7 +91,13 @@
       "no use suspended account ",
       "My account is suspended repeatedly for no reason, I've tried a thousand times to fix it, but there's still no response, it's ridiculous ",
       "24 hours gone"
-    ]
+    ],
+    "label": "Account Suspended Unjustly",
+    "category": "complaint",
+    "root_cause": "Suspension policy enforcement is incorrectly flagging legitimate accounts as violations.",
+    "priority": "high",
+    "priority_reason": "Low rating and high complaint volume signal a critical user experience issue.",
+    "pm_action": "Review and adjust the automated suspension algorithm, and implement a transparent appeal workflow for affected users."
   },
   {
     "topic_id": 4,
@@ -111,7 +135,13 @@
       "Instagram suspend my account without any reason and don't giving me to appeal option more than 7 account on insta very very bad app",
       "Hello Dear Sir.. My instagram Account is disabled my account Name.thakor.xrana has been Community disable. I Want my Instagram account Sir i'm sure i didn't break your rules and regulations and i respect you and your comunnity guidelins, sir i'm sure you have made a mistake please sir i request you please review my account again and reopen my Instagram account as well as soon possible becouse sir i have linked my account other social media plateform like and many apps which i downloaded from",
       "Instagram is forcing me to update my email. And my phone number is suddenly marked as added in another account. There is no functioning customer service to contact to solve those issues"
-    ]
+    ],
+    "label": "Account Suspension Issue",
+    "category": "complaint",
+    "root_cause": "Unclear suspension policy and lack of appeal option.",
+    "priority": "high",
+    "priority_reason": "Low rating and high complaint volume.",
+    "pm_action": "Implement a clear appeal workflow and dedicated support channel for suspended accounts."
   },
   {
     "topic_id": 6,
@@ -149,7 +179,13 @@
       "A install the Instagram page it good for using Instagram",
       "because don't download Instagram app",
       "insta is the best app so far. I couldn't even compare to any"
-    ]
+    ],
+    "label": "Positive Feedback on Instagram",
+    "category": "praise",
+    "root_cause": "Users appreciate the app's ease of use and features",
+    "priority": "low",
+    "priority_reason": "High rating and few reviews indicate positive sentiment",
+    "pm_action": "Continue monitoring user feedback and maintain app stability"
   },
   {
     "topic_id": 8,
@@ -168,7 +204,13 @@
       "I can't use my instant even tho I have updated my app",
       "not updated version",
       "I don't mean to be too harsh I'm pretty sure it's my fault but I can't even get through the log in screen it just keeps loading but never going in :("
-    ]
+    ],
+    "label": "Login stuck after update",
+    "category": "bug",
+    "root_cause": "Login screen fails due to API mismatch after recent update.",
+    "priority": "medium",
+    "priority_reason": "Moderate urgency due to negative rating and update-related complaints.",
+    "pm_action": "Release a hotfix to restore login functionality and communicate fix to users."
   },
   {
     "topic_id": 9,
@@ -187,7 +229,13 @@
       "Love sharing photos and watching Reels. Very user-friendly .",
       "reels are chill, stories are implemented bad, constantly freezes and I have to force stop the app",
       "stop auto refreshing all the time! I wanted to see that reel!"
-    ]
+    ],
+    "label": "Reels Performance and Auto-Refresh",
+    "category": "bug",
+    "root_cause": "App crashes due to memory leaks during Reels playback and excessive auto-refreshing.",
+    "priority": "medium",
+    "priority_reason": "Moderate user dissatisfaction with performance issues.",
+    "pm_action": "Optimize Reels rendering pipeline and reduce auto-refresh frequency."
   },
   {
     "topic_id": 10,
@@ -206,7 +254,13 @@
       "best social media app",
       "It's a great social network for a little bit of ",
       "Best social media app"
-    ]
+    ],
+    "label": "Positive Feedback on Instagram",
+    "category": "praise",
+    "root_cause": "Users appreciate Instagram as a top social media platform.",
+    "priority": "low",
+    "priority_reason": "High rating and positive reviews indicate low urgency.",
+    "pm_action": "Maintain current features and gather user feedback for future updates."
   },
   {
     "topic_id": 11,
@@ -225,7 +279,13 @@
       "this is my favrate aap",
       "this is aa naice AAP",
       "best aap i love it"
-    ]
+    ],
+    "label": "App praised by users",
+    "category": "praise",
+    "root_cause": "Users appreciate app's features",
+    "priority": "low",
+    "priority_reason": "Positive reviews indicate high satisfaction",
+    "pm_action": "Maintain current features and monitor usage"
   },
   {
     "topic_id": 12,
@@ -244,7 +304,13 @@
       "You can\u2019t crop an image in Stories",
       "Why does it take so long to add something to the highlights? Even though the internet is running very smoothly, it's been 'loading' for a while and how long will it lag like this? It's a waste of time, please fix it.",
       "no option of commenting photo"
-    ]
+    ],
+    "label": "Story editing and performance issues",
+    "category": "complaint",
+    "root_cause": "Missing cropping, slow highlight uploads, and no photo comments in Stories",
+    "priority": "medium",
+    "priority_reason": "Low rating and multiple complaints suggest medium priority",
+    "pm_action": "Fix image cropping, reduce highlight upload time, and enable photo comments in Stories"
   },
   {
     "topic_id": 13,

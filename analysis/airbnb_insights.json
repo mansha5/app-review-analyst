@@ -16,7 +16,13 @@
       "Great experience",
       "it is amazing",
       "good great wonderful amazing"
-    ]
+    ],
+    "label": "Positive user experience",
+    "category": "praise",
+    "root_cause": "The app provides a seamless booking experience with a friendly, user\u2011friendly interface.",
+    "priority": "low",
+    "priority_reason": "Positive reviews indicate high user satisfaction.",
+    "pm_action": "Maintain current features and monitor for any decline in satisfaction."
   },
   {
     "topic_id": 1,
@@ -54,7 +60,13 @@
       "\u200b Absolute nightmare. Booked a unit for my family, including elderly relatives. They checked in at 11 PM and walked in on strangers sitting on the sofa\u2014the host double-booked the listing. Leaving elderly guests stranded at midnight is unacceptable and a severe safety failure. Airbnb support offered zero real help beyond a basic refund and a useless 20% credit. Unsafe host management and terrible customer support. Avoid.",
       "I attempted to make a reservation for my family because my AC got cut off and they flagged my reservation as a possibly trying to throw a party. I made an appeal which got denied and then tried to rebook and called Airbnb to explain my situation. the location I was trying to book was perfect for my family because it was close to my kids school. then they suspended my account due to making multiple requests. my family is now sitting in a 90\u00b0 house in the middle of Arizona.",
       "Airbnb's policy in India is terrible. They only care about business; they don't make decisions in the interest of the hosts."
-    ]
+    ],
+    "label": "Unsafe host double-booking",
+    "category": "complaint",
+    "root_cause": "The host double-booked the listing, causing safety and accommodation issues for guests.",
+    "priority": "medium",
+    "priority_reason": "The low rating and high review count indicate significant guest dissatisfaction.",
+    "pm_action": "Implement a real-time booking conflict detection system and enforce stricter host verification."
   },
   {
     "topic_id": 3,
@@ -73,7 +85,13 @@
       "Our go-to for vacations.",
       "Good. it is fast and reliable. But do your research of the location yourself. Way cheaper than hotel options. Would recommend to use airBNB for your \"headquarters\" in a city.",
       "Always easy to use and great places to stay! Easy communication with owners!"
-    ]
+    ],
+    "label": "Great stay, easy booking",
+    "category": "praise",
+    "root_cause": "Users value the platform's ease of use and quality accommodations.",
+    "priority": "low",
+    "priority_reason": "High rating and positive reviews indicate strong user satisfaction.",
+    "pm_action": "Continue improving booking flow and highlight top-rated listings in marketing."
   },
   {
     "topic_id": 4,
@@ -92,7 +110,13 @@
       "This app makes it so easy to review any bookings or reservations you may have. And it is the easiest way to reach out to your hosts and ask questions , make changes, or clarify any issues.",
       "new to the app need to use them any kind of home new to using home apps for rent no I want to say that it was terrible they won't let you book until you book some hotel rooms so if you are in the emergency make sure you do this 3 to 6 months prior and spend extra money for no reason even though you don't need it just so they can see that you are ready to book something probably is the worst process I've ever gone through",
       "Easy booking experience"
-    ]
+    ],
+    "label": "Booking Process Issues",
+    "category": "complaint",
+    "root_cause": "Users find booking process confusing and restrictive.",
+    "priority": "medium",
+    "priority_reason": "Moderate rating and mixed reviews indicate room for improvement.",
+    "pm_action": "Simplify booking flow and remove unnecessary pre-booking steps."
   },
   {
     "topic_id": 5,
@@ -111,7 +135,13 @@
       "nothing to complain very good service",
       "Poor customer service horrible experience with this company I will never use them again.",
       "Customer Service is appalling"
-    ]
+    ],
+    "label": "Customer Service Issues",
+    "category": "complaint",
+    "root_cause": "Customers are dissatisfied due to slow response times and unhelpful support staff.",
+    "priority": "medium",
+    "priority_reason": "The average rating is moderate and there are multiple negative reviews indicating a need for improvement.",
+    "pm_action": "Implement a dedicated customer support training program and introduce a 24/7 live chat feature."
   },
   {
     "topic_id": 6,
@@ -130,7 +160,13 @@
       "transparent pricing, very clear information",
       "save yourself the headache and rent at a hotel for the same price. my last trip was an absolute rip off scam",
       "the Hosts are getting out of hand with security deposits and whatnot. why would I pay a higher price and have to clean up after myself when I can just stay in a hotel and not be bothered. You can't even trust the reviews because if you give a host a bad review they will give you a bad review as a tenit and you will not get accepted to another place."
-    ]
+    ],
+    "label": "High fees and unclear policies",
+    "category": "complaint",
+    "root_cause": "High fees and unclear host policies lead to negative user experience.",
+    "priority": "medium",
+    "priority_reason": "Low rating and negative reviews indicate user dissatisfaction.",
+    "pm_action": "Revise fee disclosure and host policy guidelines to improve transparency and trust."
   },
   {
     "topic_id": 7,
@@ -149,6 +185,12 @@
       "I'm unable to upload my ID",
       "multifactor verification doesnt work",
       "does not work, says \"something went wrong\" when signing up"
-    ]
+    ],
+    "label": "Verification upload failure",
+    "category": "bug",
+    "root_cause": "Backend error causing ID upload and MFA to fail",
+    "priority": "medium",
+    "priority_reason": "Users cannot complete verification, impacting onboarding",
+    "pm_action": "Investigate backend logs for ID upload and MFA endpoints, fix errors, deploy patch"
   }
 ]

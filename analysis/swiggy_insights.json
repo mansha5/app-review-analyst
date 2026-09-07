@@ -16,7 +16,13 @@
       "cheated my payment",
       "I order food (jalebi) on Swiggy of Rs. 247, but I was served stale food. i contacted with their support but they just can't do anything about it and offered me coupon on 61. Worst experience, you guys must pay attention to your customer service. this was totally deficiency in service. Consumer council must take some action to rectify customer support of these online platforms .",
       "One of my go to app, Love you Swiggy!"
-    ]
+    ],
+    "label": "Stale food & poor support",
+    "category": "complaint",
+    "root_cause": "Stale food and ineffective customer support.",
+    "priority": "high",
+    "priority_reason": "Low rating and high review count indicate urgent issue.",
+    "pm_action": "Implement stricter food quality checks and train support staff."
   },
   {
     "topic_id": 1,
@@ -35,7 +41,13 @@
       "good service",
       "good service",
       "well long distance"
-    ]
+    ],
+    "label": "Positive Service Feedback",
+    "category": "praise",
+    "root_cause": "Customers are satisfied with timely delivery and friendly staff.",
+    "priority": "low",
+    "priority_reason": "High rating and positive reviews indicate strong service performance.",
+    "pm_action": "Maintain current service protocols and monitor for any decline"
   },
   {
     "topic_id": 2,
@@ -54,7 +66,13 @@
       "nice app ,, feedback is good",
       "nice app food delivery app",
       "totally worst delivery app with no Customer Support"
-    ]
+    ],
+    "label": "Delivery Delays and Support",
+    "category": "complaint",
+    "root_cause": "Customers experience delayed deliveries and lack of support.",
+    "priority": "medium",
+    "priority_reason": "Average rating is below 3 and many negative reviews.",
+    "pm_action": "Improve delivery tracking and establish a dedicated support channel."
   },
   {
     "topic_id": 3,
@@ -73,7 +91,13 @@
       "thanks Bhai",
       "bahut \u0905\u091a\u094d\u091b\u093e",
       "phle pahucha"
-    ]
+    ],
+    "label": "Order Not Received",
+    "category": "complaint",
+    "root_cause": "Customers report that their orders are not being taken or delivered, causing frustration.",
+    "priority": "high",
+    "priority_reason": "Low rating and high review count indicate widespread dissatisfaction.",
+    "pm_action": "Investigate order processing workflow and implement real-time order status updates to improve transparency."
   },
   {
     "topic_id": 4,
@@ -92,7 +116,13 @@
       "very very nice",
       "super rider",
       "very kind person"
-    ]
+    ],
+    "label": "Positive Rider Experience",
+    "category": "praise",
+    "root_cause": "Excellent rider service and friendly attitude",
+    "priority": "low",
+    "priority_reason": "Positive reviews indicate high satisfaction, no urgent action required",
+    "pm_action": "Send thank-you note to rider and share feedback with rider team"
   },
   {
     "topic_id": 5,
@@ -111,7 +141,13 @@
       "delivery is always late and much different than the estimated time they show everytime.",
       "Quick delivery.",
       "worst service given by your company...I ordered at 10:09 am with bolt delivery that your company say food will be delivered in 10-15 mins but after waiting for 43 mins you are not supposed to deliver that order.as I said to your agent on customer service that I will not accept that order after 10:50 am then your delivery partner take my words and cancel that order.is this your accountability on order?delay is your company failure what about my time who waited for 42-43 mins."
-    ]
+    ],
+    "label": "Delivery delays and late service",
+    "category": "complaint",
+    "root_cause": "Delivery partners consistently fail to meet estimated times, causing customer frustration",
+    "priority": "medium",
+    "priority_reason": "Average rating above 2.5 but high review count indicates significant dissatisfaction",
+    "pm_action": "Implement stricter partner performance metrics and real\u2011time ETA updates"
   },
   {
     "topic_id": 6,
@@ -130,7 +166,13 @@
       "very bad experience. I ordered 1 item for a occasion after 20 minutes they canceled my item.",
       "Such an idiot customer care service the delevery was already late and when I asked why that is they offered to cancel and when I said give me the status as the eta was at 19 minutes for 20 minutes straight and suddenly the order is cancelled",
       "order cancelled after 30 min without any reason"
-    ]
+    ],
+    "label": "Order Cancelled Without Reason",
+    "category": "complaint",
+    "root_cause": "Customers are experiencing unexpected order cancellations due to system errors or miscommunication with delivery staff.",
+    "priority": "medium",
+    "priority_reason": "Low rating and frequent cancellations indicate a significant issue affecting user satisfaction.",
+    "pm_action": "Investigate cancellation workflow and implement a fail\u2011safe to prevent accidental cancellations; add a notification to customers explaining cancellation reasons."
   },
   {
     "topic_id": 7,
@@ -149,6 +191,12 @@
       "prices are high compared to others. also instamart has stopped delivering our area for few months. I stopped using Swiggy now.",
       "Food price is very high",
       "it's very high price. low price kijiye."
-    ]
+    ],
+    "label": "High Prices & Delivery Stopped",
+    "category": "complaint",
+    "root_cause": "Customers feel prices are too high and delivery coverage has been reduced.",
+    "priority": "medium",
+    "priority_reason": "Rating slightly below average and moderate review volume indicate concern but not critical.",
+    "pm_action": "Review pricing tiers and expand delivery coverage to regain trust."
   }
 ]

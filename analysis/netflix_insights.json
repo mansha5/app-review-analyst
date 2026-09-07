@@ -16,7 +16,13 @@
       "my favourite one",
       "i love it i miss godzilla 2014",
       "bring back my naruto and naruto Shippuden and detective Conan!!!"
-    ]
+    ],
+    "label": "Positive Nostalgic Feedback",
+    "category": "praise",
+    "root_cause": "Users love the diverse content and nostalgic references.",
+    "priority": "low",
+    "priority_reason": "High rating and positive reviews indicate low urgency.",
+    "pm_action": "Add a dedicated section for requested nostalgic titles in the app."
   },
   {
     "topic_id": 1,
@@ -35,7 +41,13 @@
       "Netflix has officially filled the empty space in my life. No drama, no disappointment just endless entertainment and questionable sleep schedules. ",
       "Netflix offers a great selection of movies and TV shows for every taste. Streaming quality is excellent, and the app is smooth and user-friendly",
       "no old movies"
-    ]
+    ],
+    "label": "Missing Classic Movies",
+    "category": "complaint",
+    "root_cause": "The app lacks older movie titles",
+    "priority": "medium",
+    "priority_reason": "Rating is above 2.5 but not high, and there is a notable complaint",
+    "pm_action": "Add a curated collection of classic movies to the catalog"
   },
   {
     "topic_id": 2,
@@ -54,7 +66,13 @@
       "kegemaran saya untuk menonton cerita cerita terkini memang syok",
       "jab AI wrong information deta hai ki koi drama yha mil jayega fir bolega waha mil jayega. last me bolega ki maine aise hi guess krke bataya tha, agar aapko dekhna hai to Netflix ya prime video par Mila jayega. ab do bar galati kya to mai kyo manu ki last wala bhi sahi hoga kyo paisa kharcha karu",
       "bhote accha ho muja ya pasand aya"
-    ]
+    ],
+    "label": "Incorrect Availability Information",
+    "category": "complaint",
+    "root_cause": "AI incorrectly states content availability",
+    "priority": "medium",
+    "priority_reason": "Moderate rating and review count with user complaints",
+    "pm_action": "Implement a verification step to cross-check AI responses with actual catalog before presenting to users"
   },
   {
     "topic_id": 3,
@@ -73,7 +91,13 @@
       "Advance quality video in 4k and super many video upload at there to enjoy",
       "very nice app but not much series or movies loving it ",
       "This app is very good for me I can watch lots of movies and many other things for free I can watch movies in Hindi Bengali Tamil and many other languages There are no disturbances and the app is really good Netflix is also a very good app I think. "
-    ]
+    ],
+    "label": "High quality streaming experience",
+    "category": "praise",
+    "root_cause": "Users appreciate the high-quality 4K video and extensive language options.",
+    "priority": "low",
+    "priority_reason": "Positive reviews and high rating indicate low urgency.",
+    "pm_action": "Continue supporting 4K streaming and expand language options."
   },
   {
     "topic_id": 4,

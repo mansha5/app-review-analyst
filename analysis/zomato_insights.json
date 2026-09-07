@@ -16,7 +16,13 @@
       "low price primium dish",
       "charges too much",
       "No tissue paper and spoons are provided after the reminder."
-    ]
+    ],
+    "label": "Missing supplies and high cost",
+    "category": "complaint",
+    "root_cause": "Customers complain about missing basic supplies and high charges.",
+    "priority": "high",
+    "priority_reason": "Low rating and high review count indicate widespread dissatisfaction.",
+    "pm_action": "Provide complimentary tissues and spoons with every order and conduct a pricing audit to align with customer expectations."
   },
   {
     "topic_id": 1,
@@ -35,7 +41,13 @@
       "offar kam ati hai bhai",
       "bahut achcha hai",
       "check krne ke baad"
-    ]
+    ],
+    "label": "Low offers complaint",
+    "category": "complaint",
+    "root_cause": "Users feel the offers are not attractive enough.",
+    "priority": "medium",
+    "priority_reason": "Average rating is moderate and there are mixed reviews.",
+    "pm_action": "Increase the number and value of offers in the app."
   },
   {
     "topic_id": 2,
@@ -54,7 +66,13 @@
       "good service",
       "good service",
       "Nive Service"
-    ]
+    ],
+    "label": "Excellent Service Experience",
+    "category": "praise",
+    "root_cause": "Customers consistently report good service.",
+    "priority": "low",
+    "priority_reason": "High rating and positive reviews indicate low urgency.",
+    "pm_action": "Maintain service standards and monitor for any negative feedback."
   },
   {
     "topic_id": 3,
@@ -73,6 +91,12 @@
       "Excellent and easy to use ",
       "thanku for best",
       "nice very good"
-    ]
+    ],
+    "label": "Positive user feedback",
+    "category": "praise",
+    "root_cause": "Users appreciate the app's ease of use and quality of food options.",
+    "priority": "low",
+    "priority_reason": "High rating and positive reviews indicate satisfaction.",
+    "pm_action": "Maintain current UX and promote user testimonials in marketing campaigns."
   }
 ]

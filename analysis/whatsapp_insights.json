@@ -35,7 +35,13 @@
       "WhatsApp ni memang app wajib ada, senang nak guna dan tak serabut langsung.",
       "HABIBAt AlIYU",
       "pk pathan10k tiktoker"
-    ]
+    ],
+    "label": "Positive Feedback",
+    "category": "praise",
+    "root_cause": "User finds app easy to use.",
+    "priority": "low",
+    "priority_reason": "High rating and positive reviews.",
+    "pm_action": "Maintain current UX and monitor for future issues."
   },
   {
     "topic_id": 2,
@@ -54,7 +60,13 @@
       "My experience it's very good enjoyable",
       "this is good",
       "you are the best"
-    ]
+    ],
+    "label": "Positive Feedback",
+    "category": "praise",
+    "root_cause": "Users appreciate the app's ease of use and reliable performance.",
+    "priority": "low",
+    "priority_reason": "High user satisfaction indicated by positive reviews.",
+    "pm_action": "Continue to maintain current features and monitor for any emerging issues."
   },
   {
     "topic_id": 3,
@@ -73,7 +85,13 @@
       "not that good but the app is good",
       "its been great and wonderful using this app .I stay tuned in with my family, friends and everyone else in these world. what would be more interesting is that I could be rewarded for using this app and be given something for using it.",
       "I've been using this app for years, and it has been incredibly helpful for calls, chats, and many other things. It has really made my daily tasks much easier."
-    ]
+    ],
+    "label": "Positive Feedback",
+    "category": "praise",
+    "root_cause": "Users find the app helpful for communication",
+    "priority": "low",
+    "priority_reason": "High rating and positive reviews",
+    "pm_action": "Maintain current features and monitor feedback"
   },
   {
     "topic_id": 4,
@@ -92,7 +110,13 @@
       "in recent times facing lots of call drops it's showing reconnecting we have to cut the call and again we have to call very frustrating",
       "Great messaging app. Fast, reliable, and easy to use .",
       "Easy Messenger"
-    ]
+    ],
+    "label": "Call Drop Issue",
+    "category": "bug",
+    "root_cause": "The app experiences frequent call drops due to network instability or a bug in the call handling module.",
+    "priority": "low",
+    "priority_reason": "Overall rating is high and user sentiment is mostly positive, so the issue is not critical.",
+    "pm_action": "Deploy a patch to improve call stability and monitor post-release metrics for call drop incidents."
   },
   {
     "topic_id": 5,
@@ -111,7 +135,13 @@
       "This is very good and very useful",
       "very expensive",
       "very, very helpful"
-    ]
+    ],
+    "label": "Positive Feedback on Utility",
+    "category": "praise",
+    "root_cause": "Users appreciate the app's usefulness and helpfulness.",
+    "priority": "low",
+    "priority_reason": "High rating and positive reviews indicate low urgency.",
+    "pm_action": "Continue to highlight utility in marketing"
   },
   {
     "topic_id": 6,

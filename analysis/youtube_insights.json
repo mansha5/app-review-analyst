@@ -16,7 +16,13 @@
       "why yt is deleting my subscribers everyday 2 to 3 times. I'm struggling and yt is deleting my subscribe. by 10 to 20 subscribers yt is deleting",
       "plz updat my you tub",
       "very bad i can't download videos no idea why"
-    ]
+    ],
+    "label": "Subscriber deletion & download bug",
+    "category": "bug",
+    "root_cause": "App's backend incorrectly removes subscribers and blocks video downloads due to a bug.",
+    "priority": "medium",
+    "priority_reason": "Moderate urgency due to negative rating and high review count, but not critical.",
+    "pm_action": "Fix subscriber deletion bug and restore download functionality."
   },
   {
     "topic_id": 1,
@@ -35,7 +41,13 @@
       "fauji band Baja 03162158903",
       "ba@ler app, ekta video te 15 ta kore ads dekhay",
       "Mera you tube Nahi challenge data he meri help kero"
-    ]
+    ],
+    "label": "Ads & Performance Issues",
+    "category": "complaint",
+    "root_cause": "Excessive ads per video and app instability",
+    "priority": "medium",
+    "priority_reason": "Moderate rating with many complaints",
+    "pm_action": "Reduce ad frequency to 3 per video and investigate crash logs"
   },
   {
     "topic_id": 2,
@@ -54,6 +66,12 @@
       "Good prosess",
       "Good quality",
       "Excellent Always"
-    ]
+    ],
+    "label": "Positive Feedback on Quality",
+    "category": "praise",
+    "root_cause": "Users appreciate the high quality and excellent performance of the app.",
+    "priority": "low",
+    "priority_reason": "High average rating and positive reviews indicate low urgency.",
+    "pm_action": "Continue monitoring user satisfaction and consider highlighting quality features in marketing."
   }
 ]

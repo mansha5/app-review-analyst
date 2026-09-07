@@ -16,7 +16,13 @@
       "Shivam pal Shivam",
       "mera bank add nahin ho raha hai to usko please add kar lijiye",
       "achha reha sab kuch"
-    ]
+    ],
+    "label": "Bank addition failure",
+    "category": "complaint",
+    "root_cause": "Bank addition feature not functioning for user",
+    "priority": "medium",
+    "priority_reason": "User cannot add bank, affecting payment functionality",
+    "pm_action": "Investigate bank addition flow and fix integration issues"
   },
   {
     "topic_id": 1,
@@ -35,7 +41,13 @@
       "this app is forcing me to uninstall important apps on my device that use accessibility",
       "what is the device environment not match bug? everytime whole ui gets updated are u guys developing with claude for this app is became too much buggy from past 5-6 months truly unsatisfied paytm????",
       "can log in this app always shows environment not good for device please solve it"
-    ]
+    ],
+    "label": "Device environment mismatch bug",
+    "category": "complaint",
+    "root_cause": "The app incorrectly identifies device environment, forcing uninstall of accessibility apps and causing UI updates to fail.",
+    "priority": "high",
+    "priority_reason": "Low rating (2.12) and high review count (65) indicate widespread dissatisfaction.",
+    "pm_action": "Prioritize a compatibility audit and release a patch that corrects environment checks to prevent forced uninstalls."
   },
   {
     "topic_id": 2,
@@ -54,7 +66,13 @@
       "very nice eisly",
       "very nice and excellent service \u2764\ufe0f\u2764\ufe0f",
       "very helpful"
-    ]
+    ],
+    "label": "Excellent Service and Experience",
+    "category": "praise",
+    "root_cause": "Customers appreciate the app's user-friendly interface and reliable service.",
+    "priority": "low",
+    "priority_reason": "Positive feedback indicates high user satisfaction.",
+    "pm_action": "Maintain current features and monitor for any issues."
   },
   {
     "topic_id": 3,
@@ -73,7 +91,13 @@
       "very good app",
       "I Love this app very faster.",
       "very excellent app"
-    ]
+    ],
+    "label": "High User Satisfaction",
+    "category": "praise",
+    "root_cause": "Users appreciate app speed and usability",
+    "priority": "low",
+    "priority_reason": "Positive reviews and high rating suggest low urgency",
+    "pm_action": "Maintain current features and monitor for future improvements"
   },
   {
     "topic_id": 4,
@@ -92,7 +116,13 @@
       "plateform fee issue",
       "keep asking me to turn off mobile data when I'm on mobile data itself and have turned off wifi when trying to link my account.",
       "Paytm Not working open the app bt direct play store problem"
-    ]
+    ],
+    "label": "Data Prompt & Fee Issues",
+    "category": "complaint",
+    "root_cause": "The app incorrectly prompts to disable mobile data and fails to link accounts, while users report unclear platform fee charges.",
+    "priority": "high",
+    "priority_reason": "Low rating and high review volume indicate widespread user dissatisfaction.",
+    "pm_action": "Investigate and fix the mobile data prompt logic, streamline account linking, and clarify platform fee structure in the app."
   },
   {
     "topic_id": 5,
@@ -111,7 +141,13 @@
       "This is the good payment app and also secured.....",
       "BEST PAYMENT APP FOREVER ",
       "beacouse it has pocket money it s help full for my child she lives in hostel so she can do UPI payments"
-    ]
+    ],
+    "label": "Positive Payment App Feedback",
+    "category": "praise",
+    "root_cause": "Users appreciate secure and easy payment features.",
+    "priority": "low",
+    "priority_reason": "Positive sentiment and high rating justify low priority.",
+    "pm_action": "Maintain current feature set and monitor usage metrics."
   },
   {
     "topic_id": 6,
@@ -130,7 +166,13 @@
       "Explore more Benifits of Paytm I am satisfied with your service.Thanks for your service.",
       "i love paytm jiiiii t",
       "nice and easy mobile recharge on Paytm"
-    ]
+    ],
+    "label": "Positive feedback on benefits",
+    "category": "praise",
+    "root_cause": "Users appreciate the benefits and service quality of Paytm",
+    "priority": "low",
+    "priority_reason": "High rating and positive reviews indicate satisfaction",
+    "pm_action": "Maintain current service quality and explore adding new benefits to further enhance user experience"
   },
   {
     "topic_id": 7,
@@ -149,6 +191,12 @@
       "Fraud!! Fake rewards and cashbacks , an offer which claims \" cashback of 15-30rs on first three transactions through QR \" and as expected , it's a fake offer didn't even got a penny as cashback . The offers displayed are just to make us pay through this app but aren't actually true . Don't know how these kind of fraud applications are allowed .It's performance makes us doubt if it is from china",
       "not coming cashback",
       "fake cashback scam"
-    ]
+    ],
+    "label": "Fake Cashback Scam",
+    "category": "complaint",
+    "root_cause": "Fake cashback offers not delivered",
+    "priority": "medium",
+    "priority_reason": "Low rating and moderate review count indicate user dissatisfaction",
+    "pm_action": "Investigate cashback offer implementation and fix delivery issues"
   }
 ]

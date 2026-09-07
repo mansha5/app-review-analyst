@@ -16,7 +16,13 @@
       "nice experience with phone pay",
       "The electricity bill payment reminder alert doesn't go away if I pay the bill by some other means, like if I pay the bill online, the app still shows the bill payment pending. The app should retrieve current new status of my bill payment and update accordingly. If bill is already paid somewhere else, then it should reflect in the app and it should stop showing me the notification to pay the bill. The help section of the app is highly automated and doesn't help much. Please fix this.",
       "payment ussu"
-    ]
+    ],
+    "label": "Bill payment sync issue",
+    "category": "complaint",
+    "root_cause": "The app does not update bill payment status in real time and the help section is automated and unhelpful",
+    "priority": "medium",
+    "priority_reason": "The rating is moderate and there are many reviews, indicating a medium urgency",
+    "pm_action": "Add a real\u2011time bill status sync feature and redesign the help section to provide manual support"
   },
   {
     "topic_id": 1,
@@ -54,7 +60,13 @@
       "yah mere phone chalne main bahut dikat de raha hai",
       "manojasiwasi",
       "\u0928\u093f\u0935\u0943\u0924\u0940 \u092c\u0941\u0930\u0902\u0917\u0947"
-    ]
+    ],
+    "label": "Phone performance issue",
+    "category": "complaint",
+    "root_cause": "Phone performance issues causing app instability",
+    "priority": "medium",
+    "priority_reason": "Moderate rating with many reviews indicates noticeable issues",
+    "pm_action": "Investigate device compatibility and optimize performance"
   },
   {
     "topic_id": 3,
@@ -92,7 +104,13 @@
       "thank you for helping me with your brilliant services .",
       "good service",
       "nic service"
-    ]
+    ],
+    "label": "Positive Service Feedback",
+    "category": "praise",
+    "root_cause": "Customers appreciate the high quality and helpfulness of the service",
+    "priority": "low",
+    "priority_reason": "Positive reviews indicate high satisfaction",
+    "pm_action": "Maintain service quality and showcase positive feedback in marketing"
   },
   {
     "topic_id": 5,
@@ -111,6 +129,12 @@
       "good experience",
       "good experience",
       "great experience"
-    ]
+    ],
+    "label": "Positive user experience",
+    "category": "praise",
+    "root_cause": "Users appreciate the smooth and intuitive experience of the app.",
+    "priority": "low",
+    "priority_reason": "Positive reviews indicate high user satisfaction.",
+    "pm_action": "Maintain the current UX and plan to introduce new features based on user suggestions."
   }
 ]

@@ -16,7 +16,13 @@
       "very good and awsome like i can learn every language in this aapp",
       "very fun and easy lessons",
       "it's so good to help me learn"
-    ]
+    ],
+    "label": "Positive Feedback on Learning Experience",
+    "category": "praise",
+    "root_cause": "Users appreciate engaging, easy lessons",
+    "priority": "low",
+    "priority_reason": "Positive reviews indicate high satisfaction",
+    "pm_action": "Maintain lesson quality and expand language offerings"
   },
   {
     "topic_id": 1,
@@ -35,7 +41,13 @@
       "it's the best app for learn how to speak other languages",
       "the best app ever helps with learning I'm learning Japanese I love it more apps like this please",
       "I am learning this app more things like English language"
-    ]
+    ],
+    "label": "Positive language learning feedback",
+    "category": "praise",
+    "root_cause": "App is effective for language learning",
+    "priority": "low",
+    "priority_reason": "Positive user feedback and high rating",
+    "pm_action": "Continue supporting current features and consider adding more advanced content"
   },
   {
     "topic_id": 2,
@@ -54,7 +66,13 @@
       "Duolingo\u2019s treatment of Iranians and Persian speakers is disgraceful. Persian is one of the world\u2019s major languages, spoken by millions, with countless people actively asking Duolingo to add it. Yet year after year, Duolingo continues to ignore Persian and its speakers. Now the company has gone even further by excluding Iranians from taking the Duolingo English Test. Ordinary people are being denied educational opportunities because of their nationality and Iranian identification.",
       "I think you should download as well as soon btw this app is very useful in future and Duolingo is soo cute ",
       "Duolingo is so so very best"
-    ]
+    ],
+    "label": "Exclusion of Persian users",
+    "category": "complaint",
+    "root_cause": "Duolingo is excluding Persian language and Iranian users from the English test, causing educational exclusion.",
+    "priority": "low",
+    "priority_reason": "Low priority due to overall positive rating and limited negative impact.",
+    "pm_action": "Add Persian language support and allow Iranian users to take the Duolingo English Test."
   },
   {
     "topic_id": 3,
@@ -73,7 +91,13 @@
       "I love using this app. Really fun",
       "wonderful app with great methodology",
       "superb aaps"
-    ]
+    ],
+    "label": "Positive user feedback",
+    "category": "praise",
+    "root_cause": "Users appreciate engaging content and effective methodology.",
+    "priority": "low",
+    "priority_reason": "High rating and positive reviews indicate low urgency.",
+    "pm_action": "Continue to highlight strengths in marketing and gather feedback for incremental improvements."
   },
   {
     "topic_id": 4,
@@ -92,7 +116,13 @@
       "very nice and cool",
       "I really enjoyed it",
       "pretty good tho"
-    ]
+    ],
+    "label": "Positive user feedback",
+    "category": "praise",
+    "root_cause": "Users appreciate the engaging interface and effective learning tools.",
+    "priority": "low",
+    "priority_reason": "Positive reviews indicate high user satisfaction.",
+    "pm_action": "Continue improving UI and add new content."
   },
   {
     "topic_id": 5,

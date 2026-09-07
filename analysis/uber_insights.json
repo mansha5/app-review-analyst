@@ -16,7 +16,13 @@
       "best Application For Secure and fast Rides with low Charges and Friendly drivers",
       "worst drivers.... every time they ask for extra money and if you refuse to pay extra they cancel the ride and then you also have to pay an extra penalty fee for making the driver wait and worst of customer services doesn't do anything in this matter",
       "the best app to get a fast and nice ride"
-    ]
+    ],
+    "label": "Driver fare dispute",
+    "category": "complaint",
+    "root_cause": "Drivers demand extra money, cancel rides, and customers face penalties with poor support",
+    "priority": "medium",
+    "priority_reason": "Mixed sentiment with notable negative feedback on driver behavior and customer service",
+    "pm_action": "Enforce strict fare policies and enhance customer support response times"
   },
   {
     "topic_id": 1,
@@ -35,7 +41,13 @@
       "good service",
       "good very nice",
       "Great service..."
-    ]
+    ],
+    "label": "Excellent Service",
+    "category": "praise",
+    "root_cause": "The app consistently delivers prompt, courteous rides.",
+    "priority": "low",
+    "priority_reason": "Positive sentiment with high rating.",
+    "pm_action": "Highlight positive reviews in marketing materials."
   },
   {
     "topic_id": 2,
@@ -54,6 +66,12 @@
       "pr 100 ext liye ki dehli ki enteri hoti 100 ext me",
       "Uber ek chor company hai iske sath koi bhi rider kam na Karen",
       "ride nahi lete h"
-    ]
+    ],
+    "label": "Rider Trust & Service Issues",
+    "category": "complaint",
+    "root_cause": "Riders report poor service and trust concerns, especially regarding payment and ride booking",
+    "priority": "medium",
+    "priority_reason": "Negative rating and moderate review count indicate significant user dissatisfaction",
+    "pm_action": "Conduct a comprehensive audit of rider feedback and implement a trust and safety improvement plan"
   }
 ]

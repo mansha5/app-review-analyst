@@ -16,7 +16,13 @@
       "Numerous issues, constantly saying slow connection, my connection is fine all other apps work properly. All of a sudden decided not to play offline music that had been downloaded fine. App itself is slow and laggy. No excuse for a big corporate to have such a terrible app. Will not be renewing subscription.",
       "it's ok to have ads in a app but what the hell is you can't skip the music and you can't go to the next song if I am not having a premium",
       "best music platform I've ever seen"
-    ]
+    ],
+    "label": "Performance & Ad Issues",
+    "category": "complaint",
+    "root_cause": "App's inefficient caching and restrictive ad policy cause playback and offline issues",
+    "priority": "medium",
+    "priority_reason": "Moderate rating with mixed feedback signals need for improvement",
+    "pm_action": "Optimize offline caching and enable ad-based skip/next song options"
   },
   {
     "topic_id": 1,
@@ -35,7 +41,13 @@
       "Very nice f very good",
       "blah blah blah",
       "feels good \u2705"
-    ]
+    ],
+    "label": "High User Satisfaction",
+    "category": "praise",
+    "root_cause": "Users appreciate the app's quality and experience.",
+    "priority": "low",
+    "priority_reason": "High average rating and positive reviews indicate low urgency.",
+    "pm_action": "Continue monitoring user feedback and maintain current features."
   },
   {
     "topic_id": 2,
@@ -73,6 +85,12 @@
       "nahi laalu ho raha",
       "\u0986\u09aa\u09a8\u09bf \u099c\u09be\u09a8\u09c7\u09a8 \u0986\u09aa\u09a8\u09be\u0995\u09c7 \u0986\u09ae\u09bf \u09ac\u09be\u09a7\u09be \u09a6\u09bf\u09ac",
       "Vijay Kumar Gupta"
-    ]
+    ],
+    "label": "Mixed Feedback",
+    "category": "other",
+    "root_cause": "User reviews are unclear and not actionable.",
+    "priority": "low",
+    "priority_reason": "Positive rating and low review count.",
+    "pm_action": "Encourage users to provide more detailed feedback."
   }
 ]
