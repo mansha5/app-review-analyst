@@ -17,12 +17,12 @@
       "super app... just stop taking charges for recharge of mobile",
       "Collecting To Much Amount From Customer This Completly Wrong.... A Basic Recharge Of Airtel 349 If Done Phonpe Is Collecting Payment Of 355 to 359 instead Of 349 This is Completely Wrong..... In Our India 700 Million People Using Phonpe Means 70 crore people using.... Daily Active Transaction 14 core people Doing For Example 1 crore people Reacharged In A Single Recharge Payment Of 355 instead Of 349..(10000000\u00d76=60000000)6crore Per day A Common Man Working 700 per day... Try To Collect Less."
     ],
-    "label": "Overcharging on recharge",
+    "label": "Excessive recharge charges",
     "category": "complaint",
-    "root_cause": "Incorrect pricing logic for recharge",
+    "root_cause": "Charging higher than advertised for recharges",
     "priority": "medium",
-    "priority_reason": "Significant user dissatisfaction due to overcharging",
-    "pm_action": "Investigate and correct recharge pricing algorithm"
+    "priority_reason": "Average rating above 2.5 but negative reviews present",
+    "pm_action": "Investigate pricing logic and add auto refresh feature"
   },
   {
     "topic_id": 1,
@@ -42,12 +42,12 @@
       "bahut achcha",
       "phonepe ki service to bahut acchi hai per kahin jagah network ke Karan yah service bahut kam Ho jaati Hai Jahan paise Kisi Ko dene ke liye yah scan karte hain tab bahut dikkat a jaati Hai per service acchi hai aur aap aise hi aage Apne service ko behtar karte rahiyega thank u so Mach phonepe. experience ki bole to achcha hai."
     ],
-    "label": "Network reliability issue",
+    "label": "Network Connectivity Issue",
     "category": "complaint",
-    "root_cause": "Network connectivity problems reduce service performance",
+    "root_cause": "Network connectivity problems are causing intermittent service degradation for users.",
     "priority": "low",
-    "priority_reason": "Average rating is above 2.5 and overall sentiment is positive",
-    "pm_action": "Investigate and optimize network handling during scanning to improve reliability"
+    "priority_reason": "Positive overall rating indicates low urgency for immediate fixes.",
+    "pm_action": "Enhance network reliability in high-traffic areas to reduce service interruptions."
   },
   {
     "topic_id": 2,
@@ -67,12 +67,12 @@
       "good thank you",
       "it us better than all"
     ],
-    "label": "Positive Feedback",
+    "label": "Positive feedback on app",
     "category": "praise",
-    "root_cause": "Users express satisfaction with the app",
+    "root_cause": "Users appreciate the app's user-friendly experience and positive interactions.",
     "priority": "low",
-    "priority_reason": "High rating and positive reviews indicate low priority",
-    "pm_action": "Continue monitoring and maintain service quality"
+    "priority_reason": "High average rating indicates positive sentiment.",
+    "pm_action": "Add a new onboarding tutorial to enhance user experience."
   },
   {
     "topic_id": 3,
@@ -91,7 +91,13 @@
       "this app is very good please avid adds",
       "so good app",
       "excellent app"
-    ]
+    ],
+    "label": "Positive UI feedback",
+    "category": "praise",
+    "root_cause": "Users appreciate the app\u2019s excellent user interface and overall experience",
+    "priority": "low",
+    "priority_reason": "High rating and overwhelmingly positive reviews indicate low urgency",
+    "pm_action": "Continue monitoring feedback and maintain current features"
   },
   {
     "topic_id": 4,
@@ -111,12 +117,12 @@
       "easy to use and very useful",
       "its easy to use"
     ],
-    "label": "User-friendly and seamless",
+    "label": "Positive Feedback on Ease",
     "category": "praise",
-    "root_cause": "The app offers a user-friendly interface with seamless usage, making it easy and helpful for users.",
+    "root_cause": "User-friendly interface and seamless usage",
     "priority": "low",
-    "priority_reason": "Positive reviews, high rating, and no complaints indicate low priority for changes.",
-    "pm_action": "Maintain current UX, continue gathering user feedback for incremental improvements"
+    "priority_reason": "High rating and positive reviews",
+    "pm_action": "Conduct a user satisfaction survey to identify areas for further enhancement"
   },
   {
     "topic_id": 5,
@@ -135,7 +141,13 @@
       "very nice experience I love it",
       "wowww great experience",
       "good experience to customer support"
-    ]
+    ],
+    "label": "Positive Experience Feedback",
+    "category": "praise",
+    "root_cause": "Customers appreciate the smooth experience and excellent support.",
+    "priority": "low",
+    "priority_reason": "High rating and positive reviews indicate low priority.",
+    "pm_action": "Maintain current support processes and monitor for any decline."
   },
   {
     "topic_id": 6,
@@ -154,13 +166,7 @@
       "Best UPI App Ever",
       "Bad app, Bhim upi is better",
       "very nice upi app"
-    ],
-    "label": "Positive Feedback with Minor Critique",
-    "category": "praise",
-    "root_cause": "Users love speed and ease, but some feel it lacks unique features compared to Bhim.",
-    "priority": "low",
-    "priority_reason": "High average rating and majority positive reviews indicate low urgency.",
-    "pm_action": "Enhance feature set to differentiate from Bhim and add a quick tutorial highlighting unique benefits."
+    ]
   },
   {
     "topic_id": 7,
@@ -180,12 +186,12 @@
       "nice servic",
       "very nice service"
     ],
-    "label": "Excellent Service Praise",
+    "label": "Excellent Service Experience",
     "category": "praise",
-    "root_cause": "Users appreciate the fast and proper service quality",
+    "root_cause": "High-quality customer service and fast response times.",
     "priority": "low",
-    "priority_reason": "Positive feedback with high rating",
-    "pm_action": "Send a thank-you message to reviewers and feature their positive comments in the app store description"
+    "priority_reason": "Positive reviews reflect high customer satisfaction.",
+    "pm_action": "Maintain current service quality and share positive reviews in marketing materials."
   },
   {
     "topic_id": 8,
@@ -205,12 +211,12 @@
       "Very useful app",
       "very very usefull full app"
     ],
-    "label": "Positive feedback on usefulness",
+    "label": "Helpful and useful app",
     "category": "praise",
-    "root_cause": "Users find the app very helpful and useful",
+    "root_cause": "Users find the app helpful and useful",
     "priority": "low",
-    "priority_reason": "High rating and positive reviews",
-    "pm_action": "Maintain current features and gather more user feedback"
+    "priority_reason": "High rating and positive reviews indicate low priority",
+    "pm_action": "Maintain current features and gather user suggestions for future improvements"
   },
   {
     "topic_id": 9,
@@ -230,12 +236,12 @@
       "Most Powerful",
       "It's useful \u2728"
     ],
-    "label": "Positive feedback on usefulness",
+    "label": "Helpful and Powerful",
     "category": "praise",
-    "root_cause": "Users appreciate the app's usefulness and helpful features",
+    "root_cause": "Users find the app useful and powerful.",
     "priority": "low",
-    "priority_reason": "High rating and positive reviews indicate strong user satisfaction",
-    "pm_action": "Leverage this praise in marketing and enhance help resources"
+    "priority_reason": "Positive reviews indicate high user satisfaction.",
+    "pm_action": "Maintain current features and monitor for any decline."
   },
   {
     "topic_id": 10,
@@ -274,12 +280,12 @@
       "best aap in Market.",
       "nice transaction aap"
     ],
-    "label": "App praised for usability",
+    "label": "Positive Feedback on App",
     "category": "praise",
-    "root_cause": "Users appreciate the app\u2019s ease of use and positive experience",
+    "root_cause": "Users appreciate the app's ease of use and transaction speed.",
     "priority": "low",
-    "priority_reason": "High average rating and all reviews are positive",
-    "pm_action": "Continue monitoring feedback and maintain current features"
+    "priority_reason": "Positive reviews indicate high user satisfaction.",
+    "pm_action": "Maintain current features and monitor for future enhancements."
   },
   {
     "topic_id": 12,
@@ -299,11 +305,11 @@
       "very nice app",
       "very nice app"
     ],
-    "label": "App praised for usability",
+    "label": "Positive feedback on usability",
     "category": "praise",
-    "root_cause": "Users appreciate the app\u2019s ease of use and responsive design",
+    "root_cause": "Users appreciate the app's ease of use and responsiveness",
     "priority": "low",
-    "priority_reason": "Positive sentiment with high rating and few reviews",
-    "pm_action": "Acknowledge feedback publicly and incorporate highlights into marketing materials"
+    "priority_reason": "High rating and positive reviews suggest low urgency",
+    "pm_action": "Continue monitoring user feedback and maintain app quality"
   }
 ]

@@ -19,10 +19,10 @@
     ],
     "label": "Premium features broken, ads overload",
     "category": "complaint",
-    "root_cause": "Premium features not working and ads overwhelm users",
+    "root_cause": "Premium features malfunctioning and update introduced excessive ads",
     "priority": "medium",
-    "priority_reason": "User dissatisfaction due to broken premium features and intrusive ads",
-    "pm_action": "Investigate premium feature failures and reduce ad frequency in videos"
+    "priority_reason": "Rating above 2.5 but many complaints, moderate urgency",
+    "pm_action": "Release a hotfix to restore premium features and reduce ad frequency"
   },
   {
     "topic_id": 1,
@@ -41,7 +41,13 @@
       "jatav king ",
       "bakit ayaw magamit you tube ko?",
       "Bikash nayaj"
-    ]
+    ],
+    "label": "Connectivity issue on YouTube",
+    "category": "complaint",
+    "root_cause": "Users report inability to access YouTube due to connectivity errors",
+    "priority": "medium",
+    "priority_reason": "Average rating moderate and high review count warrant medium priority",
+    "pm_action": "Analyze crash logs and network diagnostics to resolve connectivity problems"
   },
   {
     "topic_id": 2,
@@ -63,10 +69,10 @@
     ],
     "label": "Microphone not working",
     "category": "bug",
-    "root_cause": "The microphone fails to function due to a software or driver incompatibility issue.",
+    "root_cause": "Microphone hardware or driver issue causing failure to record audio",
     "priority": "medium",
-    "priority_reason": "The app has a low rating but the review count is below the threshold for high priority.",
-    "pm_action": "Investigate microphone driver compatibility and release a patch to restore functionality."
+    "priority_reason": "Moderate urgency due to low rating and multiple complaints",
+    "pm_action": "Investigate microphone driver compatibility and release a patch"
   },
   {
     "topic_id": 3,
@@ -88,10 +94,10 @@
     ],
     "label": "Voice search not working",
     "category": "bug",
-    "root_cause": "The voice search algorithm fails to recognize user input due to microphone permissions or audio processing errors.",
+    "root_cause": "Voice search algorithm fails to process microphone input correctly",
     "priority": "medium",
-    "priority_reason": "Low rating and multiple complaints indicate a significant issue affecting user experience.",
-    "pm_action": "Investigate microphone permission handling and update the voice recognition pipeline to improve accuracy."
+    "priority_reason": "Users report voice search failures, causing frustration",
+    "pm_action": "Retrain the voice recognition model on diverse accents and add a fallback text search option"
   },
   {
     "topic_id": 4,
@@ -113,9 +119,9 @@
     ],
     "label": "Microphone Recognition Failure",
     "category": "bug",
-    "root_cause": "Microphone recognition fails due to faulty audio input handling.",
+    "root_cause": "Microphone recognition fails due to faulty audio input handling, causing repeated 'Didn't hear that' prompts.",
     "priority": "medium",
-    "priority_reason": "Negative rating with moderate review volume signals user frustration.",
-    "pm_action": "Fix microphone recognition logic and add fallback prompt for unrecognized input."
+    "priority_reason": "User dissatisfaction indicated by low rating and multiple negative reviews.",
+    "pm_action": "Investigate microphone input handling, fix recognition logic, and release a patch."
   }
 ]

@@ -17,12 +17,12 @@
       "\"Spotify makes discovering and enjoying music so easy \u2014 huge library, great playlists, and smooth listening experience every time. Love it!\"",
       "i Purple you Spotify "
     ],
-    "label": "Great music streaming experience",
+    "label": "Positive feedback on music streaming",
     "category": "praise",
-    "root_cause": "Users appreciate personalized playlists and smooth streaming.",
+    "root_cause": "Users appreciate the vast library, personalized playlists, and smooth streaming quality.",
     "priority": "low",
-    "priority_reason": "Positive reviews indicate strong user satisfaction.",
-    "pm_action": "Maintain high streaming quality."
+    "priority_reason": "The reviews are positive and rating is moderate, so low priority.",
+    "pm_action": "Continue improving recommendation algorithms and expand podcast library."
   },
   {
     "topic_id": 1,
@@ -42,12 +42,12 @@
       "great app for anyone trying too enjoy and get the best sound quality",
       "best app for music "
     ],
-    "label": "Excellent music streaming app",
+    "label": "Positive user feedback",
     "category": "praise",
-    "root_cause": "Users appreciate free access and high sound quality.",
+    "root_cause": "Users appreciate free access and high sound quality",
     "priority": "low",
-    "priority_reason": "Positive reviews and high rating indicate low priority.",
-    "pm_action": "Continue supporting current features and monitor for future improvements."
+    "priority_reason": "High average rating and positive reviews indicate low priority",
+    "pm_action": "Maintain free tier and high-quality audio, monitor for new feature requests"
   },
   {
     "topic_id": 2,
@@ -66,13 +66,7 @@
       "perfect for music lovers...",
       "your music is limited as to where I can't find every song I search!",
       "just perfect in their array of music genre."
-    ],
-    "label": "Music Availability Issue",
-    "category": "complaint",
-    "root_cause": "Limited song catalog in certain regions",
-    "priority": "low",
-    "priority_reason": "High average rating indicates overall satisfaction",
-    "pm_action": "Expand regional licensing agreements to increase song availability"
+    ]
   },
   {
     "topic_id": 3,
@@ -92,12 +86,12 @@
       "The bets well polished UI app . This work of art is very good , I wish the next update will be cool",
       "greatest app of all time"
     ],
-    "label": "User Praise for UI",
+    "label": "App praised for UI",
     "category": "praise",
     "root_cause": "Users appreciate the polished UI and overall enjoyable experience",
     "priority": "low",
     "priority_reason": "High average rating and overwhelmingly positive reviews indicate low urgency",
-    "pm_action": "Continue monitoring feedback and plan incremental UI enhancements for the next update"
+    "pm_action": "Schedule a UI refresh and add playlist sharing feature in the next release"
   },
   {
     "topic_id": 4,
@@ -119,10 +113,10 @@
     ],
     "label": "Positive user feedback",
     "category": "praise",
-    "root_cause": "Users appreciate the app's excellent features and user-friendly interface.",
+    "root_cause": "Users appreciate the high-quality music and user experience",
     "priority": "low",
-    "priority_reason": "Positive reviews indicate high user satisfaction.",
-    "pm_action": "Continue to highlight these strengths in marketing materials."
+    "priority_reason": "Positive reviews with high rating",
+    "pm_action": "Acknowledge feedback publicly and highlight in marketing materials"
   },
   {
     "topic_id": 5,
@@ -142,12 +136,12 @@
       "offline nahi h kya",
       "ese accha to youTube sahi hai bahut kam add aate hai"
     ],
-    "label": "Ads in Premium Podcasts",
+    "label": "Ads in podcasts, offline missing",
     "category": "complaint",
-    "root_cause": "Ads still appear in podcasts despite premium subscription",
+    "root_cause": "Ads still play in podcasts and offline playback is unavailable",
     "priority": "medium",
-    "priority_reason": "Average rating slightly below 3 with many complaints",
-    "pm_action": "Investigate ad delivery for premium podcasts and fix the ad injection bug"
+    "priority_reason": "User dissatisfaction due to ads and missing offline feature",
+    "pm_action": "Investigate and fix ad removal for premium podcasts and enable offline playback for all tracks"
   },
   {
     "topic_id": 6,
@@ -167,12 +161,12 @@
       "stop the ads",
       "very nice but some time ads annoy so much"
     ],
-    "label": "Frequent Ads Annoy Users",
+    "label": "Ads Annoying and Frequent",
     "category": "complaint",
-    "root_cause": "Ads are frequent and annoying to users.",
+    "root_cause": "Frequent ads disrupt user experience.",
     "priority": "medium",
-    "priority_reason": "Rating slightly below average and many reviews mention ads.",
-    "pm_action": "Reduce ad frequency or offer an ad\u2011free tier."
+    "priority_reason": "Moderate negative sentiment with moderate rating.",
+    "pm_action": "Reduce ad frequency and improve targeting."
   },
   {
     "topic_id": 7,
@@ -191,7 +185,13 @@
       "pay for premium and enjoy",
       "good but start asking for premium",
       "why That Instol Again Why"
-    ]
+    ],
+    "label": "Premium Upsell Pressure",
+    "category": "complaint",
+    "root_cause": "Users feel pressured to upgrade to premium",
+    "priority": "medium",
+    "priority_reason": "Moderate rating with many users feeling pressured",
+    "pm_action": "Implement clearer messaging and optional premium prompts"
   },
   {
     "topic_id": 8,
@@ -211,12 +211,12 @@
       "the new updates of the app keeps crashing! premium user here.",
       "The app can't open,I have been finding it so difficult"
     ],
-    "label": "App crashes and freezes",
+    "label": "App Crashes and Freezes",
     "category": "bug",
-    "root_cause": "The app crashes and freezes due to a memory leak introduced in the latest update.",
+    "root_cause": "The app crashes due to a memory leak in the new update causing it to freeze or fail to launch.",
     "priority": "high",
-    "priority_reason": "User rating is low and many complaints indicate widespread instability.",
-    "pm_action": "Investigate the latest update for memory leaks and release a hotfix."
+    "priority_reason": "High priority because the app is frequently crashing, leading to a low rating and many complaints.",
+    "pm_action": "Deploy an immediate hotfix that removes the problematic update and restores stable functionality."
   },
   {
     "topic_id": 9,
@@ -240,8 +240,8 @@
     "category": "complaint",
     "root_cause": "Excessive advertising detracts from user experience.",
     "priority": "high",
-    "priority_reason": "Low rating and high review count indicate significant user dissatisfaction.",
-    "pm_action": "Reduce ad frequency and introduce an ad\u2011free subscription tier."
+    "priority_reason": "Low rating and high review count indicate widespread dissatisfaction.",
+    "pm_action": "Implement a limit on ad frequency and offer a 30-day ad-free trial to users."
   },
   {
     "topic_id": 10,
@@ -280,12 +280,12 @@
       "The new auto DJ \"mix\" feature is amazing. Absolute game changer in the way I enjoy music.",
       "You broke the smart shuffle!! Shuffle used to actually shuffle things, but now it doesn't absolutely nothing when on smart shuffle. Suggested songs are added in between songs, but the Playlist is not shuffled and plays the same 5 songs over and over.. Horrible experience!"
     ],
-    "label": "DJ Interruption & Shuffle Bug",
+    "label": "DJ interference and shuffle bug",
     "category": "complaint",
-    "root_cause": "The auto DJ and smart shuffle features are malfunctioning, causing unwanted interruptions and repetitive playback.",
+    "root_cause": "The app's auto DJ feature overrides user playback and the smart shuffle algorithm fails to randomize tracks.",
     "priority": "medium",
-    "priority_reason": "User frustration due to frequent DJ interruptions and broken shuffle leads to potential churn.",
-    "pm_action": "Investigate and fix the auto DJ trigger logic and shuffle algorithm, and release a patch to restore proper functionality."
+    "priority_reason": "User frustration due to persistent DJ interruptions and non-functional shuffle, impacting satisfaction.",
+    "pm_action": "Disable auto DJ prompts during playback and fix smart shuffle algorithm to properly randomize tracks."
   },
   {
     "topic_id": 12,
@@ -305,12 +305,12 @@
       "simply the best",
       "you guys are really the best,"
     ],
-    "label": "Positive Feedback",
+    "label": "Excellent user experience",
     "category": "praise",
-    "root_cause": "Users are satisfied with the app's performance and features.",
+    "root_cause": "Users appreciate the quality and ease of use.",
     "priority": "low",
-    "priority_reason": "High average rating and positive reviews indicate low priority.",
-    "pm_action": "Continue monitoring user feedback and maintain current features."
+    "priority_reason": "High rating and positive reviews indicate low urgency.",
+    "pm_action": "Continue maintaining current features and monitor for any emerging issues."
   },
   {
     "topic_id": 13,
@@ -332,10 +332,10 @@
     ],
     "label": "App crashes and Bluetooth issues",
     "category": "bug",
-    "root_cause": "App crashes on launch and Bluetooth pairing fails",
+    "root_cause": "App crashes on launch and Bluetooth connectivity fails",
     "priority": "medium",
-    "priority_reason": "Low rating and frequent crashes indicate medium priority",
-    "pm_action": "Release a hotfix addressing crash logs and Bluetooth pairing, and monitor crash reports"
+    "priority_reason": "Low rating and multiple crash reports indicate significant user dissatisfaction",
+    "pm_action": "Deploy a hotfix addressing crash logs and Bluetooth stack, and communicate update to users"
   },
   {
     "topic_id": 14,
@@ -354,7 +354,13 @@
       "seriously mind blowing experience",
       "smooth experience ",
       "overall, a good experience."
-    ]
+    ],
+    "label": "Mind blowing experience",
+    "category": "praise",
+    "root_cause": "Excellent sound quality and intuitive design.",
+    "priority": "low",
+    "priority_reason": "High rating and few reviews suggest low urgency.",
+    "pm_action": "Maintain current features and monitor for any decline in user satisfaction."
   },
   {
     "topic_id": 15,
@@ -376,10 +382,10 @@
     ],
     "label": "Too many ads",
     "category": "complaint",
-    "root_cause": "Excessive ad frequency disrupts listening experience",
+    "root_cause": "Too many ads interrupt user experience.",
     "priority": "medium",
-    "priority_reason": "Moderate negative sentiment with limited review volume",
-    "pm_action": "Introduce a cap on ads per hour to reduce interruptions"
+    "priority_reason": "Moderate negative sentiment with moderate review count.",
+    "pm_action": "Implement a tiered ad model to reduce ad frequency for frequent users."
   },
   {
     "topic_id": 16,
@@ -399,12 +405,12 @@
       "when your free skips gets over it becomes,1 full song =3ads ,and that is guaranteed",
       "We can listen only few songs a day then if we want to listen more songs we have to purchase premium Didn't expect this."
     ],
-    "label": "Free tier too restrictive",
+    "label": "Ads and Skips Frustration",
     "category": "complaint",
-    "root_cause": "Users feel the free tier is too restrictive and ads are too frequent, making premium seem necessary.",
+    "root_cause": "Frequent ads and limited free skips force users to pay for premium",
     "priority": "medium",
-    "priority_reason": "Low rating indicates dissatisfaction, but low review count means limited impact.",
-    "pm_action": "Conduct a survey to identify acceptable ad limits and adjust the free tier accordingly."
+    "priority_reason": "Low rating and moderate review count indicate significant user dissatisfaction",
+    "pm_action": "Reduce ad frequency and increase free skip allowance to improve user experience"
   },
   {
     "topic_id": 17,
@@ -424,12 +430,12 @@
       "love the app and never had any real problems. had a subscription for years. due to unfortunate events I had to cancel but not cause of the app. once my situation changes I plan on getting it back.",
       "has made great strides in respectable data handling policies (thanks GDPR) it got me to come back... and actually subscribe this time."
     ],
-    "label": "Payment failure, subscription paused",
+    "label": "Payment not activated",
     "category": "complaint",
-    "root_cause": "The UPI payment was processed but the subscription status was not updated due to a system error.",
+    "root_cause": "Payment failed to activate subscription",
     "priority": "medium",
-    "priority_reason": "User's subscription is paused despite successful payment, impacting user experience.",
-    "pm_action": "Investigate payment processing logs and update subscription status for affected users."
+    "priority_reason": "Moderate concern due to mixed feedback",
+    "pm_action": "Verify transaction, reactivate subscription, notify user"
   },
   {
     "topic_id": 18,
@@ -449,12 +455,12 @@
       "super good to use",
       "didn't use much"
     ],
-    "label": "Praise for accuracy and convenience",
+    "label": "Positive feedback on accuracy",
     "category": "praise",
     "root_cause": "Users value the app's accuracy and convenience.",
     "priority": "low",
-    "priority_reason": "Positive reviews and high rating indicate low urgency.",
-    "pm_action": "Highlight accuracy and convenience in marketing materials."
+    "priority_reason": "High average rating and positive reviews indicate low urgency for changes.",
+    "pm_action": "Promote accuracy and convenience in marketing and encourage user sharing"
   },
   {
     "topic_id": 19,
@@ -476,9 +482,9 @@
     ],
     "label": "Podcast playback crashes",
     "category": "bug",
-    "root_cause": "Podcast playback crashes due to memory leaks and poor buffering.",
+    "root_cause": "The app crashes and lags during podcast playback due to a memory leak in the audio streaming module.",
     "priority": "medium",
     "priority_reason": "Low user satisfaction and high churn risk due to frequent crashes and lags.",
-    "pm_action": "Investigate and fix memory management in podcast playback module; add crash logs and release hotfix."
+    "pm_action": "Investigate and fix the memory leak in the podcast playback module, and release a hotfix to stabilize streaming."
   }
 ]

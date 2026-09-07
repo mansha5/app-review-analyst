@@ -19,10 +19,10 @@
     ],
     "label": "Positive user feedback",
     "category": "praise",
-    "root_cause": "Users appreciate the app's ease of use, detailed property information, and convenient host communication.",
+    "root_cause": "Users appreciate the app\u2019s ease of use, variety of listings, and detailed property information.",
     "priority": "low",
     "priority_reason": "High rating and positive reviews indicate strong user satisfaction.",
-    "pm_action": "Feature user testimonials prominently in marketing materials to reinforce brand trust."
+    "pm_action": "Feature: Showcase user testimonials in marketing materials to reinforce trust."
   },
   {
     "topic_id": 1,
@@ -42,12 +42,12 @@
       "very convenient and useful",
       "very easy and straight forward"
     ],
-    "label": "Easy booking experience",
+    "label": "Excellent User Experience",
     "category": "praise",
-    "root_cause": "Users find the app intuitive and straightforward for booking",
+    "root_cause": "Users find the app intuitive, friendly, and consistently helpful, leading to high satisfaction",
     "priority": "low",
-    "priority_reason": "High rating and overwhelmingly positive reviews indicate low urgency",
-    "pm_action": "Maintain current UX and monitor for any emerging issues"
+    "priority_reason": "High rating and overwhelmingly positive reviews indicate low urgency for changes",
+    "pm_action": "Continue monitoring feedback and maintain current UX design"
   },
   {
     "topic_id": 2,
@@ -67,12 +67,12 @@
       "muito bom! ajuda muito",
       "Una aplicaci\u00f3n que conecta personas en todo el mundo, gracias por hacer f\u00e1ciles las reservas de mis estancias."
     ],
-    "label": "Positive feedback on booking ease",
+    "label": "Great variety and ease",
     "category": "praise",
-    "root_cause": "Users appreciate diverse options and easy booking process",
+    "root_cause": "Users appreciate diverse options and easy booking",
     "priority": "low",
-    "priority_reason": "Positive reviews and rating above threshold",
-    "pm_action": "Continue supporting features that enhance discoverability and booking ease"
+    "priority_reason": "Positive reviews indicate satisfaction",
+    "pm_action": "Continue improving variety and booking flow"
   },
   {
     "topic_id": 3,
@@ -92,12 +92,12 @@
       "Hassle verification.",
       "I verified my identity multiple ways. I don't trust this. Something is wrong here."
     ],
-    "label": "Authenticator Code Verification Bug",
-    "category": "complaint",
-    "root_cause": "The authenticator code verification process is buggy, causing users to be unable to enter or verify codes.",
+    "label": "Login Authenticator Code Bug",
+    "category": "bug",
+    "root_cause": "Authenticator code verification fails due to page redirect or incorrect code handling.",
     "priority": "medium",
-    "priority_reason": "The low rating and frequent complaints suggest a notable problem that needs attention.",
-    "pm_action": "Investigate and fix the authenticator code verification flow, ensuring codes can be entered and validated correctly, and provide clear error messages."
+    "priority_reason": "Low rating and frequent complaints indicate significant user impact.",
+    "pm_action": "Fix the authentication flow to correctly process code entry without redirecting users away from the page."
   },
   {
     "topic_id": 4,
@@ -117,12 +117,12 @@
       "always on top",
       "Just AWESOME"
     ],
-    "label": "Positive user feedback",
+    "label": "Excellent User Experience",
     "category": "praise",
-    "root_cause": "Users appreciate the app's smooth experience and appealing design.",
+    "root_cause": "Users appreciate the high-quality listings and seamless booking process.",
     "priority": "low",
-    "priority_reason": "High average rating and positive reviews indicate strong user satisfaction.",
-    "pm_action": "Maintain current features and monitor for any emerging issues."
+    "priority_reason": "Positive reviews and high rating indicate no urgent issues.",
+    "pm_action": "Feature these strengths in marketing materials and share with the product team for future enhancements."
   },
   {
     "topic_id": 5,
@@ -142,12 +142,12 @@
       "Excellent experience all-around!",
       "awesome experience"
     ],
-    "label": "Great Experience Praise",
+    "label": "Positive Experience Feedback",
     "category": "praise",
-    "root_cause": "High quality experiences delivered consistently.",
+    "root_cause": "Guests are satisfied with the quality of experiences offered.",
     "priority": "low",
-    "priority_reason": "Positive reviews indicate high user satisfaction.",
-    "pm_action": "Maintain current quality and showcase positive reviews in marketing materials."
+    "priority_reason": "High average rating and positive reviews indicate low priority for action.",
+    "pm_action": "Continue maintaining high standards and consider highlighting these positive experiences in marketing."
   },
   {
     "topic_id": 6,
@@ -186,12 +186,12 @@
       "sangat mudah",
       "sobrang useless, nag rerequire ng physical id even though wala na!! digital lang ho naprovide ng government."
     ],
-    "label": "ID requirement issue",
+    "label": "Physical ID requirement",
     "category": "complaint",
-    "root_cause": "Physical ID requirement despite digital availability",
+    "root_cause": "The app still requires a physical ID for verification even though digital ID is available.",
     "priority": "medium",
-    "priority_reason": "Moderate user dissatisfaction due to ID requirement",
-    "pm_action": "Investigate and remove unnecessary physical ID requirement; enable digital ID verification"
+    "priority_reason": "Moderate rating and mixed reviews indicate a need for improvement.",
+    "pm_action": "Update verification flow to allow digital ID only and remove physical ID requirement."
   },
   {
     "topic_id": 8,
@@ -213,10 +213,10 @@
     ],
     "label": "Terrible Customer Service",
     "category": "complaint",
-    "root_cause": "Outsourced customer support leads to poor response times and miscommunication.",
+    "root_cause": "Outsourced customer support leads to inconsistent and unresponsive service.",
     "priority": "medium",
-    "priority_reason": "Low rating and numerous complaints indicate significant dissatisfaction.",
-    "pm_action": "Reevaluate outsourcing agreements and implement a dedicated in-house support team for critical issues."
+    "priority_reason": "Low rating and multiple complaints indicate significant dissatisfaction.",
+    "pm_action": "Reevaluate outsourcing agreements and implement a dedicated in-house support team."
   },
   {
     "topic_id": 9,
@@ -236,9 +236,9 @@
       "Great Host on sorrento towers junior sweet .5Starhost very helpful, and accommodating. Great experience.",
       "Great very kind and considerate host"
     ],
-    "label": "Excellent Host Experience",
+    "label": "Positive Host Experience",
     "category": "praise",
-    "root_cause": "Positive host experience",
+    "root_cause": "Hosts provide friendly, accommodating service",
     "priority": "low",
     "priority_reason": "High rating and positive reviews indicate low priority",
     "pm_action": "Send a thank-you note to the host and highlight their positive feedback in the host community newsletter"
@@ -263,10 +263,10 @@
     ],
     "label": "Fraudulent Review Issue",
     "category": "complaint",
-    "root_cause": "Users are receiving fraudulent reviews on their profiles due to a system error that allows hosts to post reviews without proper verification.",
+    "root_cause": "Host left a fraudulent review on the user's profile",
     "priority": "medium",
-    "priority_reason": "The issue affects user trust and could lead to account damage.",
-    "pm_action": "Implement a verification step for host reviews and audit existing reviews to remove fraudulent entries."
+    "priority_reason": "Moderate rating and limited number of reviews",
+    "pm_action": "Investigate and tighten review verification process"
   },
   {
     "topic_id": 11,
@@ -288,9 +288,9 @@
     ],
     "label": "Fast and Easy Experience",
     "category": "praise",
-    "root_cause": "Users appreciate the quick and simple booking process",
+    "root_cause": "Users appreciate the quick and simple booking process.",
     "priority": "low",
-    "priority_reason": "High rating and positive reviews indicate no immediate issues",
-    "pm_action": "Highlight speed and simplicity in marketing materials"
+    "priority_reason": "Positive feedback with high rating indicates low urgency.",
+    "pm_action": "Highlight this feature in marketing materials."
   }
 ]

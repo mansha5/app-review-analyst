@@ -16,7 +16,13 @@
       "app is crashing and the only way to escalate is through the app",
       "There are a lot of problems in delivering orders, and these people are not even able to solve these problems. Only asking time and after that my amount is refunded order is canceled. Very bad service of customer support and guidance they don't have any information about the shipping department.",
       "very good app"
-    ]
+    ],
+    "label": "App crashes & poor support",
+    "category": "complaint",
+    "root_cause": "The app frequently crashes and customer support is unresponsive, leading to order cancellations and refunds.",
+    "priority": "high",
+    "priority_reason": "The app has a low rating of 2.35 and over 30 reviews, indicating widespread issues.",
+    "pm_action": "Prioritize a crash\u2011reporting fix and implement a dedicated support channel with real\u2011time response tracking."
   },
   {
     "topic_id": 1,
@@ -36,12 +42,12 @@
       "very bad support experience",
       "overall good services"
     ],
-    "label": "Support issues amid good service",
+    "label": "Support Experience Issues",
     "category": "complaint",
-    "root_cause": "Inconsistent support response times causing frustration",
+    "root_cause": "Support response times are slow and inconsistent.",
     "priority": "low",
-    "priority_reason": "Positive overall rating but isolated support complaints indicate a need for improvement",
-    "pm_action": "Implement a dedicated support ticketing system to track and resolve issues faster"
+    "priority_reason": "Positive rating indicates low urgency.",
+    "pm_action": "Implement a ticketing system to track and reduce support response times."
   },
   {
     "topic_id": 2,
@@ -61,12 +67,12 @@
       "very good apps bahut acchi app se yah bahut acchi apps hai ismein finance ki suvidha bhi hai aur bil subah 11 ki suvidha bhi hai yah bahut acchi apps hai",
       "\u0905\u092c \u0915\u094d\u0930\u0947\u0921\u093c \u092e\u0947\u0902 \u092a\u0939\u0932\u0947 \u0935\u093e\u0932\u0940 \u092c\u093e\u0924 \u0928\u0939\u0940\u0902 \u0939\u0948 \u092c\u093f\u0932\u094d\u0915\u0941\u0932 \u092d\u0940 \u0915\u0947\u0936 \u092c\u0947\u0915 \u0928\u0939\u0940\u0902 \u092e\u093f\u0932\u0924\u093e \u0939\u0948 "
     ],
-    "label": "Security breach via call forwarding",
+    "label": "Fraud via Call Forwarding",
     "category": "complaint",
-    "root_cause": "App's OTP verification is vulnerable to call forwarding attacks, allowing unauthorized logins.",
+    "root_cause": "Users are able to bypass OTP verification by using call forwarding, allowing attackers to log in and steal funds.",
     "priority": "high",
-    "priority_reason": "Low rating and high review volume indicate widespread user dissatisfaction.",
-    "pm_action": "Implement secure OTP verification using time-based tokens and disable call forwarding for OTP."
+    "priority_reason": "The app has a low rating of 1.67 and over 30 reviews, indicating widespread user dissatisfaction and security concerns.",
+    "pm_action": "Implement a stricter OTP verification process that blocks call forwarding and requires device-based authentication."
   },
   {
     "topic_id": 3,
@@ -88,9 +94,9 @@
     ],
     "label": "Too frequent updates",
     "category": "complaint",
-    "root_cause": "Users are frustrated by the high frequency of updates",
+    "root_cause": "Users are frustrated by the high frequency of updates that disrupt their workflow",
     "priority": "medium",
-    "priority_reason": "User dissatisfaction due to frequent updates",
-    "pm_action": "Reduce update frequency to weekly and communicate the schedule to users"
+    "priority_reason": "Moderate dissatisfaction with update frequency but overall rating is not low enough for high priority",
+    "pm_action": "Reduce update frequency to weekly and provide a clear update schedule to users"
   }
 ]

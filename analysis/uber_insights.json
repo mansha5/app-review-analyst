@@ -17,12 +17,12 @@
       "cancel all my ride",
       "taking to long to confirm plus canceling the ride several time if the emergency means?"
     ],
-    "label": "Ride Cancellation & Wait Time",
+    "label": "Ride cancellations and delays",
     "category": "complaint",
-    "root_cause": "Frequent driver cancellations and delayed confirmations are causing user frustration.",
+    "root_cause": "Frequent driver cancellations and long wait times due to dispatch inefficiencies.",
     "priority": "medium",
-    "priority_reason": "The rating is above 2.5 but below 3, and there are many complaints about cancellations, warranting medium priority.",
-    "pm_action": "Review and adjust driver dispatch logic to reduce cancellations and improve confirmation speed."
+    "priority_reason": "User rating is below average and many reviews mention cancellations, but the issue is not critical enough for high priority.",
+    "pm_action": "Implement a driver cancellation limit and improve real-time driver assignment to reduce wait times."
   },
   {
     "topic_id": 1,
@@ -42,12 +42,12 @@
       "very good and fast service ",
       "Very organized"
     ],
-    "label": "Excellent Service Praise",
+    "label": "Excellent Service Feedback",
     "category": "praise",
-    "root_cause": "Customers appreciate the fast, organized, and friendly service",
+    "root_cause": "Users appreciate fast, friendly, organized service",
     "priority": "low",
-    "priority_reason": "High rating and overwhelmingly positive reviews",
-    "pm_action": "Maintain current service standards and collect ongoing feedback for continuous improvement"
+    "priority_reason": "High rating and positive reviews",
+    "pm_action": "Maintain current service standards and monitor for any changes"
   },
   {
     "topic_id": 2,
@@ -67,12 +67,12 @@
       "worst app I have seen",
       "good application"
     ],
-    "label": "App performance issues",
+    "label": "App performance during peak events",
     "category": "complaint",
-    "root_cause": "The app crashes or performs poorly during high-demand events like festivals or emergencies.",
+    "root_cause": "The app experiences performance issues during high-demand events, causing a poor user experience.",
     "priority": "low",
-    "priority_reason": "The overall rating is above 3 and the number of reviews is moderate, indicating a generally positive perception.",
-    "pm_action": "Implement performance optimizations and stress testing for peak traffic scenarios."
+    "priority_reason": "Overall rating is positive and negative feedback is limited, so priority is low.",
+    "pm_action": "Optimize server load handling to improve stability during peak times."
   },
   {
     "topic_id": 3,
@@ -94,10 +94,10 @@
     ],
     "label": "Poor Service Payment Issues",
     "category": "complaint",
-    "root_cause": "Users report unreliable service and payment errors causing frustration.",
+    "root_cause": "Users experience delayed pickups and confusing payment processes.",
     "priority": "high",
     "priority_reason": "Low rating and high review volume indicate widespread dissatisfaction.",
-    "pm_action": "Investigate and resolve payment processing errors and improve driver reliability."
+    "pm_action": "Implement a real-time driver tracking feature to reduce wait times."
   },
   {
     "topic_id": 4,
@@ -116,7 +116,13 @@
       "there no direct customer support number available in App.. Any wrong drop location what will be the solution.. helpdesk chats are so pathetic that after 4 hours still there is no response.",
       "Uninitiated the App by Mistake. Now unable to install once again, whatever I do. Need technical assistance at the earliest.",
       "app not working properly. stuck at payment everytime."
-    ]
+    ],
+    "label": "App support and payment issues",
+    "category": "complaint",
+    "root_cause": "Users face unresolved support and app payment issues.",
+    "priority": "high",
+    "priority_reason": "Low rating and high review count indicate widespread dissatisfaction.",
+    "pm_action": "Add a dedicated support channel to resolve payment issues."
   },
   {
     "topic_id": 5,
@@ -136,12 +142,12 @@
       "good experience",
       "waste experience"
     ],
-    "label": "Positive Experience Feedback",
+    "label": "Excellent Uber Experience",
     "category": "praise",
-    "root_cause": "Users appreciate the smooth ride experience.",
+    "root_cause": "Users appreciate the efficient and pleasant ride experience.",
     "priority": "low",
-    "priority_reason": "High rating indicates satisfaction.",
-    "pm_action": "Maintain current service quality and monitor for any decline."
+    "priority_reason": "High rating and positive reviews indicate low priority.",
+    "pm_action": "Maintain current service standards and monitor for any decline."
   },
   {
     "topic_id": 6,
@@ -163,10 +169,10 @@
     ],
     "label": "Poor Customer Support",
     "category": "complaint",
-    "root_cause": "The customer support system is unresponsive and automated, leading to frustration.",
+    "root_cause": "The customer support system is unresponsive and provides automated responses, leading to frustration.",
     "priority": "medium",
-    "priority_reason": "Low rating and negative reviews indicate significant customer dissatisfaction.",
-    "pm_action": "Implement a live chat support feature with real-time agent response."
+    "priority_reason": "Low rating and negative reviews indicate a significant issue with customer support.",
+    "pm_action": "Implement a live chat support feature with real-time agent response and reduce wait times."
   },
   {
     "topic_id": 7,
@@ -186,12 +192,12 @@
       "price wise all good",
       "too much cost"
     ],
-    "label": "High Cost Complaints",
+    "label": "High cost concerns",
     "category": "complaint",
-    "root_cause": "Users feel the ride cost is too high.",
+    "root_cause": "Users perceive Uber's fares as too high for the value offered.",
     "priority": "medium",
-    "priority_reason": "Average rating and moderate review count indicate a medium priority issue.",
-    "pm_action": "Investigate pricing strategy and consider dynamic pricing or discounts to improve affordability perception."
+    "priority_reason": "The average rating is below 4 and users frequently mention cost, indicating a moderate concern.",
+    "pm_action": "Introduce a dynamic pricing model with a lower base fare for short trips and offer promotional discounts to improve perceived value."
   },
   {
     "topic_id": 8,
@@ -211,11 +217,11 @@
       "nice experience",
       "Great experience everytime"
     ],
-    "label": "Excellent Uber Experience",
+    "label": "Excellent Experience",
     "category": "praise",
-    "root_cause": "Consistent high-quality service and efficient rides.",
+    "root_cause": "The app provides a smooth and reliable ride experience.",
     "priority": "low",
-    "priority_reason": "Positive feedback indicates no immediate action required.",
-    "pm_action": "Feature this positive feedback in the next internal performance report."
+    "priority_reason": "Positive user feedback indicates high satisfaction.",
+    "pm_action": "Maintain current service standards and monitor for any decline."
   }
 ]

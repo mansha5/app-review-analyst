@@ -38,10 +38,10 @@
     ],
     "label": "Positive Feedback on WhatsApp",
     "category": "praise",
-    "root_cause": "Users appreciate the app's smooth performance and reliable communication.",
+    "root_cause": "Users appreciate the smooth experience and excellent service.",
     "priority": "low",
-    "priority_reason": "High average rating and positive reviews indicate low urgency.",
-    "pm_action": "Schedule a quarterly review of user feedback to maintain satisfaction."
+    "priority_reason": "High rating and positive reviews indicate low priority.",
+    "pm_action": "Maintain current features and monitor user satisfaction."
   },
   {
     "topic_id": 2,
@@ -61,12 +61,12 @@
       "really awesome app",
       "this app is absolutely amazing"
     ],
-    "label": "Positive user feedback",
+    "label": "High Praise for Messaging",
     "category": "praise",
-    "root_cause": "Users value the app's messaging capabilities and overall experience.",
+    "root_cause": "Users find the app's messaging features helpful and enjoyable.",
     "priority": "low",
-    "priority_reason": "High average rating and positive reviews indicate low urgency.",
-    "pm_action": "Continue monitoring user feedback and maintain current feature set."
+    "priority_reason": "Positive reviews and high rating indicate low urgency.",
+    "pm_action": "Maintain current feature set and monitor for emerging issues."
   },
   {
     "topic_id": 3,
@@ -104,13 +104,7 @@
       "plz my Whatsap Opan",
       "Very nice aap hai easki facelity bahut bhadya hai",
       "I am om Kumar very kharab aapp"
-    ],
-    "label": "App fails to open",
-    "category": "bug",
-    "root_cause": "App fails to launch for some users",
-    "priority": "medium",
-    "priority_reason": "Moderate rating with negative reviews and high review count indicates medium urgency",
-    "pm_action": "Fix launch crash and deploy patch"
+    ]
   },
   {
     "topic_id": 5,
@@ -129,7 +123,13 @@
       "my account is blocked why",
       "Absolutely fascist AI running it. Two days ago I got a 6 hour suspension for posting a similar message about housing in two different groups that I've been active in since inception. Today I got suspended for DMing someone not in my contacts about a housing opportunity and having the audacity to reply to her when she responded. And so now I can't connect with ANYONE because of a total of four messages that were in no way bothering anyone or in violation of their terms of service.",
       "cant log in"
-    ]
+    ],
+    "label": "Account Suspension & Login Issues",
+    "category": "complaint",
+    "root_cause": "Users are being suspended or blocked for content that may not violate policies, causing frustration and login problems",
+    "priority": "high",
+    "priority_reason": "Low rating and high review count indicate widespread dissatisfaction",
+    "pm_action": "Review suspension logs, clarify policy thresholds, and implement a transparent appeal process with timely communication"
   },
   {
     "topic_id": 6,
@@ -149,12 +149,12 @@
       "it's a good app though I've been using this app for months now,and suddenly yesterday, WhatsApp restrict my account,I don't know what I did wrong, I'm even trying to verify it this morning now,they are telling me number not verified like that is even the only number I have (you people should give me back my account oooo) cause I don't understand your problem with my account ",
       "Hey team WhatsApp My WhatsApp number is banned last week and I tried to restore my account but failed. I am facing this problem.This account can't use whatapp I assure you I have not violate any policy of whatapp and this is my personal number and I am facing very problem now a days so please consider my request and restore my WhatsApp account as soon as possible Thanks your regrads"
     ],
-    "label": "Account Suspension Issues",
+    "label": "Account Suspension Issue",
     "category": "complaint",
-    "root_cause": "Unclear account suspension policy leads to frequent bans",
+    "root_cause": "WhatsApp is suspending accounts without clear reasons, causing user frustration.",
     "priority": "high",
-    "priority_reason": "Low average rating and many complaints indicate urgent need to address account suspension issues",
-    "pm_action": "Implement a clear, user-friendly appeal system for suspended accounts"
+    "priority_reason": "Low rating and many complaints indicate urgent need.",
+    "pm_action": "Investigate suspension policy and provide a clear appeal process."
   },
   {
     "topic_id": 7,
@@ -173,7 +173,13 @@
       "1] camera comes with sundden unpredictable zoom . 2] can create pause button when recording video please .",
       "Great app, It could be better with call recording access",
       "since recent update. The voice message are getting played from ear speaker like a phone call. this is causing ear speaker sensor to turn off the screen"
-    ]
+    ],
+    "label": "Video recording issues",
+    "category": "feature_request",
+    "root_cause": "The camera's zoom behaves unpredictably and users lack a pause button for video recording.",
+    "priority": "medium",
+    "priority_reason": "User dissatisfaction due to video recording issues and missing pause functionality.",
+    "pm_action": "Implement a stable zoom control and add a pause button to the video recording UI."
   },
   {
     "topic_id": 8,
@@ -193,11 +199,11 @@
       "Others status on top is annoying as hell",
       "Why you add status at homepage "
     ],
-    "label": "Hide status icon request",
-    "category": "feature_request",
-    "root_cause": "Users find the status icon at the top of chat intrusive and want an option to hide it without affecting contact status visibility.",
+    "label": "Hide Status Icon Request",
+    "category": "complaint",
+    "root_cause": "UI change moved status icon to top of chat, causing annoyance",
     "priority": "medium",
-    "priority_reason": "Moderate user dissatisfaction with a feature that is not critical but impacts user experience.",
-    "pm_action": "Add a toggle in chat settings to hide the status icon."
+    "priority_reason": "Moderate negative sentiment but low review volume",
+    "pm_action": "Add a setting to hide the status icon in the chat view"
   }
 ]

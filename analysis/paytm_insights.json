@@ -54,7 +54,13 @@
       "it good app",
       "very good app",
       "it's amazing, India's best UPI app now I'm so happy"
-    ]
+    ],
+    "label": "Great UPI App",
+    "category": "praise",
+    "root_cause": "The app offers a seamless UPI experience with a user-friendly interface and reliable performance.",
+    "priority": "low",
+    "priority_reason": "Positive user sentiment and high rating indicate low priority for immediate action.",
+    "pm_action": "Maintain current features and plan incremental improvements."
   },
   {
     "topic_id": 3,
@@ -73,7 +79,13 @@
       "Hi, please add the Paytm wallet option again.",
       "I have changed my mobile and verification has not been done and I can't do any transaction on paytm. Any time shows verification couldn't not been done and issue in upi system. can u help me do get out from this problem otherwise no use of paytm for me in future 09:49 AM",
       "Hi Paytm, my app has suddenly stopped working with the pop up message 'device environment is not correct'. I had uninstalled the app to re-download but now I'm unable to login and the app gives a pop up message to contact Paytm support."
-    ]
+    ],
+    "label": "Device environment mismatch bug",
+    "category": "bug",
+    "root_cause": "The app incorrectly flags the device environment as invalid, causing crashes and preventing verification and UPI transactions.",
+    "priority": "high",
+    "priority_reason": "The app has a low average rating and a high number of complaints, indicating a critical issue that needs immediate attention.",
+    "pm_action": "Prioritize a hotfix to correct the environment detection logic, add a fallback verification flow for new devices, and release an update with comprehensive device compatibility testing."
   },
   {
     "topic_id": 4,
@@ -93,12 +105,12 @@
       "App is not working, always flash message highlight Device Environment is not Correct",
       "The app is not opening with an error saying' device environment is not correct \"."
     ],
-    "label": "Device environment mismatch",
+    "label": "Device environment not correct",
     "category": "bug",
-    "root_cause": "The app incorrectly flags supported devices as unsupported due to a faulty device environment check.",
+    "root_cause": "The app fails to initialize due to incorrect device environment detection.",
     "priority": "high",
-    "priority_reason": "Low rating and many complaints indicate a critical issue.",
-    "pm_action": "Revise the device environment validation logic and release an update that correctly identifies supported devices."
+    "priority_reason": "Low rating and high volume of complaints indicate urgent issue.",
+    "pm_action": "Investigate and fix device environment detection logic; release hotfix."
   },
   {
     "topic_id": 5,
@@ -117,7 +129,13 @@
       "super i like this",
       "excellent work",
       "It was great"
-    ]
+    ],
+    "label": "Positive Feedback",
+    "category": "praise",
+    "root_cause": "Users appreciate the app's performance and features",
+    "priority": "low",
+    "priority_reason": "High average rating and positive reviews indicate low priority",
+    "pm_action": "Maintain current features and monitor for any negative feedback"
   },
   {
     "topic_id": 6,
@@ -137,12 +155,12 @@
       "Best service.",
       "best servesh"
     ],
-    "label": "Excellent Service Feedback",
+    "label": "Excellent Service Praise",
     "category": "praise",
-    "root_cause": "Customers appreciate the efficient and reliable service provided by Paytm.",
+    "root_cause": "Users consistently highlight the high quality and responsiveness of Paytm's service",
     "priority": "low",
-    "priority_reason": "High rating and positive reviews indicate low urgency.",
-    "pm_action": "Highlight positive reviews in marketing materials"
+    "priority_reason": "High average rating and overwhelmingly positive reviews indicate low urgency",
+    "pm_action": "Send a thank-you message to reviewers and feature their positive feedback in the app's community section"
   },
   {
     "topic_id": 7,
@@ -164,10 +182,10 @@
     ],
     "label": "Reward and Redemption Issues",
     "category": "complaint",
-    "root_cause": "Users are not receiving promised rewards and experiencing issues redeeming codes",
+    "root_cause": "Users report lack of promised rewards and issues redeeming codes",
     "priority": "medium",
-    "priority_reason": "Low rating and multiple complaints indicate medium urgency",
-    "pm_action": "Fix reward distribution and code redemption bugs, and update user communication"
+    "priority_reason": "Negative rating and moderate review count indicate medium urgency",
+    "pm_action": "Investigate reward system and code redemption process, fix bugs, and communicate updates"
   },
   {
     "topic_id": 8,
@@ -187,12 +205,12 @@
       "excellent and easy to use",
       "easy to use"
     ],
-    "label": "Easy to use",
+    "label": "Easy to Use",
     "category": "praise",
-    "root_cause": "The app offers a simple, intuitive interface that users find easy to navigate.",
+    "root_cause": "The app's intuitive design and straightforward navigation make it easy to use.",
     "priority": "low",
-    "priority_reason": "High average rating and positive reviews indicate strong user satisfaction.",
-    "pm_action": "Maintain current UI simplicity and monitor for any emerging usability issues."
+    "priority_reason": "Positive reviews indicate high user satisfaction.",
+    "pm_action": "Maintain current UI simplicity while adding a tutorial for new features."
   },
   {
     "topic_id": 9,
@@ -252,10 +270,10 @@
     ],
     "label": "Positive Paytm Experience",
     "category": "praise",
-    "root_cause": "Positive user experience with Paytm's features.",
+    "root_cause": "Users report a positive experience with Paytm",
     "priority": "low",
-    "priority_reason": "High rating indicates positive sentiment.",
-    "pm_action": "Continue to maintain current features and monitor for any emerging issues."
+    "priority_reason": "High rating and positive reviews indicate low priority",
+    "pm_action": "Continue monitoring user feedback and maintain current features"
   },
   {
     "topic_id": 12,
@@ -277,10 +295,10 @@
     ],
     "label": "Positive user feedback",
     "category": "praise",
-    "root_cause": "Users report excellent experience with Paytm",
+    "root_cause": "Users report a consistently good experience with the app's features and interface.",
     "priority": "low",
-    "priority_reason": "High rating and positive reviews",
-    "pm_action": "Maintain current service quality and monitor for any emerging issues"
+    "priority_reason": "High average rating and exclusively positive reviews indicate low urgency.",
+    "pm_action": "Continue monitoring user feedback and maintain current features."
   },
   {
     "topic_id": 13,
@@ -300,12 +318,12 @@
       "I love the app. You'd stop an entry and it'd be several seconds before it'd actually stop and those extra seconds are added to the entry. But now download faster and more stable. Not to mention being unable to use the app when it's syncing because its literally stop responding until it's done. The app is soo much faster download. This is syncing happens pretty much every time you open the app, start, stop, or edit an entry. so it was real pain to use. Thank you so much to everyone algorithms.",
       "I lovethe app! The app is soo much faster download. This is syncinghappens pretty much every time you open the app, start, stop, or edit an entry, so it was a real pain. Not to mention being unable to use the app when it's syncing because it literally stop responding until it's done. Thank you so much to everyone algorithms. But now download faster and more stable. You'd stop an entry and it'd be several seconds before it'd actually stop and those extra seconds are added too the entry."
     ],
-    "label": "Sync blocking UI",
+    "label": "Sync Stalls and Slow Download",
     "category": "bug",
-    "root_cause": "Sync process blocks UI causing delays and unresponsiveness",
-    "priority": "medium",
-    "priority_reason": "User experience impacted by sync delays despite high rating",
-    "pm_action": "Optimize sync to run asynchronously and reduce UI blocking"
+    "root_cause": "App sync process stalls, causing delays and unresponsiveness during stop/start/edit actions.",
+    "priority": "low",
+    "priority_reason": "High user satisfaction and low review volume indicate low urgency.",
+    "pm_action": "Optimize sync logic to reduce latency and prevent UI blocking during stop/start/edit operations."
   },
   {
     "topic_id": 14,
@@ -325,12 +343,12 @@
       "very fast pa",
       "very fast and good"
     ],
-    "label": "Fast & Safe Experience",
+    "label": "Fast & Safe",
     "category": "praise",
-    "root_cause": "Users appreciate the app\u2019s speed and safety features.",
+    "root_cause": "Users appreciate the app\u2019s quick and secure transaction process.",
     "priority": "low",
-    "priority_reason": "Positive sentiment with high rating.",
-    "pm_action": "Maintain current speed and safety features; monitor for any emerging issues."
+    "priority_reason": "Positive reviews with high rating and low volume.",
+    "pm_action": "Maintain current performance and safety measures."
   },
   {
     "topic_id": 15,
@@ -349,13 +367,7 @@
       "Fast processing app",
       "so fast hassle free",
       "very good, not glitch, speed and clear everything"
-    ],
-    "label": "Praise for fast performance",
-    "category": "praise",
-    "root_cause": "Users appreciate the app\u2019s fast processing, glitch-free experience, and clear interface.",
-    "priority": "low",
-    "priority_reason": "High rating and positive reviews indicate low urgency.",
-    "pm_action": "Maintain current performance and monitor for any future glitches."
+    ]
   },
   {
     "topic_id": 16,
@@ -379,8 +391,8 @@
     "category": "praise",
     "root_cause": "Users appreciate the app's functionality and user-friendly design.",
     "priority": "low",
-    "priority_reason": "Positive reviews indicate high user satisfaction.",
-    "pm_action": "Acknowledge users and highlight positive feedback in the next release notes."
+    "priority_reason": "High rating and positive reviews indicate low priority.",
+    "pm_action": "Continue maintaining current features and monitor for any emerging issues."
   },
   {
     "topic_id": 17,
@@ -400,12 +412,12 @@
       "very Reliable and Very useful",
       "fast and secure"
     ],
-    "label": "Fast, Secure, Reliable",
+    "label": "Praise for speed and security",
     "category": "praise",
-    "root_cause": "The app offers a fast, secure, and reliable experience.",
+    "root_cause": "Users appreciate the app's speed, reliability, and security",
     "priority": "low",
-    "priority_reason": "Positive reviews indicate low urgency for changes.",
-    "pm_action": "Maintain current features and monitor user satisfaction."
+    "priority_reason": "High rating and positive reviews",
+    "pm_action": "Highlight these strengths in marketing materials"
   },
   {
     "topic_id": 18,
@@ -425,11 +437,11 @@
       "good apps for daily sending money .Direct payment",
       "good app for money transfer"
     ],
-    "label": "High satisfaction with transfers",
+    "label": "Positive feedback on transfer",
     "category": "praise",
-    "root_cause": "Users appreciate reliable and easy money transfer features",
+    "root_cause": "Users appreciate the app's ease and reliability for money transfers.",
     "priority": "low",
-    "priority_reason": "Positive reviews and high rating indicate low priority",
-    "pm_action": "Maintain current features and monitor for any new issues"
+    "priority_reason": "Positive reviews indicate satisfaction.",
+    "pm_action": "Maintain current features and monitor usage metrics."
   }
 ]

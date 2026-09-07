@@ -17,12 +17,12 @@
       "received the wrong order",
       "They doesn't refund the money. they tell you that they have refunded but the money will not be refunded"
     ],
-    "label": "Delivery delays & refunds",
+    "label": "Delivery delay and refund issues",
     "category": "complaint",
-    "root_cause": "Delivery delays and refund processing failures causing customer dissatisfaction.",
+    "root_cause": "App's delivery tracking and refund processing are unreliable.",
     "priority": "high",
-    "priority_reason": "Low rating and high review count indicate widespread dissatisfaction.",
-    "pm_action": "Implement real-time delivery tracking and automated refund confirmation to improve reliability."
+    "priority_reason": "Low rating and high complaint volume indicate urgent need for improvement.",
+    "pm_action": "Implement real-time delivery ETA updates and automated refund confirmation notifications."
   },
   {
     "topic_id": 1,
@@ -41,7 +41,13 @@
       "good service",
       "zapto very fast service",
       "super service"
-    ]
+    ],
+    "label": "Positive Service Feedback",
+    "category": "praise",
+    "root_cause": "Customers appreciate the fast and good service provided by Zomato.",
+    "priority": "low",
+    "priority_reason": "Positive reviews and rating above 2.5 indicate no urgent action needed.",
+    "pm_action": "Maintain current service standards and promote fast service in marketing materials."
   },
   {
     "topic_id": 2,
@@ -63,9 +69,9 @@
     ],
     "label": "Positive service feedback",
     "category": "praise",
-    "root_cause": "Users appreciate the good service and interface quality",
+    "root_cause": "Users appreciate the good service and interface, leading to high satisfaction",
     "priority": "low",
-    "priority_reason": "High average rating and positive reviews indicate low priority",
+    "priority_reason": "High rating and positive reviews indicate low urgency",
     "pm_action": "Continue monitoring and maintain service quality"
   },
   {
@@ -86,12 +92,12 @@
       "best food appppppppp",
       "Best Lowest Price Food Dilevery App"
     ],
-    "label": "Positive feedback on food delivery",
+    "label": "Positive feedback on food quality",
     "category": "praise",
-    "root_cause": "App provides convenient and tasty food delivery service.",
+    "root_cause": "Users appreciate good food and low prices.",
     "priority": "low",
-    "priority_reason": "Positive reviews and high rating justify low priority.",
-    "pm_action": "Maintain current features and monitor for any negative feedback."
+    "priority_reason": "High rating and positive reviews indicate low priority.",
+    "pm_action": "Continue to emphasize low price and quality in marketing"
   },
   {
     "topic_id": 4,
@@ -111,12 +117,12 @@
       "badiya app hai",
       "ekdm ghtiya"
     ],
-    "label": "Small Kulcha Size Issue",
+    "label": "Poor Portion Size Complaint",
     "category": "complaint",
-    "root_cause": "The kulcha size is too small, leading to customer dissatisfaction.",
+    "root_cause": "Small portion size and poor quality of kulcha",
     "priority": "medium",
-    "priority_reason": "The average rating is below 3 and there are many complaints about product size.",
-    "pm_action": "Adjust the kulcha portion size to meet standard dimensions and update packaging."
+    "priority_reason": "Rating is below average and many negative reviews",
+    "pm_action": "Investigate kitchen standards and adjust portion sizes"
   },
   {
     "topic_id": 5,
@@ -138,10 +144,10 @@
     ],
     "label": "High Delivery Charges Complaint",
     "category": "complaint",
-    "root_cause": "Customers are dissatisfied due to excessive delivery fees.",
+    "root_cause": "Customers feel delivery charges are too high.",
     "priority": "high",
-    "priority_reason": "Low rating and many complaints indicate urgent need to address delivery fee concerns.",
-    "pm_action": "Review and reduce delivery fee structure, and communicate changes to users."
+    "priority_reason": "Low rating and many complaints indicate urgent issue.",
+    "pm_action": "Investigate delivery fee structure and consider reducing or offering free delivery thresholds."
   },
   {
     "topic_id": 6,
@@ -161,12 +167,12 @@
       "this app is best",
       "very Simple and very Easy"
     ],
-    "label": "App praised for simplicity",
+    "label": "Positive Feedback Received",
     "category": "praise",
-    "root_cause": "Users appreciate the app\u2019s ease of use and excellent features",
+    "root_cause": "Users appreciate the app\u2019s simplicity and quality, reflected in high ratings and positive reviews.",
     "priority": "low",
-    "priority_reason": "High average rating and overwhelmingly positive reviews indicate low urgency",
-    "pm_action": "Continue monitoring feedback and maintain current features"
+    "priority_reason": "High average rating and overwhelmingly positive reviews indicate low urgency for changes.",
+    "pm_action": "Continue monitoring feedback and maintain current features."
   },
   {
     "topic_id": 7,
@@ -185,7 +191,13 @@
       "y becoz I'm also worked as a delivery boy took lot of orders from 9R clouds and Kitchen(home) garden",
       "best delivery",
       "it's amazing delivery very fast \u23e9"
-    ]
+    ],
+    "label": "Fast Delivery Praise",
+    "category": "praise",
+    "root_cause": "Positive feedback on fast delivery service",
+    "priority": "low",
+    "priority_reason": "High rating and positive reviews",
+    "pm_action": "Highlight fast delivery feature in marketing materials"
   },
   {
     "topic_id": 8,
@@ -205,12 +217,12 @@
       "nice zamtao",
       "nice zomato"
     ],
-    "label": "Positive Feedback",
+    "label": "User Appreciation",
     "category": "praise",
-    "root_cause": "User satisfaction due to app usability and reliable service.",
+    "root_cause": "Positive feedback indicates user satisfaction.",
     "priority": "low",
-    "priority_reason": "High rating and positive reviews indicate user satisfaction.",
-    "pm_action": "Maintain current features and monitor user satisfaction metrics."
+    "priority_reason": "Positive sentiment with high rating suggests low urgency.",
+    "pm_action": "Send a thank-you note to the user and share the feedback with the marketing team."
   },
   {
     "topic_id": 9,
@@ -232,10 +244,10 @@
     ],
     "label": "Delivery Time Issues",
     "category": "complaint",
-    "root_cause": "Delayed delivery due to logistics.",
+    "root_cause": "Delayed delivery due to logistical inefficiencies",
     "priority": "medium",
-    "priority_reason": "Delivery delays noted but overall rating is high, so medium priority.",
-    "pm_action": "Investigate delivery logistics and improve ETA accuracy."
+    "priority_reason": "Moderate concern due to frequent delivery delays but overall positive rating",
+    "pm_action": "Implement real-time delivery tracking and improve courier scheduling"
   },
   {
     "topic_id": 10,
@@ -254,7 +266,13 @@
       "nice give offer",
       "good option with best offers ",
       "Good Offers available. delivery on time"
-    ]
+    ],
+    "label": "Positive feedback on offers",
+    "category": "praise",
+    "root_cause": "Customers appreciate the attractive offers and timely delivery.",
+    "priority": "low",
+    "priority_reason": "Positive reviews indicate high customer satisfaction.",
+    "pm_action": "Continue promoting offers and maintain delivery quality."
   },
   {
     "topic_id": 11,
@@ -273,13 +291,7 @@
       "my second mother ",
       "worth experience",
       "overall good experience"
-    ],
-    "label": "Positive overall experience",
-    "category": "praise",
-    "root_cause": "Customers appreciate the overall experience.",
-    "priority": "medium",
-    "priority_reason": "Positive reviews with average rating 3.0/5 and low count.",
-    "pm_action": "Highlight positive feedback in marketing and maintain quality."
+    ]
   },
   {
     "topic_id": 12,
@@ -301,9 +313,9 @@
     ],
     "label": "Cash on Delivery Missing",
     "category": "complaint",
-    "root_cause": "Cash on delivery option not available",
+    "root_cause": "Cash on delivery option is not available",
     "priority": "medium",
-    "priority_reason": "Moderate rating and limited complaints indicate medium urgency",
+    "priority_reason": "Average rating is moderate and review count is low, indicating a moderate concern",
     "pm_action": "Implement cash on delivery payment option"
   }
 ]

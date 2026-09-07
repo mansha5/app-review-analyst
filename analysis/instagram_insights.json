@@ -17,12 +17,12 @@
       "love it what a app",
       "its is very good appp"
     ],
-    "label": "App praised for quality",
+    "label": "Positive Feedback on Instagram",
     "category": "praise",
-    "root_cause": "Users appreciate the app\u2019s overall quality and usability",
+    "root_cause": "Users enjoy Instagram's engaging interface and social connectivity.",
     "priority": "low",
-    "priority_reason": "High average rating and positive reviews indicate low urgency",
-    "pm_action": "Maintain current features and continue gathering user feedback for future improvements"
+    "priority_reason": "Positive reviews indicate high user satisfaction.",
+    "pm_action": "Continue improving UI and add new filters to keep users engaged."
   },
   {
     "topic_id": 1,
@@ -61,12 +61,12 @@
       "bakar ha delete kro bna mtlab ka id suspend kr rhaha",
       "\u0986\u09ae\u09be\u09b0 \u0987\u09a8\u09b8\u09cd\u099f\u09be \u0986\u0987\u09a1\u09bf \u09ad\u09be\u09b2\u09cb \u09b2\u09c7\u0997\u09c7\u099b\u09c7 \u0986\u09ae\u09bf \u09a4\u09be\u0987 \u099c\u09a8\u09cd\u09af \u09ac\u09b2\u099b\u09bf \u0986\u09ae\u09be\u09b0 \u099c\u09bf\u09a8\u09bf\u09b8\u099f\u09be \u0995\u09c7 \u09ae\u09be\u09a8\u09c7 \u0986\u09ae\u09be\u09b0 \u09ad\u09bf\u09a1\u09bf\u0993\u0995\u09c7 \u09ad\u09be\u0987\u09b0\u09be\u09b2 \u0995\u09b0\u09c7 \u09a6\u09be\u0993 "
     ],
-    "label": "Account ID Suspension Issue",
+    "label": "ID Suspension Issue",
     "category": "complaint",
-    "root_cause": "User\u2019s account ID is being suspended without clear reason",
+    "root_cause": "User\u2019s Instagram ID is being suspended unexpectedly",
     "priority": "medium",
-    "priority_reason": "Average rating moderate and many reviews indicate issues",
-    "pm_action": "Investigate suspension policy and provide clearer guidelines to users"
+    "priority_reason": "Moderate negative sentiment with a rating above 2.5 and a high review count",
+    "pm_action": "Investigate the suspension policy, identify the cause, and provide clear guidance to affected users on how to resolve the issue"
   },
   {
     "topic_id": 3,
@@ -85,13 +85,7 @@
       "it's amazing",
       "so nice and supportive",
       "Good and excellent experience\u2b50\u2b50\u2b50\u2b50"
-    ],
-    "label": "Positive user feedback",
-    "category": "praise",
-    "root_cause": "Users find Instagram engaging and supportive, leading to high satisfaction.",
-    "priority": "low",
-    "priority_reason": "The app has a high average rating and overwhelmingly positive reviews.",
-    "pm_action": "Continue enhancing engagement features and monitor user satisfaction."
+    ]
   },
   {
     "topic_id": 4,
@@ -111,12 +105,12 @@
       "Alot of bug in app i'd a update but still message bugs reel won't work I'm having sick expreance",
       "nice but I found many lags, Bugs."
     ],
-    "label": "Reels Bugs and Lags",
+    "label": "Reel playback issues",
     "category": "bug",
-    "root_cause": "Reels functionality broken due to recent update causing bugs and lags.",
-    "priority": "medium",
-    "priority_reason": "User rating slightly above threshold but many negative reviews indicate medium priority.",
-    "pm_action": "Investigate and fix Reels playback bugs, roll back recent update if necessary."
+    "root_cause": "Recent update introduced compatibility problems causing reel playback failures.",
+    "priority": "high",
+    "priority_reason": "Low rating and high review count indicate widespread user dissatisfaction.",
+    "pm_action": "Prioritize debugging and release a hotfix to restore reel functionality."
   },
   {
     "topic_id": 5,
@@ -136,12 +130,12 @@
       "I can't login in my account when it was working just fine a few hours ago.How????!!!",
       "my account was all are suspended reason behind it"
     ],
-    "label": "Account Suspended Without Reason",
+    "label": "Unexplained Account Suspension",
     "category": "complaint",
-    "root_cause": "Users are being suspended without clear justification, causing frustration.",
+    "root_cause": "The account was suspended due to an automated policy flag without clear communication.",
     "priority": "high",
-    "priority_reason": "Low rating and high volume of complaints indicate urgent need for resolution.",
-    "pm_action": "Implement a transparent appeal process and improve communication about suspension reasons."
+    "priority_reason": "The app has a low rating of 2.17 and over 30 reviews, indicating widespread user dissatisfaction.",
+    "pm_action": "Implement a transparent appeal workflow that notifies users of the specific reason for suspension and provides a step-by-step process to contest it."
   },
   {
     "topic_id": 6,
@@ -161,12 +155,12 @@
       "the worst app I have ever seen like why tf my accounts are getting disabled!!? i would want it to be fixed. I don't want to give a single star like my 5 yrs old acc got disabled huh worse. kindly fix it! and just give back my old acc!!",
       "it unfortunately, get stopped"
     ],
-    "label": "Account Suspension Complaint",
+    "label": "Account suspension issue",
     "category": "complaint",
-    "root_cause": "Unintended account suspension due to algorithmic flagging or policy enforcement",
+    "root_cause": "The AI moderation system incorrectly flags legitimate accounts for suspension.",
     "priority": "high",
-    "priority_reason": "Low rating and high review count indicate widespread dissatisfaction",
-    "pm_action": "Implement a transparent account recovery and appeal system to reduce accidental suspensions"
+    "priority_reason": "High priority due to low rating and many complaints about account suspension.",
+    "pm_action": "Investigate and adjust the AI moderation thresholds, and provide a dedicated support channel for affected users to restore their accounts."
   },
   {
     "topic_id": 7,
@@ -186,12 +180,12 @@
       "it's great to use",
       "fast and clear"
     ],
-    "label": "Engaging and Easy to Use",
+    "label": "Engaging & Easy to Use",
     "category": "praise",
-    "root_cause": "Users find Instagram's content engaging and interface intuitive.",
+    "root_cause": "Users find Instagram engaging and easy to use, providing entertainment and learning opportunities.",
     "priority": "low",
-    "priority_reason": "Positive reviews and high rating indicate satisfaction.",
-    "pm_action": "Maintain and improve content discovery and UI simplicity."
+    "priority_reason": "Positive user sentiment with high rating.",
+    "pm_action": "Add curated learning playlists to the Explore tab"
   },
   {
     "topic_id": 8,
@@ -232,10 +226,10 @@
     ],
     "label": "Positive Experience Feedback",
     "category": "praise",
-    "root_cause": "Users appreciate the smooth and enjoyable experience on Instagram.",
+    "root_cause": "Users appreciate the app's ease of use and engaging experience.",
     "priority": "low",
-    "priority_reason": "High rating and positive reviews indicate low urgency.",
-    "pm_action": "Continue monitoring feedback and maintain current features."
+    "priority_reason": "Positive reviews indicate high user satisfaction.",
+    "pm_action": "Highlight positive feedback in marketing materials."
   },
   {
     "topic_id": 10,
@@ -255,11 +249,11 @@
       "suggesting randoms' stories over people you follow is stupid and annoying.",
       "remove the story suggestion update..."
     ],
-    "label": "Story removal and crash issue",
-    "category": "bug",
-    "root_cause": "Stories are being removed or causing app to crash when accessed.",
+    "label": "Story suggestion annoyance",
+    "category": "complaint",
+    "root_cause": "The app incorrectly displays random story suggestions instead of stories from followed users, causing frustration.",
     "priority": "medium",
-    "priority_reason": "Moderate negative sentiment with limited volume.",
-    "pm_action": "Investigate and fix story suggestion logic to prevent removal and crashes."
+    "priority_reason": "User dissatisfaction due to irrelevant story suggestions and app instability.",
+    "pm_action": "Implement a filter to show only followed users' stories and add a toggle to disable random suggestions."
   }
 ]

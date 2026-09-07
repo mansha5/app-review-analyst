@@ -17,12 +17,12 @@
       "just love the movie \u2764\ufe0f",
       "I just love the new addition of movies! Most are my listed faves."
     ],
-    "label": "Positive feedback on emotional movies",
+    "label": "Positive Feedback on New Movies",
     "category": "praise",
-    "root_cause": "Users appreciate the emotional depth and storytelling of recent movies",
+    "root_cause": "Users appreciate new movie additions and emotional storytelling",
     "priority": "low",
-    "priority_reason": "High average rating and positive reviews indicate low priority",
-    "pm_action": "Continue supporting current content strategy and highlight emotional storytelling in marketing"
+    "priority_reason": "High average rating and positive reviews indicate low urgency",
+    "pm_action": "Maintain current content strategy and explore adding more emotionally resonant titles"
   },
   {
     "topic_id": 1,
@@ -42,12 +42,12 @@
       "fantastic app",
       "very nice app"
     ],
-    "label": "Positive user feedback",
+    "label": "Great Netflix Experience",
     "category": "praise",
-    "root_cause": "Users appreciate the app's user-friendly interface and extensive content library.",
+    "root_cause": "Users appreciate Netflix's extensive library and user-friendly interface.",
     "priority": "low",
-    "priority_reason": "High rating and positive reviews indicate low urgency.",
-    "pm_action": "Continue to enhance content recommendations and maintain UI quality."
+    "priority_reason": "High rating and positive reviews indicate strong user satisfaction.",
+    "pm_action": "Continue to enhance content variety and UI."
   },
   {
     "topic_id": 2,
@@ -67,12 +67,12 @@
       "Netflix delivers an unmatched user experience. The recommendation algorithm is top-tier, profile management is effortless, and the interface is incredibly fast across all devices. Highly recommended for binge-watching!",
       "\"Netflix has an amazing selection of shows and movies for every mood \u2014 smooth streaming and always something new to watch. Love it!\""
     ],
-    "label": "Excellent Netflix Experience",
+    "label": "Outstanding Netflix Service",
     "category": "praise",
-    "root_cause": "Outstanding user experience and recommendation algorithm",
+    "root_cause": "Users appreciate Netflix's fast interface, top-tier recommendation algorithm, and extensive content library.",
     "priority": "low",
-    "priority_reason": "Positive reviews with high rating",
-    "pm_action": "Continue improving recommendation algorithm and expanding content library"
+    "priority_reason": "Positive reviews and high rating",
+    "pm_action": "Continue to enhance recommendation algorithm and expand content library"
   },
   {
     "topic_id": 3,
@@ -92,12 +92,12 @@
       "Awesome viewing ",
       "I love it everything about it its worth watching rocck star good job and thank you for showing this to us and thank you nextflix too"
     ],
-    "label": "Great Netflix Experience",
+    "label": "Great Netflix Viewing",
     "category": "praise",
-    "root_cause": "High-quality content and user-friendly interface",
+    "root_cause": "High-quality content and user-friendly interface.",
     "priority": "low",
-    "priority_reason": "Positive user sentiment and high rating",
-    "pm_action": "Continue investing in diverse content and improve recommendation algorithm"
+    "priority_reason": "Positive reviews and high rating indicate low urgency.",
+    "pm_action": "Maintain and enhance user experience."
   },
   {
     "topic_id": 4,
@@ -155,12 +155,12 @@
       "app update is trash. \"clips\" is the most idiotic thing I've seen in a second. you need to label any program that has AI. Just terrible enshitification everywhere",
       "please fix the l1 to l3 widevine. i need to reinstall if i want to watch in hd."
     ],
-    "label": "Audio and Update Issues",
-    "category": "complaint",
-    "root_cause": "Audio sync problems and poorly optimized updates are causing user frustration.",
+    "label": "Audio sync & Widevine fix",
+    "category": "bug",
+    "root_cause": "Audio sync and Widevine compatibility broken by recent update.",
     "priority": "high",
-    "priority_reason": "Low rating and high review count signal urgent attention.",
-    "pm_action": "Release a patch fixing audio sync and update bugs in the next app version."
+    "priority_reason": "Low rating and many reviews indicate widespread issues.",
+    "pm_action": "Deploy a hotfix to restore audio sync and Widevine compatibility."
   },
   {
     "topic_id": 7,
@@ -182,10 +182,10 @@
     ],
     "label": "Excessive Ads in Ad Tier",
     "category": "complaint",
-    "root_cause": "Users are dissatisfied with the high frequency of ads in the ad tier, leading to a low rating.",
+    "root_cause": "Users feel the ad tier still has too many ads, reducing perceived value.",
     "priority": "high",
-    "priority_reason": "The app has a low rating of 2.48 and over 30 reviews, indicating widespread dissatisfaction.",
-    "pm_action": "Reduce ad frequency in the ad tier by 50% to improve user experience."
+    "priority_reason": "Low rating and high review count indicate significant dissatisfaction.",
+    "pm_action": "Investigate ad frequency in the ad tier and consider reducing ad load or offering an ad-free trial period."
   },
   {
     "topic_id": 8,
@@ -205,12 +205,12 @@
       "too expensive brw",
       "Insane corporate greed! 2026 update: worse then ever!"
     ],
-    "label": "High Pricing Concerns",
+    "label": "Price too high",
     "category": "complaint",
-    "root_cause": "Users feel subscription price has increased too much relative to content value.",
-    "priority": "high",
-    "priority_reason": "Low rating and many reviews indicate widespread dissatisfaction.",
-    "pm_action": "Investigate pricing structure and consider tiered plans or promotional discounts."
+    "root_cause": "High subscription cost drives dissatisfaction.",
+    "priority": "medium",
+    "priority_reason": "User dissatisfaction due to high prices.",
+    "pm_action": "Reevaluate pricing strategy and offer tiered plans."
   },
   {
     "topic_id": 9,
@@ -230,12 +230,12 @@
       "Just great all around",
       "pretty good!"
     ],
-    "label": "Positive Feedback on Netflix",
+    "label": "Positive Feedback on Content",
     "category": "praise",
-    "root_cause": "Users appreciate Netflix's content quality and user experience.",
+    "root_cause": "Users appreciate the high-quality, engaging content.",
     "priority": "low",
-    "priority_reason": "Positive reviews indicate high user satisfaction.",
-    "pm_action": "Continue to maintain high-quality content and consider highlighting user testimonials in marketing."
+    "priority_reason": "Positive reviews and high rating indicate low urgency.",
+    "pm_action": "Schedule a quarterly review of user satisfaction metrics to ensure continued high ratings."
   },
   {
     "topic_id": 10,
@@ -257,10 +257,10 @@
     ],
     "label": "Black screen loading issue",
     "category": "bug",
-    "root_cause": "Corrupted app installation causing rendering failure",
+    "root_cause": "The app fails to render the UI, likely due to a corrupted installation or compatibility issue causing a black screen.",
     "priority": "medium",
-    "priority_reason": "Rating below 2.5 but review count not exceeding 30, so medium priority",
-    "pm_action": "Collect crash logs from affected devices and release a hotfix to fix the rendering bug"
+    "priority_reason": "The rating is low but the review count is not above 30, so medium priority.",
+    "pm_action": "Deploy a hotfix that clears app cache, ensures proper installation, and adds a retry mechanism for UI rendering; monitor post-release metrics."
   },
   {
     "topic_id": 11,
@@ -280,12 +280,12 @@
       "when I cancel my membership I dont want netflix to continue asking me to undo my cancellation with some annoying pop up. Now my membership has been prolonged another month when I didnt want too.",
       "payment doesn't work"
     ],
-    "label": "Subscription cancellation frustration",
+    "label": "Cancellation and payment issues",
     "category": "complaint",
-    "root_cause": "Users are frustrated by frequent cancellation prompts and payment failures, leading to a perception of poor value.",
+    "root_cause": "Users encounter repeated cancellation prompts and payment failures, leading to frustration.",
     "priority": "medium",
-    "priority_reason": "Low rating and negative feedback indicate significant user dissatisfaction.",
-    "pm_action": "Implement a clearer cancellation flow and improve payment processing reliability."
+    "priority_reason": "Negative rating and frequent complaints indicate need for improvement.",
+    "pm_action": "Simplify cancellation process and resolve payment gateway errors to reduce friction."
   },
   {
     "topic_id": 12,
@@ -305,12 +305,12 @@
       "its to good platform and i enjoy a lot of series and movies i love it and make sure Netflix make a good shows",
       "served me since I was 3 in 2015 this platform never disappoints me 10 out of 10"
     ],
-    "label": "Positive user feedback",
+    "label": "Positive feedback on Netflix",
     "category": "praise",
-    "root_cause": "Users enjoy diverse content and reliable service",
+    "root_cause": "Users appreciate Netflix's diverse content and user-friendly interface.",
     "priority": "low",
-    "priority_reason": "High rating and positive reviews indicate low priority",
-    "pm_action": "Continue supporting current features and monitor user satisfaction"
+    "priority_reason": "High average rating and positive reviews indicate low urgency.",
+    "pm_action": "Continue supporting content diversity and UI improvements."
   },
   {
     "topic_id": 13,
@@ -330,12 +330,12 @@
       "l signed the Netflix but it didn't work",
       "not working on Netflix my phone redmi12 4G check"
     ],
-    "label": "Netflix app not working",
-    "category": "bug",
-    "root_cause": "The Netflix app fails to download or install on FireTV and mobile devices due to compatibility or server issues.",
+    "label": "App download failure",
+    "category": "complaint",
+    "root_cause": "Netflix app fails to download or install on Fire TV stick despite device compatibility.",
     "priority": "medium",
-    "priority_reason": "Low rating and multiple complaints indicate a significant issue affecting user experience.",
-    "pm_action": "Fix the app's compatibility issue on FireTV and mobile devices and offer refunds to affected users."
+    "priority_reason": "Low rating and multiple complaints indicate significant user dissatisfaction.",
+    "pm_action": "Release a compatibility patch for Fire TV stick."
   },
   {
     "topic_id": 14,
@@ -374,9 +374,9 @@
       "best of the best",
       "Best fun time \u23f2\ufe0f "
     ],
-    "label": "Great Netflix Experience",
+    "label": "Highly Positive User Feedback",
     "category": "praise",
-    "root_cause": "Users appreciate Netflix's engaging content and user-friendly interface.",
+    "root_cause": "Users appreciate the engaging content and user-friendly interface.",
     "priority": "low",
     "priority_reason": "Positive reviews indicate high user satisfaction.",
     "pm_action": "Continue supporting current features and consider highlighting user testimonials in marketing."
@@ -418,11 +418,11 @@
       "I can't sign up at all. there is no \"use password instead\" button, no, it just doesn't work.",
       "login and user/device management has become very annoying lately"
     ],
-    "label": "Login Failure",
+    "label": "Login and Account Creation Issues",
     "category": "bug",
-    "root_cause": "Authentication flow broken, missing password option",
+    "root_cause": "Login process fails due to missing password option and device management issues on laptops",
     "priority": "medium",
-    "priority_reason": "Low rating and multiple complaints indicate medium urgency",
-    "pm_action": "Fix login authentication flow to support password sign-up and device management"
+    "priority_reason": "Low rating and multiple complaints indicate significant user dissatisfaction",
+    "pm_action": "Fix login flow to allow password sign-up and improve device management on laptops"
   }
 ]

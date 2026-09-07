@@ -9,41 +9,42 @@
     "pct_neutral": 2.9,
     "category_breakdown": {
       "praise": 1080,
-      "complaint": 91,
-      "other": 25
+      "bug": 29,
+      "other": 25,
+      "complaint": 62
     },
     "high_priority_issues": [
       {
-        "label": "Authenticator Code Verification Bug",
-        "category": "complaint",
+        "label": "Login Authenticator Code Bug",
+        "category": "bug",
         "review_count": 29,
         "avg_rating": 1.55,
-        "root_cause": "The authenticator code verification process is buggy, causing users to be unable to enter or verify codes.",
-        "pm_action": "Investigate and fix the authenticator code verification flow, ensuring codes can be entered and validated correctly, and provide clear error messages."
+        "root_cause": "Authenticator code verification fails due to page redirect or incorrect code handling.",
+        "pm_action": "Fix the authentication flow to correctly process code entry without redirecting users away from the page."
       },
       {
-        "label": "ID requirement issue",
+        "label": "Physical ID requirement",
         "category": "complaint",
         "review_count": 24,
         "avg_rating": 3.54,
-        "root_cause": "Physical ID requirement despite digital availability",
-        "pm_action": "Investigate and remove unnecessary physical ID requirement; enable digital ID verification"
+        "root_cause": "The app still requires a physical ID for verification even though digital ID is available.",
+        "pm_action": "Update verification flow to allow digital ID only and remove physical ID requirement."
       },
       {
         "label": "Terrible Customer Service",
         "category": "complaint",
         "review_count": 21,
         "avg_rating": 1.33,
-        "root_cause": "Outsourced customer support leads to poor response times and miscommunication.",
-        "pm_action": "Reevaluate outsourcing agreements and implement a dedicated in-house support team for critical issues."
+        "root_cause": "Outsourced customer support leads to inconsistent and unresponsive service.",
+        "pm_action": "Reevaluate outsourcing agreements and implement a dedicated in-house support team."
       },
       {
         "label": "Fraudulent Review Issue",
         "category": "complaint",
         "review_count": 17,
         "avg_rating": 3.47,
-        "root_cause": "Users are receiving fraudulent reviews on their profiles due to a system error that allows hosts to post reviews without proper verification.",
-        "pm_action": "Implement a verification step for host reviews and audit existing reviews to remove fraudulent entries."
+        "root_cause": "Host left a fraudulent review on the user's profile",
+        "pm_action": "Investigate and tighten review verification process"
       }
     ],
     "monthly_trend": [
@@ -77,25 +78,32 @@
     "pct_negative": 65.0,
     "pct_neutral": 6.1,
     "category_breakdown": {
-      "other": 790,
-      "complaint": 166
+      "complaint": 956
     },
     "high_priority_issues": [
       {
-        "label": "Security breach via call forwarding",
+        "label": "App crashes & poor support",
+        "category": "complaint",
+        "review_count": 790,
+        "avg_rating": 2.35,
+        "root_cause": "The app frequently crashes and customer support is unresponsive, leading to order cancellations and refunds.",
+        "pm_action": "Prioritize a crash\u2011reporting fix and implement a dedicated support channel with real\u2011time response tracking."
+      },
+      {
+        "label": "Fraud via Call Forwarding",
         "category": "complaint",
         "review_count": 67,
         "avg_rating": 1.67,
-        "root_cause": "App's OTP verification is vulnerable to call forwarding attacks, allowing unauthorized logins.",
-        "pm_action": "Implement secure OTP verification using time-based tokens and disable call forwarding for OTP."
+        "root_cause": "Users are able to bypass OTP verification by using call forwarding, allowing attackers to log in and steal funds.",
+        "pm_action": "Implement a stricter OTP verification process that blocks call forwarding and requires device-based authentication."
       },
       {
         "label": "Too frequent updates",
         "category": "complaint",
         "review_count": 15,
         "avg_rating": 3.0,
-        "root_cause": "Users are frustrated by the high frequency of updates",
-        "pm_action": "Reduce update frequency to weekly and communicate the schedule to users"
+        "root_cause": "Users are frustrated by the high frequency of updates that disrupt their workflow",
+        "pm_action": "Reduce update frequency to weekly and provide a clear update schedule to users"
       }
     ],
     "monthly_trend": [
@@ -135,59 +143,59 @@
     "pct_negative": 11.6,
     "pct_neutral": 5.5,
     "category_breakdown": {
-      "praise": 1140,
-      "complaint": 84,
-      "bug": 26,
-      "other": 16
+      "praise": 942,
+      "other": 226,
+      "complaint": 82,
+      "bug": 16
     },
     "high_priority_issues": [
       {
-        "label": "Ads and Energy Frustration",
+        "label": "Missing daily quest multipliers",
         "category": "complaint",
-        "review_count": 28,
-        "avg_rating": 2.86,
-        "root_cause": "Ads and energy system frustrate users, causing dissatisfaction.",
-        "pm_action": "Reduce ad frequency and provide alternative energy replenishment options."
-      },
-      {
-        "label": "Daily Quest Reward Bug",
-        "category": "bug",
         "review_count": 26,
         "avg_rating": 4.12,
-        "root_cause": "Missing reward multiplier for daily quests",
-        "pm_action": "Investigate reward system and fix multiplier issue"
+        "root_cause": "Users are not receiving daily quest multipliers",
+        "pm_action": "Investigate reward distribution logic and fix multiplier bug"
       },
       {
-        "label": "Icon change causing backlash",
+        "label": "Icon change causes disgust",
         "category": "complaint",
         "review_count": 19,
         "avg_rating": 2.26,
-        "root_cause": "Users are unhappy with the new icon design.",
-        "pm_action": "Conduct a quick A/B test with the old icon and gather user feedback before finalizing the new design."
+        "root_cause": "Users find the new icon creepy and unappealing.",
+        "pm_action": "Revert to the previous icon design."
       },
       {
-        "label": "Energy Bar Limitation Complaint",
+        "label": "Slow Chess Piece Movement",
+        "category": "bug",
+        "review_count": 16,
+        "avg_rating": 3.81,
+        "root_cause": "App performance is slow, taking more than 5 seconds to register piece movement.",
+        "pm_action": "Optimize rendering pipeline and reduce latency for chess piece movement."
+      },
+      {
+        "label": "Energy system dissatisfaction",
         "category": "complaint",
         "review_count": 14,
         "avg_rating": 2.5,
-        "root_cause": "Energy bar limits usage, causing frustration.",
-        "pm_action": "Adjust energy system to allow more flexible usage or provide alternative ways to replenish energy."
+        "root_cause": "New energy system limits time and feels punitive",
+        "pm_action": "Implement friend energy request feature"
       },
       {
         "label": "Aggressive streak reminder",
         "category": "complaint",
         "review_count": 12,
         "avg_rating": 3.17,
-        "root_cause": "The streak reminder is too aggressive and threatening, causing frustration.",
-        "pm_action": "Adjust streak reminder tone to be encouraging rather than threatening."
+        "root_cause": "The app\u2019s streak reminder uses aggressive language that feels threatening to users.",
+        "pm_action": "Adjust the wording of streak reminders to be encouraging rather than threatening."
       },
       {
-        "label": "Speaking feature broken",
+        "label": "Speaking exercises broken",
         "category": "complaint",
         "review_count": 11,
         "avg_rating": 2.73,
-        "root_cause": "Speaking exercises stopped working after recent update",
-        "pm_action": "Fix the speaking exercise bug introduced in the latest update"
+        "root_cause": "Speaking exercises stopped working after recent update, causing frustration",
+        "pm_action": "Deploy a hotfix to restore speaking exercises functionality and verify mic integration"
       }
     ],
     "monthly_trend": [
@@ -215,51 +223,51 @@
     "pct_negative": 31.0,
     "pct_neutral": 4.4,
     "category_breakdown": {
-      "praise": 392,
-      "other": 221,
-      "complaint": 288,
-      "bug": 105
+      "praise": 284,
+      "other": 329,
+      "complaint": 303,
+      "bug": 90
     },
     "high_priority_issues": [
       {
-        "label": "Account ID Suspension Issue",
+        "label": "ID Suspension Issue",
         "category": "complaint",
         "review_count": 173,
         "avg_rating": 3.64,
-        "root_cause": "User\u2019s account ID is being suspended without clear reason",
-        "pm_action": "Investigate suspension policy and provide clearer guidelines to users"
+        "root_cause": "User\u2019s Instagram ID is being suspended unexpectedly",
+        "pm_action": "Investigate the suspension policy, identify the cause, and provide clear guidance to affected users on how to resolve the issue"
       },
       {
-        "label": "Reels Bugs and Lags",
+        "label": "Reel playback issues",
         "category": "bug",
         "review_count": 90,
         "avg_rating": 2.53,
-        "root_cause": "Reels functionality broken due to recent update causing bugs and lags.",
-        "pm_action": "Investigate and fix Reels playback bugs, roll back recent update if necessary."
+        "root_cause": "Recent update introduced compatibility problems causing reel playback failures.",
+        "pm_action": "Prioritize debugging and release a hotfix to restore reel functionality."
       },
       {
-        "label": "Account Suspended Without Reason",
+        "label": "Unexplained Account Suspension",
         "category": "complaint",
         "review_count": 66,
         "avg_rating": 2.17,
-        "root_cause": "Users are being suspended without clear justification, causing frustration.",
-        "pm_action": "Implement a transparent appeal process and improve communication about suspension reasons."
+        "root_cause": "The account was suspended due to an automated policy flag without clear communication.",
+        "pm_action": "Implement a transparent appeal workflow that notifies users of the specific reason for suspension and provides a step-by-step process to contest it."
       },
       {
-        "label": "Account Suspension Complaint",
+        "label": "Account suspension issue",
         "category": "complaint",
         "review_count": 49,
         "avg_rating": 1.86,
-        "root_cause": "Unintended account suspension due to algorithmic flagging or policy enforcement",
-        "pm_action": "Implement a transparent account recovery and appeal system to reduce accidental suspensions"
+        "root_cause": "The AI moderation system incorrectly flags legitimate accounts for suspension.",
+        "pm_action": "Investigate and adjust the AI moderation thresholds, and provide a dedicated support channel for affected users to restore their accounts."
       },
       {
-        "label": "Story removal and crash issue",
-        "category": "bug",
+        "label": "Story suggestion annoyance",
+        "category": "complaint",
         "review_count": 15,
         "avg_rating": 2.0,
-        "root_cause": "Stories are being removed or causing app to crash when accessed.",
-        "pm_action": "Investigate and fix story suggestion logic to prevent removal and crashes."
+        "root_cause": "The app incorrectly displays random story suggestions instead of stories from followed users, causing frustration.",
+        "pm_action": "Implement a filter to show only followed users' stories and add a toggle to disable random suggestions."
       }
     ],
     "monthly_trend": [
@@ -289,65 +297,65 @@
     "category_breakdown": {
       "praise": 687,
       "other": 134,
-      "complaint": 130,
-      "bug": 58
+      "bug": 78,
+      "complaint": 110
     },
     "high_priority_issues": [
       {
-        "label": "Audio and Update Issues",
-        "category": "complaint",
+        "label": "Audio sync & Widevine fix",
+        "category": "bug",
         "review_count": 38,
         "avg_rating": 2.18,
-        "root_cause": "Audio sync problems and poorly optimized updates are causing user frustration.",
-        "pm_action": "Release a patch fixing audio sync and update bugs in the next app version."
+        "root_cause": "Audio sync and Widevine compatibility broken by recent update.",
+        "pm_action": "Deploy a hotfix to restore audio sync and Widevine compatibility."
       },
       {
         "label": "Excessive Ads in Ad Tier",
         "category": "complaint",
         "review_count": 33,
         "avg_rating": 2.48,
-        "root_cause": "Users are dissatisfied with the high frequency of ads in the ad tier, leading to a low rating.",
-        "pm_action": "Reduce ad frequency in the ad tier by 50% to improve user experience."
+        "root_cause": "Users feel the ad tier still has too many ads, reducing perceived value.",
+        "pm_action": "Investigate ad frequency in the ad tier and consider reducing ad load or offering an ad-free trial period."
       },
       {
-        "label": "High Pricing Concerns",
+        "label": "Price too high",
         "category": "complaint",
         "review_count": 31,
         "avg_rating": 2.48,
-        "root_cause": "Users feel subscription price has increased too much relative to content value.",
-        "pm_action": "Investigate pricing structure and consider tiered plans or promotional discounts."
+        "root_cause": "High subscription cost drives dissatisfaction.",
+        "pm_action": "Reevaluate pricing strategy and offer tiered plans."
       },
       {
         "label": "Black screen loading issue",
         "category": "bug",
         "review_count": 30,
         "avg_rating": 1.47,
-        "root_cause": "Corrupted app installation causing rendering failure",
-        "pm_action": "Collect crash logs from affected devices and release a hotfix to fix the rendering bug"
+        "root_cause": "The app fails to render the UI, likely due to a corrupted installation or compatibility issue causing a black screen.",
+        "pm_action": "Deploy a hotfix that clears app cache, ensures proper installation, and adds a retry mechanism for UI rendering; monitor post-release metrics."
       },
       {
-        "label": "Subscription cancellation frustration",
+        "label": "Cancellation and payment issues",
         "category": "complaint",
         "review_count": 28,
         "avg_rating": 1.29,
-        "root_cause": "Users are frustrated by frequent cancellation prompts and payment failures, leading to a perception of poor value.",
-        "pm_action": "Implement a clearer cancellation flow and improve payment processing reliability."
+        "root_cause": "Users encounter repeated cancellation prompts and payment failures, leading to frustration.",
+        "pm_action": "Simplify cancellation process and resolve payment gateway errors to reduce friction."
       },
       {
-        "label": "Netflix app not working",
-        "category": "bug",
+        "label": "App download failure",
+        "category": "complaint",
         "review_count": 18,
         "avg_rating": 1.83,
-        "root_cause": "The Netflix app fails to download or install on FireTV and mobile devices due to compatibility or server issues.",
-        "pm_action": "Fix the app's compatibility issue on FireTV and mobile devices and offer refunds to affected users."
+        "root_cause": "Netflix app fails to download or install on Fire TV stick despite device compatibility.",
+        "pm_action": "Release a compatibility patch for Fire TV stick."
       },
       {
-        "label": "Login Failure",
+        "label": "Login and Account Creation Issues",
         "category": "bug",
         "review_count": 10,
         "avg_rating": 1.2,
-        "root_cause": "Authentication flow broken, missing password option",
-        "pm_action": "Fix login authentication flow to support password sign-up and device management"
+        "root_cause": "Login process fails due to missing password option and device management issues on laptops",
+        "pm_action": "Fix login flow to allow password sign-up and improve device management on laptops"
       }
     ],
     "monthly_trend": [
@@ -375,35 +383,35 @@
     "pct_negative": 29.4,
     "pct_neutral": 1.9,
     "category_breakdown": {
-      "other": 399,
-      "bug": 63,
-      "praise": 166,
+      "other": 234,
+      "praise": 277,
+      "bug": 117,
       "complaint": 29
     },
     "high_priority_issues": [
       {
-        "label": "Device environment mismatch",
+        "label": "Device environment mismatch bug",
+        "category": "bug",
+        "review_count": 54,
+        "avg_rating": 1.83,
+        "root_cause": "The app incorrectly flags the device environment as invalid, causing crashes and preventing verification and UPI transactions.",
+        "pm_action": "Prioritize a hotfix to correct the environment detection logic, add a fallback verification flow for new devices, and release an update with comprehensive device compatibility testing."
+      },
+      {
+        "label": "Device environment not correct",
         "category": "bug",
         "review_count": 48,
         "avg_rating": 1.62,
-        "root_cause": "The app incorrectly flags supported devices as unsupported due to a faulty device environment check.",
-        "pm_action": "Revise the device environment validation logic and release an update that correctly identifies supported devices."
+        "root_cause": "The app fails to initialize due to incorrect device environment detection.",
+        "pm_action": "Investigate and fix device environment detection logic; release hotfix."
       },
       {
         "label": "Reward and Redemption Issues",
         "category": "complaint",
         "review_count": 29,
         "avg_rating": 2.24,
-        "root_cause": "Users are not receiving promised rewards and experiencing issues redeeming codes",
-        "pm_action": "Fix reward distribution and code redemption bugs, and update user communication"
-      },
-      {
-        "label": "Sync blocking UI",
-        "category": "bug",
-        "review_count": 15,
-        "avg_rating": 4.93,
-        "root_cause": "Sync process blocks UI causing delays and unresponsiveness",
-        "pm_action": "Optimize sync to run asynchronously and reduce UI blocking"
+        "root_cause": "Users report lack of promised rewards and issues redeeming codes",
+        "pm_action": "Investigate reward system and code redemption process, fix bugs, and communicate updates"
       }
     ],
     "monthly_trend": [
@@ -432,17 +440,17 @@
     "pct_neutral": 4.4,
     "category_breakdown": {
       "complaint": 339,
-      "praise": 255,
-      "other": 104
+      "praise": 308,
+      "other": 51
     },
     "high_priority_issues": [
       {
-        "label": "Overcharging on recharge",
+        "label": "Excessive recharge charges",
         "category": "complaint",
         "review_count": 248,
         "avg_rating": 3.41,
-        "root_cause": "Incorrect pricing logic for recharge",
-        "pm_action": "Investigate and correct recharge pricing algorithm"
+        "root_cause": "Charging higher than advertised for recharges",
+        "pm_action": "Investigate pricing logic and add auto refresh feature"
       }
     ],
     "monthly_trend": [
@@ -470,35 +478,43 @@
     "pct_negative": 29.9,
     "pct_neutral": 6.7,
     "category_breakdown": {
-      "praise": 634,
-      "complaint": 330,
-      "other": 77,
+      "praise": 652,
+      "other": 151,
+      "complaint": 238,
       "bug": 65
     },
     "high_priority_issues": [
       {
-        "label": "Ads in Premium Podcasts",
+        "label": "Ads in podcasts, offline missing",
         "category": "complaint",
         "review_count": 57,
         "avg_rating": 2.91,
-        "root_cause": "Ads still appear in podcasts despite premium subscription",
-        "pm_action": "Investigate ad delivery for premium podcasts and fix the ad injection bug"
+        "root_cause": "Ads still play in podcasts and offline playback is unavailable",
+        "pm_action": "Investigate and fix ad removal for premium podcasts and enable offline playback for all tracks"
       },
       {
-        "label": "Frequent Ads Annoy Users",
+        "label": "Ads Annoying and Frequent",
         "category": "complaint",
         "review_count": 45,
         "avg_rating": 2.78,
-        "root_cause": "Ads are frequent and annoying to users.",
-        "pm_action": "Reduce ad frequency or offer an ad\u2011free tier."
+        "root_cause": "Frequent ads disrupt user experience.",
+        "pm_action": "Reduce ad frequency and improve targeting."
       },
       {
-        "label": "App crashes and freezes",
+        "label": "Premium Upsell Pressure",
+        "category": "complaint",
+        "review_count": 36,
+        "avg_rating": 3.33,
+        "root_cause": "Users feel pressured to upgrade to premium",
+        "pm_action": "Implement clearer messaging and optional premium prompts"
+      },
+      {
+        "label": "App Crashes and Freezes",
         "category": "bug",
         "review_count": 35,
         "avg_rating": 1.74,
-        "root_cause": "The app crashes and freezes due to a memory leak introduced in the latest update.",
-        "pm_action": "Investigate the latest update for memory leaks and release a hotfix."
+        "root_cause": "The app crashes due to a memory leak in the new update causing it to freeze or fail to launch.",
+        "pm_action": "Deploy an immediate hotfix that removes the problematic update and restores stable functionality."
       },
       {
         "label": "Too many ads",
@@ -506,55 +522,55 @@
         "review_count": 32,
         "avg_rating": 2.12,
         "root_cause": "Excessive advertising detracts from user experience.",
-        "pm_action": "Reduce ad frequency and introduce an ad\u2011free subscription tier."
+        "pm_action": "Implement a limit on ad frequency and offer a 30-day ad-free trial to users."
       },
       {
-        "label": "DJ Interruption & Shuffle Bug",
+        "label": "DJ interference and shuffle bug",
         "category": "complaint",
         "review_count": 22,
         "avg_rating": 2.59,
-        "root_cause": "The auto DJ and smart shuffle features are malfunctioning, causing unwanted interruptions and repetitive playback.",
-        "pm_action": "Investigate and fix the auto DJ trigger logic and shuffle algorithm, and release a patch to restore proper functionality."
+        "root_cause": "The app's auto DJ feature overrides user playback and the smart shuffle algorithm fails to randomize tracks.",
+        "pm_action": "Disable auto DJ prompts during playback and fix smart shuffle algorithm to properly randomize tracks."
       },
       {
         "label": "App crashes and Bluetooth issues",
         "category": "bug",
         "review_count": 18,
         "avg_rating": 2.22,
-        "root_cause": "App crashes on launch and Bluetooth pairing fails",
-        "pm_action": "Release a hotfix addressing crash logs and Bluetooth pairing, and monitor crash reports"
+        "root_cause": "App crashes on launch and Bluetooth connectivity fails",
+        "pm_action": "Deploy a hotfix addressing crash logs and Bluetooth stack, and communicate update to users"
       },
       {
         "label": "Too many ads",
         "category": "complaint",
         "review_count": 16,
         "avg_rating": 3.44,
-        "root_cause": "Excessive ad frequency disrupts listening experience",
-        "pm_action": "Introduce a cap on ads per hour to reduce interruptions"
+        "root_cause": "Too many ads interrupt user experience.",
+        "pm_action": "Implement a tiered ad model to reduce ad frequency for frequent users."
       },
       {
-        "label": "Free tier too restrictive",
+        "label": "Ads and Skips Frustration",
         "category": "complaint",
         "review_count": 16,
         "avg_rating": 1.69,
-        "root_cause": "Users feel the free tier is too restrictive and ads are too frequent, making premium seem necessary.",
-        "pm_action": "Conduct a survey to identify acceptable ad limits and adjust the free tier accordingly."
+        "root_cause": "Frequent ads and limited free skips force users to pay for premium",
+        "pm_action": "Reduce ad frequency and increase free skip allowance to improve user experience"
       },
       {
-        "label": "Payment failure, subscription paused",
+        "label": "Payment not activated",
         "category": "complaint",
         "review_count": 14,
         "avg_rating": 2.5,
-        "root_cause": "The UPI payment was processed but the subscription status was not updated due to a system error.",
-        "pm_action": "Investigate payment processing logs and update subscription status for affected users."
+        "root_cause": "Payment failed to activate subscription",
+        "pm_action": "Verify transaction, reactivate subscription, notify user"
       },
       {
         "label": "Podcast playback crashes",
         "category": "bug",
         "review_count": 12,
         "avg_rating": 1.33,
-        "root_cause": "Podcast playback crashes due to memory leaks and poor buffering.",
-        "pm_action": "Investigate and fix memory management in podcast playback module; add crash logs and release hotfix."
+        "root_cause": "The app crashes and lags during podcast playback due to a memory leak in the audio streaming module.",
+        "pm_action": "Investigate and fix the memory leak in the podcast playback module, and release a hotfix to stabilize streaming."
       }
     ],
     "monthly_trend": [
@@ -582,9 +598,9 @@
     "pct_negative": 58.0,
     "pct_neutral": 3.9,
     "category_breakdown": {
-      "complaint": 581,
-      "other": 91,
-      "praise": 45
+      "complaint": 454,
+      "other": 186,
+      "praise": 77
     },
     "high_priority_issues": [
       {
@@ -593,47 +609,47 @@
         "review_count": 301,
         "avg_rating": 1.87,
         "root_cause": "Inadequate customer support and order mismanagement leading to unresolved complaints.",
-        "pm_action": "Implement a dedicated escalation team and automated refund workflow for order errors."
+        "pm_action": "Implement a dedicated escalation team and automated refund workflow."
       },
       {
         "label": "Delivery delay & rude staff",
         "category": "complaint",
         "review_count": 76,
         "avg_rating": 2.54,
-        "root_cause": "Customers report delayed deliveries, fake offers, and rude restaurant staff",
-        "pm_action": "Investigate delivery times, audit promotional offers, and provide staff training"
+        "root_cause": "Customers report long delivery times and unprofessional vendor behavior",
+        "pm_action": "Investigate delivery processes, enforce stricter vendor compliance, and provide staff training on customer service"
       },
       {
-        "label": "Payment & Redemption Issues",
+        "label": "Payment & COD Issues",
         "category": "complaint",
         "review_count": 25,
         "avg_rating": 1.44,
-        "root_cause": "Payment failures and missing cash\u2011on\u2011delivery option cause user frustration and loss of trust",
-        "pm_action": "Deploy a stable payment gateway, enable cash\u2011on\u2011delivery, fix cashback redemption logic, and communicate changes to users"
+        "root_cause": "Users cannot complete payments and lack cash-on-delivery, leading to frustration.",
+        "pm_action": "Add cash-on-delivery option and resolve payment gateway failures."
       },
       {
-        "label": "High GST and Delivery Charges",
+        "label": "High GST and hidden fees",
         "category": "complaint",
         "review_count": 22,
         "avg_rating": 2.23,
-        "root_cause": "Customers feel GST and delivery fees are excessively high and hidden.",
-        "pm_action": "Investigate fee structure, provide transparent breakdown, and consider reducing delivery fee."
+        "root_cause": "Customers perceive excessive GST and hidden charges as unfair, leading to dissatisfaction.",
+        "pm_action": "Review and reduce GST and delivery fee structure, and transparently disclose all charges."
       },
       {
-        "label": "Cancellation Process Issues",
+        "label": "Cancellation Process Issue",
         "category": "complaint",
         "review_count": 19,
         "avg_rating": 1.21,
-        "root_cause": "Customers cannot cancel orders due to AI bot interference and delayed cancellation process.",
-        "pm_action": "Implement a real-time cancellation feature with human support and reduce cancellation fees."
+        "root_cause": "Customers cannot cancel orders due to AI bot interference and delayed cancellation, leading to no refunds",
+        "pm_action": "Implement a manual cancellation override and improve refund process"
       },
       {
-        "label": "Negative Delivery Experience",
+        "label": "Inconsistent Delivery Experience",
         "category": "complaint",
         "review_count": 11,
         "avg_rating": 3.55,
-        "root_cause": "Delivery delay and poor service",
-        "pm_action": "Investigate delivery process and improve response time"
+        "root_cause": "Inconsistent delivery experience leading to frustration",
+        "pm_action": "Investigate delivery process and improve consistency"
       }
     ],
     "monthly_trend": [
@@ -661,42 +677,49 @@
     "pct_negative": 40.7,
     "pct_neutral": 3.3,
     "category_breakdown": {
-      "complaint": 709,
-      "praise": 268,
-      "other": 37
+      "complaint": 746,
+      "praise": 268
     },
     "high_priority_issues": [
       {
-        "label": "Ride Cancellation & Wait Time",
+        "label": "Ride cancellations and delays",
         "category": "complaint",
         "review_count": 481,
         "avg_rating": 2.9,
-        "root_cause": "Frequent driver cancellations and delayed confirmations are causing user frustration.",
-        "pm_action": "Review and adjust driver dispatch logic to reduce cancellations and improve confirmation speed."
+        "root_cause": "Frequent driver cancellations and long wait times due to dispatch inefficiencies.",
+        "pm_action": "Implement a driver cancellation limit and improve real-time driver assignment to reduce wait times."
       },
       {
         "label": "Poor Service Payment Issues",
         "category": "complaint",
         "review_count": 92,
         "avg_rating": 2.4,
-        "root_cause": "Users report unreliable service and payment errors causing frustration.",
-        "pm_action": "Investigate and resolve payment processing errors and improve driver reliability."
+        "root_cause": "Users experience delayed pickups and confusing payment processes.",
+        "pm_action": "Implement a real-time driver tracking feature to reduce wait times."
+      },
+      {
+        "label": "App support and payment issues",
+        "category": "complaint",
+        "review_count": 37,
+        "avg_rating": 1.46,
+        "root_cause": "Users face unresolved support and app payment issues.",
+        "pm_action": "Add a dedicated support channel to resolve payment issues."
       },
       {
         "label": "Poor Customer Support",
         "category": "complaint",
         "review_count": 22,
         "avg_rating": 1.77,
-        "root_cause": "The customer support system is unresponsive and automated, leading to frustration.",
-        "pm_action": "Implement a live chat support feature with real-time agent response."
+        "root_cause": "The customer support system is unresponsive and provides automated responses, leading to frustration.",
+        "pm_action": "Implement a live chat support feature with real-time agent response and reduce wait times."
       },
       {
-        "label": "High Cost Complaints",
+        "label": "High cost concerns",
         "category": "complaint",
         "review_count": 21,
         "avg_rating": 3.9,
-        "root_cause": "Users feel the ride cost is too high.",
-        "pm_action": "Investigate pricing strategy and consider dynamic pricing or discounts to improve affordability perception."
+        "root_cause": "Users perceive Uber's fares as too high for the value offered.",
+        "pm_action": "Introduce a dynamic pricing model with a lower base fare for short trips and offer promotional discounts to improve perceived value."
       }
     ],
     "monthly_trend": [
@@ -724,36 +747,43 @@
     "pct_negative": 28.5,
     "pct_neutral": 6.1,
     "category_breakdown": {
-      "other": 440,
+      "other": 427,
       "praise": 331,
-      "bug": 82,
-      "complaint": 48,
-      "feature_request": 12
+      "complaint": 132,
+      "feature_request": 23
     },
     "high_priority_issues": [
       {
-        "label": "App fails to open",
-        "category": "bug",
-        "review_count": 82,
-        "avg_rating": 3.56,
-        "root_cause": "App fails to launch for some users",
-        "pm_action": "Fix launch crash and deploy patch"
+        "label": "Account Suspension & Login Issues",
+        "category": "complaint",
+        "review_count": 72,
+        "avg_rating": 2.38,
+        "root_cause": "Users are being suspended or blocked for content that may not violate policies, causing frustration and login problems",
+        "pm_action": "Review suspension logs, clarify policy thresholds, and implement a transparent appeal process with timely communication"
       },
       {
-        "label": "Account Suspension Issues",
+        "label": "Account Suspension Issue",
         "category": "complaint",
         "review_count": 48,
         "avg_rating": 2.48,
-        "root_cause": "Unclear account suspension policy leads to frequent bans",
-        "pm_action": "Implement a clear, user-friendly appeal system for suspended accounts"
+        "root_cause": "WhatsApp is suspending accounts without clear reasons, causing user frustration.",
+        "pm_action": "Investigate suspension policy and provide a clear appeal process."
       },
       {
-        "label": "Hide status icon request",
+        "label": "Video recording issues",
         "category": "feature_request",
+        "review_count": 23,
+        "avg_rating": 2.22,
+        "root_cause": "The camera's zoom behaves unpredictably and users lack a pause button for video recording.",
+        "pm_action": "Implement a stable zoom control and add a pause button to the video recording UI."
+      },
+      {
+        "label": "Hide Status Icon Request",
+        "category": "complaint",
         "review_count": 12,
         "avg_rating": 2.08,
-        "root_cause": "Users find the status icon at the top of chat intrusive and want an option to hide it without affecting contact status visibility.",
-        "pm_action": "Add a toggle in chat settings to hide the status icon."
+        "root_cause": "UI change moved status icon to top of chat, causing annoyance",
+        "pm_action": "Add a setting to hide the status icon in the chat view"
       }
     ],
     "monthly_trend": [
@@ -781,8 +811,7 @@
     "pct_negative": 51.4,
     "pct_neutral": 5.9,
     "category_breakdown": {
-      "complaint": 1139,
-      "other": 137,
+      "complaint": 1276,
       "bug": 40
     },
     "high_priority_issues": [
@@ -791,32 +820,40 @@
         "category": "complaint",
         "review_count": 1139,
         "avg_rating": 2.82,
-        "root_cause": "Premium features not working and ads overwhelm users",
-        "pm_action": "Investigate premium feature failures and reduce ad frequency in videos"
+        "root_cause": "Premium features malfunctioning and update introduced excessive ads",
+        "pm_action": "Release a hotfix to restore premium features and reduce ad frequency"
+      },
+      {
+        "label": "Connectivity issue on YouTube",
+        "category": "complaint",
+        "review_count": 137,
+        "avg_rating": 3.36,
+        "root_cause": "Users report inability to access YouTube due to connectivity errors",
+        "pm_action": "Analyze crash logs and network diagnostics to resolve connectivity problems"
       },
       {
         "label": "Microphone not working",
         "category": "bug",
         "review_count": 16,
         "avg_rating": 2.12,
-        "root_cause": "The microphone fails to function due to a software or driver incompatibility issue.",
-        "pm_action": "Investigate microphone driver compatibility and release a patch to restore functionality."
+        "root_cause": "Microphone hardware or driver issue causing failure to record audio",
+        "pm_action": "Investigate microphone driver compatibility and release a patch"
       },
       {
         "label": "Voice search not working",
         "category": "bug",
         "review_count": 14,
         "avg_rating": 1.71,
-        "root_cause": "The voice search algorithm fails to recognize user input due to microphone permissions or audio processing errors.",
-        "pm_action": "Investigate microphone permission handling and update the voice recognition pipeline to improve accuracy."
+        "root_cause": "Voice search algorithm fails to process microphone input correctly",
+        "pm_action": "Retrain the voice recognition model on diverse accents and add a fallback text search option"
       },
       {
         "label": "Microphone Recognition Failure",
         "category": "bug",
         "review_count": 10,
         "avg_rating": 2.4,
-        "root_cause": "Microphone recognition fails due to faulty audio input handling.",
-        "pm_action": "Fix microphone recognition logic and add fallback prompt for unrecognized input."
+        "root_cause": "Microphone recognition fails due to faulty audio input handling, causing repeated 'Didn't hear that' prompts.",
+        "pm_action": "Investigate microphone input handling, fix recognition logic, and release a patch."
       }
     ],
     "monthly_trend": [
@@ -845,56 +882,48 @@
     "pct_neutral": 5.0,
     "category_breakdown": {
       "complaint": 299,
-      "other": 125,
-      "praise": 237
+      "praise": 349,
+      "other": 13
     },
     "high_priority_issues": [
       {
-        "label": "Delivery delays & refunds",
+        "label": "Delivery delay and refund issues",
         "category": "complaint",
         "review_count": 153,
         "avg_rating": 1.37,
-        "root_cause": "Delivery delays and refund processing failures causing customer dissatisfaction.",
-        "pm_action": "Implement real-time delivery tracking and automated refund confirmation to improve reliability."
+        "root_cause": "App's delivery tracking and refund processing are unreliable.",
+        "pm_action": "Implement real-time delivery ETA updates and automated refund confirmation notifications."
       },
       {
-        "label": "Small Kulcha Size Issue",
+        "label": "Poor Portion Size Complaint",
         "category": "complaint",
         "review_count": 72,
         "avg_rating": 2.79,
-        "root_cause": "The kulcha size is too small, leading to customer dissatisfaction.",
-        "pm_action": "Adjust the kulcha portion size to meet standard dimensions and update packaging."
+        "root_cause": "Small portion size and poor quality of kulcha",
+        "pm_action": "Investigate kitchen standards and adjust portion sizes"
       },
       {
         "label": "High Delivery Charges Complaint",
         "category": "complaint",
         "review_count": 46,
         "avg_rating": 1.91,
-        "root_cause": "Customers are dissatisfied due to excessive delivery fees.",
-        "pm_action": "Review and reduce delivery fee structure, and communicate changes to users."
+        "root_cause": "Customers feel delivery charges are too high.",
+        "pm_action": "Investigate delivery fee structure and consider reducing or offering free delivery thresholds."
       },
       {
         "label": "Delivery Time Issues",
         "category": "complaint",
         "review_count": 16,
         "avg_rating": 4.25,
-        "root_cause": "Delayed delivery due to logistics.",
-        "pm_action": "Investigate delivery logistics and improve ETA accuracy."
-      },
-      {
-        "label": "Positive overall experience",
-        "category": "praise",
-        "review_count": 13,
-        "avg_rating": 3.0,
-        "root_cause": "Customers appreciate the overall experience.",
-        "pm_action": "Highlight positive feedback in marketing and maintain quality."
+        "root_cause": "Delayed delivery due to logistical inefficiencies",
+        "pm_action": "Implement real-time delivery tracking and improve courier scheduling"
       },
       {
         "label": "Cash on Delivery Missing",
         "category": "complaint",
         "review_count": 12,
         "avg_rating": 2.5,
-        "root_cause": "Cash on delivery option not available",
+        "root_cause": "Cash on delivery option is not available",
         "pm_action": "Implement cash on delivery payment option"
       }
     ],
