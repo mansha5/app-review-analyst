@@ -2,733 +2,134 @@
   {
     "topic_id": 0,
     "keywords": [
-      "amazing",
-      "happy",
-      "bad",
-      "love",
-      "interesting",
-      "far"
+      "learning",
+      "learn",
+      "fun",
+      "easy",
+      "chess",
+      "language"
     ],
-    "review_count": 184,
-    "avg_rating": 4.68,
-    "avg_sentiment": 0.512,
+    "review_count": 98,
+    "avg_rating": 4.63,
+    "avg_sentiment": 0.475,
     "sample_reviews": [
-      "I love this ",
-      "its really good to me perfect.",
-      "ummm yes it gud"
-    ],
-    "label": "Positive Feedback",
-    "category": "praise",
-    "root_cause": "Users find the app enjoyable and effective",
-    "priority": "low",
-    "priority_reason": "High rating and positive reviews indicate satisfaction",
-    "pm_action": "Highlight positive reviews in marketing and encourage sharing"
+      "very good and awsome like i can learn every language in this aapp",
+      "very fun and easy lessons",
+      "it's so good to help me learn"
+    ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "fun",
-      "easy",
-      "learn",
+      "language",
       "learning",
-      "easy learn",
-      "easy fun"
+      "learn",
+      "language learning",
+      "english",
+      "japanese"
     ],
-    "review_count": 180,
-    "avg_rating": 4.67,
-    "avg_sentiment": 0.532,
+    "review_count": 77,
+    "avg_rating": 4.39,
+    "avg_sentiment": 0.567,
     "sample_reviews": [
-      "best thing for practice",
-      "it's very fun!! ",
-      "The \"encrapification\" got this one."
+      "it's the best app for learn how to speak other languages",
+      "the best app ever helps with learning I'm learning Japanese I love it more apps like this please",
+      "I am learning this app more things like English language"
     ]
   },
   {
     "topic_id": 2,
     "keywords": [
-      "language",
+      "duolingo",
+      "spanish",
+      "words",
       "learning",
-      "language learning",
-      "languages",
-      "learn",
-      "english"
+      "like",
+      "languages"
     ],
-    "review_count": 135,
-    "avg_rating": 4.48,
-    "avg_sentiment": 0.549,
+    "review_count": 59,
+    "avg_rating": 4.1,
+    "avg_sentiment": 0.469,
     "sample_reviews": [
-      "amazing language learning app",
-      "OMG THIS APP IS VERY GOOD EXLENT Please download this app THIS APP has many languages IAM learning English and my English is very powerful thank you doulingo",
-      "This is the best app to learn a new language"
-    ],
-    "label": "App praised for language learning",
-    "category": "praise",
-    "root_cause": "Users enjoy the app's engaging, gamified lessons and extensive language options.",
-    "priority": "low",
-    "priority_reason": "High user satisfaction indicated by positive reviews and high rating.",
-    "pm_action": "Continue enhancing gamified lessons and adding new languages."
+      "Duolingo\u2019s treatment of Iranians and Persian speakers is disgraceful. Persian is one of the world\u2019s major languages, spoken by millions, with countless people actively asking Duolingo to add it. Yet year after year, Duolingo continues to ignore Persian and its speakers. Now the company has gone even further by excluding Iranians from taking the Duolingo English Test. Ordinary people are being denied educational opportunities because of their nationality and Iranian identification.",
+      "I think you should download as well as soon btw this app is very useful in future and Duolingo is soo cute ",
+      "Duolingo is so so very best"
+    ]
   },
   {
     "topic_id": 3,
     "keywords": [
-      "duolingo",
-      "language",
-      "learning",
-      "languages",
-      "learn",
-      "new"
+      "useful",
+      "cool",
+      "wonderful",
+      "ai",
+      "application",
+      "love"
     ],
-    "review_count": 109,
-    "avg_rating": 4.31,
-    "avg_sentiment": 0.603,
+    "review_count": 49,
+    "avg_rating": 4.45,
+    "avg_sentiment": 0.491,
     "sample_reviews": [
-      "It's very interesting to learn English with Duolingo",
-      "I like how Duolingo teach us language and other more it actually help me with my mathematics problem",
-      "Actually, this app is so good that I can even speak Indonesian! And I'm learning more and more words thanks to duolingo! This is actually so good that my English grammars are getting better! Thanks!"
-    ],
-    "label": "Language learning success",
-    "category": "praise",
-    "root_cause": "Users appreciate Duolingo's engaging language lessons and progress tracking.",
-    "priority": "low",
-    "priority_reason": "Positive reviews and high rating indicate satisfaction.",
-    "pm_action": "Highlight success stories in marketing and encourage user referrals."
+      "I love using this app. Really fun",
+      "wonderful app with great methodology",
+      "superb aaps"
+    ]
   },
   {
     "topic_id": 4,
     "keywords": [
-      "learning",
-      "beginners",
-      "learning learning",
-      "lessons",
-      "like",
-      "fun"
+      "love",
+      "helpful",
+      "wow",
+      "amazing",
+      "yes",
+      "man"
     ],
-    "review_count": 92,
-    "avg_rating": 4.41,
-    "avg_sentiment": 0.531,
+    "review_count": 27,
+    "avg_rating": 4.81,
+    "avg_sentiment": 0.548,
     "sample_reviews": [
-      "very good app for beginners",
-      "good app to learn",
-      "This learning app is the best of the bestt"
-    ],
-    "label": "Great for beginners",
-    "category": "praise",
-    "root_cause": "Users find it effective for beginners",
-    "priority": "low",
-    "priority_reason": "Positive rating and reviews",
-    "pm_action": "Continue supporting beginner features and gather feedback for advanced levels"
+      "very nice and cool",
+      "I really enjoyed it",
+      "pretty good tho"
+    ]
   },
   {
     "topic_id": 5,
     "keywords": [
-      "languages",
-      "language",
-      "learn language",
-      "way learn",
-      "learn",
-      "new"
+      "chinese",
+      "im iranian",
+      "fully",
+      "bcz",
+      "timer",
+      "unfortunately"
     ],
-    "review_count": 84,
-    "avg_rating": 4.64,
-    "avg_sentiment": 0.439,
+    "review_count": 26,
+    "avg_rating": 4.04,
+    "avg_sentiment": 0.052,
     "sample_reviews": [
-      "it is so good at making me learning other languages",
-      "fun to learn language form basic to hardcore",
-      "bestest way to learn language \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f"
-    ],
-    "label": "Positive feedback",
-    "category": "praise",
-    "root_cause": "Effective gamified learning experience",
-    "priority": "low",
-    "priority_reason": "High rating and positive reviews indicate low urgency",
-    "pm_action": "Maintain current features and explore advanced content addition"
+      "\u0645\u0646 \u062a\u0648\u0646\u0633\u062a\u0645 \u0632\u0628\u0627\u0646 \u0631\u0648 \u06a9\u0627\u0645\u0644 \u06cc\u0627\u062f \u0628\u06af\u06cc\u0631\u0645 \u062e\u06cc\u0644\u06cc \u062e\u0648\u0628\u0647 \u0645\u0645\u0646\u0648\u0646 \u0627\u0632 \u0633\u0627\u0632\u0646\u062f\u0647",
+      "best hai Bhai",
+      "\u0434\u043e\u0431\u0440\u0435 \u0430\u043b\u0435 \u043f\u043b\u0456\u0456\u0456\u0437 \u0434\u043e\u0434\u0430\u0439\u0442\u0435 \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u0443\u0432\u0430\u043d\u043d\u044f"
+    ]
   },
   {
     "topic_id": 6,
     "keywords": [
-      "duolingo",
-      "love duolingo",
-      "duolingo love",
-      "duolingo duolingo",
-      "love",
-      "thanks duolingo"
-    ],
-    "review_count": 50,
-    "avg_rating": 4.56,
-    "avg_sentiment": 0.505,
-    "sample_reviews": [
-      "best for improving yourself and he build our confident to.. thanks Duolingo",
-      "I love Duolingo it's good",
-      "very nice \u263a\ufe0f thanks for Duolingo"
-    ],
-    "label": "Positive feedback on Duolingo",
-    "category": "praise",
-    "root_cause": "Users appreciate Duolingo's engaging learning experience and supportive community.",
-    "priority": "low",
-    "priority_reason": "Positive reviews indicate high user satisfaction.",
-    "pm_action": "Continue to highlight user success stories in marketing."
-  },
-  {
-    "topic_id": 7,
-    "keywords": [
-      "hindi",
-      "english",
-      "yah",
-      "duolingo",
-      "useful",
-      "hi"
-    ],
-    "review_count": 46,
-    "avg_rating": 4.48,
-    "avg_sentiment": 0.18,
-    "sample_reviews": [
-      "I learn from today home I am the best player of my home everyone tells where you learn from best teacher is Oscar ab main Hindi mein bolta hun Maine Aaj Duolingo download kiya aur mujhe sab logon ko de kahan se sikhe ho sabse best teacher hai Shiksha Jo hamen dekhta Hai vah Oscar Hai oscars ke sath chess khelo aur jeeto",
-      "magaling mag turo ng linggwahe",
-      "achcha hai basic english ke liye"
-    ],
-    "label": "Positive feedback on Hindi lessons",
-    "category": "praise",
-    "root_cause": "Users appreciate Duolingo\u2019s effective Hindi lessons and user-friendly interface",
-    "priority": "low",
-    "priority_reason": "High rating and positive reviews indicate low urgency",
-    "pm_action": "Add advanced Hindi lessons to enhance learning"
-  },
-  {
-    "topic_id": 8,
-    "keywords": [
-      "spanish",
-      "learn spanish",
-      "helping",
-      "learning spanish",
-      "helping learn",
-      "speak"
-    ],
-    "review_count": 35,
-    "avg_rating": 4.74,
-    "avg_sentiment": 0.414,
-    "sample_reviews": [
-      "thank you! now I can study on spanish more better thank u Duolingo it helped nicely!",
-      "helps me with Spanish",
-      "I'm back on free this time because after 3 years I still can't speak fluently! I realize that I still need to practice daily! I was doing 3 to 6 hours per day too! I can read and write fairly well, but not speak! \u00a1Pobrecito! I'm not giving up! I want to teach Espa\u00f1ol tambi\u00e9n, or Spanglish which is where I am now! I think I always played to win which I did each week! That required too much lesson writing. Now I'm listening to movies in Spanish, short clips off line, weather/sports and novellas!"
-    ],
-    "label": "Positive feedback on Spanish learning",
-    "category": "praise",
-    "root_cause": "App effectively aids Spanish learning",
-    "priority": "low",
-    "priority_reason": "High rating and positive reviews",
-    "pm_action": "Maintain current features and explore adding advanced speaking practice modules."
-  },
-  {
-    "topic_id": 9,
-    "keywords": [
-      "helpful",
-      "helps lot",
-      "help",
-      "helps",
-      "got",
-      "helped"
-    ],
-    "review_count": 32,
-    "avg_rating": 4.72,
-    "avg_sentiment": 0.461,
-    "sample_reviews": [
-      "it makes me to be consistent",
-      "this is so helpful",
-      "highly recommend "
-    ],
-    "label": "Positive user feedback",
-    "category": "praise",
-    "root_cause": "Users find Duolingo helpful and consistent",
-    "priority": "low",
-    "priority_reason": "High rating and positive reviews",
-    "pm_action": "Continue supporting consistency features and monitor for new feedback"
-  },
-  {
-    "topic_id": 10,
-    "keywords": [
-      "ads",
-      "energy",
-      "pay",
-      "constant",
-      "paying",
-      "constant ads"
-    ],
-    "review_count": 28,
-    "avg_rating": 2.86,
-    "avg_sentiment": 0.121,
-    "sample_reviews": [
-      "Imagine using an app that focuses on gamification rather than actual learning and fluency. and then hide its best features behind a pay wall. then when you subscribe, you realise that those features aren't there except the no-ads. This is really bad. I'm only giving 5 stars to put at the top. if I were to rate it for real, it'd be one star for just the design.",
-      "good but ADS",
-      "i don't like how I have to keep watching ads just to get energy and learn it should be without energy some ppl can't buy the energy it's not fair is this a money charity or a learning course"
-    ]
-  },
-  {
-    "topic_id": 11,
-    "keywords": [
-      "russian",
-      "japan",
-      "struggling",
-      "80",
-      "finally",
-      "aprender"
-    ],
-    "review_count": 26,
-    "avg_rating": 4.12,
-    "avg_sentiment": 0.077,
-    "sample_reviews": [
-      "\u0647\u0644 \u0647\u0646\u0627\u0643 \u0627\u0641\u0636\u0644 \u0645\u0646\u0647 \u0644\u0627 \u0627\u0643\u064a\u062f \u0623\u0646\u0647 \u0627\u0644\u0623\u0641\u0636\u0644 \u0627\u0646\u0627 \u0627\u062d\u0628\u0647",
-      "it helps me alot even I'm struggling to say some Russian it helps me",
-      "\u044f \u043d\u0435 \u043e\u0442\u0440\u0438\u043c\u0443\u044e \u043f\u043e\u043c\u043d\u043e\u0436\u0443\u0432\u0430\u0447\u0456\u0432 \u0431\u0430\u043b\u0456\u0432 \u0437 \u043a\u0432\u0435\u0441\u0442\u0456\u0432 \u0434\u043d\u044f!"
-    ],
-    "label": "Missing daily quest multipliers",
-    "category": "complaint",
-    "root_cause": "Users are not receiving daily quest multipliers",
-    "priority": "medium",
-    "priority_reason": "The complaint indicates a missing reward feature",
-    "pm_action": "Investigate reward distribution logic and fix multiplier bug"
-  },
-  {
-    "topic_id": 12,
-    "keywords": [
-      "korean",
-      "speak",
-      "like playing",
-      "playing game",
+      "way",
+      "time",
       "learn",
-      "speak fluent"
-    ],
-    "review_count": 23,
-    "avg_rating": 4.57,
-    "avg_sentiment": 0.63,
-    "sample_reviews": [
-      "I love it very much, you can learn how to speak Korean or any language fluently. thank you soo much Duolingo",
-      "as of now I think I am enjoying it and getting my Korean improved bit by bit....",
-      "i really love this app. it is like playing a game. for this app i learnt English and. korean"
-    ],
-    "label": "Positive feedback on Korean learning",
-    "category": "praise",
-    "root_cause": "The gamified learning experience keeps users engaged and motivated.",
-    "priority": "low",
-    "priority_reason": "User satisfaction is high, rating above 4.5.",
-    "pm_action": "Continue enhancing game-like features and add more Korean content."
-  },
-  {
-    "topic_id": 13,
-    "keywords": [
-      "chess",
-      "language chess",
-      "chess love",
-      "know chess",
-      "play chess",
-      "learned"
-    ],
-    "review_count": 19,
-    "avg_rating": 4.47,
-    "avg_sentiment": 0.476,
-    "sample_reviews": [
-      "you can learn anything you want English Spanish chess and more",
-      "I love it now I know how to do chess",
-      "I learned English language & Korean language and chess and music it help to anything very easily"
-    ],
-    "label": "Positive feedback on chess learning",
-    "category": "praise",
-    "root_cause": "Users appreciate integrated chess learning",
-    "priority": "low",
-    "priority_reason": "High rating and few reviews indicate low urgency",
-    "pm_action": "Maintain chess content and gather more data"
-  },
-  {
-    "topic_id": 14,
-    "keywords": [
-      "icon",
-      "disgusting",
-      "look",
-      "change",
-      "icons",
-      "weird"
-    ],
-    "review_count": 19,
-    "avg_rating": 2.26,
-    "avg_sentiment": -0.273,
-    "sample_reviews": [
-      "what the heck is that freaky logo",
-      "Another horrific change to the icon ",
-      "Uninstalled because of that creepy melting duo face. It revolted me so much ill find another app lol."
-    ],
-    "label": "Icon change causes disgust",
-    "category": "complaint",
-    "root_cause": "Users find the new icon creepy and unappealing.",
-    "priority": "medium",
-    "priority_reason": "Negative sentiment and low rating indicate user dissatisfaction.",
-    "pm_action": "Revert to the previous icon design."
-  },
-  {
-    "topic_id": 15,
-    "keywords": [
-      "excellent",
-      "recommend downloading",
-      "lock",
-      "downloading",
-      "job",
-      "informative"
-    ],
-    "review_count": 18,
-    "avg_rating": 5.0,
-    "avg_sentiment": 0.541,
-    "sample_reviews": [
-      "very good app",
-      "very good and helpful app",
-      "very very good and educated app"
-    ],
-    "label": "Excellent app, highly recommended",
-    "category": "praise",
-    "root_cause": "The app offers engaging lessons and a user-friendly interface.",
-    "priority": "low",
-    "priority_reason": "Positive user feedback and high rating indicate strong user satisfaction.",
-    "pm_action": "Continue improving lesson variety and add new language courses."
-  },
-  {
-    "topic_id": 16,
-    "keywords": [
-      "amazing love",
+      "learning",
       "love",
-      "love amazing",
-      "amazing",
-      "wow",
-      "soo"
+      "friendly"
     ],
-    "review_count": 18,
-    "avg_rating": 4.78,
-    "avg_sentiment": 0.723,
-    "sample_reviews": [
-      "Love the summer icon (and the app of course)!!!",
-      "I love this app it does help alot",
-      "i love this app and all Thik"
-    ]
-  },
-  {
-    "topic_id": 17,
-    "keywords": [
-      "learn english",
-      "english",
-      "10",
-      "learn",
-      "easy learn",
-      "usually"
-    ],
-    "review_count": 17,
-    "avg_rating": 4.47,
-    "avg_sentiment": 0.594,
-    "sample_reviews": [
-      "this aap is nice",
-      "it is really a elegant ap p to learn different languges",
-      "i can't tell this aap is so amazing "
-    ],
-    "label": "Positive feedback on Duolingo",
-    "category": "praise",
-    "root_cause": "Users appreciate the app's user-friendly interface and effective language learning features.",
-    "priority": "low",
-    "priority_reason": "High user satisfaction indicated by positive reviews and high rating.",
-    "pm_action": "Maintain current UI and add new languages."
-  },
-  {
-    "topic_id": 18,
-    "keywords": [
-      "chess",
-      "play",
-      "play chess",
-      "playing",
-      "languages chess",
-      "slow"
-    ],
-    "review_count": 16,
-    "avg_rating": 3.81,
-    "avg_sentiment": 0.421,
-    "sample_reviews": [
-      "amazing how much this app has developed over the years to now include chess and music lessons and I love how the UI has changed.",
-      "A bit slow, removed my actions and took more than 5 seconds to register my pawn or piece movement. Also, speaking and writing can be hard for languages, since there's not exactly some trick to remember it. I don't like the ai usage either for translation.",
-      "I like this app so much I play everyday streak I and I am improved very well in music, chess, korean..etc"
-    ],
-    "label": "Slow Chess Piece Movement",
-    "category": "bug",
-    "root_cause": "App performance is slow, taking more than 5 seconds to register piece movement.",
-    "priority": "medium",
-    "priority_reason": "Moderate user dissatisfaction due to performance issue.",
-    "pm_action": "Optimize rendering pipeline and reduce latency for chess piece movement."
-  },
-  {
-    "topic_id": 19,
-    "keywords": [
-      "japanese",
-      "filipino",
-      "learned japanese",
-      "explain",
-      "learn japanese",
-      "review"
-    ],
-    "review_count": 16,
+    "review_count": 21,
     "avg_rating": 4.38,
-    "avg_sentiment": 0.291,
+    "avg_sentiment": 0.507,
     "sample_reviews": [
-      "I'm getting better and better at learning Japanese",
-      "its actually nice. I'm learning how to speak Japanese really fast in a short period of time",
-      "I am learning Japanese"
-    ],
-    "label": "Positive feedback on Japanese learning",
-    "category": "praise",
-    "root_cause": "Users appreciate rapid Japanese learning progress",
-    "priority": "low",
-    "priority_reason": "High average rating and positive reviews",
-    "pm_action": "Add advanced Japanese lessons to retain users"
-  },
-  {
-    "topic_id": 20,
-    "keywords": [
-      "love love",
-      "love",
-      "love like",
-      "like like",
-      "favourite",
-      "like"
-    ],
-    "review_count": 15,
-    "avg_rating": 4.93,
-    "avg_sentiment": 0.539,
-    "sample_reviews": [
-      "love this app",
-      "I love this app",
-      "i love this app"
-    ],
-    "label": "App praised for love",
-    "category": "praise",
-    "root_cause": "Users appreciate the app's engaging content and user-friendly interface.",
-    "priority": "low",
-    "priority_reason": "High rating and positive reviews indicate low priority.",
-    "pm_action": "Continue to enhance content variety and maintain user-friendly design."
-  },
-  {
-    "topic_id": 21,
-    "keywords": [
-      "energy",
-      "gems",
-      "new energy",
-      "finish",
-      "able",
-      "bar"
-    ],
-    "review_count": 14,
-    "avg_rating": 2.5,
-    "avg_sentiment": 0.417,
-    "sample_reviews": [
-      "you introduced energy for more ",
-      "Amazing app honesty lets you pick various courses i just wish the energy bar don't find Quickly when i'm doing chess lessons and i feel we should be able to ask Friends for energy bar...",
-      "The new energy system is complete garbage. Correct or not it limits your time in the app. The original lives system felt rewarding, and made you want to avoid mistakes so you could continue learning."
-    ],
-    "label": "Energy system dissatisfaction",
-    "category": "complaint",
-    "root_cause": "New energy system limits time and feels punitive",
-    "priority": "medium",
-    "priority_reason": "Moderate negative sentiment with limited user base",
-    "pm_action": "Implement friend energy request feature"
-  },
-  {
-    "topic_id": 22,
-    "keywords": [
-      "phone",
-      "page",
-      "loved",
-      "try",
-      "ive",
-      ""
-    ],
-    "review_count": 12,
-    "avg_rating": 4.58,
-    "avg_sentiment": 0.494,
-    "sample_reviews": [
-      "The best app ever",
-      "best app ever",
-      "Best app in my phone "
-    ],
-    "label": "Positive user feedback",
-    "category": "praise",
-    "root_cause": "Users appreciate the app's engaging experience and ease of use.",
-    "priority": "low",
-    "priority_reason": "Positive reviews and high rating indicate low priority.",
-    "pm_action": "Continue to monitor user feedback and maintain current features."
-  },
-  {
-    "topic_id": 23,
-    "keywords": [
-      "streak",
-      "question",
-      "angry",
-      "100",
-      "continue",
-      "keeps"
-    ],
-    "review_count": 12,
-    "avg_rating": 3.17,
-    "avg_sentiment": -0.173,
-    "sample_reviews": [
-      "just a normal green angry owl acting like death if u don't do your streak",
-      "the bird took my family until i remade my streak back up he still has them its been 5 months",
-      "it said I will kill me if I did not continue the streak 10/10 will definitely do it again"
-    ],
-    "label": "Aggressive streak reminder",
-    "category": "complaint",
-    "root_cause": "The app\u2019s streak reminder uses aggressive language that feels threatening to users.",
-    "priority": "medium",
-    "priority_reason": "Moderate negative sentiment with limited review volume.",
-    "pm_action": "Adjust the wording of streak reminders to be encouraging rather than threatening."
-  },
-  {
-    "topic_id": 24,
-    "keywords": [
-      "usefull",
-      "interesting",
-      "interesting amazing",
-      "amazing interesting",
-      "helpful",
-      "real"
-    ],
-    "review_count": 12,
-    "avg_rating": 4.83,
-    "avg_sentiment": 0.435,
-    "sample_reviews": [
-      "this app is very nice ",
-      "this is very useful app ",
-      "This app is very nice and good app."
-    ],
-    "label": "Positive Feedback on App",
-    "category": "praise",
-    "root_cause": "Users find the app useful and enjoyable",
-    "priority": "low",
-    "priority_reason": "High rating and positive reviews indicate low urgency",
-    "pm_action": "Continue monitoring user satisfaction and gather more feedback"
-  },
-  {
-    "topic_id": 25,
-    "keywords": [
-      "exercises",
-      "speaking",
-      "months",
-      "listen",
-      "voice",
-      "works"
-    ],
-    "review_count": 11,
-    "avg_rating": 2.73,
-    "avg_sentiment": -0.037,
-    "sample_reviews": [
-      "I can record my voice on phone.",
-      "I've been unable to do my speaking exercises for MONTHS now, and my mic' works just fine. It USED TO BE a fun way to learn the basics of a new language, but something feels off recently, especially with the \"updated\" extra units. I'm pondering leaving this app...",
-      "it doesn't have medium for video call with others who are practicing or a live communication with someone"
-    ],
-    "label": "Speaking exercises broken",
-    "category": "complaint",
-    "root_cause": "Speaking exercises stopped working after recent update, causing frustration",
-    "priority": "medium",
-    "priority_reason": "User rating is low and complaints target a core feature",
-    "pm_action": "Deploy a hotfix to restore speaking exercises functionality and verify mic integration"
-  },
-  {
-    "topic_id": 26,
-    "keywords": [
-      "platform",
-      "english",
-      "learning english",
-      "english learning",
-      "platform learn",
-      "platform learning"
-    ],
-    "review_count": 11,
-    "avg_rating": 4.64,
-    "avg_sentiment": 0.534,
-    "sample_reviews": [
-      "nice application for learning English",
-      "it is a good platform for learning English and other languages",
-      "English day by day improve "
-    ],
-    "label": "Positive feedback on learning platform",
-    "category": "praise",
-    "root_cause": "Users appreciate Duolingo's engaging and effective English learning experience.",
-    "priority": "low",
-    "priority_reason": "High rating and positive reviews indicate low urgency.",
-    "pm_action": "Maintain current features and collect ongoing feedback for future enhancements."
-  },
-  {
-    "topic_id": 27,
-    "keywords": [
-      "energies",
-      "fun helpful",
-      "bugs",
-      "enjoyed",
-      "super",
-      "useful"
-    ],
-    "review_count": 11,
-    "avg_rating": 4.82,
-    "avg_sentiment": 0.534,
-    "sample_reviews": [
-      "its a good app if you know how to use it",
-      "it is a great app",
-      "it's a great app"
-    ],
-    "label": "High User Satisfaction",
-    "category": "praise",
-    "root_cause": "Users find the app enjoyable and effective",
-    "priority": "low",
-    "priority_reason": "High average rating and positive reviews indicate low priority",
-    "pm_action": "Continue monitoring user feedback and maintain current features"
-  },
-  {
-    "topic_id": 28,
-    "keywords": [
-      "build confident",
-      "informative",
-      "confident",
-      "build",
-      "application",
-      "thank"
-    ],
-    "review_count": 11,
-    "avg_rating": 4.64,
-    "avg_sentiment": 0.544,
-    "sample_reviews": [
-      "Nice Application",
-      "nice app to build your confident thank you",
-      "very nice app"
-    ],
-    "label": "App Builds Confidence",
-    "category": "praise",
-    "root_cause": "Users appreciate the app's confidence-building features.",
-    "priority": "low",
-    "priority_reason": "Positive reviews indicate high user satisfaction.",
-    "pm_action": "Continue supporting confidence-building features and highlight them in marketing"
-  },
-  {
-    "topic_id": 29,
-    "keywords": [
-      "la",
-      "es",
-      "que",
-      "en",
-      "por",
-      "ahora"
-    ],
-    "review_count": 10,
-    "avg_rating": 4.1,
-    "avg_sentiment": 0.017,
-    "sample_reviews": [
-      "Melhor aplicativo pra estudos de l\u00ednguas",
-      "es divertido aprender en la app",
-      "Me encanta. Es una forma facil y divertida para aprender otro idioma."
-    ],
-    "label": "Positive feedback on learning app",
-    "category": "praise",
-    "root_cause": "Users appreciate the app's engaging and easy-to-use language learning experience.",
-    "priority": "low",
-    "priority_reason": "Positive reviews and high rating indicate satisfaction.",
-    "pm_action": "Continue supporting current features and consider adding new language options."
+      "Obnoxious The app has become too obnoxious, with flashing lights, shaking, and vibration. More time spent on ads and silly \"gamefication\" videos than on actual exercises.",
+      "its greate learning app and i love it",
+      "It's been just 2 days and I've improved so well. I would have made alot of progress by the time I get to 1 month for sure. it's definitely a good learning app."
+    ]
   }
 ]

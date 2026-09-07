@@ -2,77 +2,39 @@
   {
     "topic_id": 0,
     "keywords": [
-      "cred",
-      "credit",
-      "payment",
-      "card",
-      "cashback",
-      "credit card"
+      "support",
+      "customer",
+      "worst",
+      "experience",
+      "dont",
+      "service"
     ],
-    "review_count": 790,
-    "avg_rating": 2.35,
-    "avg_sentiment": 0.092,
+    "review_count": 290,
+    "avg_rating": 2.02,
+    "avg_sentiment": 0.037,
     "sample_reviews": [
-      "app is crashing and the only way to escalate is through the app",
-      "There are a lot of problems in delivering orders, and these people are not even able to solve these problems. Only asking time and after that my amount is refunded order is canceled. Very bad service of customer support and guidance they don't have any information about the shipping department.",
-      "very good app"
+      "CRED previously had a very useful feature where, for each credit card, you could easily view the current spend and last statement spend from the card screen. Recently, this option seems to have been removed or is a bug. It made tracking credit-card expenses and comparing the current billing cycle with the previous statement extremely convenient. Please bring this feature back, or provide an equivalent way to view current cycle spend and previous statement spend for each card.",
+      "false app never gives cashback as promised.",
+      "it has gave me vry worst exp whn its cust care has treated my tickt 25982024 on 6sept mrng 7 am so carelessly & put my call on hold & disappeared fr my sudden debit of 43k fr using cred.club this is totally a fraud i m so worried abt my money. shame on such incompetent custoner care and pathetic service whr in u debit customers money in suspicious account to cause scam"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "service",
-      "experience",
       "excellent",
-      "super",
-      "performance",
-      "excellent service"
+      "awesome",
+      "experience",
+      "experience customer",
+      "happy",
+      "simply"
     ],
-    "review_count": 84,
-    "avg_rating": 4.39,
-    "avg_sentiment": 0.414,
+    "review_count": 49,
+    "avg_rating": 4.82,
+    "avg_sentiment": 0.506,
     "sample_reviews": [
-      "good experience",
-      "very bad support experience",
-      "overall good services"
-    ]
-  },
-  {
-    "topic_id": 2,
-    "keywords": [
-      "bhi",
-      "ke",
-      "nahi",
-      "fake fake",
-      "fake",
-      "ka"
-    ],
-    "review_count": 67,
-    "avg_rating": 1.67,
-    "avg_sentiment": 0.006,
-    "sample_reviews": [
-      "sabse bakvass app hai es se bahut jald fraud kar leta hai mera 10000/- nuksaan kar diya kisi ne call forwarding kar ke call ke through OTP se logins kar liaa massage ke OTP se nahi hota but call k through kar lia es me call ke through OTP login rahna bahut bad hai",
-      "very good apps bahut acchi app se yah bahut acchi apps hai ismein finance ki suvidha bhi hai aur bil subah 11 ki suvidha bhi hai yah bahut acchi apps hai",
-      "\u0905\u092c \u0915\u094d\u0930\u0947\u0921\u093c \u092e\u0947\u0902 \u092a\u0939\u0932\u0947 \u0935\u093e\u0932\u0940 \u092c\u093e\u0924 \u0928\u0939\u0940\u0902 \u0939\u0948 \u092c\u093f\u0932\u094d\u0915\u0941\u0932 \u092d\u0940 \u0915\u0947\u0936 \u092c\u0947\u0915 \u0928\u0939\u0940\u0902 \u092e\u093f\u0932\u0924\u093e \u0939\u0948 "
-    ]
-  },
-  {
-    "topic_id": 3,
-    "keywords": [
-      "update",
-      "updates",
-      "frequently",
-      "day",
-      "week",
-      "team"
-    ],
-    "review_count": 15,
-    "avg_rating": 3.0,
-    "avg_sentiment": 0.038,
-    "sample_reviews": [
-      "please stop bringing updates every fortnight. why does your team bring updates so frequently? otherwise it's a great platform to pay credit card bills",
-      "I think the guy who writes update notes deserve a raise for every update",
-      "2 to 3 update per day and nothing any improvement then why should send update very disappoint"
+      "Very nice it's ok thanks for you",
+      "Nice help us app",
+      "good and best app"
     ]
   }
 ]

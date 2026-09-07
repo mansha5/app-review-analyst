@@ -3,133 +3,133 @@
     "topic_id": 0,
     "keywords": [
       "swiggy",
-      "worst",
-      "customer",
       "order",
-      "support",
-      "service"
+      "customer",
+      "received",
+      "food",
+      "ordered"
     ],
-    "review_count": 301,
-    "avg_rating": 1.87,
-    "avg_sentiment": -0.223,
+    "review_count": 56,
+    "avg_rating": 1.59,
+    "avg_sentiment": -0.232,
     "sample_reviews": [
-      "horrible customer care support. Received wrong order and there is no resolution. no refund",
-      "Easily I've ordered over hundreds of orders, but the way in which it treats its loyal customers is so humiliating. Since any genuine issue can't be addressed by them, now I'll quit, both Swiggy and it's brother Instamart, they are worthless",
-      "waste app . this app gives offer and shutdown."
+      "cheated my payment",
+      "I order food (jalebi) on Swiggy of Rs. 247, but I was served stale food. i contacted with their support but they just can't do anything about it and offered me coupon on 61. Worst experience, you guys must pay attention to your customer service. this was totally deficiency in service. Consumer council must take some action to rectify customer support of these online platforms .",
+      "One of my go to app, Love you Swiggy!"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
       "service",
-      "service service",
-      "quality",
-      "super",
-      "slow",
-      "fast"
+      "customer",
+      "care service",
+      "customer care",
+      "care",
+      "service worst"
     ],
-    "review_count": 127,
-    "avg_rating": 4.35,
-    "avg_sentiment": 0.358,
+    "review_count": 55,
+    "avg_rating": 4.04,
+    "avg_sentiment": 0.271,
     "sample_reviews": [
       "good service",
-      "taking very time ",
-      "fantastic, mind-blowing, extraordinary services"
+      "good service",
+      "well long distance"
     ]
   },
   {
     "topic_id": 2,
     "keywords": [
-      "ke",
-      "ka",
-      "nahi",
-      "aur",
-      "bhi",
-      "order"
+      "food",
+      "worst",
+      "dont",
+      "delivery",
+      "froud",
+      "deliver"
     ],
-    "review_count": 76,
-    "avg_rating": 2.54,
-    "avg_sentiment": -0.057,
+    "review_count": 48,
+    "avg_rating": 2.65,
+    "avg_sentiment": -0.003,
     "sample_reviews": [
-      "friends vedi e rakhi ki enno offers pettinattu buildup chesadu adi antha fake money full ga cut avthunavani okasari payment chesemudu vhusukondi edi fake ......",
-      "\u0a9c\u0ac0\u0ab5\u0aa8\u0aa8\u0ac0 \u0ab8\u0acc\u0aa5\u0ac0 \u0aa8\u0a95\u0abe\u0aae\u0ac0 \u0a85\u0aa8\u0ac7 \u0aae\u0abe\u0aa8\u0ab8\u0abf\u0a95 \u0aa4\u0acd\u0ab0\u0abe\u0ab8 \u0a86\u0aaa\u0aa8\u0abe\u0ab0\u0ac0 \u0ab8\u0ab0\u0acd\u0ab5\u0abf\u0ab8! \u200b\u0ab8\u0acc\u0aa5\u0ac0 \u0aaa\u0ab9\u0ac7\u0ab2\u0abe \u0aa4\u0acb \u0ab8\u0acd\u0ab5\u0abf\u0a97\u0ac0 \u0a8f\u0aaa \u0aaa\u0ab0 \u0a9c \u0aa1\u0abf\u0ab2\u0abf\u0ab5\u0ab0\u0ac0\u0aa8\u0acb \u0a9f\u0abe\u0a88\u0aae \u0a96\u0ac2\u0aac \u0ab5\u0aa7\u0abe\u0ab0\u0ac7 \u0aac\u0aa4\u0abe\u0ab5\u0ab5\u0abe\u0aae\u0abe\u0a82 \u0a86\u0ab5\u0acd\u0aaf\u0acb \u0ab9\u0aa4\u0acb. \u0aa4\u0ac7\u0aae \u0a9b\u0aa4\u0abe\u0a82 \u0aa7\u0ac0\u0ab0\u0a9c \u0ab0\u0abe\u0a96\u0ac0\u0aa8\u0ac7 \u0a93\u0ab0\u0acd\u0aa1\u0ab0 \u0a95\u0ab0\u0acd\u0aaf\u0acb, \u0aa4\u0acb \u0ab0\u0ac7\u0ab8\u0acd\u0a9f\u0acb\u0ab0\u0aa8\u0acd\u0a9f \u0ab5\u0abe\u0ab3\u0abe\u0a8f \u0a8f\u0aa8\u0abe\u0aa5\u0ac0 \u0aaa\u0aa3 \u0aac\u0aae\u0aa3\u0acb \u0ab8\u0aae\u0aaf \u0aac\u0a97\u0abe\u0aa1\u0acd\u0aaf\u0acb. \u0a86\u0a9f\u0ab2\u0ac1\u0a82 \u0a93\u0a9b\u0ac1\u0a82 \u0ab9\u0acb\u0aaf \u0aa4\u0ac7\u0aae \u0a9c\u0acd\u0aaf\u0abe\u0ab0\u0ac7 \u0aae\u0ac7\u0a82 \u0aaa\u0ab0\u0abf\u0ab8\u0acd\u0aa5\u0abf\u0aa4\u0abf \u0a9c\u0abe\u0aa3\u0ab5\u0abe \u0aae\u0abe\u0a9f\u0ac7 \u0ab0\u0ac7\u0ab8\u0acd\u0a9f\u0acb\u0ab0\u0aa8\u0acd\u0a9f \u0aaa\u0ab0 \u0a95\u0acb\u0ab2 \u0a95\u0ab0\u0acd\u0aaf\u0acb, \u0aa4\u0acb \u0ab8\u0abe\u0aae\u0ac7\u0aa5\u0ac0 \u0a85\u0aa4\u0acd\u0aaf\u0a82\u0aa4 \u0a85\u0ab8\u0aad\u0acd\u0aaf, \u0a97\u0ac7\u0ab0\u0ab5\u0ab0\u0acd\u0aa4\u0aa3\u0ac2\u0a95 \u0a85\u0aa8\u0ac7 \u0aac\u0aa6\u0acd\u0aa7\u0abf\u0aae\u0ac0\u0a9d\u0ac0 \u0aad\u0ab0\u0acd\u0aaf\u0acb \u0a9c\u0ab5\u0abe\u0aac \u0aae\u0ab3\u0acd\u0aaf\u0acb. \u200b\u0a97\u0acd\u0ab0\u0abe\u0ab9\u0a95\u0aa8\u0ac0 \u0ab8\u0aae\u0aaf\u0aa8\u0ac0 \u0a95\u0ac7 \u0a97\u0acc\u0ab0\u0ab5\u0aa8\u0ac0 \u0a95\u0acb\u0a88 \u0a95\u0abf\u0a82\u0aae\u0aa4 \u0a9c \u0aa8\u0aa5\u0ac0? \u0a86\u0ab5\u0ac0 \u0aa5\u0ab0\u0acd\u0aa1-\u0a95\u0acd\u0ab2\u0abe\u0ab8 \u0ab8\u0ab0\u0acd\u0ab5\u0abf\u0ab8 \u0a85\u0aa8\u0ac7 \u0a89\u0aa6\u0acd\u0aa7\u0aa4 \u0ab5\u0ab0\u0acd\u0aa4\u0aa8 \u0aae\u0abe\u0a9f\u0ac7 \u0ab0\u0ac7\u0ab8\u0acd\u0a9f\u0acb\u0ab0\u0aa8\u0acd\u0a9f \u0a85\u0aa8\u0ac7 \u0ab8\u0acd\u0ab5\u0abf\u0a97\u0ac0 \u0aac\u0a82\u0aa8\u0ac7 \u0ab2\u0abe\u0aaf\u0a95 \u0a9b\u0ac7.",
-      "menyu nahi dikhate ho"
+      "nice app ,, feedback is good",
+      "nice app food delivery app",
+      "totally worst delivery app with no Customer Support"
     ]
   },
   {
     "topic_id": 3,
     "keywords": [
-      "delivery",
-      "fast delivery",
-      "fast",
-      "delivery delivery",
-      "delivery fast",
-      "delicious"
+      "nahi",
+      "chor",
+      "ka",
+      "bhi",
+      "order",
+      "liye"
     ],
-    "review_count": 32,
-    "avg_rating": 4.59,
-    "avg_sentiment": 0.401,
+    "review_count": 46,
+    "avg_rating": 2.41,
+    "avg_sentiment": 0.005,
     "sample_reviews": [
-      "excellent fast delivery ",
-      "\u2b50\u2728\u2b50Super fast delivery, food was delicious. Always consistent quality. Highly recommended. ",
-      "affordable price and quick delivery and food safest delivery Thank you so much "
+      "thanks Bhai",
+      "bahut \u0905\u091a\u094d\u091b\u093e",
+      "phle pahucha"
     ]
   },
   {
     "topic_id": 4,
     "keywords": [
-      "cash",
-      "cash delivery",
-      "payment",
-      "card",
-      "scam",
-      "options"
+      "super",
+      "useful",
+      "night",
+      "honestly",
+      "think",
+      "results"
     ],
-    "review_count": 25,
-    "avg_rating": 1.44,
-    "avg_sentiment": -0.211,
+    "review_count": 36,
+    "avg_rating": 4.72,
+    "avg_sentiment": 0.524,
     "sample_reviews": [
-      "payment fails repeatedly",
-      "no option cash on delivery",
-      "Plays with people's mind again and again by Buzz and Rakhi fight. I had 100 cash on rakhi event and suddenly all disappeared, and I couldn't redeem that for order even yesterday.... and prices are also High. I have ordered an item and there was an offer of 17 cashback and it said will be added after delivery, but still not added. I will never install this again."
+      "very very nice",
+      "super rider",
+      "very kind person"
     ]
   },
   {
     "topic_id": 5,
     "keywords": [
-      "bad bad",
-      "zomato",
-      "bad",
-      "better",
-      "swiggy",
-      "better swiggy"
+      "delivery",
+      "fast",
+      "fast delivery",
+      "late",
+      "late delivery",
+      "delivery fast"
     ],
-    "review_count": 23,
-    "avg_rating": 1.7,
-    "avg_sentiment": 0.036,
+    "review_count": 31,
+    "avg_rating": 3.19,
+    "avg_sentiment": 0.089,
     "sample_reviews": [
-      "very nice better then zomato",
-      "could be more efficient, casual delays, hidden charges & poor customer service makes it second choice after zomato.",
-      "coupon not available, price is too much higher than zomato"
+      "delivery is always late and much different than the estimated time they show everytime.",
+      "Quick delivery.",
+      "worst service given by your company...I ordered at 10:09 am with bolt delivery that your company say food will be delivered in 10-15 mins but after waiting for 43 mins you are not supposed to deliver that order.as I said to your agent on customer service that I will not accept that order after 10:50 am then your delivery partner take my words and cancel that order.is this your accountability on order?delay is your company failure what about my time who waited for 42-43 mins."
     ]
   },
   {
     "topic_id": 6,
     "keywords": [
-      "charges",
-      "gst",
-      "charge",
-      "extra",
-      "extra charges",
-      "delivery charge"
+      "cancelled",
+      "order",
+      "order cancelled",
+      "cancel",
+      "minutes",
+      "hour"
     ],
-    "review_count": 22,
-    "avg_rating": 2.23,
-    "avg_sentiment": -0.161,
+    "review_count": 19,
+    "avg_rating": 1.21,
+    "avg_sentiment": -0.357,
     "sample_reviews": [
-      "This is a very bad app because it is looting the company's money in the name of GST. Answer this quickly why such high GST is charged.",
-      "delivery charge is very expensive ",
-      "lot of hidden charges unhappy with extra charge If it is one time I can tell u but it happens multiple time . so fix aur u go na lose"
+      "very bad experience. I ordered 1 item for a occasion after 20 minutes they canceled my item.",
+      "Such an idiot customer care service the delevery was already late and when I asked why that is they offered to cancel and when I said give me the status as the eta was at 19 minutes for 20 minutes straight and suddenly the order is cancelled",
+      "order cancelled after 30 min without any reason"
     ]
   },
   {
@@ -138,131 +138,17 @@
       "price",
       "high",
       "prices",
-      "food",
-      "expensive",
-      "actual"
-    ],
-    "review_count": 19,
-    "avg_rating": 2.16,
-    "avg_sentiment": 0.071,
-    "sample_reviews": [
-      "everything is too expensive",
-      "doesn't show right price",
-      "Too expensive than at the outlet."
-    ]
-  },
-  {
-    "topic_id": 8,
-    "keywords": [
-      "order",
-      "cancellation",
-      "cancelled",
-      "cancel",
-      "order cancelled",
-      "cancel order"
-    ],
-    "review_count": 19,
-    "avg_rating": 1.21,
-    "avg_sentiment": -0.409,
-    "sample_reviews": [
-      "if you wanna cancel then you cannot because they don't listen to what you ask they use AI bots which provide nohelp their customer care gives no quick help as they delay the cancellation time to let the situation be when order is being delivered and then there is fully no scope of cancelling they charge exactly the same amount of the order as the cancellation fees which the amount of your order hence if you have done using online prepaid then you will not get a rupees back as refund disaster ap",
-      "very pathetic experience after waiting for an hour swiggy just called me and said its cancelled. Pathetic Pathetic Pathetic",
-      "wont let me cancel my order peacefully"
-    ]
-  },
-  {
-    "topic_id": 9,
-    "keywords": [
-      "swiggy",
-      "like swiggy",
-      "love",
-      "thank",
-      "thanks",
-      "offer"
-    ],
-    "review_count": 17,
-    "avg_rating": 4.18,
-    "avg_sentiment": 0.359,
-    "sample_reviews": [
-      "nice swiggy",
-      "I love swigy",
-      "very bad experience Swiggy"
-    ]
-  },
-  {
-    "topic_id": 10,
-    "keywords": [
-      "food",
-      "service food",
-      "quality food",
-      "quality",
-      "tasty",
-      "food service"
-    ],
-    "review_count": 17,
-    "avg_rating": 4.47,
-    "avg_sentiment": 0.602,
-    "sample_reviews": [
-      "It is very tasty and every time I order it, it makes my heart happy. The pizza here has a lot of special things and is also very tasty.",
-      "good service good food nd honest behaviour mr happy",
-      "good easy to eat any and any time"
-    ]
-  },
-  {
-    "topic_id": 11,
-    "keywords": [
-      "happy",
-      "excellent",
-      "super",
-      "sweet",
-      "wonderful",
-      "happy happy"
-    ],
-    "review_count": 16,
-    "avg_rating": 4.94,
-    "avg_sentiment": 0.649,
-    "sample_reviews": [
-      "I'm so happy to happy ",
-      "nice overview",
-      "super wonderful"
-    ]
-  },
-  {
-    "topic_id": 12,
-    "keywords": [
-      "offers",
-      "offer",
-      "experience need",
-      "specific",
-      "amazing",
-      "big"
-    ],
-    "review_count": 12,
-    "avg_rating": 4.75,
-    "avg_sentiment": 0.484,
-    "sample_reviews": [
-      "nice offers and service",
-      "big offer \u2764\ufe0f\u200d",
-      "nice offers on some specific restaurants \u2728"
-    ]
-  },
-  {
-    "topic_id": 13,
-    "keywords": [
-      "experience",
-      "worst experience",
-      "horrible experience",
-      "response worst",
-      "experience worst",
-      "worst"
+      "charges",
+      "high price",
+      "stopped"
     ],
     "review_count": 11,
-    "avg_rating": 3.55,
-    "avg_sentiment": 0.111,
+    "avg_rating": 2.55,
+    "avg_sentiment": -0.23,
     "sample_reviews": [
-      "worst experience I have faced",
-      "good experience",
-      "nice experience "
+      "prices are high compared to others. also instamart has stopped delivering our area for few months. I stopped using Swiggy now.",
+      "Food price is very high",
+      "it's very high price. low price kijiye."
     ]
   }
 ]

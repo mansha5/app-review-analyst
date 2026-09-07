@@ -2,489 +2,77 @@
   {
     "topic_id": 0,
     "keywords": [
-      "spotify",
-      "music",
       "ads",
+      "songs",
       "premium",
       "song",
-      "songs"
+      "like",
+      "love"
     ],
-    "review_count": 250,
-    "avg_rating": 3.37,
-    "avg_sentiment": 0.336,
+    "review_count": 285,
+    "avg_rating": 3.43,
+    "avg_sentiment": 0.261,
     "sample_reviews": [
-      "Spotify is the ultimate app for music streaming and podcast discovery. The personalized playlists, daily mixes, and audio recommendation algorithms are unmatched. Smooth streaming quality across all devices.",
-      "\"Spotify makes discovering and enjoying music so easy \u2014 huge library, great playlists, and smooth listening experience every time. Love it!\"",
-      "i Purple you Spotify "
-    ],
-    "label": "Positive feedback on music streaming",
-    "category": "praise",
-    "root_cause": "Users appreciate the vast library, personalized playlists, and smooth streaming quality.",
-    "priority": "low",
-    "priority_reason": "The reviews are positive and rating is moderate, so low priority.",
-    "pm_action": "Continue improving recommendation algorithms and expand podcast library."
+      "Numerous issues, constantly saying slow connection, my connection is fine all other apps work properly. All of a sudden decided not to play offline music that had been downloaded fine. App itself is slow and laggy. No excuse for a big corporate to have such a terrible app. Will not be renewing subscription.",
+      "it's ok to have ads in a app but what the hell is you can't skip the music and you can't go to the next song if I am not having a premium",
+      "best music platform I've ever seen"
+    ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "music",
-      "music music",
-      "platform",
-      "love",
-      "songs",
-      "apps"
+      "experience",
+      "works",
+      "amazing",
+      "awesome",
+      "quality",
+      "ok"
     ],
-    "review_count": 162,
-    "avg_rating": 4.77,
-    "avg_sentiment": 0.594,
+    "review_count": 34,
+    "avg_rating": 4.53,
+    "avg_sentiment": 0.469,
     "sample_reviews": [
-      "best music app it allows you to use for free",
-      "great app for anyone trying too enjoy and get the best sound quality",
-      "best app for music "
-    ],
-    "label": "Positive user feedback",
-    "category": "praise",
-    "root_cause": "Users appreciate free access and high sound quality",
-    "priority": "low",
-    "priority_reason": "High average rating and positive reviews indicate low priority",
-    "pm_action": "Maintain free tier and high-quality audio, monitor for new feature requests"
+      "Very nice f very good",
+      "blah blah blah",
+      "feels good \u2705"
+    ]
   },
   {
     "topic_id": 2,
     "keywords": [
-      "music",
+      "excellent",
+      "world",
+      "waste",
+      "amazing",
       "love",
-      "love music",
-      "songs",
-      "better",
-      "song"
+      "like"
     ],
-    "review_count": 128,
-    "avg_rating": 4.71,
-    "avg_sentiment": 0.505,
+    "review_count": 30,
+    "avg_rating": 4.53,
+    "avg_sentiment": 0.348,
     "sample_reviews": [
-      "perfect for music lovers...",
-      "your music is limited as to where I can't find every song I search!",
-      "just perfect in their array of music genre."
+      "waste app in the world",
+      "excellent app ",
+      "amazing app"
     ]
   },
   {
     "topic_id": 3,
     "keywords": [
-      "love",
-      "application",
+      "pls",
+      "try",
+      "let",
       "amazing",
-      "awesome",
-      "love amazing",
-      "like"
+      "ad",
+      "time"
     ],
-    "review_count": 103,
-    "avg_rating": 4.81,
-    "avg_sentiment": 0.579,
+    "review_count": 17,
+    "avg_rating": 3.94,
+    "avg_sentiment": 0.05,
     "sample_reviews": [
-      "I really enjoy this app",
-      "The bets well polished UI app . This work of art is very good , I wish the next update will be cool",
-      "greatest app of all time"
-    ],
-    "label": "App praised for UI",
-    "category": "praise",
-    "root_cause": "Users appreciate the polished UI and overall enjoyable experience",
-    "priority": "low",
-    "priority_reason": "High average rating and overwhelmingly positive reviews indicate low urgency",
-    "pm_action": "Schedule a UI refresh and add playlist sharing feature in the next release"
-  },
-  {
-    "topic_id": 4,
-    "keywords": [
-      "excellent",
-      "fantastic",
-      "love",
-      "super",
-      "sensational",
-      "absolutely"
-    ],
-    "review_count": 88,
-    "avg_rating": 4.72,
-    "avg_sentiment": 0.526,
-    "sample_reviews": [
-      "super great",
-      "It's Great...",
-      "very nice excellent "
-    ],
-    "label": "Positive user feedback",
-    "category": "praise",
-    "root_cause": "Users appreciate the high-quality music and user experience",
-    "priority": "low",
-    "priority_reason": "Positive reviews with high rating",
-    "pm_action": "Acknowledge feedback publicly and highlight in marketing materials"
-  },
-  {
-    "topic_id": 5,
-    "keywords": [
-      "ini",
-      "la",
-      "premium",
-      "ya",
-      "ghatiya",
-      "ang"
-    ],
-    "review_count": 57,
-    "avg_rating": 2.91,
-    "avg_sentiment": 0.059,
-    "sample_reviews": [
-      "Apesar de pagar premium, cuando escucho podcasts siguen apareciendo anuncios, y que si los puedo adelantar? Se supone que pago para no escucharlos y aun asi aparecen, arreglen eso",
-      "offline nahi h kya",
-      "ese accha to youTube sahi hai bahut kam add aate hai"
-    ],
-    "label": "Ads in podcasts, offline missing",
-    "category": "complaint",
-    "root_cause": "Ads still play in podcasts and offline playback is unavailable",
-    "priority": "medium",
-    "priority_reason": "User dissatisfaction due to ads and missing offline feature",
-    "pm_action": "Investigate and fix ad removal for premium podcasts and enable offline playback for all tracks"
-  },
-  {
-    "topic_id": 6,
-    "keywords": [
-      "ads",
-      "ads ads",
-      "like ads",
-      "frequent",
-      "like",
-      "ads annoying"
-    ],
-    "review_count": 45,
-    "avg_rating": 2.78,
-    "avg_sentiment": -0.002,
-    "sample_reviews": [
-      "Not bad It's a bit of a bad altitude of business",
-      "stop the ads",
-      "very nice but some time ads annoy so much"
-    ],
-    "label": "Ads Annoying and Frequent",
-    "category": "complaint",
-    "root_cause": "Frequent ads disrupt user experience.",
-    "priority": "medium",
-    "priority_reason": "Moderate negative sentiment with moderate rating.",
-    "pm_action": "Reduce ad frequency and improve targeting."
-  },
-  {
-    "topic_id": 7,
-    "keywords": [
-      "premium",
-      "adds premium",
-      "premium premium",
-      "adds",
-      "lower",
-      "lot"
-    ],
-    "review_count": 36,
-    "avg_rating": 3.33,
-    "avg_sentiment": 0.061,
-    "sample_reviews": [
-      "pay for premium and enjoy",
-      "good but start asking for premium",
-      "why That Instol Again Why"
-    ],
-    "label": "Premium Upsell Pressure",
-    "category": "complaint",
-    "root_cause": "Users feel pressured to upgrade to premium",
-    "priority": "medium",
-    "priority_reason": "Moderate rating with many users feeling pressured",
-    "pm_action": "Implement clearer messaging and optional premium prompts"
-  },
-  {
-    "topic_id": 8,
-    "keywords": [
-      "battery",
-      "offline",
-      "android",
-      "crashing",
-      "keeps crashing",
-      "keeps"
-    ],
-    "review_count": 35,
-    "avg_rating": 1.74,
-    "avg_sentiment": 0.024,
-    "sample_reviews": [
-      "There has been several times, where the app will not respond at all. It will freeze on the screen and I will have to close the app and re-open.",
-      "the new updates of the app keeps crashing! premium user here.",
-      "The app can't open,I have been finding it so difficult"
-    ],
-    "label": "App Crashes and Freezes",
-    "category": "bug",
-    "root_cause": "The app crashes due to a memory leak in the new update causing it to freeze or fail to launch.",
-    "priority": "high",
-    "priority_reason": "High priority because the app is frequently crashing, leading to a low rating and many complaints.",
-    "pm_action": "Deploy an immediate hotfix that removes the problematic update and restores stable functionality."
-  },
-  {
-    "topic_id": 9,
-    "keywords": [
-      "ads ads",
-      "ads",
-      "practical",
-      "number ads",
-      "like way",
-      "way ads"
-    ],
-    "review_count": 32,
-    "avg_rating": 2.12,
-    "avg_sentiment": -0.003,
-    "sample_reviews": [
-      "became too commercial..",
-      "too much advertisement",
-      "too many ads"
-    ],
-    "label": "Too many ads",
-    "category": "complaint",
-    "root_cause": "Excessive advertising detracts from user experience.",
-    "priority": "high",
-    "priority_reason": "Low rating and high review count indicate widespread dissatisfaction.",
-    "pm_action": "Implement a limit on ad frequency and offer a 30-day ad-free trial to users."
-  },
-  {
-    "topic_id": 10,
-    "keywords": [
-      "premium",
-      "free",
-      "pay",
-      "pay premium",
-      "literally",
-      "favorite"
-    ],
-    "review_count": 23,
-    "avg_rating": 3.65,
-    "avg_sentiment": 0.282,
-    "sample_reviews": [
-      "can't even use this app without premium ",
-      "I love it even on free it's like I am on premium",
-      "It's a very good app The premium package is amazingg"
+      "nahi laalu ho raha",
+      "\u0986\u09aa\u09a8\u09bf \u099c\u09be\u09a8\u09c7\u09a8 \u0986\u09aa\u09a8\u09be\u0995\u09c7 \u0986\u09ae\u09bf \u09ac\u09be\u09a7\u09be \u09a6\u09bf\u09ac",
+      "Vijay Kumar Gupta"
     ]
-  },
-  {
-    "topic_id": 11,
-    "keywords": [
-      "shuffle",
-      "dj",
-      "playlist",
-      "songs",
-      "fix",
-      "smart"
-    ],
-    "review_count": 22,
-    "avg_rating": 2.59,
-    "avg_sentiment": 0.202,
-    "sample_reviews": [
-      "I am losing my mind. Every single time I open the app it throws the DJ in my face. I can tell google to play a song, open the app and \"hi its dj x here\" literally stopping what I'm playing for dj x. I quite like the dj but when I want it. We pay for a duo plan and this has been driving me mad for a few weeks it never use to happen and making me consider cancelling my plan.",
-      "The new auto DJ \"mix\" feature is amazing. Absolute game changer in the way I enjoy music.",
-      "You broke the smart shuffle!! Shuffle used to actually shuffle things, but now it doesn't absolutely nothing when on smart shuffle. Suggested songs are added in between songs, but the Playlist is not shuffled and plays the same 5 songs over and over.. Horrible experience!"
-    ],
-    "label": "DJ interference and shuffle bug",
-    "category": "complaint",
-    "root_cause": "The app's auto DJ feature overrides user playback and the smart shuffle algorithm fails to randomize tracks.",
-    "priority": "medium",
-    "priority_reason": "User frustration due to persistent DJ interruptions and non-functional shuffle, impacting satisfaction.",
-    "pm_action": "Disable auto DJ prompts during playback and fix smart shuffle algorithm to properly randomize tracks."
-  },
-  {
-    "topic_id": 12,
-    "keywords": [
-      "far",
-      "complaints",
-      "house",
-      "chores",
-      "special",
-      "simply"
-    ],
-    "review_count": 18,
-    "avg_rating": 4.83,
-    "avg_sentiment": 0.6,
-    "sample_reviews": [
-      "been the best so far, no complaints",
-      "simply the best",
-      "you guys are really the best,"
-    ],
-    "label": "Excellent user experience",
-    "category": "praise",
-    "root_cause": "Users appreciate the quality and ease of use.",
-    "priority": "low",
-    "priority_reason": "High rating and positive reviews indicate low urgency.",
-    "pm_action": "Continue maintaining current features and monitor for any emerging issues."
-  },
-  {
-    "topic_id": 13,
-    "keywords": [
-      "keeps",
-      "working",
-      "open",
-      "play music",
-      "background",
-      "music"
-    ],
-    "review_count": 18,
-    "avg_rating": 2.22,
-    "avg_sentiment": -0.025,
-    "sample_reviews": [
-      "My phone will say its connected to my car but the music will be playing from my phone and sometimes when its connected it shows its playing but you cant hear anything.",
-      "The app keep closing when I just opened to play music. I need to re install this and lost all my downloaded music ",
-      "Bluetooth is not working through my ear buds. ( my other apps work fine)"
-    ],
-    "label": "App crashes and Bluetooth issues",
-    "category": "bug",
-    "root_cause": "App crashes on launch and Bluetooth connectivity fails",
-    "priority": "medium",
-    "priority_reason": "Low rating and multiple crash reports indicate significant user dissatisfaction",
-    "pm_action": "Deploy a hotfix addressing crash logs and Bluetooth stack, and communicate update to users"
-  },
-  {
-    "topic_id": 14,
-    "keywords": [
-      "experience",
-      "overall",
-      "dude",
-      "mind blowing",
-      "blowing",
-      "truely"
-    ],
-    "review_count": 18,
-    "avg_rating": 4.89,
-    "avg_sentiment": 0.377,
-    "sample_reviews": [
-      "seriously mind blowing experience",
-      "smooth experience ",
-      "overall, a good experience."
-    ],
-    "label": "Mind blowing experience",
-    "category": "praise",
-    "root_cause": "Excellent sound quality and intuitive design.",
-    "priority": "low",
-    "priority_reason": "High rating and few reviews suggest low urgency.",
-    "pm_action": "Maintain current features and monitor for any decline in user satisfaction."
-  },
-  {
-    "topic_id": 15,
-    "keywords": [
-      "adds",
-      "adds song",
-      "theres",
-      "free",
-      "unplayable",
-      "free listening"
-    ],
-    "review_count": 16,
-    "avg_rating": 3.44,
-    "avg_sentiment": 0.259,
-    "sample_reviews": [
-      "tooo many adds",
-      "there's way too many adds but the music is good and it's free so I don't really mind",
-      "Adds are a pain, but that's a small price to pay to be able to listen to all your favourite artists for free. Easy to search and find all the music you like. I highly recommend."
-    ],
-    "label": "Too many ads",
-    "category": "complaint",
-    "root_cause": "Too many ads interrupt user experience.",
-    "priority": "medium",
-    "priority_reason": "Moderate negative sentiment with moderate review count.",
-    "pm_action": "Implement a tiered ad model to reduce ad frequency for frequent users."
-  },
-  {
-    "topic_id": 16,
-    "keywords": [
-      "skips",
-      "play",
-      "premium",
-      "wanna",
-      "pay",
-      "worth"
-    ],
-    "review_count": 16,
-    "avg_rating": 1.69,
-    "avg_sentiment": 0.093,
-    "sample_reviews": [
-      "You have to pay for everything. Wanna play albums in order, pay. Wanna have less ads while scrolling, pay. Wanna listen to music, pay. All the freaking time c'mon!",
-      "when your free skips gets over it becomes,1 full song =3ads ,and that is guaranteed",
-      "We can listen only few songs a day then if we want to listen more songs we have to purchase premium Didn't expect this."
-    ],
-    "label": "Ads and Skips Frustration",
-    "category": "complaint",
-    "root_cause": "Frequent ads and limited free skips force users to pay for premium",
-    "priority": "medium",
-    "priority_reason": "Low rating and moderate review count indicate significant user dissatisfaction",
-    "pm_action": "Reduce ad frequency and increase free skip allowance to improve user experience"
-  },
-  {
-    "topic_id": 17,
-    "keywords": [
-      "account",
-      "payment",
-      "money",
-      "subscription",
-      "plan",
-      "weeks"
-    ],
-    "review_count": 14,
-    "avg_rating": 2.5,
-    "avg_sentiment": -0.055,
-    "sample_reviews": [
-      "\u201cMy UPI payment of \u20b9139 to Spotify India Pvt Ltd was successful on 27 July 2026, but my Premium plan is showing \u2018Plan Paused\u2019 and says my last payment didn\u2019t work. Please verify and activate my Premium subscription. I can provide the transaction ID and payment screenshot my issue",
-      "love the app and never had any real problems. had a subscription for years. due to unfortunate events I had to cancel but not cause of the app. once my situation changes I plan on getting it back.",
-      "has made great strides in respectable data handling policies (thanks GDPR) it got me to come back... and actually subscribe this time."
-    ],
-    "label": "Payment not activated",
-    "category": "complaint",
-    "root_cause": "Payment failed to activate subscription",
-    "priority": "medium",
-    "priority_reason": "Moderate concern due to mixed feedback",
-    "pm_action": "Verify transaction, reactivate subscription, notify user"
-  },
-  {
-    "topic_id": 18,
-    "keywords": [
-      "easy",
-      "easy love",
-      "value money",
-      "easy access",
-      "accurate",
-      "ease"
-    ],
-    "review_count": 13,
-    "avg_rating": 4.62,
-    "avg_sentiment": 0.487,
-    "sample_reviews": [
-      "It is very accurate and convenient",
-      "super good to use",
-      "didn't use much"
-    ],
-    "label": "Positive feedback on accuracy",
-    "category": "praise",
-    "root_cause": "Users value the app's accuracy and convenience.",
-    "priority": "low",
-    "priority_reason": "High average rating and positive reviews indicate low urgency for changes.",
-    "pm_action": "Promote accuracy and convenience in marketing and encourage user sharing"
-  },
-  {
-    "topic_id": 19,
-    "keywords": [
-      "podcasts",
-      "podcast",
-      "scrolling",
-      "lags",
-      "update",
-      "tired"
-    ],
-    "review_count": 12,
-    "avg_rating": 1.33,
-    "avg_sentiment": -0.044,
-    "sample_reviews": [
-      "app kerps glitching when trying to play podcasts. it is impossible to use.",
-      "this app sucks. it has so many bugs I don't even know where to begin. IT JUST SHUTS OFF! that's it. I cannot listen to more than 2 minutes before IT SHUTS OFF! It's maddening. I have to open the phone, turn it on and 2 minutes later ITS OFF! I've switched to Audible because Spotify is so bad it's unusable. podcasts won't stream.",
-      "When I try to listen to some podcasts, it lags and even if I wanna listen to music when my phone is off, IT STILL LAGS SPOTIFY. FIX IT"
-    ],
-    "label": "Podcast playback crashes",
-    "category": "bug",
-    "root_cause": "The app crashes and lags during podcast playback due to a memory leak in the audio streaming module.",
-    "priority": "medium",
-    "priority_reason": "Low user satisfaction and high churn risk due to frequent crashes and lags.",
-    "pm_action": "Investigate and fix the memory leak in the podcast playback module, and release a hotfix to stabilize streaming."
   }
 ]

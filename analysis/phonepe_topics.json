@@ -4,246 +4,113 @@
     "keywords": [
       "payment",
       "pay",
-      "phonepe",
       "phone",
-      "money",
-      "phone pay"
+      "phonepe",
+      "account",
+      "support"
     ],
-    "review_count": 248,
-    "avg_rating": 3.41,
-    "avg_sentiment": 0.196,
+    "review_count": 124,
+    "avg_rating": 3.21,
+    "avg_sentiment": 0.189,
     "sample_reviews": [
-      "Add auto refresh option in this application.",
-      "super app... just stop taking charges for recharge of mobile",
-      "Collecting To Much Amount From Customer This Completly Wrong.... A Basic Recharge Of Airtel 349 If Done Phonpe Is Collecting Payment Of 355 to 359 instead Of 349 This is Completely Wrong..... In Our India 700 Million People Using Phonpe Means 70 crore people using.... Daily Active Transaction 14 core people Doing For Example 1 crore people Reacharged In A Single Recharge Payment Of 355 instead Of 349..(10000000\u00d76=60000000)6crore Per day A Common Man Working 700 per day... Try To Collect Less."
+      "nice experience with phone pay",
+      "The electricity bill payment reminder alert doesn't go away if I pay the bill by some other means, like if I pay the bill online, the app still shows the bill payment pending. The app should retrieve current new status of my bill payment and update accordingly. If bill is already paid somewhere else, then it should reflect in the app and it should stop showing me the notification to pay the bill. The help section of the app is highly automated and doesn't help much. Please fix this.",
+      "payment ussu"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "raha",
-      "nahi",
-      "kam",
-      "hi",
-      "bhi",
-      "badiya"
+      "user",
+      "useful",
+      "download",
+      "happy",
+      "apps",
+      "application"
     ],
-    "review_count": 91,
-    "avg_rating": 3.86,
-    "avg_sentiment": 0.015,
+    "review_count": 71,
+    "avg_rating": 4.51,
+    "avg_sentiment": 0.446,
     "sample_reviews": [
-      "badhiya jay sree ram",
-      "bahut achcha",
-      "phonepe ki service to bahut acchi hai per kahin jagah network ke Karan yah service bahut kam Ho jaati Hai Jahan paise Kisi Ko dene ke liye yah scan karte hain tab bahut dikkat a jaati Hai per service acchi hai aur aap aise hi aage Apne service ko behtar karte rahiyega thank u so Mach phonepe. experience ki bole to achcha hai."
+      "user-friendly app",
+      "download the app like me",
+      "very bad app"
     ]
   },
   {
     "topic_id": 2,
     "keywords": [
-      "work",
-      "excellent",
-      "working",
-      "job",
-      "thank",
-      "thanks"
+      "ka",
+      "phone",
+      "hi",
+      "pe",
+      "update",
+      "karta"
     ],
-    "review_count": 83,
-    "avg_rating": 4.66,
-    "avg_sentiment": 0.482,
+    "review_count": 59,
+    "avg_rating": 3.49,
+    "avg_sentiment": -0.016,
     "sample_reviews": [
-      "I love you\u2764\ufe0f",
-      "good thank you",
-      "it us better than all"
+      "yah mere phone chalne main bahut dikat de raha hai",
+      "manojasiwasi",
+      "\u0928\u093f\u0935\u0943\u0924\u0940 \u092c\u0941\u0930\u0902\u0917\u0947"
     ]
   },
   {
     "topic_id": 3,
     "keywords": [
-      "excellent",
-      "ads",
-      "love",
-      "apps",
-      "amazing",
-      "user interface"
+      "easy",
+      "fast",
+      "bad",
+      "working",
+      "useful",
+      "helpful"
     ],
-    "review_count": 51,
-    "avg_rating": 4.84,
-    "avg_sentiment": 0.555,
+    "review_count": 58,
+    "avg_rating": 4.48,
+    "avg_sentiment": 0.418,
     "sample_reviews": [
-      "this app is very good please avid adds",
-      "so good app",
-      "excellent app"
+      "best aplication",
+      "very poorly",
+      "very good .most helf full."
     ]
   },
   {
     "topic_id": 4,
     "keywords": [
-      "easy",
-      "simple easy",
-      "simple",
-      "work",
-      "helpful easy",
-      "user friendly"
+      "service",
+      "helping",
+      "poor",
+      "excellent service",
+      "awesome",
+      "thank"
     ],
-    "review_count": 37,
-    "avg_rating": 4.62,
-    "avg_sentiment": 0.502,
+    "review_count": 17,
+    "avg_rating": 4.41,
+    "avg_sentiment": 0.415,
     "sample_reviews": [
-      "seamless usage",
-      "easy to use and very useful",
-      "its easy to use"
+      "thank you for helping me with your brilliant services .",
+      "good service",
+      "nic service"
     ]
   },
   {
     "topic_id": 5,
     "keywords": [
       "experience",
-      "smooth",
-      "worst",
-      "feel",
-      "love",
-      "years"
+      "awesome",
+      "easy",
+      "",
+      "",
+      ""
     ],
-    "review_count": 34,
-    "avg_rating": 4.53,
-    "avg_sentiment": 0.405,
+    "review_count": 13,
+    "avg_rating": 4.92,
+    "avg_sentiment": 0.532,
     "sample_reviews": [
-      "very nice experience I love it",
-      "wowww great experience",
-      "good experience to customer support"
-    ]
-  },
-  {
-    "topic_id": 6,
-    "keywords": [
-      "upi",
-      "super",
-      "india",
-      "security",
-      "completely",
-      "fast"
-    ],
-    "review_count": 32,
-    "avg_rating": 4.53,
-    "avg_sentiment": 0.435,
-    "sample_reviews": [
-      "Best UPI App Ever",
-      "Bad app, Bhim upi is better",
-      "very nice upi app"
-    ]
-  },
-  {
-    "topic_id": 7,
-    "keywords": [
-      "service",
-      "proper",
-      "mast badiya",
-      "excellent",
-      "happy",
-      "fast"
-    ],
-    "review_count": 28,
-    "avg_rating": 4.57,
-    "avg_sentiment": 0.363,
-    "sample_reviews": [
-      "supar service",
-      "nice servic",
-      "very nice service"
-    ]
-  },
-  {
-    "topic_id": 8,
-    "keywords": [
-      "useful",
-      "helpful",
-      "helpful useful",
-      "useful useful",
-      "easy helpful",
-      "create"
-    ],
-    "review_count": 21,
-    "avg_rating": 4.76,
-    "avg_sentiment": 0.433,
-    "sample_reviews": [
-      "This app is very helpful for me",
-      "Very useful app",
-      "very very usefull full app"
-    ]
-  },
-  {
-    "topic_id": 9,
-    "keywords": [
-      "useful",
-      "helpful",
-      "useful useful",
-      "helpfull",
-      "helpful useful",
-      "useful helpful"
-    ],
-    "review_count": 21,
-    "avg_rating": 4.67,
-    "avg_sentiment": 0.508,
-    "sample_reviews": [
-      "it's good and very helpful",
-      "Most Powerful",
-      "It's useful \u2728"
-    ]
-  },
-  {
-    "topic_id": 10,
-    "keywords": [
-      "application",
-      "application application",
-      "worst",
-      "safe",
-      "lock",
-      "hacker"
-    ],
-    "review_count": 19,
-    "avg_rating": 4.21,
-    "avg_sentiment": 0.388,
-    "sample_reviews": [
-      "very bad app hacker",
-      "Good application with most features that a person would wish",
-      "best application"
-    ]
-  },
-  {
-    "topic_id": 11,
-    "keywords": [
-      "payment transfer",
-      "market",
-      "aplication",
-      "useful",
-      "helpfull",
-      "fee"
-    ],
-    "review_count": 19,
-    "avg_rating": 4.68,
-    "avg_sentiment": 0.376,
-    "sample_reviews": [
-      "very nice aap ",
-      "best aap in Market.",
-      "nice transaction aap"
-    ]
-  },
-  {
-    "topic_id": 12,
-    "keywords": [
-      "thank phonepe",
-      "responsive",
-      "phonepe working",
-      "want",
-      "job",
-      "phonepe"
-    ],
-    "review_count": 14,
-    "avg_rating": 4.29,
-    "avg_sentiment": 0.387,
-    "sample_reviews": [
-      "nice to use app",
-      "very nice app",
-      "very nice app"
+      "good experience",
+      "good experience",
+      "great experience"
     ]
   }
 ]

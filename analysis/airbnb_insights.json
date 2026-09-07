@@ -2,295 +2,153 @@
   {
     "topic_id": 0,
     "keywords": [
-      "airbnb",
-      "booking",
-      "love",
-      "stay",
-      "host",
-      "easy"
+      "easy",
+      "book",
+      "friendly",
+      "user",
+      "user friendly",
+      "easy book"
     ],
-    "review_count": 702,
-    "avg_rating": 3.81,
-    "avg_sentiment": 0.38,
+    "review_count": 105,
+    "avg_rating": 4.75,
+    "avg_sentiment": 0.425,
     "sample_reviews": [
-      "ease of use...currently hopping from one location to the next in hawaii. I travel alone...and i love studios and 1bed being available.",
-      "This is a fantastic app for finding comfortable and affordable places to stay. The app is easy to use, the booking process is simple, and there are plenty of options to choose from. I especially appreciate the detailed property information, photos, reviews, and convenient communication with hosts. Overall, Airbnb makes planning and booking trips much easier. Highly recommended!",
-      "I absolutely love this app"
-    ],
-    "label": "Positive user feedback",
-    "category": "praise",
-    "root_cause": "Users appreciate the app\u2019s ease of use, variety of listings, and detailed property information.",
-    "priority": "low",
-    "priority_reason": "High rating and positive reviews indicate strong user satisfaction.",
-    "pm_action": "Feature: Showcase user testimonials in marketing materials to reinforce trust."
+      "Great experience",
+      "it is amazing",
+      "good great wonderful amazing"
+    ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "easy",
-      "easy easy",
-      "navigate",
-      "book",
-      "easy book",
-      "service"
+      "love",
+      "basic",
+      "update",
+      "address",
+      "convenient",
+      "easy"
     ],
-    "review_count": 262,
-    "avg_rating": 4.81,
-    "avg_sentiment": 0.463,
+    "review_count": 70,
+    "avg_rating": 4.14,
+    "avg_sentiment": 0.366,
     "sample_reviews": [
-      "Users friendly and very consistent",
-      "very convenient and useful",
-      "very easy and straight forward"
-    ],
-    "label": "Excellent User Experience",
-    "category": "praise",
-    "root_cause": "Users find the app intuitive, friendly, and consistently helpful, leading to high satisfaction",
-    "priority": "low",
-    "priority_reason": "High rating and overwhelmingly positive reviews indicate low urgency for changes",
-    "pm_action": "Continue monitoring feedback and maintain current UX design"
+      "It even works in Algeria!",
+      "Hosts and locations are great! App is very useful.",
+      "Extremely difficult app to use. Not intuitive."
+    ]
   },
   {
     "topic_id": 2,
     "keywords": [
-      "ideal",
-      "algo",
-      "browser",
-      "solo",
-      "tiene",
-      "ms"
+      "airbnb",
+      "support",
+      "booked",
+      "host",
+      "house",
+      "hosts"
     ],
-    "review_count": 30,
-    "avg_rating": 3.43,
-    "avg_sentiment": -0.021,
+    "review_count": 67,
+    "avg_rating": 2.9,
+    "avg_sentiment": 0.076,
     "sample_reviews": [
-      "Es genial poder encontrar diversas opciones",
-      "muito bom! ajuda muito",
-      "Una aplicaci\u00f3n que conecta personas en todo el mundo, gracias por hacer f\u00e1ciles las reservas de mis estancias."
-    ],
-    "label": "Great variety and ease",
-    "category": "praise",
-    "root_cause": "Users appreciate diverse options and easy booking",
-    "priority": "low",
-    "priority_reason": "Positive reviews indicate satisfaction",
-    "pm_action": "Continue improving variety and booking flow"
+      "\u200b Absolute nightmare. Booked a unit for my family, including elderly relatives. They checked in at 11 PM and walked in on strangers sitting on the sofa\u2014the host double-booked the listing. Leaving elderly guests stranded at midnight is unacceptable and a severe safety failure. Airbnb support offered zero real help beyond a basic refund and a useless 20% credit. Unsafe host management and terrible customer support. Avoid.",
+      "I attempted to make a reservation for my family because my AC got cut off and they flagged my reservation as a possibly trying to throw a party. I made an appeal which got denied and then tried to rebook and called Airbnb to explain my situation. the location I was trying to book was perfect for my family because it was close to my kids school. then they suspended my account due to making multiple requests. my family is now sitting in a 90\u00b0 house in the middle of Arizona.",
+      "Airbnb's policy in India is terrible. They only care about business; they don't make decisions in the interest of the hosts."
+    ]
   },
   {
     "topic_id": 3,
     "keywords": [
-      "verification",
-      "phone",
-      "verify",
-      "id",
-      "identity",
-      "code"
+      "places",
+      "easy",
+      "stay",
+      "place",
+      "way",
+      "travel"
     ],
-    "review_count": 29,
-    "avg_rating": 1.55,
-    "avg_sentiment": -0.259,
+    "review_count": 45,
+    "avg_rating": 4.87,
+    "avg_sentiment": 0.567,
     "sample_reviews": [
-      "log in trouble is still HORRIBLE. every time they send the authenticator code, going to the text or email to copy the code shuts you out of the page to enter the code, or entering the code gives you a pop up that it's the wrong code. stick with the website instead!",
-      "Hassle verification.",
-      "I verified my identity multiple ways. I don't trust this. Something is wrong here."
-    ],
-    "label": "Login Authenticator Code Bug",
-    "category": "bug",
-    "root_cause": "Authenticator code verification fails due to page redirect or incorrect code handling.",
-    "priority": "medium",
-    "priority_reason": "Low rating and frequent complaints indicate significant user impact.",
-    "pm_action": "Fix the authentication flow to correctly process code entry without redirecting users away from the page."
+      "Our go-to for vacations.",
+      "Good. it is fast and reliable. But do your research of the location yourself. Way cheaper than hotel options. Would recommend to use airBNB for your \"headquarters\" in a city.",
+      "Always easy to use and great places to stay! Easy communication with owners!"
+    ]
   },
   {
     "topic_id": 4,
     "keywords": [
-      "pleasure",
-      "love love",
-      "updating",
-      "spot",
-      "fantastic",
-      "problems"
+      "booking",
+      "reservation",
+      "book",
+      "setting",
+      "love",
+      "dates"
     ],
-    "review_count": 26,
-    "avg_rating": 4.96,
-    "avg_sentiment": 0.548,
+    "review_count": 33,
+    "avg_rating": 3.61,
+    "avg_sentiment": 0.279,
     "sample_reviews": [
-      "Just great!",
-      "always on top",
-      "Just AWESOME"
-    ],
-    "label": "Excellent User Experience",
-    "category": "praise",
-    "root_cause": "Users appreciate the high-quality listings and seamless booking process.",
-    "priority": "low",
-    "priority_reason": "Positive reviews and high rating indicate no urgent issues.",
-    "pm_action": "Feature these strengths in marketing materials and share with the product team for future enhancements."
+      "This app makes it so easy to review any bookings or reservations you may have. And it is the easiest way to reach out to your hosts and ask questions , make changes, or clarify any issues.",
+      "new to the app need to use them any kind of home new to using home apps for rent no I want to say that it was terrible they won't let you book until you book some hotel rooms so if you are in the emergency make sure you do this 3 to 6 months prior and spend extra money for no reason even though you don't need it just so they can see that you are ready to book something probably is the worst process I've ever gone through",
+      "Easy booking experience"
+    ]
   },
   {
     "topic_id": 5,
     "keywords": [
-      "experience",
-      "experience experience",
-      "experiences",
-      "excellent",
-      "far",
-      "experiences far"
+      "customer",
+      "service",
+      "customer service",
+      "customer support",
+      "terrible customer",
+      "horrible"
     ],
-    "review_count": 25,
-    "avg_rating": 4.96,
-    "avg_sentiment": 0.459,
+    "review_count": 17,
+    "avg_rating": 3.0,
+    "avg_sentiment": -0.018,
     "sample_reviews": [
-      "every one of my experiences have been great so far. keep.it up!",
-      "Excellent experience all-around!",
-      "awesome experience"
-    ],
-    "label": "Positive Experience Feedback",
-    "category": "praise",
-    "root_cause": "Guests are satisfied with the quality of experiences offered.",
-    "priority": "low",
-    "priority_reason": "High average rating and positive reviews indicate low priority for action.",
-    "pm_action": "Continue maintaining high standards and consider highlighting these positive experiences in marketing."
+      "nothing to complain very good service",
+      "Poor customer service horrible experience with this company I will never use them again.",
+      "Customer Service is appalling"
+    ]
   },
   {
     "topic_id": 6,
     "keywords": [
-      "far",
-      "worse",
-      "goes",
-      "getting worse",
-      "perfect far",
-      "looking forward"
+      "price",
+      "fees",
+      "people",
+      "company",
+      "host",
+      "fee"
     ],
-    "review_count": 25,
-    "avg_rating": 4.56,
-    "avg_sentiment": 0.367,
+    "review_count": 17,
+    "avg_rating": 1.88,
+    "avg_sentiment": -0.185,
     "sample_reviews": [
-      "everything goes so smoothly",
-      "good so far. we'll see what happens",
-      "not great when things go wrong"
+      "transparent pricing, very clear information",
+      "save yourself the headache and rent at a hotel for the same price. my last trip was an absolute rip off scam",
+      "the Hosts are getting out of hand with security deposits and whatnot. why would I pay a higher price and have to clean up after myself when I can just stay in a hotel and not be bothered. You can't even trust the reviews because if you give a host a bad review they will give you a bad review as a tenit and you will not get accepted to another place."
     ]
   },
   {
     "topic_id": 7,
     "keywords": [
-      "ka",
-      "number",
-      "google",
-      "okay",
-      "ms",
-      "refundable"
+      "code",
+      "verification",
+      "work",
+      "pictures",
+      "phone",
+      "does"
     ],
-    "review_count": 24,
-    "avg_rating": 3.54,
-    "avg_sentiment": 0.071,
+    "review_count": 12,
+    "avg_rating": 1.92,
+    "avg_sentiment": -0.145,
     "sample_reviews": [
-      "apps airbnb lagi mudah untuk saya complete kan booking saya. tak loading lama.",
-      "sangat mudah",
-      "sobrang useless, nag rerequire ng physical id even though wala na!! digital lang ho naprovide ng government."
-    ],
-    "label": "Physical ID requirement",
-    "category": "complaint",
-    "root_cause": "The app still requires a physical ID for verification even though digital ID is available.",
-    "priority": "medium",
-    "priority_reason": "Moderate rating and mixed reviews indicate a need for improvement.",
-    "pm_action": "Update verification flow to allow digital ID only and remove physical ID requirement."
-  },
-  {
-    "topic_id": 8,
-    "keywords": [
-      "customer",
-      "customer service",
-      "service",
-      "terrible",
-      "terrible customer",
-      "customers"
-    ],
-    "review_count": 21,
-    "avg_rating": 1.33,
-    "avg_sentiment": -0.348,
-    "sample_reviews": [
-      "The quality of service can be inconsistent, largely contingent on the specific location. We have observed instances of misrepresentation or discrepancies between advertised and delivered services. Furthermore, our customer service operations are outsourced, which can present challenges for clients attempting to resolve immediate concerns, particularly when traveling internationally or even domestically, due to difficulties in reaching either the host or customer support.",
-      "terrible customer service",
-      "The worst customer service ever. Don't expect them to help with anything."
-    ],
-    "label": "Terrible Customer Service",
-    "category": "complaint",
-    "root_cause": "Outsourced customer support leads to inconsistent and unresponsive service.",
-    "priority": "medium",
-    "priority_reason": "Low rating and multiple complaints indicate significant dissatisfaction.",
-    "pm_action": "Reevaluate outsourcing agreements and implement a dedicated in-house support team."
-  },
-  {
-    "topic_id": 9,
-    "keywords": [
-      "hosts",
-      "host",
-      "friendly",
-      "accommodating",
-      "easy",
-      "like"
-    ],
-    "review_count": 20,
-    "avg_rating": 4.95,
-    "avg_sentiment": 0.759,
-    "sample_reviews": [
-      "I am a host and i use the platform for traveling it is great!!",
-      "Great Host on sorrento towers junior sweet .5Starhost very helpful, and accommodating. Great experience.",
-      "Great very kind and considerate host"
-    ],
-    "label": "Positive Host Experience",
-    "category": "praise",
-    "root_cause": "Hosts provide friendly, accommodating service",
-    "priority": "low",
-    "priority_reason": "High rating and positive reviews indicate low priority",
-    "pm_action": "Send a thank-you note to the host and highlight their positive feedback in the host community newsletter"
-  },
-  {
-    "topic_id": 10,
-    "keywords": [
-      "air",
-      "bnb",
-      "air bnb",
-      "account",
-      "fraudulent",
-      "love"
-    ],
-    "review_count": 17,
-    "avg_rating": 3.47,
-    "avg_sentiment": 0.286,
-    "sample_reviews": [
-      "host lied to air BNB and left a fraudulent review on my profile . air BNB didn't have us pay but left review on my account after saying they would deal with it. won't use again. Vrbo it is.",
-      "I love the air bnb app! It's so convenient! ",
-      "I love the absolute convenience of using Air BnB we used it our 1st trip and everything was absolutely amazing"
-    ],
-    "label": "Fraudulent Review Issue",
-    "category": "complaint",
-    "root_cause": "Host left a fraudulent review on the user's profile",
-    "priority": "medium",
-    "priority_reason": "Moderate rating and limited number of reviews",
-    "pm_action": "Investigate and tighten review verification process"
-  },
-  {
-    "topic_id": 11,
-    "keywords": [
-      "fast",
-      "fast easy",
-      "easy fast",
-      "easy",
-      "super simple",
-      "easy perfect"
-    ],
-    "review_count": 15,
-    "avg_rating": 4.73,
-    "avg_sentiment": 0.368,
-    "sample_reviews": [
-      "fast and easy",
-      "fast and easy",
-      "easy and fast"
-    ],
-    "label": "Fast and Easy Experience",
-    "category": "praise",
-    "root_cause": "Users appreciate the quick and simple booking process.",
-    "priority": "low",
-    "priority_reason": "Positive feedback with high rating indicates low urgency.",
-    "pm_action": "Highlight this feature in marketing materials."
+      "I'm unable to upload my ID",
+      "multifactor verification doesnt work",
+      "does not work, says \"something went wrong\" when signing up"
+    ]
   }
 ]
