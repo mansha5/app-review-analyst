@@ -7,34 +7,53 @@
       "video",
       "like",
       "update",
-      "channel"
+      "bad"
     ],
-    "review_count": 277,
-    "avg_rating": 3.08,
-    "avg_sentiment": 0.123,
+    "review_count": 237,
+    "avg_rating": 2.81,
+    "avg_sentiment": 0.07,
     "sample_reviews": [
-      "Youtube allows me to share my dreams \u2728\ufe0f and ideas with the rest of the world, connect with the rest of the world now.",
-      "the ad is way too much like I didn't even finish the 40 min video and I already got 14-15 ad what is this and some of them are un skipable ad what is this is it please fix it or else I will use other applications",
-      "yes good apps"
+      "why yt is deleting my subscribers everyday 2 to 3 times. I'm struggling and yt is deleting my subscribe. by 10 to 20 subscribers yt is deleting",
+      "plz updat my you tub",
+      "very bad i can't download videos no idea why"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
       "youtube",
-      "hi",
-      "got",
-      "update",
+      "bar",
+      "mere",
       "video",
-      "time"
+      "15",
+      "bro"
     ],
-    "review_count": 37,
-    "avg_rating": 3.43,
-    "avg_sentiment": 0.117,
+    "review_count": 35,
+    "avg_rating": 3.46,
+    "avg_sentiment": 0.003,
     "sample_reviews": [
-      "chalu nahi ho rha hai",
-      "Yooooooooooooo",
-      "Kisi bhi parkar ka jankari mil jata hai"
+      "fauji band Baja 03162158903",
+      "ba@ler app, ekta video te 15 ta kore ads dekhay",
+      "Mera you tube Nahi challenge data he meri help kero"
+    ]
+  },
+  {
+    "topic_id": 2,
+    "keywords": [
+      "thats",
+      "excellent",
+      "amazing",
+      "crazy",
+      "beautiful",
+      "quality"
+    ],
+    "review_count": 15,
+    "avg_rating": 4.6,
+    "avg_sentiment": 0.538,
+    "sample_reviews": [
+      "Good prosess",
+      "Good quality",
+      "Excellent Always"
     ]
   }
 ]

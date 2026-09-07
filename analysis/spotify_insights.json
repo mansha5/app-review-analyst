@@ -2,115 +2,77 @@
   {
     "topic_id": 0,
     "keywords": [
-      "spotify",
-      "music",
-      "love",
+      "ads",
       "songs",
+      "premium",
+      "song",
       "like",
-      "listening"
+      "love"
     ],
-    "review_count": 92,
-    "avg_rating": 4.17,
-    "avg_sentiment": 0.45,
+    "review_count": 285,
+    "avg_rating": 3.43,
+    "avg_sentiment": 0.261,
     "sample_reviews": [
-      "it is nice for sing alongs and other songs",
-      "It is very coll we switch only one music then all music is in my playlists",
-      "good enjoying Spotify is a great choice discovering new music and making playlists. "
+      "Numerous issues, constantly saying slow connection, my connection is fine all other apps work properly. All of a sudden decided not to play offline music that had been downloaded fine. App itself is slow and laggy. No excuse for a big corporate to have such a terrible app. Will not be renewing subscription.",
+      "it's ok to have ads in a app but what the hell is you can't skip the music and you can't go to the next song if I am not having a premium",
+      "best music platform I've ever seen"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "music",
-      "song",
-      "ads",
-      "songs",
-      "love",
-      "listening"
+      "experience",
+      "works",
+      "amazing",
+      "awesome",
+      "quality",
+      "ok"
     ],
-    "review_count": 69,
-    "avg_rating": 3.74,
-    "avg_sentiment": 0.347,
+    "review_count": 34,
+    "avg_rating": 4.53,
+    "avg_sentiment": 0.469,
     "sample_reviews": [
-      "A very good podcast provider. Occasionally it crashes or doesn't work, and generally works again after using the force stop function.",
-      "maganda tong app na to Kasi dito k\u00e0hit nag laro ka hindi mag sostop ang song hindi kagaya Ng youtube kaya download Nyonato to \u2764\ufe0f",
-      "Best app to use, just remove ad , this app is better than youtube in music..."
+      "Very nice f very good",
+      "blah blah blah",
+      "feels good \u2705"
     ]
   },
   {
     "topic_id": 2,
     "keywords": [
+      "excellent",
+      "world",
+      "waste",
+      "amazing",
       "love",
-      "experience",
-      "exceptional",
-      "say",
-      "awesome",
-      "love love"
+      "like"
     ],
-    "review_count": 43,
-    "avg_rating": 4.91,
-    "avg_sentiment": 0.477,
+    "review_count": 30,
+    "avg_rating": 4.53,
+    "avg_sentiment": 0.348,
     "sample_reviews": [
-      "broo thee best",
-      "all I can say wherever you want to start a party go ahead",
-      "i dont really need to say much"
+      "waste app in the world",
+      "excellent app ",
+      "amazing app"
     ]
   },
   {
     "topic_id": 3,
     "keywords": [
-      "premium",
-      "dont",
-      "songs",
-      "buy",
-      "play",
-      "buy premium"
+      "pls",
+      "try",
+      "let",
+      "amazing",
+      "ad",
+      "time"
     ],
-    "review_count": 37,
-    "avg_rating": 2.54,
-    "avg_sentiment": -0.091,
+    "review_count": 17,
+    "avg_rating": 3.94,
+    "avg_sentiment": 0.05,
     "sample_reviews": [
-      "love everything about it, just upset about the whole premium thing that if I don't buy premium, id have to go through three ads every 6songs and I can't choose what songs to play, skip, rewind to so it's basically an app that is choosing for you, no free will till you pay. aside from that, every feature is amazing on premium id say. they should cut at least some slack to non premium users",
-      "force to get premium ",
-      "can't choose songs you want to play without premium what is wrong with this app"
-    ]
-  },
-  {
-    "topic_id": 4,
-    "keywords": [
-      "love",
-      "connect",
-      "years",
-      "trash",
-      "love love",
-      "adds"
-    ],
-    "review_count": 35,
-    "avg_rating": 4.11,
-    "avg_sentiment": 0.334,
-    "sample_reviews": [
-      "this app is nice but for a fact when i dont have data it doesnt open",
-      "nice satisfied in this app ",
-      "love this app"
-    ]
-  },
-  {
-    "topic_id": 5,
-    "keywords": [
-      "ads",
-      "ads ads",
-      "bad",
-      "free",
-      "hate",
-      "ad"
-    ],
-    "review_count": 27,
-    "avg_rating": 2.81,
-    "avg_sentiment": 0.065,
-    "sample_reviews": [
-      "it's good but i hate at every moment ads",
-      "all great but one thing is bad too many ads",
-      "insufferable ads and CEO"
+      "nahi laalu ho raha",
+      "\u0986\u09aa\u09a8\u09bf \u099c\u09be\u09a8\u09c7\u09a8 \u0986\u09aa\u09a8\u09be\u0995\u09c7 \u0986\u09ae\u09bf \u09ac\u09be\u09a7\u09be \u09a6\u09bf\u09ac",
+      "Vijay Kumar Gupta"
     ]
   }
 ]

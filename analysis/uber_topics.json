@@ -5,36 +5,55 @@
       "uber",
       "driver",
       "ride",
-      "drivers",
-      "price",
-      "time"
+      "time",
+      "service",
+      "customer"
     ],
-    "review_count": 322,
-    "avg_rating": 3.35,
-    "avg_sentiment": 0.174,
+    "review_count": 242,
+    "avg_rating": 3.18,
+    "avg_sentiment": 0.124,
     "sample_reviews": [
-      "thanks for the wonderful rides!",
-      "Nice & easy to operate app with Offordabl e price...!",
-      "excellent service"
+      "best Application For Secure and fast Rides with low Charges and Friendly drivers",
+      "worst drivers.... every time they ask for extra money and if you refuse to pay extra they cancel the ride and then you also have to pay an extra penalty fee for making the driver wait and worst of customer services doesn't do anything in this matter",
+      "the best app to get a fast and nice ride"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "booking",
-      "bus",
-      "problem",
-      "emergency",
-      "low",
-      "uber"
+      "service",
+      "excellent service",
+      "excellent",
+      "polite",
+      "friendly",
+      "quick"
     ],
-    "review_count": 11,
-    "avg_rating": 2.36,
-    "avg_sentiment": -0.082,
+    "review_count": 54,
+    "avg_rating": 4.83,
+    "avg_sentiment": 0.486,
     "sample_reviews": [
-      "kuch jada he price hai",
-      "na mai ab uber pr booking karunga aur na mai kabhi uber par booking karne ki slah dunga kisi ko",
-      "sale chor hai Uber wale"
+      "good service",
+      "good very nice",
+      "Great service..."
+    ]
+  },
+  {
+    "topic_id": 2,
+    "keywords": [
+      "si",
+      "pr",
+      "payment",
+      "ride book",
+      "uber",
+      "cash"
+    ],
+    "review_count": 28,
+    "avg_rating": 2.46,
+    "avg_sentiment": -0.013,
+    "sample_reviews": [
+      "pr 100 ext liye ki dehli ki enteri hoti 100 ext me",
+      "Uber ek chor company hai iske sath koi bhi rider kam na Karen",
+      "ride nahi lete h"
     ]
   }
 ]

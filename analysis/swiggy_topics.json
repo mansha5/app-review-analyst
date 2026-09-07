@@ -2,58 +2,153 @@
   {
     "topic_id": 0,
     "keywords": [
-      "delivery",
-      "order",
       "swiggy",
-      "food",
+      "order",
       "customer",
-      "service"
+      "received",
+      "food",
+      "ordered"
     ],
-    "review_count": 439,
-    "avg_rating": 2.41,
-    "avg_sentiment": -0.074,
+    "review_count": 56,
+    "avg_rating": 1.59,
+    "avg_sentiment": -0.232,
     "sample_reviews": [
-      "People use Swiggy to order food, not to trade cryptocurrency. Why are you promoting CoinDCX crypto trading on a food-delivery platform? Ordinary users may be influenced to trade without fully understanding the risks. If they lose their hard-earned money, will Swiggy take responsibility? Your reply about sharing food-ordering experience completely misses my concern. My question is simple: Why promote high-risk crypto trading to innocent users through a platform they trust for food? Is this respon",
-      "mC worst service",
-      "Very easy to use especially im new to this"
+      "cheated my payment",
+      "I order food (jalebi) on Swiggy of Rs. 247, but I was served stale food. i contacted with their support but they just can't do anything about it and offered me coupon on 61. Worst experience, you guys must pay attention to your customer service. this was totally deficiency in service. Consumer council must take some action to rectify customer support of these online platforms .",
+      "One of my go to app, Love you Swiggy!"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "ke",
-      "order",
-      "oder",
-      "bhai",
-      "tha",
-      "charge"
+      "service",
+      "customer",
+      "care service",
+      "customer care",
+      "care",
+      "service worst"
     ],
-    "review_count": 40,
-    "avg_rating": 2.4,
-    "avg_sentiment": 0.043,
+    "review_count": 55,
+    "avg_rating": 4.04,
+    "avg_sentiment": 0.271,
     "sample_reviews": [
-      "Chor Fraudster, aur ye tb he jb \u0939\u092e local market se 1.5 to 2.0timea pay krte he \u0915\u092d\u0940 repeat item bhej \u0926\u0947\u0924\u0947 \u0939\u0948 \u0915\u092d\u0940 item missing \u0939\u094b\u0924\u0947 he aur refund ke nam pr 50 rs ka coupon.. kya \u092c\u0915\u0935\u093e\u0938 he ye.. Fraudsters",
-      "delevery boy ki galti h or mujhe charge ker diye paise bakwas h Swiggy aap or itna mehenga charge krta ishe badiya toin h",
-      "preepaid order mai bewkuf bnati hai sbse bekr servers hai"
+      "good service",
+      "good service",
+      "well long distance"
     ]
   },
   {
     "topic_id": 2,
     "keywords": [
-      "service service",
-      "service",
-      "excellent service",
-      "sweet",
-      "excellent",
-      "super"
+      "food",
+      "worst",
+      "dont",
+      "delivery",
+      "froud",
+      "deliver"
     ],
-    "review_count": 22,
-    "avg_rating": 4.86,
-    "avg_sentiment": 0.465,
+    "review_count": 48,
+    "avg_rating": 2.65,
+    "avg_sentiment": -0.003,
     "sample_reviews": [
-      "good service",
-      "good service",
-      "good service"
+      "nice app ,, feedback is good",
+      "nice app food delivery app",
+      "totally worst delivery app with no Customer Support"
+    ]
+  },
+  {
+    "topic_id": 3,
+    "keywords": [
+      "nahi",
+      "chor",
+      "ka",
+      "bhi",
+      "order",
+      "liye"
+    ],
+    "review_count": 46,
+    "avg_rating": 2.41,
+    "avg_sentiment": 0.005,
+    "sample_reviews": [
+      "thanks Bhai",
+      "bahut \u0905\u091a\u094d\u091b\u093e",
+      "phle pahucha"
+    ]
+  },
+  {
+    "topic_id": 4,
+    "keywords": [
+      "super",
+      "useful",
+      "night",
+      "honestly",
+      "think",
+      "results"
+    ],
+    "review_count": 36,
+    "avg_rating": 4.72,
+    "avg_sentiment": 0.524,
+    "sample_reviews": [
+      "very very nice",
+      "super rider",
+      "very kind person"
+    ]
+  },
+  {
+    "topic_id": 5,
+    "keywords": [
+      "delivery",
+      "fast",
+      "fast delivery",
+      "late",
+      "late delivery",
+      "delivery fast"
+    ],
+    "review_count": 31,
+    "avg_rating": 3.19,
+    "avg_sentiment": 0.089,
+    "sample_reviews": [
+      "delivery is always late and much different than the estimated time they show everytime.",
+      "Quick delivery.",
+      "worst service given by your company...I ordered at 10:09 am with bolt delivery that your company say food will be delivered in 10-15 mins but after waiting for 43 mins you are not supposed to deliver that order.as I said to your agent on customer service that I will not accept that order after 10:50 am then your delivery partner take my words and cancel that order.is this your accountability on order?delay is your company failure what about my time who waited for 42-43 mins."
+    ]
+  },
+  {
+    "topic_id": 6,
+    "keywords": [
+      "cancelled",
+      "order",
+      "order cancelled",
+      "cancel",
+      "minutes",
+      "hour"
+    ],
+    "review_count": 19,
+    "avg_rating": 1.21,
+    "avg_sentiment": -0.357,
+    "sample_reviews": [
+      "very bad experience. I ordered 1 item for a occasion after 20 minutes they canceled my item.",
+      "Such an idiot customer care service the delevery was already late and when I asked why that is they offered to cancel and when I said give me the status as the eta was at 19 minutes for 20 minutes straight and suddenly the order is cancelled",
+      "order cancelled after 30 min without any reason"
+    ]
+  },
+  {
+    "topic_id": 7,
+    "keywords": [
+      "price",
+      "high",
+      "prices",
+      "charges",
+      "high price",
+      "stopped"
+    ],
+    "review_count": 11,
+    "avg_rating": 2.55,
+    "avg_sentiment": -0.23,
+    "sample_reviews": [
+      "prices are high compared to others. also instamart has stopped delivering our area for few months. I stopped using Swiggy now.",
+      "Food price is very high",
+      "it's very high price. low price kijiye."
     ]
   }
 ]

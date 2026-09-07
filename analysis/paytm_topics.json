@@ -3,152 +3,152 @@
     "topic_id": 0,
     "keywords": [
       "paytm",
+      "open",
+      "pending",
+      "update",
       "payment",
-      "device",
-      "environment",
-      "problem",
-      "working"
+      "login"
     ],
-    "review_count": 235,
-    "avg_rating": 3.2,
-    "avg_sentiment": 0.159,
+    "review_count": 70,
+    "avg_rating": 3.03,
+    "avg_sentiment": 0.019,
     "sample_reviews": [
-      "my best app paytm",
-      "Lately this app's metro payment feature has started to glitch. I paid for the metro ticket but QR didn't get generated & I had to pay again in cash. I kept checking the app for half an hour & it was still in pending state. Their stupid AI chatbot said that if the payment fails it will be refunded. The next day, i checked again but now the app shows that the payment is successful and the QR code has also gotten generated but expired. Their chatbot says that i am not eligible for refund",
-      "best payment app"
+      "Shivam pal Shivam",
+      "mera bank add nahin ho raha hai to usko please add kar lijiye",
+      "achha reha sab kuch"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "application",
-      "platform",
-      "times",
-      "love",
-      "useful",
-      "years"
+      "device",
+      "update",
+      "working",
+      "environment",
+      "phone",
+      "environment correct"
     ],
-    "review_count": 68,
-    "avg_rating": 4.59,
-    "avg_sentiment": 0.483,
+    "review_count": 65,
+    "avg_rating": 2.12,
+    "avg_sentiment": 0.047,
     "sample_reviews": [
-      "Very Stable App And I use Since 5 years Continuously",
-      "Performance during video calls stays steady and clear.",
-      "ok good app "
+      "this app is forcing me to uninstall important apps on my device that use accessibility",
+      "what is the device environment not match bug? everytime whole ui gets updated are u guys developing with claude for this app is became too much buggy from past 5-6 months truly unsatisfied paytm????",
+      "can log in this app always shows environment not good for device please solve it"
     ]
   },
   {
     "topic_id": 2,
     "keywords": [
-      "upi",
-      "paytm",
-      "pay",
-      "log",
-      "number",
-      "koi"
+      "service",
+      "experience",
+      "excellent",
+      "safe",
+      "amazing",
+      "working"
     ],
-    "review_count": 45,
-    "avg_rating": 3.29,
-    "avg_sentiment": 0.101,
+    "review_count": 62,
+    "avg_rating": 4.61,
+    "avg_sentiment": 0.397,
     "sample_reviews": [
-      "excellent bhot badhiya he bhai genuinely \u263a\ufe0f",
-      "Spain mein Koi bhi cashback nahin milta ek gold coin Se jyada nahin milta Hai Kisi bhi payment mein",
-      "\u0905\u0926\u094d\u092d\u0941\u0924 AI \u092a\u093e\u0938\u092c\u0941\u0915 \u091c\u0948\u0938\u0947 \u0915\u094d\u0930\u093e\u0902\u0924\u093f\u0915\u093e\u0930\u0940 \u092b\u093c\u0940\u091a\u0930\u094d\u0938 \u0914\u0930 \u0936\u093e\u0928\u0926\u093e\u0930 \u0935 \u0905\u0924\u093f \u0938\u0941\u0902\u0926\u0930 \u0907\u0902\u091f\u0930\u092b\u093c\u0947\u0938 \u0915\u0947 \u0938\u093e\u0925 \u0938\u0941\u0930\u0915\u094d\u0937\u093f\u0924 \u0914\u0930 \u0924\u0947\u091c\u093c UPI \u0905\u0928\u0941\u092d\u0935\u0964 \u0905\u092a\u0928\u0940 \u092d\u093e\u0930\u0924\u0940\u092f \u092b\u093f\u0928\u091f\u0947\u0915 \u0915\u0902\u092a\u0928\u0940 \u0935 UPI \u0938\u0947\u0935\u093e \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930\u0928\u0947 \u0935\u093e\u0932\u0940 \u0915\u0902\u092a\u0928\u0940,\u0939\u092e\u0947\u0902 Paytm UPI \u0915\u094b \u092c\u0922\u093c\u093e\u0935\u093e \u0926\u0947\u0928\u093e \u091a\u093e\u0939\u093f\u090f \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u092d\u0930\u094b\u0938\u0947,\u0938\u0941\u0930\u0915\u094d\u0937\u093e \u0914\u0930 \u0938\u093f\u0915\u094d\u092f\u094b\u0930\u093f\u091f\u0940 \u0915\u0947 \u092e\u093e\u092e\u0932\u0947 \u092e\u0947\u0902 \u092f\u0939 Google Pay, PhonePe \u0914\u0930 Amazon Pay \u091c\u0948\u0938\u0940 \u0905\u092e\u0947\u0930\u093f\u0915\u0940 \u092b\u093f\u0928\u091f\u0947\u0915 UPI \u0938\u0930\u094d\u0935\u093f\u0938 \u0926\u0947\u0928\u0947 \u0935\u093e\u0932\u0940 \u0915\u0902\u092a\u0928\u093f\u092f\u094b\u0902 \u0938\u0947 \u0915\u0939\u0940\u0902 \u092c\u0947\u0939\u0924\u0930 \u0939\u0948\u0964 \u092e\u0948\u0902 2023 \u0938\u0947 \u0907\u0938\u0915\u093e \u0907\u0938\u094d\u0924\u0947\u092e\u093e\u0932 \u0915\u0930 \u0930\u0939\u0940 \u0939\u0942\u0901 \u0914\u0930 Paytm \u0915\u0947 \u0938\u093e\u0925 \u0905\u092a\u0928\u0947 \u0905\u0928\u0941\u092d\u0935 \u0915\u094b \u0915\u0941\u091b \u0932\u093e\u0907\u0928\u094b\u0902 \u092e\u0947\u0902 \u092c\u092f\u093e\u0902 \u0915\u0930 \u092a\u093e\u0928\u093e \u092e\u0947\u0930\u0947 \u0932\u093f\u090f \u0938\u0902\u092d\u0935 \u0928\u0939\u0940\u0902 \u0939\u0948\u0902 \u0964 \u0927\u0928\u094d\u092f\u0935\u093e\u0926 Paytm"
+      "very nice eisly",
+      "very nice and excellent service \u2764\ufe0f\u2764\ufe0f",
+      "very helpful"
     ]
   },
   {
     "topic_id": 3,
     "keywords": [
-      "work",
-      "verry",
-      "super",
-      "like",
+      "easy",
+      "user",
+      "application",
+      "useful",
       "excellent",
-      "sir"
+      "upi"
     ],
-    "review_count": 23,
-    "avg_rating": 5.0,
-    "avg_sentiment": 0.51,
+    "review_count": 54,
+    "avg_rating": 4.63,
+    "avg_sentiment": 0.431,
     "sample_reviews": [
-      "very very nice",
-      "good better best",
-      "most beautiful"
+      "very good app",
+      "I Love this app very faster.",
+      "very excellent app"
     ]
   },
   {
     "topic_id": 4,
     "keywords": [
-      "fast",
-      "super fast",
-      "secure",
-      "super",
-      "speed",
-      "awesome"
+      "paytm",
+      "number",
+      "issue",
+      "account",
+      "mobile",
+      "care"
     ],
-    "review_count": 22,
-    "avg_rating": 4.95,
-    "avg_sentiment": 0.393,
+    "review_count": 45,
+    "avg_rating": 2.16,
+    "avg_sentiment": 0.027,
     "sample_reviews": [
-      "fast and awesome no extra charge...just love it..",
-      "faster than earlier",
-      "good abd faster"
+      "plateform fee issue",
+      "keep asking me to turn off mobile data when I'm on mobile data itself and have turned off wifi when trying to link my account.",
+      "Paytm Not working open the app bt direct play store problem"
     ]
   },
   {
     "topic_id": 5,
     "keywords": [
-      "service",
-      "excellent",
-      "hassle",
-      "hassle free",
-      "poor service",
-      "free"
+      "payment",
+      "easy",
+      "money",
+      "payments",
+      "reliable",
+      "payment payment"
     ],
-    "review_count": 17,
-    "avg_rating": 4.29,
-    "avg_sentiment": 0.369,
+    "review_count": 31,
+    "avg_rating": 4.81,
+    "avg_sentiment": 0.462,
     "sample_reviews": [
-      "excellent service",
-      "very useful quick & satisfactory services",
-      "nice service"
+      "This is the good payment app and also secured.....",
+      "BEST PAYMENT APP FOREVER ",
+      "beacouse it has pocket money it s help full for my child she lives in hostel so she can do UPI payments"
     ]
   },
   {
     "topic_id": 6,
     "keywords": [
-      "experience",
-      "superb",
-      "thanks",
-      "details",
+      "paytm",
+      "upi",
+      "paytm paytm",
       "better",
-      "excellent"
+      "service",
+      "love"
     ],
-    "review_count": 16,
-    "avg_rating": 4.94,
-    "avg_sentiment": 0.472,
+    "review_count": 24,
+    "avg_rating": 4.46,
+    "avg_sentiment": 0.402,
     "sample_reviews": [
-      "good experience.. thanks",
-      "excellent experience",
-      "very good experience"
+      "Explore more Benifits of Paytm I am satisfied with your service.Thanks for your service.",
+      "i love paytm jiiiii t",
+      "nice and easy mobile recharge on Paytm"
     ]
   },
   {
     "topic_id": 7,
     "keywords": [
-      "easy",
-      "useful easy",
-      "useful",
-      "simple",
-      "excellent",
-      "useful excellent"
+      "cashback",
+      "loan",
+      "scam",
+      "fake",
+      "rs",
+      "make"
     ],
-    "review_count": 16,
-    "avg_rating": 5.0,
-    "avg_sentiment": 0.521,
+    "review_count": 15,
+    "avg_rating": 1.6,
+    "avg_sentiment": -0.338,
     "sample_reviews": [
-      "quick and easy.",
-      "very easy and simple.",
-      "very easy to use"
+      "Fraud!! Fake rewards and cashbacks , an offer which claims \" cashback of 15-30rs on first three transactions through QR \" and as expected , it's a fake offer didn't even got a penny as cashback . The offers displayed are just to make us pay through this app but aren't actually true . Don't know how these kind of fraud applications are allowed .It's performance makes us doubt if it is from china",
+      "not coming cashback",
+      "fake cashback scam"
     ]
   }
 ]

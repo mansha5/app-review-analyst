@@ -3,14 +3,14 @@
     "topic_id": 0,
     "keywords": [
       "learning",
-      "game",
       "learn",
       "fun",
       "easy",
-      "chess"
+      "chess",
+      "language"
     ],
-    "review_count": 93,
-    "avg_rating": 4.66,
+    "review_count": 98,
+    "avg_rating": 4.63,
     "avg_sentiment": 0.475,
     "sample_reviews": [
       "very good and awsome like i can learn every language in this aapp",
@@ -28,9 +28,9 @@
       "english",
       "japanese"
     ],
-    "review_count": 75,
-    "avg_rating": 4.48,
-    "avg_sentiment": 0.582,
+    "review_count": 77,
+    "avg_rating": 4.39,
+    "avg_sentiment": 0.567,
     "sample_reviews": [
       "it's the best app for learn how to speak other languages",
       "the best app ever helps with learning I'm learning Japanese I love it more apps like this please",
@@ -45,15 +45,15 @@
       "words",
       "learning",
       "like",
-      "super"
+      "languages"
     ],
     "review_count": 59,
-    "avg_rating": 4.17,
-    "avg_sentiment": 0.481,
+    "avg_rating": 4.1,
+    "avg_sentiment": 0.469,
     "sample_reviews": [
+      "Duolingo\u2019s treatment of Iranians and Persian speakers is disgraceful. Persian is one of the world\u2019s major languages, spoken by millions, with countless people actively asking Duolingo to add it. Yet year after year, Duolingo continues to ignore Persian and its speakers. Now the company has gone even further by excluding Iranians from taking the Duolingo English Test. Ordinary people are being denied educational opportunities because of their nationality and Iranian identification.",
       "I think you should download as well as soon btw this app is very useful in future and Duolingo is soo cute ",
-      "Duolingo is so so very best",
-      "I like Spanish pls don't kill me"
+      "Duolingo is so so very best"
     ]
   },
   {
@@ -67,8 +67,8 @@
       "love"
     ],
     "review_count": 49,
-    "avg_rating": 4.39,
-    "avg_sentiment": 0.455,
+    "avg_rating": 4.45,
+    "avg_sentiment": 0.491,
     "sample_reviews": [
       "I love using this app. Really fun",
       "wonderful app with great methodology",
@@ -79,15 +79,15 @@
     "topic_id": 4,
     "keywords": [
       "love",
-      "amazing",
+      "helpful",
       "wow",
-      "loving",
+      "amazing",
       "yes",
       "man"
     ],
-    "review_count": 26,
+    "review_count": 27,
     "avg_rating": 4.81,
-    "avg_sentiment": 0.579,
+    "avg_sentiment": 0.548,
     "sample_reviews": [
       "very nice and cool",
       "I really enjoyed it",
@@ -117,19 +117,19 @@
     "topic_id": 6,
     "keywords": [
       "way",
+      "time",
       "learn",
       "learning",
-      "time",
       "love",
       "friendly"
     ],
-    "review_count": 20,
-    "avg_rating": 4.5,
-    "avg_sentiment": 0.57,
+    "review_count": 21,
+    "avg_rating": 4.38,
+    "avg_sentiment": 0.507,
     "sample_reviews": [
+      "Obnoxious The app has become too obnoxious, with flashing lights, shaking, and vibration. More time spent on ads and silly \"gamefication\" videos than on actual exercises.",
       "its greate learning app and i love it",
-      "It's been just 2 days and I've improved so well. I would have made alot of progress by the time I get to 1 month for sure. it's definitely a good learning app.",
-      "it very \u00e9ducative app"
+      "It's been just 2 days and I've improved so well. I would have made alot of progress by the time I get to 1 month for sure. it's definitely a good learning app."
     ]
   }
 ]

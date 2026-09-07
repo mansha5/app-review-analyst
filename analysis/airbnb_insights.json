@@ -3,76 +3,76 @@
     "topic_id": 0,
     "keywords": [
       "easy",
-      "user",
+      "book",
       "friendly",
+      "user",
       "user friendly",
-      "excellent",
-      "easy easy"
+      "easy book"
     ],
-    "review_count": 67,
-    "avg_rating": 4.88,
-    "avg_sentiment": 0.454,
+    "review_count": 105,
+    "avg_rating": 4.75,
+    "avg_sentiment": 0.425,
     "sample_reviews": [
-      "faster & chiper",
-      "Easy to use and I have good experience with this.",
-      "So reliable."
+      "Great experience",
+      "it is amazing",
+      "good great wonderful amazing"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "places",
-      "place",
-      "stay",
-      "locations",
-      "option",
-      "search"
+      "love",
+      "basic",
+      "update",
+      "address",
+      "convenient",
+      "easy"
     ],
-    "review_count": 56,
-    "avg_rating": 4.29,
-    "avg_sentiment": 0.406,
+    "review_count": 70,
+    "avg_rating": 4.14,
+    "avg_sentiment": 0.366,
     "sample_reviews": [
-      "Just enjoy some time alone and it is great. Needed the tiny house experience. Great ",
-      "Easy to use. Easy to browse and view multiple different locations in any area. Easy to book when the right location is found. Many different options to choose from. Houses, condos, apartments, tiny homes, shared living, guest houses, hotels. Any type of place you have in mind is easy to look for.",
-      "Good experience. However I would like a filter for 'pet free' properties to save me time."
+      "It even works in Algeria!",
+      "Hosts and locations are great! App is very useful.",
+      "Extremely difficult app to use. Not intuitive."
     ]
   },
   {
     "topic_id": 2,
     "keywords": [
       "airbnb",
-      "especially",
-      "hotels",
-      "stay",
-      "makes",
-      "experience"
+      "support",
+      "booked",
+      "host",
+      "house",
+      "hosts"
     ],
-    "review_count": 45,
-    "avg_rating": 4.27,
-    "avg_sentiment": 0.419,
+    "review_count": 67,
+    "avg_rating": 2.9,
+    "avg_sentiment": 0.076,
     "sample_reviews": [
-      "It's the best platform for short-term rentals, experiences, and services, and it has incredibly heartfelt and human-oriented customer service.",
-      "I've been using Airbnb for a few years and am a fan of their customer support service. Love being able to see other guests reviews and making travel decisions based on their suggestions and travel information!.",
-      "use hotels its much better than air bnb"
+      "\u200b Absolute nightmare. Booked a unit for my family, including elderly relatives. They checked in at 11 PM and walked in on strangers sitting on the sofa\u2014the host double-booked the listing. Leaving elderly guests stranded at midnight is unacceptable and a severe safety failure. Airbnb support offered zero real help beyond a basic refund and a useless 20% credit. Unsafe host management and terrible customer support. Avoid.",
+      "I attempted to make a reservation for my family because my AC got cut off and they flagged my reservation as a possibly trying to throw a party. I made an appeal which got denied and then tried to rebook and called Airbnb to explain my situation. the location I was trying to book was perfect for my family because it was close to my kids school. then they suspended my account due to making multiple requests. my family is now sitting in a 90\u00b0 house in the middle of Arizona.",
+      "Airbnb's policy in India is terrible. They only care about business; they don't make decisions in the interest of the hosts."
     ]
   },
   {
     "topic_id": 3,
     "keywords": [
-      "love",
+      "places",
       "easy",
-      "working",
-      "work",
-      "happy",
-      "absolutely love"
+      "stay",
+      "place",
+      "way",
+      "travel"
     ],
-    "review_count": 42,
-    "avg_rating": 4.76,
-    "avg_sentiment": 0.581,
+    "review_count": 45,
+    "avg_rating": 4.87,
+    "avg_sentiment": 0.567,
     "sample_reviews": [
-      "exelent app",
-      "Very convenient app",
-      "An app, which depends so much on Photos. And you decide to make landscape mode not working. Ridiculous."
+      "Our go-to for vacations.",
+      "Good. it is fast and reliable. But do your research of the location yourself. Way cheaper than hotel options. Would recommend to use airBNB for your \"headquarters\" in a city.",
+      "Always easy to use and great places to stay! Easy communication with owners!"
     ]
   },
   {
@@ -80,113 +80,75 @@
     "keywords": [
       "booking",
       "reservation",
+      "book",
+      "setting",
       "love",
-      "fees",
-      "process",
-      "able"
+      "dates"
     ],
-    "review_count": 34,
-    "avg_rating": 3.97,
-    "avg_sentiment": 0.373,
+    "review_count": 33,
+    "avg_rating": 3.61,
+    "avg_sentiment": 0.279,
     "sample_reviews": [
-      "an amazing app for booking amazing places.",
-      "very detailed and easy reservation",
-      "I love the availability of properties, pricing, and the ease of the in-app booking process."
+      "This app makes it so easy to review any bookings or reservations you may have. And it is the easiest way to reach out to your hosts and ask questions , make changes, or clarify any issues.",
+      "new to the app need to use them any kind of home new to using home apps for rent no I want to say that it was terrible they won't let you book until you book some hotel rooms so if you are in the emergency make sure you do this 3 to 6 months prior and spend extra money for no reason even though you don't need it just so they can see that you are ready to book something probably is the worst process I've ever gone through",
+      "Easy booking experience"
     ]
   },
   {
     "topic_id": 5,
     "keywords": [
-      "airbnb",
-      "host",
-      "support",
-      "money",
       "customer",
-      "review"
+      "service",
+      "customer service",
+      "customer support",
+      "terrible customer",
+      "horrible"
     ],
-    "review_count": 33,
-    "avg_rating": 1.15,
-    "avg_sentiment": -0.357,
+    "review_count": 17,
+    "avg_rating": 3.0,
+    "avg_sentiment": -0.018,
     "sample_reviews": [
-      "Horrible experience trying to rent a place! customer service was awful and wont call you back! I can say my host was amazing through it all!",
-      "company sends out scam emails about account being deleted if you don't login within 7 days. when you contact them about it, they claim it the email was not sent by them. which is a lie. its not a fishing email, it's literally Airbnb trying to encourage a login to get you to reinstall the app and possibly book. scam of a company",
-      "I used Airbnb once and I had to cancel my reservation a few times due to weather issues . unfortunately Airbnb decided they are entitled to use my money as they please . so they kept my money on their app for futures reservation without my approval. im not a big travel I m no going to use it in the near future so I guess I loss my money. After i reached out to them they basically say sorry our system does not allow refunds after credits are issues . beware with who you trust with your finances."
+      "nothing to complain very good service",
+      "Poor customer service horrible experience with this company I will never use them again.",
+      "Customer Service is appalling"
     ]
   },
   {
     "topic_id": 6,
     "keywords": [
-      "customer",
-      "service",
-      "customer service",
-      "worst",
-      "code",
-      "rented"
+      "price",
+      "fees",
+      "people",
+      "company",
+      "host",
+      "fee"
     ],
-    "review_count": 22,
-    "avg_rating": 1.59,
-    "avg_sentiment": -0.243,
+    "review_count": 17,
+    "avg_rating": 1.88,
+    "avg_sentiment": -0.185,
     "sample_reviews": [
-      "bank details are not safe",
-      "Terrible customer service",
-      "Dont recommend this is the worst service ever you can have .. they also used your credit card after your stay to deduct any fees they required without your approval"
+      "transparent pricing, very clear information",
+      "save yourself the headache and rent at a hotel for the same price. my last trip was an absolute rip off scam",
+      "the Hosts are getting out of hand with security deposits and whatnot. why would I pay a higher price and have to clean up after myself when I can just stay in a hotel and not be bothered. You can't even trust the reviews because if you give a host a bad review they will give you a bad review as a tenit and you will not get accepted to another place."
     ]
   },
   {
     "topic_id": 7,
     "keywords": [
-      "experience",
-      "far",
-      "trips",
-      "trip",
-      "experiences",
-      "amazing"
-    ],
-    "review_count": 19,
-    "avg_rating": 4.89,
-    "avg_sentiment": 0.544,
-    "sample_reviews": [
-      "Amazing stays! memorable trips!!",
-      "Nice experience",
-      "So good so far!"
-    ]
-  },
-  {
-    "topic_id": 8,
-    "keywords": [
-      "useless",
-      "download",
-      "platform",
-      "completely",
-      "crazy",
-      "update"
+      "code",
+      "verification",
+      "work",
+      "pictures",
+      "phone",
+      "does"
     ],
     "review_count": 12,
-    "avg_rating": 1.58,
-    "avg_sentiment": -0.459,
+    "avg_rating": 1.92,
+    "avg_sentiment": -0.145,
     "sample_reviews": [
-      "website seems purposefully broken with an insane captcha to force users to download the app. prices are way overinflated and the whole system has made becoming a new homeowner prohibitively expensive",
-      "Both the platform and the app went down in quality these last years. This summer alone we faced at least three accommodations with disgusting hygiene, and seeking help through the app meant the typical AI chatbot dead-end. We also lost money to a horrible host, seeing how the conflict resolution process on the app AND on the platform is designed for them to charge you without a possibility to truly challenge the dishonest host. It was great once, but I will happily move on to any competitor.",
-      "Host for 7 years and the app is getting worse. Messages, notifications, and calendar bookings take forever to load,guests waiting at the door can thank the devs. Allowing guests to delete chat messages, even after being read, makes dispute resolution a joke. Are you crazy? Basic features requested for years, like blocking check-ins on specific dates instead of weekdays, are still missing. Give me the codebase, I'd ship it in 20 min with Claude Code. Fix the basics instead of breaking them!"
-    ]
-  },
-  {
-    "topic_id": 9,
-    "keywords": [
-      "apps",
-      "idea",
-      "id",
-      "useless",
-      "world",
-      "booking"
-    ],
-    "review_count": 11,
-    "avg_rating": 4.27,
-    "avg_sentiment": 0.129,
-    "sample_reviews": [
-      "Es genial poder encontrar diversas opciones",
-      "apps airbnb lagi mudah untuk saya complete kan booking saya. tak loading lama.",
-      "sangat mudah"
+      "I'm unable to upload my ID",
+      "multifactor verification doesnt work",
+      "does not work, says \"something went wrong\" when signing up"
     ]
   }
 ]

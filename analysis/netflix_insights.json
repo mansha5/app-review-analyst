@@ -2,153 +2,115 @@
   {
     "topic_id": 0,
     "keywords": [
-      "netflix",
-      "movies",
+      "movie",
+      "love",
       "watch",
-      "phone",
-      "im",
-      "streaming"
+      "like",
+      "enjoy",
+      "shows"
     ],
-    "review_count": 89,
-    "avg_rating": 3.7,
-    "avg_sentiment": 0.408,
+    "review_count": 153,
+    "avg_rating": 4.52,
+    "avg_sentiment": 0.489,
     "sample_reviews": [
-      "i like Netflix. need more movies Asain please?",
-      "it's great though I was a bit sad that Star Trek is no longer available. Plenty of great features make Netflgaxkuh a worthwhile endeavor. Netflgaxkuh, a term of endearment.",
-      "The best app ever, and one that always waits for my delayed payments patiently. Thank you, Netflix."
+      "my favourite one",
+      "i love it i miss godzilla 2014",
+      "bring back my naruto and naruto Shippuden and detective Conan!!!"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "movie",
-      "love",
-      "season",
-      "watching",
-      "thank",
-      "wait"
+      "netflix",
+      "movies",
+      "new",
+      "subscription",
+      "shows",
+      "watch"
     ],
-    "review_count": 45,
-    "avg_rating": 4.8,
-    "avg_sentiment": 0.587,
+    "review_count": 98,
+    "avg_rating": 3.58,
+    "avg_sentiment": 0.25,
     "sample_reviews": [
-      "We need more series like these. Also Chinese dramas are worth watching but with fewer episodes",
-      "i love all the actors in this series!! I will definitely enjoy it!!",
-      "love this show, hope there's a second season."
+      "Netflix has officially filled the empty space in my life. No drama, no disappointment just endless entertainment and questionable sleep schedules. ",
+      "Netflix offers a great selection of movies and TV shows for every taste. Streaming quality is excellent, and the app is smooth and user-friendly",
+      "no old movies"
     ]
   },
   {
     "topic_id": 2,
     "keywords": [
-      "love",
-      "funny",
-      "awesome",
-      "outstanding",
-      "far",
-      "absolutely"
+      "hindi",
+      "audience",
+      "contents",
+      "tamil",
+      "customer",
+      "available"
     ],
-    "review_count": 34,
-    "avg_rating": 5.0,
-    "avg_sentiment": 0.586,
+    "review_count": 28,
+    "avg_rating": 3.21,
+    "avg_sentiment": 0.059,
     "sample_reviews": [
-      "I like it so much",
-      "Great content",
-      "Simply love it."
+      "kegemaran saya untuk menonton cerita cerita terkini memang syok",
+      "jab AI wrong information deta hai ki koi drama yha mil jayega fir bolega waha mil jayega. last me bolega ki maine aise hi guess krke bataya tha, agar aapko dekhna hai to Netflix ya prime video par Mila jayega. ab do bar galati kya to mai kyo manu ki last wala bhi sahi hoga kyo paisa kharcha karu",
+      "bhote accha ho muja ya pasand aya"
     ]
   },
   {
     "topic_id": 3,
     "keywords": [
-      "series",
-      "drama",
-      "action",
-      "available",
-      "moments",
-      "people"
+      "streaming",
+      "quality",
+      "movies",
+      "video",
+      "tv",
+      "graphics"
     ],
-    "review_count": 26,
-    "avg_rating": 3.73,
-    "avg_sentiment": 0.219,
+    "review_count": 28,
+    "avg_rating": 4.07,
+    "avg_sentiment": 0.428,
     "sample_reviews": [
-      "Extremely disappointed! You dubbed ' Korean action series only in Hindi. Why ignoring Tamil and South Indian action lovers? We need Tamil dubbed versions for all great K-Dramas immediately. Stop this Hindi bias!\" and why you not tamil dubbed in weak hero bloodhounds agent kim reactivated so many tamil people watching action Korean series please dubbed in tamil korean series",
-      "thankful Kasi finally almost us by #Jmfyang is available soon on Netflix",
-      "k drama c drama !!!! :)"
+      "Advance quality video in 4k and super many video upload at there to enjoy",
+      "very nice app but not much series or movies loving it ",
+      "This app is very good for me I can watch lots of movies and many other things for free I can watch movies in Hindi Bengali Tamil and many other languages There are no disturbances and the app is really good Netflix is also a very good app I think. "
     ]
   },
   {
     "topic_id": 4,
     "keywords": [
-      "awesome",
-      "add",
-      "entertainment love",
-      "everyday",
-      "annoying",
-      "performance"
+      "amazing",
+      "able",
+      "uninstall",
+      "free",
+      "platform",
+      "email"
     ],
-    "review_count": 25,
-    "avg_rating": 4.4,
-    "avg_sentiment": 0.433,
+    "review_count": 24,
+    "avg_rating": 4.04,
+    "avg_sentiment": 0.462,
     "sample_reviews": [
-      "awesome app for intertanment",
-      "love this app",
-      "your app does not survive configuration change, it's really annoying."
+      "love the app but would love it more if they put san andreas back on there",
+      "Nice entertainment app.",
+      "waste app in the play store"
     ]
   },
   {
     "topic_id": 5,
     "keywords": [
-      "streaming",
-      "videos",
-      "play",
-      "quality",
-      "disable",
-      "tv"
-    ],
-    "review_count": 21,
-    "avg_rating": 3.38,
-    "avg_sentiment": 0.253,
-    "sample_reviews": [
-      "one of the best streaming apps highly recommend",
-      "High-quality streaming with a massive catalog of original movies and shows. Smooth playback, offline downloads, and personalized profile features are outstanding.",
-      "can't play videos on the Galaxy tab s11. won't let you press the play button."
-    ]
-  },
-  {
-    "topic_id": 6,
-    "keywords": [
+      "sign",
       "account",
-      "profile",
-      "option",
-      "mobile",
-      "update",
-      "time"
+      "absolute",
+      "constantly",
+      "code",
+      "email"
     ],
-    "review_count": 18,
-    "avg_rating": 1.94,
-    "avg_sentiment": -0.111,
+    "review_count": 19,
+    "avg_rating": 2.21,
+    "avg_sentiment": 0.088,
     "sample_reviews": [
-      "Payment method is so annoying. Couldn't make a payment. STOP SUBCRIBE, DELETE ACCOUNT.",
-      "Responds quickly to issues.",
-      "cant do anything with out the personalization email. no one else in the family has had to do this. I am not the account holder and I dont want to link my email and it gives no no other option."
-    ]
-  },
-  {
-    "topic_id": 7,
-    "keywords": [
-      "options",
-      "like content",
-      "different",
-      "got",
-      "plenty options",
-      "plenty"
-    ],
-    "review_count": 13,
-    "avg_rating": 2.77,
-    "avg_sentiment": -0.037,
-    "sample_reviews": [
-      "too expensive",
-      "plenty of options",
-      "Not what it used to be."
+      "this is good but subscription",
+      "login gagal terus",
+      "no avaliable help or customer service"
     ]
   }
 ]

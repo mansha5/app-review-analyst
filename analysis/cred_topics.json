@@ -2,77 +2,39 @@
   {
     "topic_id": 0,
     "keywords": [
-      "cred",
-      "credit",
-      "card",
-      "payment",
       "support",
-      "credit card"
+      "customer",
+      "worst",
+      "experience",
+      "dont",
+      "service"
     ],
-    "review_count": 260,
-    "avg_rating": 1.94,
-    "avg_sentiment": -0.001,
+    "review_count": 290,
+    "avg_rating": 2.02,
+    "avg_sentiment": 0.037,
     "sample_reviews": [
-      "Beware : Fraud App don't use this app.",
-      "CRED gives good cashback, but customer support is frustrating. No support phone number. After several UPI failures, the chatbot blocked me from reaching an agent. I posted a review here and sent email reminders; Cred agent called after 12 days of failed transactions . \" Call me \" link is hidden under \u201cMiscellaneous\u201d, followed by irrelevant options like vehicle inspection and KYC. Even \u201cCall me now\u201d leads to more steps and uploads. Good cashback doesn't justify such poor support accessibility.",
-      "UI is bad please change it, You can make the customer experience and customer acquisition very very good because of your UI you are not expanding like Gpay and PhonePe and dont show Always set up fingerprint for UPI payments its not good and please remove the clutter of all ads and all the things from the main dashboard it not looks clean its a payment app to make fast payment therefore these reasons the gpay and phonepe has taken 90% market share because you dont see the competitors app"
+      "CRED previously had a very useful feature where, for each credit card, you could easily view the current spend and last statement spend from the card screen. Recently, this option seems to have been removed or is a bug. It made tracking credit-card expenses and comparing the current billing cycle with the previous statement extremely convenient. Please bring this feature back, or provide an equivalent way to view current cycle spend and previous statement spend for each card.",
+      "false app never gives cashback as promised.",
+      "it has gave me vry worst exp whn its cust care has treated my tickt 25982024 on 6sept mrng 7 am so carelessly & put my call on hold & disappeared fr my sudden debit of 43k fr using cred.club this is totally a fraud i m so worried abt my money. shame on such incompetent custoner care and pathetic service whr in u debit customers money in suspicious account to cause scam"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
       "excellent",
-      "experience",
       "awesome",
+      "experience",
+      "experience customer",
       "happy",
-      "service",
-      "useful"
+      "simply"
     ],
-    "review_count": 48,
-    "avg_rating": 4.54,
-    "avg_sentiment": 0.457,
+    "review_count": 49,
+    "avg_rating": 4.82,
+    "avg_sentiment": 0.506,
     "sample_reviews": [
-      "third class app.. guys please don't use this app..",
-      "really good service ",
-      "very good app"
-    ]
-  },
-  {
-    "topic_id": 2,
-    "keywords": [
-      "update",
-      "working",
-      "open",
-      "slow",
-      "time",
-      "unable"
-    ],
-    "review_count": 27,
-    "avg_rating": 2.04,
-    "avg_sentiment": 0.05,
-    "sample_reviews": [
-      "app is keeps on crashing after latest update",
-      "worse ui getting worse and sluggish",
-      "App working too slow"
-    ]
-  },
-  {
-    "topic_id": 3,
-    "keywords": [
-      "fake",
-      "nahi",
-      "apps",
-      "voucher",
-      "cashback",
-      "flipkart"
-    ],
-    "review_count": 21,
-    "avg_rating": 2.1,
-    "avg_sentiment": 0.114,
-    "sample_reviews": [
-      "Cashback ke liye download kiya tha shuruwat me dete they ab voucher pe voucher pakdaye jaa rhe hai. Isse acha to Amazon Pay hai waha pe cashback bhi milta hai aur saare credit cards ke bills ka bhi pta chal jata hai. I knew ki integrity wala reply aega, cashback dena shuru karo sab normal ho jaega.",
-      "sabse bakvass app hai es se bahut jald fraud kar leta hai mera 10000/- nuksaan kar diya kisi ne call forwarding kar ke call ke through OTP se logins kar liaa massage ke OTP se nahi hota but call k through kar lia es me call ke through OTP login rahna bahut bad hai",
-      "very good apps bahut acchi app se yah bahut acchi apps hai ismein finance ki suvidha bhi hai aur bil subah 11 ki suvidha bhi hai yah bahut acchi apps hai"
+      "Very nice it's ok thanks for you",
+      "Nice help us app",
+      "good and best app"
     ]
   }
 ]

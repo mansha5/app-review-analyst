@@ -1,366 +1,390 @@
 {
   "airbnb": {
     "app_name": "airbnb",
-    "total_reviews": 410,
-    "avg_rating": 3.86,
-    "avg_sentiment": 0.288,
-    "pct_positive": 70.7,
-    "pct_negative": 25.6,
-    "pct_neutral": 3.7,
+    "total_reviews": 413,
+    "avg_rating": 3.78,
+    "avg_sentiment": 0.257,
+    "pct_positive": 67.3,
+    "pct_negative": 27.1,
+    "pct_neutral": 5.6,
     "category_breakdown": {
-      "other": 341
+      "other": 366
     },
     "high_priority_issues": [],
     "monthly_trend": [
       {
         "year_month": "2026-08",
-        "review_count": 410,
-        "avg_rating": 3.859,
-        "avg_sentiment": 0.288
+        "review_count": 247,
+        "avg_rating": 3.915,
+        "avg_sentiment": 0.29
+      },
+      {
+        "year_month": "2026-09",
+        "review_count": 166,
+        "avg_rating": 3.572,
+        "avg_sentiment": 0.208
       }
     ],
     "rating_distribution": {
-      "1": 97,
-      "2": 8,
-      "3": 15,
-      "4": 26,
-      "5": 264
+      "1": 100,
+      "2": 12,
+      "3": 23,
+      "4": 23,
+      "5": 255
     }
   },
   "cred": {
     "app_name": "cred",
-    "total_reviews": 356,
-    "avg_rating": 2.31,
-    "avg_sentiment": 0.071,
-    "pct_positive": 29.8,
-    "pct_negative": 63.8,
-    "pct_neutral": 6.5,
+    "total_reviews": 339,
+    "avg_rating": 2.42,
+    "avg_sentiment": 0.105,
+    "pct_positive": 34.2,
+    "pct_negative": 61.1,
+    "pct_neutral": 4.7,
     "category_breakdown": {
-      "other": 356
+      "other": 339
     },
     "high_priority_issues": [],
     "monthly_trend": [
       {
         "year_month": "2026-08",
-        "review_count": 356,
-        "avg_rating": 2.309,
-        "avg_sentiment": 0.071
+        "review_count": 207,
+        "avg_rating": 2.498,
+        "avg_sentiment": 0.126
+      },
+      {
+        "year_month": "2026-09",
+        "review_count": 132,
+        "avg_rating": 2.303,
+        "avg_sentiment": 0.072
       }
     ],
     "rating_distribution": {
-      "1": 210,
-      "2": 17,
-      "3": 23,
-      "4": 21,
-      "5": 85
+      "1": 195,
+      "2": 12,
+      "3": 16,
+      "4": 26,
+      "5": 90
     }
   },
   "duolingo": {
     "app_name": "duolingo",
-    "total_reviews": 395,
-    "avg_rating": 4.38,
-    "avg_sentiment": 0.446,
-    "pct_positive": 84.6,
-    "pct_negative": 10.6,
+    "total_reviews": 396,
+    "avg_rating": 4.35,
+    "avg_sentiment": 0.438,
+    "pct_positive": 83.8,
+    "pct_negative": 11.4,
     "pct_neutral": 4.8,
     "category_breakdown": {
-      "other": 348
+      "other": 357
     },
     "high_priority_issues": [],
     "monthly_trend": [
       {
         "year_month": "2026-08",
         "review_count": 395,
-        "avg_rating": 4.38,
-        "avg_sentiment": 0.446
+        "avg_rating": 4.359,
+        "avg_sentiment": 0.441
+      },
+      {
+        "year_month": "2026-09",
+        "review_count": 1,
+        "avg_rating": 2.0,
+        "avg_sentiment": -0.765
       }
     ],
     "rating_distribution": {
-      "1": 29,
-      "2": 13,
+      "1": 31,
+      "2": 14,
       "3": 19,
       "4": 52,
-      "5": 282
+      "5": 280
     }
   },
   "instagram": {
     "app_name": "instagram",
-    "total_reviews": 626,
-    "avg_rating": 3.59,
-    "avg_sentiment": 0.237,
-    "pct_positive": 63.6,
-    "pct_negative": 32.1,
-    "pct_neutral": 4.3,
+    "total_reviews": 620,
+    "avg_rating": 3.69,
+    "avg_sentiment": 0.205,
+    "pct_positive": 66.1,
+    "pct_negative": 30.6,
+    "pct_neutral": 3.2,
     "category_breakdown": {
-      "other": 576
+      "other": 552
     },
     "high_priority_issues": [],
     "monthly_trend": [
       {
-        "year_month": "2026-08",
-        "review_count": 626,
-        "avg_rating": 3.594,
-        "avg_sentiment": 0.237
-      }
-    ],
-    "rating_distribution": {
-      "1": 185,
-      "2": 16,
-      "3": 27,
-      "4": 38,
-      "5": 360
-    }
-  },
-  "netflix": {
-    "app_name": "netflix",
-    "total_reviews": 370,
-    "avg_rating": 3.93,
-    "avg_sentiment": 0.371,
-    "pct_positive": 72.4,
-    "pct_negative": 23.8,
-    "pct_neutral": 3.8,
-    "category_breakdown": {
-      "other": 271
-    },
-    "high_priority_issues": [],
-    "monthly_trend": [
-      {
-        "year_month": "2026-08",
-        "review_count": 370,
-        "avg_rating": 3.93,
-        "avg_sentiment": 0.371
-      }
-    ],
-    "rating_distribution": {
-      "1": 72,
-      "2": 16,
-      "3": 14,
-      "4": 32,
-      "5": 236
-    }
-  },
-  "paytm": {
-    "app_name": "paytm",
-    "total_reviews": 467,
-    "avg_rating": 3.82,
-    "avg_sentiment": 0.272,
-    "pct_positive": 69.6,
-    "pct_negative": 28.1,
-    "pct_neutral": 2.4,
-    "category_breakdown": {
-      "other": 442
-    },
-    "high_priority_issues": [],
-    "monthly_trend": [
-      {
-        "year_month": "2026-08",
-        "review_count": 467,
-        "avg_rating": 3.822,
-        "avg_sentiment": 0.272
-      }
-    ],
-    "rating_distribution": {
-      "1": 113,
-      "2": 18,
-      "3": 11,
-      "4": 22,
-      "5": 303
-    }
-  },
-  "phonepe": {
-    "app_name": "phonepe",
-    "total_reviews": 346,
-    "avg_rating": 3.99,
-    "avg_sentiment": 0.29,
-    "pct_positive": 74.9,
-    "pct_negative": 20.8,
-    "pct_neutral": 4.3,
-    "category_breakdown": {
-      "other": 275
-    },
-    "high_priority_issues": [],
-    "monthly_trend": [
-      {
-        "year_month": "2026-08",
-        "review_count": 346,
-        "avg_rating": 3.986,
-        "avg_sentiment": 0.29
-      }
-    ],
-    "rating_distribution": {
-      "1": 66,
-      "2": 6,
-      "3": 15,
-      "4": 39,
-      "5": 220
-    }
-  },
-  "spotify": {
-    "app_name": "spotify",
-    "total_reviews": 383,
-    "avg_rating": 3.74,
-    "avg_sentiment": 0.289,
-    "pct_positive": 67.6,
-    "pct_negative": 26.1,
-    "pct_neutral": 6.3,
-    "category_breakdown": {
-      "other": 303
-    },
-    "high_priority_issues": [],
-    "monthly_trend": [
-      {
-        "year_month": "2026-08",
-        "review_count": 383,
-        "avg_rating": 3.744,
-        "avg_sentiment": 0.289
-      }
-    ],
-    "rating_distribution": {
-      "1": 82,
-      "2": 18,
-      "3": 24,
-      "4": 51,
-      "5": 208
-    }
-  },
-  "swiggy": {
-    "app_name": "swiggy",
-    "total_reviews": 501,
-    "avg_rating": 2.51,
-    "avg_sentiment": -0.041,
-    "pct_positive": 35.7,
-    "pct_negative": 60.7,
-    "pct_neutral": 3.6,
-    "category_breakdown": {
-      "other": 501
-    },
-    "high_priority_issues": [],
-    "monthly_trend": [
-      {
-        "year_month": "2026-08",
-        "review_count": 501,
-        "avg_rating": 2.515,
-        "avg_sentiment": -0.041
-      }
-    ],
-    "rating_distribution": {
-      "1": 277,
-      "2": 27,
-      "3": 18,
-      "4": 20,
-      "5": 159
-    }
-  },
-  "uber": {
-    "app_name": "uber",
-    "total_reviews": 333,
-    "avg_rating": 3.32,
-    "avg_sentiment": 0.166,
-    "pct_positive": 56.8,
-    "pct_negative": 40.8,
-    "pct_neutral": 2.4,
-    "category_breakdown": {
-      "other": 333
-    },
-    "high_priority_issues": [],
-    "monthly_trend": [
-      {
-        "year_month": "2026-08",
-        "review_count": 333,
-        "avg_rating": 3.315,
-        "avg_sentiment": 0.166
-      }
-    ],
-    "rating_distribution": {
-      "1": 121,
-      "2": 15,
-      "3": 8,
-      "4": 16,
-      "5": 173
-    }
-  },
-  "whatsapp": {
-    "app_name": "whatsapp",
-    "total_reviews": 495,
-    "avg_rating": 3.61,
-    "avg_sentiment": 0.236,
-    "pct_positive": 62.2,
-    "pct_negative": 32.1,
-    "pct_neutral": 5.7,
-    "category_breakdown": {
-      "other": 442
-    },
-    "high_priority_issues": [],
-    "monthly_trend": [
-      {
-        "year_month": "2026-08",
-        "review_count": 495,
-        "avg_rating": 3.612,
-        "avg_sentiment": 0.236
-      }
-    ],
-    "rating_distribution": {
-      "1": 123,
-      "2": 36,
-      "3": 28,
-      "4": 31,
-      "5": 277
-    }
-  },
-  "youtube": {
-    "app_name": "youtube",
-    "total_reviews": 314,
-    "avg_rating": 3.12,
-    "avg_sentiment": 0.122,
-    "pct_positive": 50.3,
-    "pct_negative": 44.3,
-    "pct_neutral": 5.4,
-    "category_breakdown": {
-      "other": 314
-    },
-    "high_priority_issues": [],
-    "monthly_trend": [
-      {
-        "year_month": "2026-08",
-        "review_count": 314,
-        "avg_rating": 3.124,
-        "avg_sentiment": 0.122
-      }
-    ],
-    "rating_distribution": {
-      "1": 121,
-      "2": 18,
-      "3": 17,
-      "4": 17,
-      "5": 141
-    }
-  },
-  "zomato": {
-    "app_name": "zomato",
-    "total_reviews": 401,
-    "avg_rating": 3.14,
-    "avg_sentiment": 0.102,
-    "pct_positive": 52.6,
-    "pct_negative": 43.6,
-    "pct_neutral": 3.7,
-    "category_breakdown": {
-      "other": 375
-    },
-    "high_priority_issues": [],
-    "monthly_trend": [
-      {
-        "year_month": "2026-08",
-        "review_count": 401,
-        "avg_rating": 3.145,
-        "avg_sentiment": 0.102
+        "year_month": "2026-09",
+        "review_count": 620,
+        "avg_rating": 3.69,
+        "avg_sentiment": 0.205
       }
     ],
     "rating_distribution": {
       "1": 162,
+      "2": 28,
+      "3": 20,
+      "4": 40,
+      "5": 370
+    }
+  },
+  "netflix": {
+    "app_name": "netflix",
+    "total_reviews": 383,
+    "avg_rating": 3.85,
+    "avg_sentiment": 0.331,
+    "pct_positive": 68.9,
+    "pct_negative": 23.5,
+    "pct_neutral": 7.6,
+    "category_breakdown": {
+      "other": 350
+    },
+    "high_priority_issues": [],
+    "monthly_trend": [
+      {
+        "year_month": "2026-09",
+        "review_count": 383,
+        "avg_rating": 3.854,
+        "avg_sentiment": 0.331
+      }
+    ],
+    "rating_distribution": {
+      "1": 77,
       "2": 13,
+      "3": 29,
+      "4": 34,
+      "5": 230
+    }
+  },
+  "paytm": {
+    "app_name": "paytm",
+    "total_reviews": 403,
+    "avg_rating": 3.48,
+    "avg_sentiment": 0.196,
+    "pct_positive": 61.0,
+    "pct_negative": 35.7,
+    "pct_neutral": 3.2,
+    "category_breakdown": {
+      "other": 366
+    },
+    "high_priority_issues": [],
+    "monthly_trend": [
+      {
+        "year_month": "2026-09",
+        "review_count": 403,
+        "avg_rating": 3.484,
+        "avg_sentiment": 0.196
+      }
+    ],
+    "rating_distribution": {
+      "1": 130,
+      "2": 14,
+      "3": 13,
+      "4": 23,
+      "5": 223
+    }
+  },
+  "phonepe": {
+    "app_name": "phonepe",
+    "total_reviews": 367,
+    "avg_rating": 3.84,
+    "avg_sentiment": 0.264,
+    "pct_positive": 69.5,
+    "pct_negative": 24.0,
+    "pct_neutral": 6.5,
+    "category_breakdown": {
+      "other": 342
+    },
+    "high_priority_issues": [],
+    "monthly_trend": [
+      {
+        "year_month": "2026-09",
+        "review_count": 367,
+        "avg_rating": 3.839,
+        "avg_sentiment": 0.264
+      }
+    ],
+    "rating_distribution": {
+      "1": 82,
+      "2": 6,
+      "3": 24,
+      "4": 32,
+      "5": 223
+    }
+  },
+  "spotify": {
+    "app_name": "spotify",
+    "total_reviews": 372,
+    "avg_rating": 3.67,
+    "avg_sentiment": 0.278,
+    "pct_positive": 65.1,
+    "pct_negative": 29.0,
+    "pct_neutral": 5.9,
+    "category_breakdown": {
+      "other": 366
+    },
+    "high_priority_issues": [],
+    "monthly_trend": [
+      {
+        "year_month": "2026-09",
+        "review_count": 372,
+        "avg_rating": 3.669,
+        "avg_sentiment": 0.278
+      }
+    ],
+    "rating_distribution": {
+      "1": 89,
+      "2": 19,
+      "3": 22,
+      "4": 38,
+      "5": 204
+    }
+  },
+  "swiggy": {
+    "app_name": "swiggy",
+    "total_reviews": 468,
+    "avg_rating": 2.56,
+    "avg_sentiment": -0.049,
+    "pct_positive": 38.5,
+    "pct_negative": 59.8,
+    "pct_neutral": 1.7,
+    "category_breakdown": {
+      "other": 302
+    },
+    "high_priority_issues": [],
+    "monthly_trend": [
+      {
+        "year_month": "2026-09",
+        "review_count": 468,
+        "avg_rating": 2.556,
+        "avg_sentiment": -0.049
+      }
+    ],
+    "rating_distribution": {
+      "1": 268,
+      "2": 12,
+      "3": 8,
+      "4": 20,
+      "5": 160
+    }
+  },
+  "uber": {
+    "app_name": "uber",
+    "total_reviews": 324,
+    "avg_rating": 3.39,
+    "avg_sentiment": 0.172,
+    "pct_positive": 58.6,
+    "pct_negative": 39.2,
+    "pct_neutral": 2.2,
+    "category_breakdown": {
+      "other": 324
+    },
+    "high_priority_issues": [],
+    "monthly_trend": [
+      {
+        "year_month": "2026-09",
+        "review_count": 324,
+        "avg_rating": 3.392,
+        "avg_sentiment": 0.172
+      }
+    ],
+    "rating_distribution": {
+      "1": 115,
+      "2": 12,
+      "3": 7,
+      "4": 11,
+      "5": 179
+    }
+  },
+  "whatsapp": {
+    "app_name": "whatsapp",
+    "total_reviews": 508,
+    "avg_rating": 3.93,
+    "avg_sentiment": 0.245,
+    "pct_positive": 70.9,
+    "pct_negative": 23.8,
+    "pct_neutral": 5.3,
+    "category_breakdown": {
+      "other": 453
+    },
+    "high_priority_issues": [],
+    "monthly_trend": [
+      {
+        "year_month": "2026-09",
+        "review_count": 508,
+        "avg_rating": 3.927,
+        "avg_sentiment": 0.245
+      }
+    ],
+    "rating_distribution": {
+      "1": 94,
+      "2": 27,
+      "3": 27,
+      "4": 34,
+      "5": 326
+    }
+  },
+  "youtube": {
+    "app_name": "youtube",
+    "total_reviews": 291,
+    "avg_rating": 2.99,
+    "avg_sentiment": 0.087,
+    "pct_positive": 47.1,
+    "pct_negative": 48.1,
+    "pct_neutral": 4.8,
+    "category_breakdown": {
+      "other": 287
+    },
+    "high_priority_issues": [],
+    "monthly_trend": [
+      {
+        "year_month": "2026-08",
+        "review_count": 290,
+        "avg_rating": 2.983,
+        "avg_sentiment": 0.087
+      },
+      {
+        "year_month": "2026-09",
+        "review_count": 1,
+        "avg_rating": 5.0,
+        "avg_sentiment": 0.0
+      }
+    ],
+    "rating_distribution": {
+      "1": 121,
+      "2": 19,
+      "3": 14,
+      "4": 16,
+      "5": 121
+    }
+  },
+  "zomato": {
+    "app_name": "zomato",
+    "total_reviews": 431,
+    "avg_rating": 2.9,
+    "avg_sentiment": 0.015,
+    "pct_positive": 46.9,
+    "pct_negative": 49.7,
+    "pct_neutral": 3.5,
+    "category_breakdown": {
+      "other": 422
+    },
+    "high_priority_issues": [],
+    "monthly_trend": [
+      {
+        "year_month": "2026-09",
+        "review_count": 431,
+        "avg_rating": 2.9,
+        "avg_sentiment": 0.015
+      }
+    ],
+    "rating_distribution": {
+      "1": 197,
+      "2": 17,
       "3": 15,
-      "4": 27,
-      "5": 184
+      "4": 36,
+      "5": 166
     }
   }
 }

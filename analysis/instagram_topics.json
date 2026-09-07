@@ -2,191 +2,267 @@
   {
     "topic_id": 0,
     "keywords": [
-      "information",
-      "love",
-      "easy",
-      "like",
-      "accounts",
-      "amazing"
+      "id",
+      "bhi",
+      "aur",
+      "video",
+      "suspend",
+      "mere"
     ],
-    "review_count": 142,
-    "avg_rating": 4.39,
-    "avg_sentiment": 0.372,
+    "review_count": 127,
+    "avg_rating": 3.8,
+    "avg_sentiment": 0.043,
     "sample_reviews": [
-      "I have no words to this app",
-      "Good app for communication",
-      "I love this app"
+      "bilkul ghatiya",
+      "pk pathan10k tiktoker",
+      "@meta please insta pe close friend me green colour ko highlight se hataiye close friend me status to lge bt kisi ko pta na chale ki ye stuas close friend me lgaya gya h it's a humble request"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "account",
-      "instagram",
-      "suspended",
-      "fix",
-      "id",
-      "password"
+      "like",
+      "time",
+      "easy",
+      "daily",
+      "lot",
+      "excellent"
     ],
-    "review_count": 106,
-    "avg_rating": 1.94,
-    "avg_sentiment": -0.18,
+    "review_count": 105,
+    "avg_rating": 4.5,
+    "avg_sentiment": 0.493,
     "sample_reviews": [
-      "meta ruined Instagram they suspend account without any reason and It was very weird and annoying we loss access of everything from our old account plz don't suspend account without any reason",
-      "why are you suspended my accounts",
-      "My account keeps getting banned repeatedly for no valid reason. I have not violated any Community Guidelines, yet I am losing access without any proper explanation or support response. Extremely frustrating service and zero customer support. Fixing this issue immediately!"
+      "this is very good app",
+      "best app but please internet fast",
+      "Honestly, I\u2019ve been using this app for years and it has been such a big help! From calls and chats to other daily needs, everything feels so much easier and more convenient. Definitely one of those apps I can\u2019t imagine going without! \u2764\ufe0f\u2728"
     ]
   },
   {
     "topic_id": 2,
     "keywords": [
-      "time",
-      "excellent",
-      "amazing",
-      "entertainment",
+      "experience",
       "like",
-      "fast"
+      "love",
+      "beautiful",
+      "thanks",
+      "bad"
     ],
-    "review_count": 91,
-    "avg_rating": 4.56,
-    "avg_sentiment": 0.44,
+    "review_count": 70,
+    "avg_rating": 4.46,
+    "avg_sentiment": 0.41,
     "sample_reviews": [
-      "\u0299\u1d07s\u1d1b \u0493\u1d0f\u0280 \u1d05\u026as\u1d1b\u0280\u1d00\u1d04\u1d1b\u026a\u0274\u0262 \u0493\u0280\u1d0f\u1d0d s\u1d1b\u1d1c\u1d05\u028f",
-      "happy all day and time \u2764\ufe0f\u200d",
-      "best for small business owner"
+      "my experience is best",
+      "Very entertaining and informative",
+      "good experience"
     ]
   },
   {
     "topic_id": 3,
     "keywords": [
-      "mera",
+      "suspended",
+      "account",
+      "reason",
+      "account suspended",
       "id",
-      "bhi",
-      "ko",
-      "suspend",
-      "ke"
+      "suspended account"
     ],
-    "review_count": 77,
-    "avg_rating": 2.96,
-    "avg_sentiment": -0.029,
+    "review_count": 54,
+    "avg_rating": 1.89,
+    "avg_sentiment": -0.248,
     "sample_reviews": [
-      "instagram desebal ho ja raha hi",
-      "why there is ai translation i hate it",
-      "please recover orion_prabuddha account pls"
+      "no use suspended account ",
+      "My account is suspended repeatedly for no reason, I've tried a thousand times to fix it, but there's still no response, it's ridiculous ",
+      "24 hours gone"
     ]
   },
   {
     "topic_id": 4,
     "keywords": [
       "instagram",
-      "love",
-      "love instagram",
-      "content",
       "instagram instagram",
-      "people"
+      "love instagram",
+      "love",
+      "instagram love",
+      "thank"
     ],
-    "review_count": 65,
-    "avg_rating": 4.34,
-    "avg_sentiment": 0.517,
+    "review_count": 39,
+    "avg_rating": 4.62,
+    "avg_sentiment": 0.4,
     "sample_reviews": [
-      "The best platform for creators! Instagram offers amazing tools to share photos, videos, and Reels. It is very user-friendly and helps me reach a wider audience. Love it!",
-      "dammn Instagram",
-      "i love Instagram.."
+      "My love instagram",
+      "instagram 5k follow krva do",
+      "instagram was bad"
     ]
   },
   {
     "topic_id": 5,
     "keywords": [
-      "messages",
-      "facebook",
-      "notification",
-      "time",
-      "working",
-      "video"
+      "account",
+      "review",
+      "instagram",
+      "accounts",
+      "instagram account",
+      "suspended"
     ],
-    "review_count": 27,
-    "avg_rating": 1.89,
-    "avg_sentiment": -0.065,
+    "review_count": 31,
+    "avg_rating": 2.39,
+    "avg_sentiment": -0.059,
     "sample_reviews": [
-      "the x on the \"Suggested for you\" is really small.",
-      "there is some major issues with this app is get stuck for a long time and we can't back it thoo it's too disgusting there are some bug also",
-      "instants video is not working is it because mine is android?"
+      "Instagram suspend my account without any reason and don't giving me to appeal option more than 7 account on insta very very bad app",
+      "Hello Dear Sir.. My instagram Account is disabled my account Name.thakor.xrana has been Community disable. I Want my Instagram account Sir i'm sure i didn't break your rules and regulations and i respect you and your comunnity guidelins, sir i'm sure you have made a mistake please sir i request you please review my account again and reopen my Instagram account as well as soon possible becouse sir i have linked my account other social media plateform like and many apps which i downloaded from",
+      "Instagram is forcing me to update my email. And my phone number is suddenly marked as added in another account. There is no functioning customer service to contact to solve those issues"
     ]
   },
   {
     "topic_id": 6,
     "keywords": [
-      "media",
-      "social",
-      "platform",
-      "social media",
-      "media platform",
-      "recommend"
+      "viral",
+      "support",
+      "videos",
+      "view",
+      "video",
+      "thanks"
     ],
-    "review_count": 23,
-    "avg_rating": 4.48,
-    "avg_sentiment": 0.508,
+    "review_count": 21,
+    "avg_rating": 4.38,
+    "avg_sentiment": 0.164,
     "sample_reviews": [
-      "I think it is a best social media app",
-      "NICE APP FOR EVERYTHING LIKE SOCIAL MEDIA",
-      "nice platform for entertainment and all other stuffs"
+      "there is no 18+ content\u2639\ufe0f",
+      "I don't have words I am giving 5star",
+      "my videos should be popular"
     ]
   },
   {
     "topic_id": 7,
     "keywords": [
-      "reels",
-      "reel",
-      "viral",
-      "wish",
-      "daily",
-      "watching"
+      "instagram",
+      "updates",
+      "friends",
+      "look",
+      "friends instagram",
+      "instagram instagram"
     ],
     "review_count": 19,
-    "avg_rating": 4.0,
-    "avg_sentiment": 0.48,
+    "avg_rating": 4.42,
+    "avg_sentiment": 0.64,
     "sample_reviews": [
-      "Actually I don't hate this app but I hate it.... Uses too much data and also uses too much battery... I love to scroll reels on this app but it really hangs my mobileI love to scroll reels on this app but it really hangs my mobile",
-      "very nice \u263a\ufe0f aap frr understands the feeling and according to that reels comes",
-      "This is best reels app in the World"
+      "A install the Instagram page it good for using Instagram",
+      "because don't download Instagram app",
+      "insta is the best app so far. I couldn't even compare to any"
     ]
   },
   {
     "topic_id": 8,
     "keywords": [
-      "experience",
-      "genuinely",
-      "absolutely",
-      "amazing experience",
-      "experience far",
-      "worst experience"
+      "ai",
+      "new",
+      "update",
+      "properly",
+      "search",
+      "pretty"
     ],
-    "review_count": 14,
-    "avg_rating": 4.57,
-    "avg_sentiment": 0.444,
+    "review_count": 17,
+    "avg_rating": 2.29,
+    "avg_sentiment": 0.049,
     "sample_reviews": [
-      "amazing experience",
-      "great experience",
-      "Good Experience so far"
+      "I can't use my instant even tho I have updated my app",
+      "not updated version",
+      "I don't mean to be too harsh I'm pretty sure it's my fault but I can't even get through the log in screen it just keeps loading but never going in :("
     ]
   },
   {
     "topic_id": 9,
     "keywords": [
-      "fantastic",
-      "chatting",
-      "tha",
-      "ap",
-      "seen",
-      "viral"
+      "reels",
+      "reel",
+      "watch",
+      "having",
+      "trying",
+      "stop"
     ],
-    "review_count": 12,
-    "avg_rating": 5.0,
-    "avg_sentiment": 0.522,
+    "review_count": 15,
+    "avg_rating": 3.2,
+    "avg_sentiment": 0.103,
     "sample_reviews": [
-      "this aap is very good because in this app is good reels and good content this aap is very good for aal tipe of people.like man child women",
-      "best aap for viral",
-      "this aap very funny and very interesting"
+      "Love sharing photos and watching Reels. Very user-friendly .",
+      "reels are chill, stories are implemented bad, constantly freezes and I have to force stop the app",
+      "stop auto refreshing all the time! I wanted to see that reel!"
+    ]
+  },
+  {
+    "topic_id": 10,
+    "keywords": [
+      "social",
+      "media",
+      "social media",
+      "various",
+      "platform",
+      "media platform"
+    ],
+    "review_count": 15,
+    "avg_rating": 4.73,
+    "avg_sentiment": 0.627,
+    "sample_reviews": [
+      "best social media app",
+      "It's a great social network for a little bit of ",
+      "Best social media app"
+    ]
+  },
+  {
+    "topic_id": 11,
+    "keywords": [
+      "instagram bad",
+      "girls",
+      "aa",
+      "favourite",
+      "reply",
+      "life instagram"
+    ],
+    "review_count": 13,
+    "avg_rating": 4.69,
+    "avg_sentiment": 0.336,
+    "sample_reviews": [
+      "this is my favrate aap",
+      "this is aa naice AAP",
+      "best aap i love it"
+    ]
+  },
+  {
+    "topic_id": 12,
+    "keywords": [
+      "ads",
+      "stories",
+      "new update",
+      "story",
+      "update",
+      "new"
+    ],
+    "review_count": 13,
+    "avg_rating": 1.62,
+    "avg_sentiment": 0.104,
+    "sample_reviews": [
+      "You can\u2019t crop an image in Stories",
+      "Why does it take so long to add something to the highlights? Even though the internet is running very smoothly, it's been 'loading' for a while and how long will it lag like this? It's a waste of time, please fix it.",
+      "no option of commenting photo"
+    ]
+  },
+  {
+    "topic_id": 13,
+    "keywords": [
+      "save",
+      "problem",
+      "instagram",
+      "working",
+      "able",
+      "version"
+    ],
+    "review_count": 13,
+    "avg_rating": 2.08,
+    "avg_sentiment": 0.027,
+    "sample_reviews": [
+      "my audio save option is not visible although all my frends song qudio save is visible and they can save audio easily but i am nat able to save i complaint about it various time but i don't get any response from instagram team",
+      "even with the latest advancements in AI. Instagram still can't read my comments in their proper context. I made a comment about the government selling synthetic heroin which they currently do legally I got flagged blocked from sending messages and they sent me a message asking if I needed help and sort of accused me of selling drugs so I think you guys need some serious help when designing your system.",
+      "so far for so many years my Instagram was working smoothly until recently I cannot seem to be able to create newer highlights on my profile. I have updated to the newest version of the app and still am unable to do so. Even if I patiently wait for an hour or a half it still continues to buffer and the highlight does not get uploaded."
     ]
   }
 ]

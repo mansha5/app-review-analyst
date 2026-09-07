@@ -2,172 +2,115 @@
   {
     "topic_id": 0,
     "keywords": [
-      "application",
-      "like",
-      "easy",
-      "helpful",
-      "love",
-      "useful"
+      "payment",
+      "pay",
+      "phone",
+      "phonepe",
+      "account",
+      "support"
     ],
-    "review_count": 86,
-    "avg_rating": 4.55,
-    "avg_sentiment": 0.393,
+    "review_count": 124,
+    "avg_rating": 3.21,
+    "avg_sentiment": 0.189,
     "sample_reviews": [
-      "very easy and nice app",
-      "wery good app",
-      "very good app"
+      "nice experience with phone pay",
+      "The electricity bill payment reminder alert doesn't go away if I pay the bill by some other means, like if I pay the bill online, the app still shows the bill payment pending. The app should retrieve current new status of my bill payment and update accordingly. If bill is already paid somewhere else, then it should reflect in the app and it should stop showing me the notification to pay the bill. The help section of the app is highly automated and doesn't help much. Please fix this.",
+      "payment ussu"
     ]
   },
   {
     "topic_id": 1,
     "keywords": [
-      "phonepe",
-      "phone",
-      "account",
-      "pay",
-      "bank",
-      "phone pay"
+      "user",
+      "useful",
+      "download",
+      "happy",
+      "apps",
+      "application"
     ],
-    "review_count": 65,
-    "avg_rating": 2.82,
-    "avg_sentiment": 0.078,
+    "review_count": 71,
+    "avg_rating": 4.51,
+    "avg_sentiment": 0.446,
     "sample_reviews": [
-      "phonepe cashback nahin deta",
-      "Insurance kyc page crash i paid amount, start KYC page keep crashing, not able to upload document. i tried reinstall, change mobile etc. nothing worked. when i call customer care they said, wait for 10 days amount refund, buy insurance somewhere else. utter disspointment of customer service. i will never buy insurance from phonepe again.",
-      "Your rules or the RBI rules that are giving the troubles, hard to understand, hence closing your accounts. How to close the account, No chat, No call as you're treating us robots. And another customer care number is fake, the app directed it."
+      "user-friendly app",
+      "download the app like me",
+      "very bad app"
     ]
   },
   {
     "topic_id": 2,
     "keywords": [
-      "unblock",
-      "account",
-      "hota",
-      "ticket",
+      "ka",
       "phone",
-      "service"
+      "hi",
+      "pe",
+      "update",
+      "karta"
     ],
-    "review_count": 29,
-    "avg_rating": 3.48,
-    "avg_sentiment": 0.126,
+    "review_count": 59,
+    "avg_rating": 3.49,
+    "avg_sentiment": -0.016,
     "sample_reviews": [
-      "\u092c\u0939\u0941\u0924 \u0916\u0930\u093e\u092c \u0939\u0948 \u0907\u0938\u0915\u0947 \u0917\u093f\u092b\u094d\u091f \u0915\u093e\u0930\u094d\u0921 \u092e\u0947\u0902 \u092c\u0939\u0941\u0924 \u0921\u0948\u092e\u0947\u091c \u091a\u0940\u091c\u0947\u0902 \u092e\u093f\u0932\u0924\u0940 \u0939\u0948\u0902",
-      "mast life ko aasan krne k liye thanks",
-      "\u092a\u0924\u093e \u0928\u0939\u0940\u0902 \u0915\u094d\u092f\u093e \u0939\u094b \u0917\u092f\u093e, \u092e\u0947\u0930\u0947 \u092b\u094b\u0928 \u092e\u0947\u0902 \u091a\u0932 \u0928\u0939\u0940\u0902 \u0930\u0939\u093e \u0939\u0948\u0964 \u092f\u0939 \u090f\u092a\u094d\u0932\u0940\u0915\u0947\u0936\u0928 \u091c\u094b \u091c\u0948\u0938\u0947 \u092e\u0948\u0902 \u0906\u0924\u093e \u0939\u0942\u0902, \u0913\u092a\u0928 \u0915\u0930\u0924\u093e \u0939\u0942\u0902\u0964 \u0935\u0948\u0938\u0947 \u092f\u0939 \u092c\u093e\u0939\u0930 \u091a\u0932\u093e \u091c\u093e\u0924\u093e \u0939\u0948 \u092c\u093e\u0930-\u092c\u093e\u0930!"
+      "yah mere phone chalne main bahut dikat de raha hai",
+      "manojasiwasi",
+      "\u0928\u093f\u0935\u0943\u0924\u0940 \u092c\u0941\u0930\u0902\u0917\u0947"
     ]
   },
   {
     "topic_id": 3,
     "keywords": [
-      "payment",
+      "easy",
       "fast",
-      "money",
-      "cashback",
-      "convenient",
-      "issue"
+      "bad",
+      "working",
+      "useful",
+      "helpful"
     ],
-    "review_count": 25,
-    "avg_rating": 4.28,
-    "avg_sentiment": 0.335,
+    "review_count": 58,
+    "avg_rating": 4.48,
+    "avg_sentiment": 0.418,
     "sample_reviews": [
-      "excellent with offers and rewards",
-      "secure payment",
-      "payment very fast"
+      "best aplication",
+      "very poorly",
+      "very good .most helf full."
     ]
   },
   {
     "topic_id": 4,
     "keywords": [
-      "experience",
-      "experience excellent",
-      "love",
-      "excellent",
-      "",
-      ""
+      "service",
+      "helping",
+      "poor",
+      "excellent service",
+      "awesome",
+      "thank"
     ],
-    "review_count": 15,
-    "avg_rating": 4.53,
-    "avg_sentiment": 0.512,
+    "review_count": 17,
+    "avg_rating": 4.41,
+    "avg_sentiment": 0.415,
     "sample_reviews": [
-      "good experience",
-      "very nice experience",
-      "awesome experience"
+      "thank you for helping me with your brilliant services .",
+      "good service",
+      "nic service"
     ]
   },
   {
     "topic_id": 5,
     "keywords": [
-      "excellent",
-      "helpful",
-      "experience excellent",
-      "working",
-      "thank",
-      "better"
-    ],
-    "review_count": 15,
-    "avg_rating": 4.93,
-    "avg_sentiment": 0.592,
-    "sample_reviews": [
-      "very Fantastic",
-      "very very helpful",
-      "Excellent working and performances always for A better experience"
-    ]
-  },
-  {
-    "topic_id": 6,
-    "keywords": [
-      "service",
-      "thank",
-      "customer care",
-      "help",
-      "care",
-      "support"
-    ],
-    "review_count": 15,
-    "avg_rating": 5.0,
-    "avg_sentiment": 0.485,
-    "sample_reviews": [
-      "Good service",
-      "good services",
-      "always good service"
-    ]
-  },
-  {
-    "topic_id": 7,
-    "keywords": [
-      "working",
-      "scan",
-      "problem",
-      "single",
-      "does",
-      "hota"
+      "experience",
+      "awesome",
+      "easy",
+      "",
+      "",
+      ""
     ],
     "review_count": 13,
-    "avg_rating": 2.54,
-    "avg_sentiment": 0.026,
+    "avg_rating": 4.92,
+    "avg_sentiment": 0.532,
     "sample_reviews": [
-      "not working",
-      "hello friends helping for me ",
-      "scan problem"
-    ]
-  },
-  {
-    "topic_id": 8,
-    "keywords": [
-      "upi",
-      "daily",
-      "service upi",
-      "easy pay",
-      "pay upi",
-      "better"
-    ],
-    "review_count": 12,
-    "avg_rating": 4.67,
-    "avg_sentiment": 0.527,
-    "sample_reviews": [
-      "best app for upi service",
-      "best upi app",
-      "Best UPI App"
+      "good experience",
+      "good experience",
+      "great experience"
     ]
   }
 ]
