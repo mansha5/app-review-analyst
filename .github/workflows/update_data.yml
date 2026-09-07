@@ -33,7 +33,6 @@ jobs:
           python scripts/clean_reviews.py
           python scripts/sentiment.py
           python scripts/embed_reviews.py
-          python scripts/build_analytics.py
 
       - name: Commit updated data
         run: |
